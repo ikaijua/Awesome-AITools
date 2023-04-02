@@ -52,7 +52,9 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 | Fliki | 將文字生成音频和视频的网站 | https://fliki.ai | 免費/付費 |
-| d-id | 根据文字生成数字人的配音视频 | https://studio.d-id.com | | 付費，用一定的免费试用额度 |
+| d-id | 根据文字生成数字人的配音视频 | https://studio.d-id.com | 付費，用一定的免费试用额度 |
+| whisper | OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | https://github.com/openai/whisper | 免费 |
+| buzz | 基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件 | https://github.com/chidiwilliams/buzz | 免费 |
 
 ### 视频内容总结
 | 名称 | 说明 | 链接 | 费用 | 
