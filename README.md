@@ -7,12 +7,13 @@
 - [编程开发](#编程开发)
 - [图像创作](#图像创作)
 - [影音创作](#影音创作)
-- [视频内容总结](#影音创作)
+- [视频内容总结](#视频内容总结)
 
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | chatgpt | openAI的chatgpt  |https://chat.openai.com | 免费，有付费升级版| 
+| Chatbox | 使用ChatGPT API（OpenAI API）的桌面应用程序, 将所有的聊天信息和提示信息存储在本地，从而减少了数据丢失的风险。比网页版使用更稳定些| https://github.com/Bin-Huang/chatbox | 免费，需要使用OpenAPI的apikey， https://platform.openai.com/account/api-keys|
 
 ### 搜索引擎
 | 名称 | 说明 | 链接 | 费用 | 
