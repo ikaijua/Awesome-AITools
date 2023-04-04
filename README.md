@@ -63,6 +63,6 @@
 ### 视频内容总结
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-| ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/?ref=producthunt) | 免費 |
+| ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | https://chatgpt4youtube.com/| 免費 |
 | Chat Youtube | 给一个Youtube 链接，它能给出总结，还可以向它提视频內容相关的问题 |https://chatyoutube.com | 免費 |
 
