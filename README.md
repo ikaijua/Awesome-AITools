@@ -34,13 +34,14 @@
 | ---- | ----------------------------- | --- | --- | 
 | GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 | https://github.com/features/copilot | 付费
 | Cursor | 使用 GPT进行协作的代码编辑器 | https://www.cursor.so | 免费 |
+| ai-code-translator   | 利用chatgpt将代码从一种语言翻译成另一种语言。| https://github.com/mckaywrigley/ai-code-translator | 免费，需要OpenAI API key|
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | https://github.com/immersive-translate/immersive-translate/ | 免费 |
 | Deep L | 准确即时的翻译工具，目前支援 31 种语言 | https://www.deepl.com/translator | 免费/付费
-| openai-translator | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用，需要OpenAI API key | https://github.com/yetone/openai-translator | 免费 |
+| openai-translator | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 | https://github.com/yetone/openai-translator | 免费，需要OpenAI API key |
 
 
 ### 图像创作
