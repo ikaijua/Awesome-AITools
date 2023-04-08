@@ -1,16 +1,18 @@
-This repo organizes AI-related utilities.
+English | [中文](README-CN.md)
+
+This repo organizes AI-related utilities. 
 
 ## All Categories
-- [ChatGPT Apps](#ChatGPT Apps)
-- [Search Engine](#Search Engine)
-- [Writing](#Writing)
-- [Programming Development](#Programming Development)
-- [Translation Tools](#Translation Tools)
-- [Image Creation](#Image Creation)
-- [Video Creation](#Video Creation)
-- [Video Content Summary](#Video Content Summary)
+- [ChatGPT Applications](#chatgpt-applications)
+- [Search Engine](#search-engine)
+- [Writing](#writing)
+- [Programming Development](#programming-development)
+- [Translation](#translation)
+- [Image Creation](#image-creation)
+- [Video Creation](#video-creation)
+- [Video Content Summary](#video-content-summary)
 
-### ChatGPT application
+### ChatGPT Applications
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | chatgpt | openAI's chatgpt | https://chat.openai.com | Free, with paid upgrades | 
@@ -36,10 +38,10 @@ This repo organizes AI-related utilities.
 | Cursor | A collaborative code editor using GPT | https://www.cursor.so | Free |
 | ai-code-translator | Translates code from one language to another using chatgpt. | https://github.com/mckaywrigley/ai-code-translator | Free, requires OpenAI API key|
 
-### Translation tools
+### Translation
 | name | description | link | cost | 
 | ---- | ----------------------------- | --- | --- |
-| immersive-translate | open source, immersive bilingual web translation extension | https://github.com/immersive-translate/immersive-translate/ | free |
+| immersive-translate | open source, immersive bilingual web translation extension | https://github.com/immersive-translate/immersive-translate/ | Free |
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | https://www.deepl.com/translator | Free/Paid
 | openai-translator | Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | https://github.com/yetone/openai-translator | Free, requires OpenAI API key |
 
@@ -62,7 +64,7 @@ This repo organizes AI-related utilities.
 
 
 
-### Summary of video content
+### Video Content Summary
 | Name | Description | Link | Fee |
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | https://chatgpt4youtube.com/| Free |
