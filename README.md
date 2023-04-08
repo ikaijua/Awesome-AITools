@@ -1,68 +1,69 @@
-这个仓库整理AI相关的实用工具。
+This repo organizes AI-related utilities.
 
-## 全部分类
-- [ChatGPT 应用](#ChatGPT应用)
-- [搜索引擎](#搜索引擎)
-- [写作](#写作)
-- [编程开发](#编程开发)
-- [翻译工具](#翻译工具)
-- [图像创作](#图像创作)
-- [影音创作](#影音创作)
-- [视频内容总结](#视频内容总结)
+## All Categories
+- [ChatGPT Apps](#ChatGPT Apps)
+- [Search Engine](#Search Engine)
+- [Writing](#Writing)
+- [Programming Development](#Programming Development)
+- [Translation Tools](#Translation Tools)
+- [Image Creation](#Image Creation)
+- [Video Creation](#Video Creation)
+- [Video Content Summary](#Video Content Summary)
 
-### ChatGPT应用
-| 名称 | 说明 | 链接 | 费用 | 
+### ChatGPT application
+| Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| chatgpt | openAI的chatgpt  |https://chat.openai.com | 免费，有付费升级版| 
-| Chatbox | 使用ChatGPT API（OpenAI API）的桌面应用程序, 将所有的聊天信息和提示信息存储在本地，从而减少了数据丢失的风险。比网页版使用更稳定些| https://github.com/Bin-Huang/chatbox | 免费，需要使用OpenAPI的apikey， https://platform.openai.com/account/api-keys|
+| chatgpt | openAI's chatgpt | https://chat.openai.com | Free, with paid upgrades | 
+| Chatbox | Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version| https://github.com/Bin-Huang/chatbox | Free, requires apikey with OpenAPI, https://platform.openai.com/account/api-keys|
 
-### 搜索引擎
-| 名称 | 说明 | 链接 | 费用 | 
+### Search engine
+| name | description | links | cost | 
 | --- | --- | --- | --- |
-| New Bing | 需要在waitlist进行等待 | https://www.bing.com/new | 免费 | 
-| You.com | 结合对话模式的搜索引擎 | https://you.com | 免费 |
-| Perplexity.ai | Perplexity.ai 是一个基于 GPT-3 的 AI 工具，类似 New Bing 的搜寻引擎、会附上参考结果 | https://www.perplexity.ai | 免费
+| New Bing | Need to wait at waitlist | https://www.bing.com/new | Free | 
+| You.com | A search engine in conversation mode | https://you.com | Free |
+| Perplexity.ai | Perplexity.ai is a GPT-3 based AI tool, similar to New Bing's search engine, with reference results | https://www.perplexity.ai | free
 
-### 写作
-| 名称 | 说明 | 链接 | 费用 | 
+### Writing
+| name | description | link | cost | 
 | ---- | ----------------------------- | --- | --- |
-| Notion AI | AI辅助的笔记软件 | https://www.notion.so| 有一定免费的AI试用次数，AI功能10$/每月 |
-| Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | https://www.deepl.com/write |  免費版本使用有文字字数限制/有付费升级版 |
+| Notion AI | AI-assisted note-taking software | https://www.notion.so| with certain free AI trials, AI features $10/month |
+| Deep L Write | English and German writing tool to fix writing errors and rewrite sentences in a timely manner. | https://www.deepl.com/write | Free version to use with text word limit / paid upgrade available |
 
-### 编程开发
-| 名称 | 说明 | 链接 | 费用 | 
+### Programming Development
+| Name | Description | Link | Cost | 
 | ---- | ----------------------------- | --- | --- | 
-| GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 | https://github.com/features/copilot | 付费
-| Cursor | 使用 GPT进行协作的代码编辑器 | https://www.cursor.so | 免费 |
-| ai-code-translator   | 利用chatgpt将代码从一种语言翻译成另一种语言。| https://github.com/mckaywrigley/ai-code-translator | 免费，需要OpenAI API key|
+| GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | https://github.com/features/copilot | Paid
+| Cursor | A collaborative code editor using GPT | https://www.cursor.so | Free |
+| ai-code-translator | Translates code from one language to another using chatgpt. | https://github.com/mckaywrigley/ai-code-translator | Free, requires OpenAI API key|
 
-### 翻译工具
-| 名称 | 说明 | 链接 | 费用 | 
+### Translation tools
+| name | description | link | cost | 
 | ---- | ----------------------------- | --- | --- |
-| immersive-translate | 开源的，沉浸式双语网页翻译扩展 | https://github.com/immersive-translate/immersive-translate/ | 免费 |
-| Deep L | 准确即时的翻译工具，目前支援 31 种语言 | https://www.deepl.com/translator | 免费/付费
-| openai-translator | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 | https://github.com/yetone/openai-translator | 免费，需要OpenAI API key |
+| immersive-translate | open source, immersive bilingual web translation extension | https://github.com/immersive-translate/immersive-translate/ | free |
+| Deep L | Accurate and instant translation tool, currently supporting 31 languages | https://www.deepl.com/translator | Free/Paid
+| openai-translator | Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | https://github.com/yetone/openai-translator | Free, requires OpenAI API key |
 
-
-### 图像创作
-| 名称 | 说明 | 链接 | 费用 | 
+### Image Creation
+| Name | Description | Link | Fee |
 | ---- | ----------------------------- | --- | --- |
-| Midjourney | 输入文字或图片进行图片创作 | https://www.midjourney.com | 免費账户有一定的使用分钟限制，有付费升级版本 |
-| Stable diffusion webui | 开源项目，输入文字或图片进行图片创作， Stable diffusion webui是Stable diffusion的GUI是将stable diffusion实现可视化的图像用户操作界面，它本身还集成了很多其它有用的扩展脚本。<br>新手入门教程：https://www.bilibili.com/video/BV1Qo4y167AK/| https://github.com/AUTOMATIC1111/stable-diffusion-webui | 免费|
-| visual-chatgpt | 通过 ChatGPT 创作图片 | https://github.com/microsoft/visual-chatgpt | 免费 
-| Microsoft Bing Image Creator | Image Creator 是使用 DALL-E 技术创作图片的工具。试用了下**生成人像图片不堪入目** | https://www.bing.com/images/create | 免費
+| Midjourney | Enter text or pictures to create pictures | https://www.midjourney.com | Free account has a certain usage minutes limit, and there is a paid upgrade version |
+| Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. <br>Getting Started Tutorial: https://www.bilibili.com/video/BV1Qo4y167AK/| https://github.com/AUTOMATIC1111/stable-diffusion-webui | Free|
+| visual-chatgpt | Create images with ChatGPT | https://github.com/microsoft/visual-chatgpt | Free
+| Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | https://www.bing.com/images/create | Free
 
-### 影音创作
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- | 
-| Fliki | 將文字生成音频和视频的网站 | https://fliki.ai | 免費/付費 |
-| d-id | 根据文字生成数字人的配音视频 | https://studio.d-id.com | 付費，用一定的免费试用额度 |
-| whisper | OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | https://github.com/openai/whisper | 免费 |
-| buzz | 基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件 | https://github.com/chidiwilliams/buzz | 免费 |
+## Video Creation
 
-### 视频内容总结
-| 名称 | 说明 | 链接 | 费用 | 
+| Name | Description | Link | Fee |
 | ---- | ----------------------------- | --- | --- |
-| ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | https://chatgpt4youtube.com/| 免費 |
-| Chat Youtube | 给一个Youtube 链接，它能给出总结，还可以向它提视频內容相关的问题 |https://chatyoutube.com | 免費 |
+| Fliki | A website that converts text into audio and video | https://fliki.ai | Free/Paid |
+| d-id | Generate digital human dubbing video based on text | https://studio.d-id.com | Paid, use a certain amount of free trial |
+| whisper | OpenAPI open source robust speech recognition model through large-scale weak supervision | https://github.com/openai/whisper | Free |
+| buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | https://github.com/chidiwilliams/buzz | Free |
 
+
+
+### Summary of video content
+| Name | Description | Link | Fee |
+| ---- | ----------------------------- | --- | --- |
+| ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | https://chatgpt4youtube.com/| Free |
+| Chat Youtube | Give a Youtube link, it will give a summary, and you can ask it questions about the content of the video |https://chatyoutube.com | Free |
