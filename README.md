@@ -1,6 +1,6 @@
 English | [中文](README-CN.md)
 
-This repo organizes AI-related utilities. 
+This repo collects AI-related utilities. 
 
 ## All Categories
 - [ChatGPT Applications](#chatgpt-applications)
@@ -29,7 +29,7 @@ This repo organizes AI-related utilities.
 | name | description | link | cost | 
 | ---- | ----------------------------- | --- | --- |
 | Notion AI | AI-assisted note-taking software | https://www.notion.so| with certain free AI trials, AI features $10/month |
-| Deep L Write | English and German writing tool to fix writing errors and rewrite sentences in a timely manner. | https://www.deepl.com/write | Free version to use with text word limit / paid upgrade available |
+| Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | https://www.deepl.com/write | Free version to use with text word limit / paid upgrade available |
 
 ### Programming Development
 | Name | Description | Link | Cost | 
