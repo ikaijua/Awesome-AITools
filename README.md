@@ -23,13 +23,14 @@ This repo collects AI-related utilities.
 | --- | --- | --- | --- |
 | New Bing | Need to wait at waitlist | https://www.bing.com/new | Free | 
 | You.com | A search engine in conversation mode | https://you.com | Free |
-| Perplexity.ai | Perplexity.ai is a GPT-3 based AI tool, similar to New Bing's search engine, with reference results | https://www.perplexity.ai | free
+| Perplexity.ai | Perplexity.ai is a GPT-3 based AI tool, similar to New Bing's search engine, with reference results | https://www.perplexity.ai | Free
 
 ### Writing
 | name | description | link | cost | 
 | ---- | ----------------------------- | --- | --- |
 | Notion AI | AI-assisted note-taking software | https://www.notion.so| with certain free AI trials, AI features $10/month |
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | https://www.deepl.com/write | Free version to use with text word limit / paid upgrade available |
+| grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| https://app.grammarly.com/ | Free/Paid|
 
 ### Programming Development
 | Name | Description | Link | Cost | 
