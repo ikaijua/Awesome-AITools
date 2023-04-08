@@ -1,7 +1,9 @@
+[English](README.md) | 中文
+
 这个仓库整理AI相关的实用工具。
 
 ## 全部分类
-- [ChatGPT 应用](#ChatGPT应用)
+- [ChatGPT 应用](#chatgpt应用)
 - [搜索引擎](#搜索引擎)
 - [写作](#写作)
 - [编程开发](#编程开发)
