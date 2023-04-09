@@ -16,8 +16,9 @@
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-| chatgpt | openAI的chatgpt  |https://chat.openai.com | 免费，有付费升级版| 
+| chatgpt | openAI的chatgpt  |https://chat.openai.com </br>应用示例：[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED) | 免费，有付费升级版| 
 | Chatbox | 使用ChatGPT API（OpenAI API）的桌面应用程序, 将所有的聊天信息和提示信息存储在本地，从而减少了数据丢失的风险。比网页版使用更稳定些| https://github.com/Bin-Huang/chatbox | 免费，需要使用OpenAPI的apikey， https://platform.openai.com/account/api-keys|
+| Poe | 美版知乎 Quora 构建的AI 产品，有web和客户端。目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。chatgpt-4可以每天免费使用一次 </br> 视频介绍：[B站视频：神器！与chatGPT类似的新人工智能问答AI：Poe, 美国知乎Quaro最新产品，专业回答](https://www.bilibili.com/video/BV13Y411B7Az)| https://poe.com/ |免费，有付费升级版
 
 ### 搜索引擎
 | 名称 | 说明 | 链接 | 费用 | 
