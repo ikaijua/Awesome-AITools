@@ -8,6 +8,7 @@
 - [写作](#写作)
 - [编程开发](#编程开发)
 - [翻译工具](#翻译工具)
+- [口语练习](#口语练习)
 - [图像创作](#图像创作)
 - [影音创作](#影音创作)
 - [视频内容总结](#视频内容总结)
@@ -45,6 +46,12 @@
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | https://github.com/immersive-translate/immersive-translate/ | 免费 |
 | Deep L | 准确即时的翻译工具，目前支援 31 种语言 | https://www.deepl.com/translator | 免费/付费
 | openai-translator | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 | https://github.com/yetone/openai-translator | 免费，需要OpenAI API key |
+
+### 口语练习
+
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|Voice Control for ChatGPT | Chrome 扩展程序，通过它可以与 ChatGPT 进行语音对话。可以帮助英语口语或其他语言口语练习 | https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn | 免费，需要chatgpt账号  | 
 
 
 ### 图像创作
