@@ -29,7 +29,7 @@
 ### 写作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-| Notion AI | AI辅助的笔记软件 | https://www.notion.so| 有一定免费的AI试用次数，AI功能10$/每月 |
+| Notion AI | AI辅助的笔记软件，主要包括AI创作文章、翻译、修正语法、摘要和总结等 </br> 视频示例：[B站视频：Notion AI完整介绍 \| 十个节省时间的神功能(ChatGPT般强大)](https://www.bilibili.com/video/BV1Lg411b7Cx) | https://www.notion.so| 有一定免费的AI试用次数，AI功能10$/每月 |
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | https://www.deepl.com/write |  免費版本使用有文字字数限制/有付费升级版 |
 | grammarly | 纠正语法、拼写、标点符号等错误的写作助手| https://app.grammarly.com/ | 免费/有付费升级版|
 
