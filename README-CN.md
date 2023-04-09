@@ -51,7 +51,7 @@
 
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-|Voice Control for ChatGPT | Chrome 扩展程序，通过它可以与 ChatGPT 进行语音对话。可以帮助英语口语或其他语言口语练习 | https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn | 免费，需要chatgpt账号  | 
+|Voice Control for ChatGPT | Chrome 扩展程序，通过它可以与 ChatGPT 进行语音对话。可以帮助英语口语或其他语言口语练习。</br>视频示例：[B站视频:免费口语老师：如何用ChatGPT练习英语口语](https://www.bilibili.com/video/BV1iy4y1Q7Fh) | https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn | 免费，需要chatgpt账号  | 
 
 
 ### 图像创作
