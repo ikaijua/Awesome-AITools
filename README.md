@@ -8,6 +8,7 @@ This repo collects AI-related utilities.
 - [Writing](#writing)
 - [Programming Development](#programming-development)
 - [Translation](#translation)
+- [Oral Practice](#oral-practice)
 - [Image Creation](#image-creation)
 - [Video Creation](#video-creation)
 - [Video Content Summary](#video-content-summary)
@@ -45,6 +46,12 @@ This repo collects AI-related utilities.
 | immersive-translate | open source, immersive bilingual web translation extension | https://github.com/immersive-translate/immersive-translate/ | Free |
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | https://www.deepl.com/translator | Free/Paid
 | openai-translator | Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | https://github.com/yetone/openai-translator | Free, requires OpenAI API key |
+
+### Oral Practice
+
+| name | description | link | cost | 
+| ---- | ----------------------------- | --- | --- |
+|Voice Control for ChatGPT | This Chrome extension allows you to have voice conversations with ChatGPT. | https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn | Free, requires chatgpt account  | 
 
 ### Image Creation
 | Name | Description | Link | Fee |
