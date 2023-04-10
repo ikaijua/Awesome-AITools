@@ -17,7 +17,12 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | chatgpt | openAI's chatgpt | https://chat.openai.com | Free, with paid upgrades | 
-| Chatbox | Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version| https://github.com/Bin-Huang/chatbox | Free, requires apikey with OpenAPI, https://platform.openai.com/account/api-keys|
+| Chatbox | Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version| [github](https://github.com/Bin-Huang/chatbox) | Free, requires [apikey with OpenAPI](https://platform.openai.com/account/api-keys)|
+| Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | https://poe.com/ | Free, with paid upgrades|
+| ChatGPT-Shortcut | Open source, ChatGPT shortcut commands that double productivity, partitioned by domain and function, can filter prompt words by tag, keyword search and one-click copy. |Web URL: https://ai.newzone.top/ </br> [github](https://github.com/rockbenben/ChatGPT-Shortcut) |Free|
+|ChatGPT Sidebar|ChatGPT Sidebar is an artificial intelligence assistant you can use while browsing any website. |[chrome extension](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)|Free|
+| WebChatGPT | Open source, expand the ability of networking to chatgpt | [github](https://github.com/qunash/chatgpt-advanced) | Free|
+| AIPRM for ChatGPT |Browser plug-in, providing a series of selected ChatGPT instruction templates, and even creating your own, and adjusting AI tone and writing style| [chrome extension](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | Free|
 
 ### Search engine
 | name | description | links | cost | 
