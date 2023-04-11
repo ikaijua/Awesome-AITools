@@ -4,6 +4,7 @@
 
 ## 全部分类
 - [ChatGPT 应用](#chatgpt应用)
+- [中国企业的大语言模型](#中国企业的大语言模型)
 - [搜索引擎](#搜索引擎)
 - [写作](#写作)
 - [编程开发](#编程开发)
@@ -12,6 +13,9 @@
 - [图像创作](#图像创作)
 - [影音创作](#影音创作)
 - [视频内容总结](#视频内容总结)
+
+## 评测
+- [大语言模型评测](#大语言模型评测)
 
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 
@@ -23,6 +27,13 @@
 |ChatGPT Sidebar|ChatGPT 边栏是您在浏览任何网站时可以使用的人工智能助手。</br> 视频介绍：[B站视频：CharGPT初体验，浏览器安装人工智能侧边栏AI Sidebar扩展程序](https://www.bilibili.com/video/BV1Y24y1L7JA)|[chrome扩展地址](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)|免费|
 | WebChatGPT |开源程序，给chatgpt扩展联网的能力 </br> 视频介绍：[B站视频：可以让ChatGPT直接联网的扩展程序](https://www.bilibili.com/video/BV1bY4y1C7N3) | [github地址](https://github.com/qunash/chatgpt-advanced) | 免费|
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [chrome扩展地址](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
+
+### 中国企业的大语言模型
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|通义千问|阿里云的大语言模型|https://tongyi.aliyun.com/|需要邀请码|
+|文心一言|百度的大语言模型|https://yiyan.baidu.com/welcome|需要申请等待|
+
 
 ### 搜索引擎
 | 名称 | 说明 | 链接 | 费用 | 
@@ -81,4 +92,8 @@
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | https://chatgpt4youtube.com/| 免费 |
 | Chat Youtube | 给一个Youtube 链接，它能给出总结，还可以向它提视频內容相关的问题 |https://chatyoutube.com | 免费 |
+
+## 评测
+### 大语言模型评测
+- [B站视频：【AI对决】让ChatGPT4出题！结果你绝对想不到！！](https://www.bilibili.com/video/BV1hT411W7YE/)
 
