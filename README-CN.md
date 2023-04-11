@@ -31,7 +31,7 @@
 ### 中国企业的大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-|通义千问|阿里云的大语言模型|https://tongyi.aliyun.com/|需要邀请码|
+|通义千问|阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|https://tongyi.aliyun.com/|需要邀请码|
 |文心一言|百度的大语言模型|https://yiyan.baidu.com/welcome|需要申请等待|
 
 
