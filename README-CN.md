@@ -11,6 +11,7 @@
 - [翻译工具](#翻译工具)
 - [口语练习](#口语练习)
 - [图像创作](#图像创作)
+- [语音识别](#语音识别)
 - [影音创作](#影音创作)
 - [视频内容总结](#视频内容总结)
 
@@ -79,13 +80,18 @@
 | visual-chatgpt | 通过 ChatGPT 创作图片 | https://github.com/microsoft/visual-chatgpt | 免费 
 | Microsoft Bing Image Creator | Image Creator 是使用 DALL-E 技术创作图片的工具。试用了下**生成人像图片不堪入目** | https://www.bing.com/images/create | 免费
 
+### 语音识别
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- | 
+| whisper | 开源，OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | [github](https://github.com/openai/whisper) | 免费 |
+| buzz | 开源，基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件，使用CPU进行处理 | [github](https://github.com/chidiwilliams/buzz) | 免费 |
+|WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快|[github](https://github.com/Const-me/Whisper) |免费|
+
 ### 影音创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 | Fliki | 將文字生成音频和视频的网站 | https://fliki.ai | 免費/付費 |
 | d-id | 根据文字生成数字人的配音视频 | https://studio.d-id.com | 付費，用一定的免费试用额度 |
-| whisper | OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | https://github.com/openai/whisper | 免费 |
-| buzz | 基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件 | https://github.com/chidiwilliams/buzz | 免费 |
 
 ### 视频内容总结
 | 名称 | 说明 | 链接 | 费用 | 
