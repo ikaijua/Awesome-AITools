@@ -85,7 +85,7 @@
 | ---- | ----------------------------- | --- | --- | 
 | whisper | 开源，OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | [github](https://github.com/openai/whisper) | 免费 |
 | buzz | 开源，基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件，使用CPU进行处理 | [github](https://github.com/chidiwilliams/buzz) | 免费 |
-|WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快|[github](https://github.com/Const-me/Whisper) |免费|
+|WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快。使用介绍：https://www.appinn.com/const-me-whisper/|[github](https://github.com/Const-me/Whisper) |免费|
 
 ### 影音创作
 | 名称 | 说明 | 链接 | 费用 | 
