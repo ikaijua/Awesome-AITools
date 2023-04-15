@@ -24,6 +24,7 @@
 | ---- | ----------------------------- | --- | --- |
 | chatgpt | openAI的chatgpt </br>应用示例：[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED) |https://chat.openai.com  | 免费，有付费升级版| 
 | Chatbox | 使用ChatGPT API（OpenAI API）的桌面应用程序, 将所有的聊天信息和提示信息存储在本地，从而减少了数据丢失的风险。比网页版使用更稳定些| [github地址](https://github.com/Bin-Huang/chatbox) | 免费，需要使用OpenAPI的[apikey](https://platform.openai.com/account/api-keys)|
+| ChatGPT for Google |开源项目，浏览器插件，在搜索页面增加chatgpt的内容和对话框|[github](https://github.com/wong2/chatgpt-google-extension)|免费，需要chatgpt账号|
 | Poe | 美版知乎 Quora 构建的AI 产品，有web和客户端。目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。chatgpt-4可以每天免费使用一次 </br> 视频介绍：[B站视频：神器！与chatGPT类似的新人工智能问答AI：Poe, 美国知乎Quaro最新产品，专业回答](https://www.bilibili.com/video/BV13Y411B7Az)| https://poe.com/ |免费，有付费升级版
 | ChatGPT-Shortcut | 开源，让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。|网页地址：https://ai.newzone.top/ </br>  [github地址](https://github.com/rockbenben/ChatGPT-Shortcut) |免费| 
 |ChatGPT Sidebar|ChatGPT 边栏是您在浏览任何网站时可以使用的人工智能助手。</br> 视频介绍：[B站视频：CharGPT初体验，浏览器安装人工智能侧边栏AI Sidebar扩展程序](https://www.bilibili.com/video/BV1Y24y1L7JA)|[chrome扩展地址](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)|免费|
