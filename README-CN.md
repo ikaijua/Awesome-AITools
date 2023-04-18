@@ -30,6 +30,7 @@
 |ChatGPT Sidebar|ChatGPT 边栏是您在浏览任何网站时可以使用的人工智能助手。</br> 视频介绍：[B站视频：CharGPT初体验，浏览器安装人工智能侧边栏AI Sidebar扩展程序](https://www.bilibili.com/video/BV1Y24y1L7JA)|[chrome扩展地址](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)|免费|
 | WebChatGPT |开源程序，给chatgpt扩展联网的能力 </br> 视频介绍：[B站视频：可以让ChatGPT直接联网的扩展程序](https://www.bilibili.com/video/BV1bY4y1C7N3) | [github地址](https://github.com/qunash/chatgpt-advanced) | 免费|
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [chrome扩展地址](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
+| GPTCache |⚡ GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库，类似于aigc场景中的redis。 它可用于降低依赖 LLM 服务（如ChatGPT）的成本，同时也可以有效减少服务响应时间，因为大模型推理一般都比较耗时。| [Github](https://github.com/zilliztech/GPTCache) | 免费|
 
 ### AutoGPT
 | 名称 | 说明 | 链接 | 费用 | 
