@@ -23,6 +23,7 @@ This repo collects AI-related utilities.
 |ChatGPT Sidebar|ChatGPT Sidebar is an artificial intelligence assistant you can use while browsing any website. |[chrome extension](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)|Free|
 | WebChatGPT | Open source, expand the ability of networking to chatgpt | [GitHub](https://github.com/qunash/chatgpt-advanced) | Free|
 | AIPRM for ChatGPT |Browser plug-in, providing a series of selected ChatGPT instruction templates, and even creating your own, and adjusting AI tone and writing style| [chrome extension](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | Free|
+| GPTCache |⚡ GPTCache is a library for creating semantic cache to store responses from LLM queries. It can be used to speed up and lower the cost of chat applications that rely on the LLM service. And it's similar to redis in an aigc scenario.| [Github](https://github.com/zilliztech/GPTCache) | Free|
 
 ### Search engine
 | name | description | links | cost | 
