@@ -64,6 +64,7 @@
 | Cursor | 使用 GPT进行协作的代码编辑器 | https://www.cursor.so | 免费 |
 | ai-code-translator   | 利用chatgpt将代码从一种语言翻译成另一种语言。| https://github.com/mckaywrigley/ai-code-translator | 免费，需要OpenAI API key|
 | Amazon CodeWhisperer | 亚马逊开放的AI编程辅助工具，根据你的注释和现有代码，实时生成从片段到完整功能的代码建议。在各种IDE的插件中可以安装,支持15种语言, 包括 Python, Java, and JavaScript等。只需要按照流程注册一个aws builder账号即可。| https://aws.amazon.com/cn/codewhisperer| 免费|
+| CodeGeeX | 开源项目，由清华大学知识工程实验室团队研发，支持十多种主流编程语言的生成及翻译，已可用于VScode和JB，但会与Copilot冲突。简单试用了下，代码生成仅支持英文描述，门槛有点高，代码能力相对比较弱。</br> [【项目原作解读】清华大学郑勤锴：CodeGeeX大规模多语言代码生成模型](https://www.bilibili.com/video/BV1wT41127Tq/) | [GitHub](https://github.com/THUDM/CodeGeeX/)|免费|
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 | 
