@@ -4,12 +4,14 @@ This repo collects AI-related utilities.
 
 ## All Categories
 - [ChatGPT Applications](#chatgpt-applications)
+- [AutoGPT](#autogpt)
 - [Search Engine](#search-engine)
 - [Writing](#writing)
 - [Programming Development](#programming-development)
 - [Translation](#translation)
-- [Oral Practice](#oral-practice)
+- [Voice Conversation](#voice-conversation)
 - [Image Creation](#image-creation)
+- [Speech Recognition](#speech-recognition)
 - [Video Creation](#video-creation)
 - [Video Content Summary](#video-content-summary)
 
@@ -25,61 +27,73 @@ This repo collects AI-related utilities.
 | AIPRM for ChatGPT |Browser plug-in, providing a series of selected ChatGPT instruction templates, and even creating your own, and adjusting AI tone and writing style| [chrome extension](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | Free|
 | GPTCache |⚡ GPTCache is a library for creating semantic cache to store responses from LLM queries. It can be used to speed up and lower the cost of chat applications that rely on the LLM service. And it's similar to redis in an aigc scenario.| [Github](https://github.com/zilliztech/GPTCache) | Free|
 
+### AutoGPT
+| Name | Description | Links | Fees |  
+| ---- | ----------------------------- | --- | --- |
+|Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT)|Free|
 ### Search engine
-| name | description | links | cost | 
+| Name | Description | Links | Fees |  
 | --- | --- | --- | --- |
 | New Bing | Need to wait at waitlist | https://www.bing.com/new | Free | 
 | You.com | A search engine in conversation mode | https://you.com | Free |
 | Perplexity.ai | Perplexity.ai is a GPT-3 based AI tool, similar to New Bing's search engine, with reference results | https://www.perplexity.ai | Free
 
 ### Writing
-| name | description | link | cost | 
+| Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Notion AI | AI-assisted note-taking software | https://www.notion.so| with certain free AI trials, AI features $10/month |
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | https://www.deepl.com/write | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| https://app.grammarly.com/ | Free/Paid|
 
 ### Programming Development
-| Name | Description | Link | Cost | 
+| Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- | 
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | https://github.com/features/copilot | Paid
 | Cursor | A collaborative code editor using GPT | https://www.cursor.so | Free |
-| ai-code-translator | Translates code from one language to another using chatgpt. | https://github.com/mckaywrigley/ai-code-translator | Free, requires OpenAI API key|
+| ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) | Free, requires OpenAI API key|
+| Amazon CodeWhisperer | A code writing assistant developed by GitHub and OpenAI by Amazon| https://aws.amazon.com/cn/codewhisperer| Free for Individual Use|
 
 ### Translation
-| name | description | link | cost | 
+| Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
-| immersive-translate | open source, immersive bilingual web translation extension | https://github.com/immersive-translate/immersive-translate/ | Free |
+| immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) | Free |
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | https://www.deepl.com/translator | Free/Paid
-| openai-translator | Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | https://github.com/yetone/openai-translator | Free, requires OpenAI API key |
+| openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/yetone/openai-translator) | Free, requires OpenAI API key |
 
-### Oral Practice
+### Voice Conversation
 
-| name | description | link | cost | 
+| Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |Voice Control for ChatGPT | This Chrome extension allows you to have voice conversations with ChatGPT. | https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn | Free, requires chatgpt account  | 
+|SpeechGPT|SpeechGPT is a web application that enables you to converse with ChatGPT.|[GitHub](https://github.com/hahahumble/speechgpt)|Free，requires OpenAI API key|
+
 
 ### Image Creation
-| Name | Description | Link | Fee |
+| Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Midjourney | Enter text or pictures to create pictures | https://www.midjourney.com | Free account has a certain usage minutes limit, and there is a paid upgrade version |
-| Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. <br>Getting Started Tutorial: https://www.bilibili.com/video/BV1Qo4y167AK/| https://github.com/AUTOMATIC1111/stable-diffusion-webui | Free|
+| Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Free|
 | visual-chatgpt | Create images with ChatGPT | https://github.com/microsoft/visual-chatgpt | Free
-| Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | https://www.bing.com/images/create | Free
+| Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | https://www.bing.com/images/create | Free|
+
+### Speech Recognition
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| whisper | OpenAPI open source robust speech recognition model through large-scale weak supervision | [GitHub](https://github.com/openai/whisper) | Free |
+| buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | [GitHub](https://github.com/chidiwilliams/buzz) | Free |
+
 
 ## Video Creation
 
-| Name | Description | Link | Fee |
+| Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Fliki | A website that converts text into audio and video | https://fliki.ai | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | https://studio.d-id.com | Paid, use a certain amount of free trial |
-| whisper | OpenAPI open source robust speech recognition model through large-scale weak supervision | https://github.com/openai/whisper | Free |
-| buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | https://github.com/chidiwilliams/buzz | Free |
 
 
 
 ### Video Content Summary
-| Name | Description | Link | Fee |
+| Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | https://chatgpt4youtube.com/| Free |
 | Chat Youtube | Give a Youtube link, it will give a summary, and you can ask it questions about the content of the video |https://chatyoutube.com | Free |
