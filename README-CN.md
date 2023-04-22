@@ -120,5 +120,5 @@
 ## AI工具交流群
 
 交流一些AI工具的使用经验
-![d72e7c569726ef3a3f490979a6669fc](https://user-images.githubusercontent.com/126046795/233787115-d9aa5803-d611-41c1-a140-b37d0ab382ea.jpg)
+![10af7c4b20437935692f3e521dca984](https://user-images.githubusercontent.com/126046795/233788863-e937d3b4-a8cc-443e-ab4b-1cc008a333b5.jpg)
 
