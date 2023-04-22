@@ -114,4 +114,5 @@
 - [B站视频：【AI对决】让ChatGPT4出题！结果你绝对想不到！！](https://www.bilibili.com/video/BV1hT411W7YE/)
 - [B站视频：阿里版GPT【通义千问】,和我的预期不一样](https://www.bilibili.com/video/BV1Va4y1T7Ym/)：
 通义千问在自然科学和专业知识方面表现比较优秀，比如代码能力明显强于文心一言，甚至可以与chatgpt3.5掰掰手腕。在中文表达或者文学创作方面还有待提高，逊色于文心一言。
+- [B站视频：chatgpt挑战知乎热门问题-GPT3.5 对战 GPT4](https://www.bilibili.com/video/BV1WM4y1a7a1/)
 
