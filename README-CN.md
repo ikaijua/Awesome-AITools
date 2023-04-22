@@ -116,7 +116,7 @@
 通义千问在自然科学和专业知识方面表现比较优秀，比如代码能力明显强于文心一言，甚至可以与chatgpt3.5掰掰手腕。在中文表达或者文学创作方面还有待提高，逊色于文心一言。
 - [B站视频：chatgpt挑战知乎热门问题-GPT3.5 对战 GPT4](https://www.bilibili.com/video/BV1WM4y1a7a1/)
 
-AI工具交流群
+AI工具交流群，交流一些AI工具的使用经验和遇到的问题
 
-![c39ca6320901ea201cbbd321c8fba16](https://user-images.githubusercontent.com/126046795/233787018-1a447238-0c84-4372-8293-fb01e455d7ba.jpg)
+![d72e7c569726ef3a3f490979a6669fc](https://user-images.githubusercontent.com/126046795/233787115-d9aa5803-d611-41c1-a140-b37d0ab382ea.jpg)
 
