@@ -97,3 +97,5 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
 | Chat Youtube | Give a Youtube link, it will give a summary, and you can ask it questions about the content of the video |[URL](https://chatyoutube.com) | Free |
+
+Awesome-AITools Discord Link: https://discord.gg/7hAvJQME
