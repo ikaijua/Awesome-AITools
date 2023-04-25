@@ -119,6 +119,9 @@
 
 ## AI工具交流群
 
-交流一些AI工具的使用经验
+交流一些AI工具的使用经验，群图片如果过期或者满200人，请加微信 XFIechazoK12，拉你进群。
+
+
+
 ![10af7c4b20437935692f3e521dca984](https://user-images.githubusercontent.com/126046795/233788863-e937d3b4-a8cc-443e-ab4b-1cc008a333b5.jpg)
 
