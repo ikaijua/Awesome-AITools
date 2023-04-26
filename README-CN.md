@@ -19,6 +19,9 @@
 ## 评测
 - [大语言模型评测](#大语言模型评测)
 
+## 精选文章
+- [chatgpt相关文章](#chatgpt相关文章)
+
 
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 
@@ -116,6 +119,13 @@
 - [B站视频：阿里版GPT【通义千问】,和我的预期不一样](https://www.bilibili.com/video/BV1Va4y1T7Ym/)：
 通义千问在自然科学和专业知识方面表现比较优秀，比如代码能力明显强于文心一言，甚至可以与chatgpt3.5掰掰手腕。在中文表达或者文学创作方面还有待提高，逊色于文心一言。
 - [B站视频：chatgpt挑战知乎热门问题-GPT3.5 对战 GPT4](https://www.bilibili.com/video/BV1WM4y1a7a1/)
+
+## 精选文章
+### chatgpt相关文章
+- [Sparks of Artificial General Intelligence:
+Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf): 该论文是一篇长达154页的对 GPT-4 的测试。微软的研究院在很早期就接触到了 GPT-4 的非多模态版本，并进行了详尽的测试。这篇论文不管是测试方法还是测试结论都非常精彩，强烈推荐看一遍。
+- [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893): [Sparks of Artificial General Intelligence:
+Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论文的精选和中文翻译。
 
 ## AI工具交流群
 
