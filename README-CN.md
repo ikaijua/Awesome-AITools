@@ -65,7 +65,7 @@
 ### 编程开发
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
-| GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 | [URL](https://github.com/features/copilot) | 付费
+| GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 </br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) | [URL](https://github.com/features/copilot) | 付费
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 免费 |
 | ai-code-translator   | 利用chatgpt将代码从一种语言翻译成另一种语言。| [URL](https://github.com/mckaywrigley/ai-code-translator) | 免费，需要OpenAI API key|
 | Amazon CodeWhisperer | 亚马逊开放的AI编程辅助工具，根据你的注释和现有代码，实时生成从片段到完整功能的代码建议。在各种IDE的插件中可以安装,支持15种语言, 包括 Python, Java, and JavaScript等。只需要按照流程注册一个aws builder账号即可。| [URL](https://aws.amazon.com/cn/codewhisperer)| 免费|
