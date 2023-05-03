@@ -22,6 +22,9 @@
 ## 精选文章
 - [chatgpt相关文章](#chatgpt相关文章)
 
+## 其他
+- [AI工具交流群](#ai工具交流群)
+
 
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 
@@ -113,6 +116,7 @@
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/)| 免费 |
 | Chat Youtube | 给一个Youtube 链接，它能给出总结，还可以向它提视频內容相关的问题 |[URL](https://chatyoutube.com) | 免费 |
+| BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT)|免费|
 
 ## 评测
 ### 大语言模型评测
@@ -128,7 +132,12 @@ Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf): 该论文
 - [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893): [Sparks of Artificial General Intelligence:
 Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论文的精选和中文翻译。
 
-## AI工具交流群
+## 其他
+### Star 历史记录
+
+[![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+
+### AI工具交流群
 
 交流一些AI工具的使用经验，群图片如果过期或者满200人，请加微信 XFIechazoK12，拉你进群。
 
