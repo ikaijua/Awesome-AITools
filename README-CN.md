@@ -5,6 +5,7 @@
 ## 全部分类
 - [ChatGPT 应用](#chatgpt应用)
 - [中国企业的大语言模型](#中国企业的大语言模型)
+- [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
 - [AutoGPT](#autogpt)
 - [搜索引擎](#搜索引擎)
 - [写作](#写作)
@@ -49,6 +50,12 @@
 | ---- | ----------------------------- | --- | --- |
 |通义千问|阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|需要邀请码|
 |文心一言|百度的大语言模型|[URL](https://yiyan.baidu.com/welcome)|需要申请等待|
+
+### 国内可使用的ChatGPT镜像站点
+| 名称 | 说明 | 链接 | 
+| ---- | ----------------------------- | --- | 
+| carrot | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点国内可使用ChatGPT镜像站点 | [GitHub](https://github.com/xx025/carrot) </br>![GitHub Repo stars](https://img.shields.io/github/stars/xx025/carrot?style=social)|
+| awesome-free-chatgpt | 免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | [GitHub](https://github.com/LiLittleCat/awesome-free-chatgpt)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|
 
 
 ### 搜索引擎
