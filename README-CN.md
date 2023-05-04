@@ -78,7 +78,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
-| Deep L | 准确即时的翻译工具，目前支援 31 种语言 | [GitHub](https://www.deepl.com/translator) | 免费/付费
+| Deep L | 准确即时的翻译工具，目前支援 31 种语言 | [URL](https://www.deepl.com/translator) | 免费/付费
 | openai-translator | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 | [GitHub](https://github.com/yetone/openai-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| 免费，需要OpenAI API key |
 
 ### 口语练习
