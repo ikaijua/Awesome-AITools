@@ -24,6 +24,7 @@
 - [chatgpt相关文章](#chatgpt相关文章)
 
 ## 其他
+- [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions/8)
 - [AI工具交流群](#ai工具交流群)
 
 
