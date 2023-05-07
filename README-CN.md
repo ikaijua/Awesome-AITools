@@ -14,6 +14,7 @@
 - [口语练习](#口语练习)
 - [图像创作](#图像创作)
 - [语音识别](#语音识别)
+- [语音合成](#语音合成)
 - [影音创作](#影音创作)
 - [学术科研](#学术科研)
 - [视频内容总结](#视频内容总结)
@@ -112,6 +113,11 @@
 | whisper | 开源，OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | [GitHub](https://github.com/openai/whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/whisper?style=social) | 免费 |
 | buzz | 开源，基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件，使用CPU进行处理 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| 免费 |
 |WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快。使用介绍：https://www.appinn.com/const-me-whisper/|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|免费|
+
+### 语音合成
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- | 
+|so-vits-svc| So-vits-svc（也称Sovits）是基于VITS、soft-vc、VISinger2等一系列项目开发的一款开源免费 AI 语音转换软件，用户只需准备几十分钟到几个小时不等的语音或歌声数据，就能制作属于自己的 AI 声库，将一段语音或歌声转换为你想要的音色。[更多介绍](https://zh.moegirl.org.cn/zh-hans/So-vits-svc) </br> [B站视频：手把手教学！如何自己训练一个AI歌手 - sovits本地&云端训练教程](https://www.bilibili.com/video/BV1ea4y1G7gx)|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|免费|
 
 ### 影音创作
 | 名称 | 说明 | 链接 | 费用 | 
