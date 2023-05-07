@@ -6,6 +6,7 @@
 - [ChatGPT 应用](#chatgpt应用)
 - [中国企业的大语言模型](#中国企业的大语言模型)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
+- [AI工具箱类软件](#ai工具箱类软件)
 - [AutoGPT](#autogpt)
 - [搜索引擎](#搜索引擎)
 - [写作](#写作)
@@ -43,6 +44,10 @@
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
 | GPTCache |⚡ GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库，类似于aigc场景中的redis。 它可用于降低依赖 LLM 服务（如ChatGPT）的成本，同时也可以有效减少服务响应时间，因为大模型推理一般都比较耗时。| [GitHub](https://github.com/zilliztech/GPTCache) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| 免费|
 
+### AI工具箱类软件
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|Paper2GUI|一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。</br>[B站视频介绍：补帧超分抠图配音，这个开源AI工具箱对小白太友好了！](https://www.bilibili.com/video/BV1jY411u7yU/)|[GitHub](https://github.com/Baiyuetribe/paper2gui) ![GitHub Repo stars](https://img.shields.io/github/stars/Baiyuetribe/paper2gui?style=social)|免费|
 ### AutoGPT
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
