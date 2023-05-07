@@ -69,7 +69,7 @@
 ### 搜索引擎
 | 名称 | 说明 | 链接 | 费用 | 
 | --- | --- | --- | --- |
-| New Bing | 需要在waitlist进行等待 | [URL](https://www.bing.com/new) | 免费 | 
+| New Bing | 只需注册一个账户，首页即可体验。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/8#discussioncomment-5812364) | [URL](https://www.bing.com/new) | 免费 | 
 | You.com | 结合对话模式的搜索引擎 | [URL](https://you.com) | 免费 |
 | Perplexity.ai | Perplexity.ai 是一个基于 GPT-3 的 AI 工具，类似 New Bing 的搜寻引擎、会附上参考结果 | [URL](https://www.perplexity.ai) | 免费
 
