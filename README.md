@@ -31,10 +31,11 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
 |Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
+
 ### Search engine
 | Name | Description | Links | Fees |  
 | --- | --- | --- | --- |
-| New Bing | Need to wait at waitlist | [URL](https://www.bing.com/new) | Free | 
+| New Bing |  the new Bing is now in Open Preview and no longer has a waitlist. [Blog](https://blogs.microsoft.com/blog/2023/05/04/announcing-the-next-wave-of-ai-innovation-with-microsoft-bing-and-edge/?icid=mscom_marcom_H1a_MPH1a_BingAI) | [URL](https://www.bing.com/new) | Free | 
 | You.com | A search engine in conversation mode | [URL](https://you.com) | Free |
 | Perplexity.ai | Perplexity.ai is a GPT-3 based AI tool, similar to New Bing's search engine, with reference results | [URL](https://www.perplexity.ai) | Free
 
