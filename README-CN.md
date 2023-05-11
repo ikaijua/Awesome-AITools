@@ -3,8 +3,8 @@
 这个仓库整理AI相关的实用工具。
 
 ## 全部分类
+- [ChatGPT及类似商用大语言模型](#chatgpt及类似商用大语言模型)
 - [ChatGPT 应用](#chatgpt应用)
-- [中国企业的大语言模型](#中国企业的大语言模型)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
 - [AI工具箱类软件](#ai工具箱类软件)
 - [AutoGPT](#autogpt)
@@ -30,11 +30,18 @@
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions/8)
 - [AI工具交流群](#ai工具交流群)
 
+### ChatGPT及类似商用大语言模型
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+| ChatGPT | openAI的chatgpt </br>应用示例：</br> [B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | GPT3.5免费。ChatPlus会员20美元/月，可以使用GPT-4，目前的上限是每3小时25条消息。| 
+| New Bing | 只需注册一个账户，首页即可体验。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/8#discussioncomment-5812364) | [URL](https://www.bing.com/new) | 免费 | 
+| Bard | Google 的大语言模型，目前不支持中文| https://bard.google.com/|免费|
+|通义千问|阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|需要邀请码|
+|文心一言|百度的大语言模型|[URL](https://yiyan.baidu.com/welcome)|需要申请等待|
 
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-| chatgpt | openAI的chatgpt </br>应用示例：</br> [B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | GPT3.5免费。ChatPlus会员20美元/月，可以使用GPT-4，目前的上限是每3小时25条消息。| 
 | Chatbox | 使用ChatGPT API（OpenAI API）的桌面应用程序, 将所有的聊天信息和提示信息存储在本地，从而减少了数据丢失的风险。比网页版使用更稳定些| [GitHub](https://github.com/Bin-Huang/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)| 免费，需要使用OpenAPI的[apikey](https://platform.openai.com/account/api-keys)|
 | ChatGPT for Google |开源项目，浏览器插件，在搜索页面增加chatgpt的内容和对话框|[GitHub](https://github.com/wong2/chatgpt-google-extension) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social)|免费，需要chatgpt账号|
 | Poe | 美版知乎 Quora 构建的AI 产品，有web和客户端。目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。chatgpt-4可以每天免费使用一次 </br> 视频介绍：[B站视频：神器！与chatGPT类似的新人工智能问答AI：Poe, 美国知乎Quaro最新产品，专业回答](https://www.bilibili.com/video/BV13Y411B7Az)| [URL](https://poe.com/) |免费，有付费升级版
@@ -44,27 +51,21 @@
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
 | GPTCache |⚡ GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库，类似于aigc场景中的redis。 它可用于降低依赖 LLM 服务（如ChatGPT）的成本，同时也可以有效减少服务响应时间，因为大模型推理一般都比较耗时。| [GitHub](https://github.com/zilliztech/GPTCache) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| 免费|
 
-### AI工具箱类软件
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-|Paper2GUI|一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。</br>[B站视频介绍：补帧超分抠图配音，这个开源AI工具箱对小白太友好了！](https://www.bilibili.com/video/BV1jY411u7yU/)|[GitHub](https://github.com/Baiyuetribe/paper2gui) ![GitHub Repo stars](https://img.shields.io/github/stars/Baiyuetribe/paper2gui?style=social)|免费|
-### AutoGPT
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-|Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
-
-### 中国企业的大语言模型
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-|通义千问|阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|需要邀请码|
-|文心一言|百度的大语言模型|[URL](https://yiyan.baidu.com/welcome)|需要申请等待|
-
 ### 国内可使用的ChatGPT镜像站点
 | 名称 | 说明 | 链接 | 
 | ---- | ----------------------------- | --- | 
 | carrot | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点国内可使用ChatGPT镜像站点 | [GitHub](https://github.com/xx025/carrot) </br>![GitHub Repo stars](https://img.shields.io/github/stars/xx025/carrot?style=social)|
 | awesome-free-chatgpt | 免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | [GitHub](https://github.com/LiLittleCat/awesome-free-chatgpt)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|
 
+### AI工具箱类软件
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|Paper2GUI|一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。</br>[B站视频介绍：补帧超分抠图配音，这个开源AI工具箱对小白太友好了！](https://www.bilibili.com/video/BV1jY411u7yU/)|[GitHub](https://github.com/Baiyuetribe/paper2gui) ![GitHub Repo stars](https://img.shields.io/github/stars/Baiyuetribe/paper2gui?style=social)|免费|
+
+### AutoGPT
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
 
 ### 搜索引擎
 | 名称 | 说明 | 链接 | 费用 | 
