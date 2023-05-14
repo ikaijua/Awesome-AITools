@@ -53,6 +53,8 @@ This repo collects AI-related utilities.
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Free |
 | ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)| Free, requires OpenAI API key|
 | Amazon CodeWhisperer | A code writing assistant developed by GitHub and OpenAI by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
+| Dify | 
+Dify aims to enable developers (and even non-developers) to quickly build useful applications based on large language models, ensuring they are visual, operable, and improvable | [URL](https://dify.ai/)| Free for Individual Use|
 
 ### Translation
 | Name | Description | Links | Fees |  
