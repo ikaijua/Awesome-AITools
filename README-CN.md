@@ -6,6 +6,7 @@
 - [ChatGPT及类似商用大语言模型](#chatgpt及类似商用大语言模型)
 - [ChatGPT 应用](#chatgpt应用)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
+- [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
 - [AI工具箱类软件](#ai工具箱类软件)
 - [AutoGPT](#autogpt)
 - [搜索引擎](#搜索引擎)
@@ -53,10 +54,17 @@
 | GPTCache |⚡ GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库，类似于aigc场景中的redis。 它可用于降低依赖 LLM 服务（如ChatGPT）的成本，同时也可以有效减少服务响应时间，因为大模型推理一般都比较耗时。| [GitHub](https://github.com/zilliztech/GPTCache) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| 免费|
 
 ### 国内可使用的ChatGPT镜像站点
-| 名称 | 说明 | 链接 | 
+| 名称 | 说明 | 链接 |
 | ---- | ----------------------------- | --- | 
 | carrot | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点国内可使用ChatGPT镜像站点 | [GitHub](https://github.com/xx025/carrot) </br>![GitHub Repo stars](https://img.shields.io/github/stars/xx025/carrot?style=social)|
 | awesome-free-chatgpt | 免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | [GitHub](https://github.com/LiLittleCat/awesome-free-chatgpt)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|
+
+### 集成了多个大语言模型的应用
+| 名称 | 说明 | 链接 | 费用 |
+| ---- | ----------------------------- | --- | ---- |
+| chathub | 浏览器插件，在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard 和 Claude (via Poe)，未来将集成更多机器人， 同时与多个聊天机器人聊天，方便比较它们的答案 | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|免费，付费支持更多功能|
+| ChatALL | 同时与多个大语言模型聊天的客户端（支持Windows、macOS、Linux系统），支持ChatGPT、Bing Chat、Claude、Bard、MOSS、Alpaca、HuggingChat等。需要拥有可以访问这些 AI 的帐号，或 API token| [GitHub](https://github.com/sunner/ChatALL)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|免费|
+
 
 ### AI工具箱类软件
 | 名称 | 说明 | 链接 | 费用 | 
