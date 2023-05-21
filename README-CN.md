@@ -176,4 +176,8 @@ Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论�
 
 交流一些AI工具的使用经验，群已满200人，请加微信 XFIechazoK12，拉你进群。
 
+如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！
+
+<img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="20%" height="20%" />   
+
 
