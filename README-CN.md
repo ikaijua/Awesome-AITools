@@ -19,6 +19,7 @@
 - [语音合成](#语音合成)
 - [影音创作](#影音创作)
 - [学术科研](#学术科研)
+- [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
 
 ## 评测
@@ -145,6 +146,11 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 |gpt_academic|为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容llama,rwkv,盘古大模型等。|[GitHub](https://github.com/binary-husky/gpt_academic) ![GitHub Repo stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social)|免费|
+
+### OCR图像识别文字
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|微信|微信对话框中的图片有提取文字的选项，识别效果很好，使用了几次基本没有什么识别错误。<br> [2021-03月份 微信AI对OCR功能的介绍：三年磨一剑——微信OCR图片文字提取](https://mp.weixin.qq.com/s/8Odh9TKKoxIYDpr1h-5Y5Q)||免费|
 
 ### 视频内容总结
 | 名称 | 说明 | 链接 | 费用 | 
