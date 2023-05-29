@@ -53,6 +53,7 @@ This repo collects AI-related utilities.
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Free |
 | ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)| Free, requires OpenAI API key|
 | Amazon CodeWhisperer | A code writing assistant developed by GitHub and OpenAI by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
+| Wilco Sierra | A platform that generates engineering challenges for software engineers using AI| [URL](https://trywilco.com/sierra)| Free for Individual Use|
 
 ### Translation
 | Name | Description | Links | Fees |  
