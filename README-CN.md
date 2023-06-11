@@ -130,7 +130,7 @@
 | whisper | 开源，OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | [GitHub](https://github.com/openai/whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/whisper?style=social) | 免费 |
 | buzz | 开源，基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件，使用CPU进行处理 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| 免费 |
 | WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快。使用介绍：https://www.appinn.com/const-me-whisper/|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|免费|
-| whisperX| 开源，一位来自牛津大学的博士生Max Bain开源的模型，WhisperX可以按照单词对齐时间戳，**基本上生成的字幕都是完整的句子**。还能识别发言人，准确率还可以。使用示例：</br> 1. **在google colab上使用whisperX生成youtube视频字幕的代码**：[whisperx_youtube_subtitle](https://github.com/JimLiu/whisper-subtitles/blob/main/whisperx_youtube_subtitle.ipynb)，可以免费使用colab的GPU，使用GPU T4，2小时40分钟的视频字幕生成6分钟左右，挺快的。| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |免费|
+| whisperX| 开源，一位来自牛津大学的博士生Max Bain开源的模型，WhisperX可以按照单词对齐时间戳，**基本上生成的字幕都是完整的句子**。里面有每一行里面单词的时间戳，可以根据需要二次整理字幕。还能识别发言人，准确率还可以。使用示例：</br> 1. **在google colab上使用whisperX生成youtube视频字幕的代码**：[whisperx_youtube_subtitle](https://github.com/JimLiu/whisper-subtitles/blob/main/whisperx_youtube_subtitle.ipynb)，可以免费使用colab的GPU，使用GPU T4，2小时40分钟的视频字幕生成6分钟左右，挺快的。| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |免费|
 | 飞书秒记 | 上传视频或者音频可转录为文字，并可一键导出到飞书文档。处理速度很快，一个将近 2 个多小时的视频，约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes)| 免费，有企业付费版|
 
 ### 语音合成
