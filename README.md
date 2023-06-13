@@ -100,3 +100,5 @@ This repo collects AI-related utilities.
 | Chat Youtube | Give a Youtube link, it will give a summary, and you can ask it questions about the content of the video |[URL](https://chatyoutube.com) | Free |
 
 Awesome-AITools Discord Link: https://discord.gg/7hAvJQME
+
+<a href="https://www.buymeacoffee.com/AwesomeAITools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
