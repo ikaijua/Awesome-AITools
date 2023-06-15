@@ -17,6 +17,7 @@
 - [图像创作](#图像创作)
 - [语音识别-生成字幕](#语音识别-生成字幕)
 - [语音合成](#语音合成)
+- [语音处理](#语音处理)
 - [影音创作](#影音创作)
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
@@ -140,6 +141,11 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 |so-vits-svc| So-vits-svc（也称Sovits）是基于VITS、soft-vc、VISinger2等一系列项目开发的一款开源免费 AI 语音转换软件，用户只需准备几十分钟到几个小时不等的语音或歌声数据，就能制作属于自己的 AI 声库，将一段语音或歌声转换为你想要的音色。[更多介绍](https://zh.moegirl.org.cn/zh-hans/So-vits-svc) </br> [B站视频：手把手教学！如何自己训练一个AI歌手 - sovits本地&云端训练教程](https://www.bilibili.com/video/BV1ea4y1G7gx)|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|免费|
+
+### 语音处理
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- | 
+|lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|免费/付费|
 
 ### 影音创作
 | 名称 | 说明 | 链接 | 费用 | 
