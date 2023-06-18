@@ -14,7 +14,7 @@ This repo collects AI-related utilities.
 - [AI Voice Conversation](#ai-voice-conversation)
 - [Image Creation](#image-creation)
 - [Speech Recognition](#speech-recognition)
-- [Voice Processing](voice-processing)
+- [Voice Processing](#voice-processing)
 - [Video Creation](#video-creation)
 - [Video Content Summary](#video-content-summary)
 
@@ -109,6 +109,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- | 
 |so-vits-svc| SoftVC VITS Singing Voice Conversion.|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|免费|
+|vocalremover| Extract vocal and music|[URL](https://vocalremover.org/)|Free|
 |lala.ai|Extract vocal, accompaniment and various instruments from any audio and video|[URL](https://www.lalal.ai/)|Free/Paid|
 
 
