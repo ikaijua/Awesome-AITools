@@ -3,22 +3,32 @@ English | [中文](README-CN.md)
 This repo collects AI-related utilities. 
 
 ## All Categories
+- [ChatGPT and other LLMs](#chatgpt-and-other-llms)
 - [ChatGPT Applications](#chatgpt-applications)
+- [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
 - [AutoGPT](#autogpt)
 - [Search Engine](#search-engine)
 - [Writing](#writing)
 - [Programming Development](#programming-development)
 - [Translation](#translation)
-- [Voice Conversation](#voice-conversation)
+- [AI Voice Conversation](#ai-voice-conversation)
 - [Image Creation](#image-creation)
 - [Speech Recognition](#speech-recognition)
+- [Voice Processing](voice-processing)
 - [Video Creation](#video-creation)
 - [Video Content Summary](#video-content-summary)
 
-### ChatGPT Applications
+### ChatGPT and other LLMs
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| chatgpt | openAI's chatgpt | [URL](https://chat.openai.com) | Free, with paid upgrades | 
+| ChatGPT | openAI's chatgpt | [URL](https://chat.openai.com) | Free, with paid upgrades | 
+| New Bing | Microsoft's new bing.[more](https://blogs.microsoft.com/blog/2023/05/04/announcing-the-next-wave-of-ai-innovation-with-microsoft-bing-and-edge/?icid=mscom_marcom_H1a_MPH1a_BingAI) | [URL](https://www.bing.com/new) | Free | 
+| Claude| Anthropic's AI assistant，can use on Slack|[URL](https://www.anthropic.com/product)| Free|
+| Bard | Google's conversational, AI chat service| [URL](https://bard.google.com/)|Free|
+
+### ChatGPT Applications
+| Name | Description | Links | Fees | 
+-|-|-|-
 | Chatbox | Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version| [GitHub](https://github.com/Bin-Huang/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)| Free, requires [apikey with OpenAPI](https://platform.openai.com/account/api-keys)|
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free, with paid upgrades|
 | ChatGPT-Shortcut | Open source, ChatGPT shortcut commands that double productivity, partitioned by domain and function, can filter prompt words by tag, keyword search and one-click copy. |[GitHub](https://github.com/rockbenben/ChatGPT-Shortcut) ![GitHub Repo stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social)|Free|
@@ -26,6 +36,12 @@ This repo collects AI-related utilities.
 | WebChatGPT | Open source, expand the ability of networking to chatgpt | [GitHub](https://github.com/qunash/chatgpt-advanced) </br>![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)| Free|
 | AIPRM for ChatGPT |Browser plug-in, providing a series of selected ChatGPT instruction templates, and even creating your own, and adjusting AI tone and writing style| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | Free|
 | GPTCache |⚡ GPTCache is a library for creating semantic cache to store responses from LLM queries. It can be used to speed up and lower the cost of chat applications that rely on the LLM service. And it's similar to redis in an aigc scenario.| [Github](https://github.com/zilliztech/GPTCache) </br>![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| Free|
+
+### Applications that integrate multiple LLMs
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | ---- |
+| chathub | Use different chatbots in one app, currently supporting ChatGPT, new Bing Chat, Google Bard, Claude, and 10+ open-source models including Alpaca, Vicuna, ChatGLM etc. | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|Free/Paid|
+| ChatALL | Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, and more, discover the best answers| [GitHub](https://github.com/sunner/ChatALL)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|Free|
 
 ### AutoGPT
 | Name | Description | Links | Fees |  
@@ -61,7 +77,7 @@ This repo collects AI-related utilities.
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | [URL](https://www.deepl.com/translator) | Free/Paid
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/yetone/openai-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| Free, requires OpenAI API key |
 
-### Voice Conversation
+### AI Voice Conversation
 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
@@ -76,21 +92,33 @@ This repo collects AI-related utilities.
 | Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| Free|
 | visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free
 | Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | [URL](https://www.bing.com/images/create) | Free|
+| remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
+
 
 ### Speech Recognition
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | whisper | OpenAPI open source robust speech recognition model through large-scale weak supervision | [GitHub](https://github.com/openai/whisper) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/openai/whisper?style=social)| Free |
 | buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | [GitHub](https://github.com/chidiwilliams/buzz) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| Free |
+| WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快。使用介绍：https://www.appinn.com/const-me-whisper/|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|免费|
+| whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
+| whisper-web | ML-powered speech recognition directly in your browser. Built with [Transformers.js](https://github.com/xenova/transformers.js). [Demo](https://huggingface.co/spaces/Xenova/whisper-web) | [GitHub](https://github.com/xenova/whisper-web) ![GitHub Repo stars](https://img.shields.io/github/stars/xenova/whisper-web?style=social)|Free|
 
 
-## Video Creation
+### Voice Processing
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- | 
+|so-vits-svc| SoftVC VITS Singing Voice Conversion.|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|免费|
+|lala.ai|Extract vocal, accompaniment and various instruments from any audio and video|[URL](https://www.lalal.ai/)|Free/Paid|
+
+
+### Video Creation
 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
+| capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid, use a certain amount of free trial |
-
 
 
 ### Video Content Summary
