@@ -11,7 +11,7 @@ This repo collects AI-related utilities.
 - [Writing](#writing)
 - [Programming Development](#programming-development)
 - [Translation](#translation)
-- [AI Voice Conversation](#ai-voice-conversation)
+- [AI Conversation or AI Voice Conversation](#ai-conversation-or-ai-voice-conversation)
 - [Image Creation](#image-creation)
 - [Speech Recognition](#speech-recognition)
 - [Voice Processing](#voice-processing)
@@ -78,10 +78,11 @@ This repo collects AI-related utilities.
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | [URL](https://www.deepl.com/translator) | Free/Paid
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/yetone/openai-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| Free, requires OpenAI API key |
 
-### AI Voice Conversation
+### AI Conversation or AI Voice Conversation
 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
+| heypi | An AI that's been shown to be very good at chatting, so you don't have to worry about talking all day. It supports both text and speech. Voice input is required with Apple's input system. Good for practicing English conversation and listening.| [URL](https://heypi.com/) | Free|
 |Voice Control for ChatGPT | This Chrome extension allows you to have voice conversations with ChatGPT. | [URL](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) | Free, requires chatgpt account  | 
 |SpeechGPT|SpeechGPT is a web application that enables you to converse with ChatGPT.|[GitHub](https://github.com/hahahumble/speechgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|Free，requires OpenAI API key|
 
