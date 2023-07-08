@@ -82,7 +82,7 @@ This repo collects AI-related utilities.
 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| heypi | An AI that's been shown to be very good at chatting, so you don't have to worry about talking all day. It supports both text and speech. Voice input is required with Apple's input system. Good for practicing English conversation and listening.| [URL](https://heypi.com/) | Free|
+| pi.ai | An AI that's been shown to be very good at chatting, so you don't have to worry about talking all day. It supports both text and speech. Voice input is required with Apple's input system. Good for practicing English conversation and listening.| [URL](https://pi.ai/) | Free|
 |Voice Control for ChatGPT | This Chrome extension allows you to have voice conversations with ChatGPT. | [URL](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) | Free, requires chatgpt account  | 
 |SpeechGPT|SpeechGPT is a web application that enables you to converse with ChatGPT.|[GitHub](https://github.com/hahahumble/speechgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|Free，requires OpenAI API key|
 
