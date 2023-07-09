@@ -14,6 +14,7 @@ This repo collects AI-related utilities.
 - [AI Conversation or AI Voice Conversation](#ai-conversation-or-ai-voice-conversation)
 - [Image Creation](#image-creation)
 - [Speech Recognition](#speech-recognition)
+- [Text To Speech](#text-to-speech)
 - [Voice Processing](#voice-processing)
 - [Video Creation](#video-creation)
 - [Video Content Summary](#video-content-summary)
@@ -109,6 +110,10 @@ This repo collects AI-related utilities.
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
 | whisper-web | ML-powered speech recognition directly in your browser. Built with [Transformers.js](https://github.com/xenova/transformers.js). [Demo](https://huggingface.co/spaces/Xenova/whisper-web) | [GitHub](https://github.com/xenova/whisper-web) ![GitHub Repo stars](https://img.shields.io/github/stars/xenova/whisper-web?style=social)|Free|
 
+### Text To Speech
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- | 
+| Azure Text to speech| The best and most realistic voice tools currently available| [URL](https://speech.microsoft.com/portal/voicegallery) |Paid / 500,000 characters per month free|
 
 ### Voice Processing
 | Name | Description | Links | Fees | 
