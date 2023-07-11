@@ -147,7 +147,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 | 微软Azure 文本转语音| 目前最好用最真实的语音工具，包括自媒体配音最常见的云希和晓晓的声音；</br>教程：[免费使用微软的Azure；Azure使用详细教程](https://www.youtube.com/watch?v=YzNfMY_oqhA)| [URL](https://speech.microsoft.com/portal/voicegallery) |付费/每个月有50万字符的免费额度|
-| 配音神器 | 有网页端、windows客户端工具，使用比较方便 |[URL](https://peiyinshenqi.club/)|大部分免费/有付费功能|
+| 配音神器 | 有网页端、windows客户端工具，使用比较方便 |[URL](https://peiyinshenqi.club/)|付费/非 VIP 每天可试用 5 次|
 
 ### 语音合成
 | 名称 | 说明 | 链接 | 费用 | 
