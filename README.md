@@ -24,7 +24,7 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT | openAI's chatgpt | [URL](https://chat.openai.com) | Free, with paid upgrades | 
 | New Bing | Microsoft's new bing.[more](https://blogs.microsoft.com/blog/2023/05/04/announcing-the-next-wave-of-ai-innovation-with-microsoft-bing-and-edge/?icid=mscom_marcom_H1a_MPH1a_BingAI) | [URL](https://www.bing.com/new) | Free | 
-| Claude| Anthropic's AI assistant，can use on Slack|[URL](https://www.anthropic.com/product)| Free|
+| Claude| Anthropic's AI assistant|[URL](https://www.anthropic.com/product)| Free|
 | Bard | Google's conversational, AI chat service| [URL](https://bard.google.com/)|Free|
 
 ### ChatGPT Applications
