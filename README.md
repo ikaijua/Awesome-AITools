@@ -3,7 +3,8 @@ English | [中文](README-CN.md)
 This repo collects AI-related utilities. 
 
 ## All Categories
-- [ChatGPT and other LLMs](#chatgpt-and-other-llms)
+- [ChatGPT and other other-closed LLMs](#chatgpt-and-other-closed-source-llms)
+- [Open Source LLMs](#open-source-llms)
 - [ChatGPT Applications](#chatgpt-applications)
 - [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
 - [AutoGPT](#autogpt)
@@ -19,13 +20,18 @@ This repo collects AI-related utilities.
 - [Video Creation](#video-creation)
 - [Video Content Summary](#video-content-summary)
 
-### ChatGPT and other LLMs
+### ChatGPT and other closed-source LLMs
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT | openAI's chatgpt | [URL](https://chat.openai.com) | Free, with paid upgrades | 
 | New Bing | Microsoft's new bing.[more](https://blogs.microsoft.com/blog/2023/05/04/announcing-the-next-wave-of-ai-innovation-with-microsoft-bing-and-edge/?icid=mscom_marcom_H1a_MPH1a_BingAI) | [URL](https://www.bing.com/new) | Free | 
 | Claude| Anthropic's AI assistant|[URL](https://www.anthropic.com/product)| Free|
 | Bard | Google's conversational, AI chat service| [URL](https://bard.google.com/)|Free|
+
+### Open Source LLMs
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| Llama 2 | Llama2 is a large language model developed by Meta AI. It is the successor to Meta's Llama1 language model. Llama2 is an open-source LLM that is available for free for research and commercial use. <br>Unofficial Llama2 online test address:<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| Free |
 
 ### ChatGPT Applications
 | Name | Description | Links | Fees | 
