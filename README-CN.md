@@ -3,7 +3,8 @@
 这个仓库整理AI相关的实用工具。
 
 ## 全部分类
-- [ChatGPT及类似商用大语言模型](#chatgpt及类似商用大语言模型)
+- [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
+- [开源大语言模型](#开源大语言模型)
 - [ChatGPT 应用](#chatgpt应用)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
@@ -34,7 +35,7 @@
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions/8)
 - [AI工具交流群](#ai工具交流群)
 
-### ChatGPT及类似商用大语言模型
+### ChatGPT及类似闭源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT | openAI的chatgpt </br>应用示例：</br> [B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | GPT3.5免费。ChatPlus会员20美元/月，可以使用GPT-4，目前的上限是每3小时25条消息。| 
@@ -43,6 +44,11 @@
 | Bard | Google 的大语言模型，目前已支持中文等40多种语言| [URL](https://bard.google.com/)|免费|
 |通义千问|阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|需要邀请码|
 |文心一言|百度的大语言模型|[URL](https://yiyan.baidu.com/welcome)|需要申请等待|
+
+### 开源大语言模型
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+| Llama 2 | Llama2是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v2版本，可免费用于研究和商业用途。 <br>非官方Llama2在线测试地址：<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| 免费  | 
 
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 
