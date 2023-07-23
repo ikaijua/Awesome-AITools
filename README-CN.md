@@ -5,6 +5,7 @@
 ## 全部分类
 - [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
 - [开源大语言模型](#开源大语言模型)
+- [大语言模型训练-评估平台](#大语言模型训练-评估平台)
 - [ChatGPT 应用](#chatgpt应用)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
@@ -49,6 +50,12 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | Llama 2 | Llama2是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v2版本，可免费用于研究和商业用途。 <br>非官方Llama2在线测试地址：<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| 免费  | 
+
+### 大语言模型训练-评估平台
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
 
 ### ChatGPT应用
 | 名称 | 说明 | 链接 | 费用 | 

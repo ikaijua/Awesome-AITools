@@ -5,6 +5,7 @@ This repo collects AI-related utilities.
 ## All Categories
 - [ChatGPT and other other-closed LLMs](#chatgpt-and-other-closed-source-llms)
 - [Open Source LLMs](#open-source-llms)
+- [LLM training platform](#llm-training-platform)
 - [ChatGPT Applications](#chatgpt-applications)
 - [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
 - [AutoGPT](#autogpt)
@@ -32,6 +33,12 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
 | Llama 2 | Llama2 is a large language model developed by Meta AI. It is the successor to Meta's Llama1 language model. Llama2 is an open-source LLM that is available for free for research and commercial use. <br>Unofficial Llama2 online test address:<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| Free |
+
+### LLM training platform
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
 
 ### ChatGPT Applications
 | Name | Description | Links | Fees | 
