@@ -50,6 +50,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | Llama 2 | Llama2是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v2版本，可免费用于研究和商业用途。 <br>非官方Llama2在线测试地址：<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| 免费  | 
+| Qwen-7B (通义千问-7B)  |阿里云研发的通义千问大模型系列的70亿参数规模的模型。 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) | [GitHub](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)| 免费  | 
 
 ### 大语言模型训练-评估平台
 | Name | Description | Links | Fees |
