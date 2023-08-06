@@ -21,6 +21,7 @@
 - [文字转语音](#文字转语音)
 - [语音合成](#语音合成)
 - [语音处理](#语音处理)
+- [AI生成音频-音效-音乐](#ai生成音频-音效-音乐)
 - [影音创作](#影音创作)
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
@@ -175,6 +176,11 @@
 | ---- | ----------------------------- | --- | --- | 
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|免费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|有免费的试用额度/付费|
+
+### AI生成音频-音效-音乐
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- | 
+|audiocraft|Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|免费|
 
 ### 影音创作
 | 名称 | 说明 | 链接 | 费用 | 
