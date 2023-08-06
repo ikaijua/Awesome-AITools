@@ -142,7 +142,8 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
-| d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid, use a certain amount of free trial |
+| d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
+| HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 
 
 ### Video Content Summary
