@@ -185,7 +185,7 @@
 ### 影音创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
-| Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频  | [URL](https://runwayml.com/) | 付费/Free trial|
+| Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频  | [URL](https://runwayml.com/) | 付费/有一定的免费试用额度|
 | 剪映 |字幕生成语音、识别语音、一键图文成片，还有很便捷、强大的视频剪辑功能|[URL](https://www.capcut.cn/)|免费/vip|
 | Fliki | 將文字生成音频和视频的网站 | [URL](https://fliki.ai) | 免费/付费 |
 | d-id | 根据文字生成数字人的配音视频 | [URL](https://studio.d-id.com) | 付费，有一定的免费试用额度 |
