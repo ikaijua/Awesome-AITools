@@ -141,6 +141,7 @@ This repo collects AI-related utilities.
 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
+| Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video  | [URL](https://runwayml.com/) | Paid/Free trial|
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
