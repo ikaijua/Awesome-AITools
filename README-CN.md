@@ -44,6 +44,7 @@
 | New Bing | 只需注册一个账户，首页即可体验。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/8#discussioncomment-5812364) | [URL](https://www.bing.com/new) | 免费 | 
 | Claude|Anthropic研发的AI助手Claude|[URL](https://www.anthropic.com/product)| 免费|
 | Bard | Google 的大语言模型，目前已支持中文等40多种语言| [URL](https://bard.google.com/)|免费|
+| 豆包 | 字节跳动旗下的AI聊天软件 ; <br>体验测试视频：[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
 |通义千问|阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|需要邀请码|
 |文心一言|百度的大语言模型|[URL](https://yiyan.baidu.com/welcome)|需要申请等待|
 
