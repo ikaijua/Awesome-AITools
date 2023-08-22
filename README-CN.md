@@ -34,7 +34,7 @@
 - [chatgpt相关文章](#chatgpt相关文章)
 
 ## 其他
-- [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions/8)
+- [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
 - [AI工具交流群](#ai工具交流群)
 
 ### ChatGPT及类似闭源大语言模型
