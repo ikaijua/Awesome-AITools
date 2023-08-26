@@ -146,6 +146,7 @@
 | Stable diffusion webui | 开源项目，输入文字或图片进行图片创作， Stable diffusion webui是Stable diffusion的GUI是将stable diffusion实现可视化的图像用户操作界面，它本身还集成了很多其它有用的扩展脚本。<br>新手入门教程：https://www.bilibili.com/video/BV1Qo4y167AK/ </br> AI风格化视频或AI真人视频的效果：</br>1. [【AI动画】欣小萌天台蹦迪 动画版](https://www.bilibili.com/video/BV1RL411U7wR)，</br>2. [死磕真人AI动作，人物和背景的终于不闪了，你们觉得哪个更好点？](https://www.bilibili.com/video/BV1Fs4y1V7f7)</br>3. [5分钟，教会你如何生成AI动画](https://www.bilibili.com/video/BV13s4y1D7Ni)| [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| 免费|
 | 文心一格 | 百度旗下的文生图和AI图片编辑应用| [URL](https://yige.baidu.com/)| 免费/付费 |
 | clipdrop | stability.ai 公司旗下的图像处理网站，包含文生图、AI扩图、图生图、去除背景等功能 | [URL](https://clipdrop.co/)| 免费/ 付费|
+| ideogram.ai | AI 文字生成图片的网站。前谷歌AI绘画4位大牛创立的公司推出的产品 | [URL](https://ideogram.ai/) | 免费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://skybox.blockadelabs.com/)| 免费/ 付费|
 |DragGAN|一种新的交互式图像编辑方法，允许用户通过简单地在图像上点击并拖动点来进行编辑|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|免费|
 | visual-chatgpt | 通过 ChatGPT 创作图片 | [GitHub](https://github.com/microsoft/visual-chatgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social) | 免费 
