@@ -27,14 +27,14 @@
 - [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
 
+## AI新闻动态
+- [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
+
 ## 评测
 - [大语言模型评测](#大语言模型评测)
 
 ## 精选文章
 - [chatgpt相关文章](#chatgpt相关文章)
-
-## 其他
-- [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
 
 ### ChatGPT及类似闭源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
