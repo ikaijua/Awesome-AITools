@@ -35,7 +35,6 @@
 
 ## 其他
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
-- [AI工具交流群](#ai工具交流群)
 
 ### ChatGPT及类似闭源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
@@ -236,9 +235,6 @@ Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论�
 
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
-### AI工具交流群
-
-交流一些AI工具的使用经验，群已满200人，请加微信 XFIechazoK12，拉你进群。
 
 如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！
 
