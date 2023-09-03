@@ -46,13 +46,15 @@
 | Bard | Google 的大语言模型，目前已支持中文等40多种语言| [URL](https://bard.google.com/)|免费|
 | 豆包 | 字节跳动旗下的AI聊天软件 ; <br>体验测试视频：[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
 |通义千问|阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|需要邀请码|
-|文心一言|百度的大语言模型|[URL](https://yiyan.baidu.com/welcome)|需要申请等待|
+|文心一言|百度的大语言模型|[URL](https://yiyan.baidu.com/)|免费|
+|智谱AI | 名为 ChatGLM 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发 | [URL](https://open.bigmodel.cn/)| 免费|
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | Llama 2 | Llama2是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v2版本，可免费用于研究和商业用途。 <br>非官方Llama2在线测试地址：<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| 免费  | 
 | Qwen-7B (通义千问-7B)  |阿里云研发的通义千问大模型系列的70亿参数规模的模型。 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) | [GitHub](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)| 免费  | 
+| ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
 
 ### 大语言模型训练-评估平台
 | Name | Description | Links | Fees |
