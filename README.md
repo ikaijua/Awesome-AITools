@@ -131,6 +131,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- | 
 | Azure Text to speech| The best and most realistic voice tools currently available| [URL](https://speech.microsoft.com/portal/voicegallery) |Paid / 500,000 characters per month free|
+| coqui-ai/tts | A deep learning toolkit for Text-to-Speech, battle-tested in research and production | [Github](https://github.com/coqui-ai/tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) | Free|
 
 ### Voice Processing
 | Name | Description | Links | Fees | 
