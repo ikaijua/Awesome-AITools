@@ -144,7 +144,7 @@ This repo collects AI-related utilities.
 ### AI generated music or sound effects
 | Name | Description | Link | Fees |
 | ---- | -------------------------- | --- | --- |
-|audiocraft|Open source library for audio/music generation by Meta, which mainly includes two models, MusicGen: text-to-music model, AudioGen: text-generated sound model. [MusicGen Online Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https:/ /img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|Free|
+|audiocraft|Open source library for audio/music generation by Meta, which mainly includes two models, MusicGen: text-to-music model, AudioGen: text-generated sound model. [MusicGen Online Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|Free|
 |Stable Audio|AI music and sound effect generation application by stability.ai|[URL](https://www.stableaudio.com/)|Free/Paid|
 
 ### Video Creation
