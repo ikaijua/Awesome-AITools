@@ -19,6 +19,7 @@ This repo collects AI-related utilities.
   - [Speech Recognition](#speech-recognition)
   - [Text To Speech](#text-to-speech)
   - [Voice Processing](#voice-processing)
+  - [AI generated music or sound effects](#ai-generated-music-or-sound-effects)
   - [Video Creation](#video-creation)
   - [Video Content Summary](#video-content-summary)
 
@@ -140,6 +141,11 @@ This repo collects AI-related utilities.
 |vocalremover| Extract vocal and music|[URL](https://vocalremover.org/)|Free|
 |lala.ai|Extract vocal, accompaniment and various instruments from any audio and video|[URL](https://www.lalal.ai/)|Free/Paid|
 
+### AI generated music or sound effects
+| Name | Description | Link | Fees |
+| ---- | -------------------------- | --- | --- |
+|audiocraft|Open source library for audio/music generation by Meta, which mainly includes two models, MusicGen: text-to-music model, AudioGen: text-generated sound model. [MusicGen Online Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https:/ /img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|Free|
+|Stable Audio|AI music and sound effect generation application by stability.ai|[URL](https://www.stableaudio.com/)|Free/Paid|
 
 ### Video Creation
 
