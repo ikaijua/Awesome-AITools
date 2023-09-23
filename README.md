@@ -52,7 +52,6 @@ This repo collects AI-related utilities.
 | WebChatGPT | Open source, expand the ability of networking to chatgpt | [GitHub](https://github.com/qunash/chatgpt-advanced) </br>![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)| Free|
 | AIPRM for ChatGPT |Browser plug-in, providing a series of selected ChatGPT instruction templates, and even creating your own, and adjusting AI tone and writing style| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | Free|
 | GPTCache |⚡ GPTCache is a library for creating semantic cache to store responses from LLM queries. It can be used to speed up and lower the cost of chat applications that rely on the LLM service. And it's similar to redis in an aigc scenario.| [Github](https://github.com/zilliztech/GPTCache) </br>![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| Free|
-| scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
 
 ### Applications that integrate multiple LLMs
 | Name | Description | Links | Fees | 
@@ -87,6 +86,7 @@ This repo collects AI-related utilities.
 | ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)| Free, requires OpenAI API key|
 | Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
 |gpt-engineer|GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Free|
+| scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
 
 ### Translation
 | Name | Description | Links | Fees |  
