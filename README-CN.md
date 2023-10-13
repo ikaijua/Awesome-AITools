@@ -124,7 +124,7 @@
 | ai-code-translator   | 利用chatgpt将代码从一种语言翻译成另一种语言。| [GitHub](https://github.com/mckaywrigley/ai-code-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social) | 免费，需要OpenAI API key|
 | Amazon CodeWhisperer | 亚马逊开放的AI编程辅助工具，根据你的注释和现有代码，实时生成从片段到完整功能的代码建议。在各种IDE的插件中可以安装,支持15种语言, 包括 Python, Java, and JavaScript等。只需要按照流程注册一个aws builder账号即可。| [URL](https://aws.amazon.com/cn/codewhisperer)| 免费|
 |gpt-engineer|一个根据指示生成代码的AI工具，能直接构建整个代码库。[B站上的介绍演示视频：gpt-engineer：100%替代程序员的AI程序员来了...](https://www.bilibili.com/video/BV1Da4y1w7Tk/)|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|免费|
-
+|flappy|一个产品级面向所有程序员的LLM SDK|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |免费|
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 | 
