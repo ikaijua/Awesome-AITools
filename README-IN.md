@@ -50,6 +50,7 @@
 | वेबचैटजीपीटी | खुला स्रोत, नेटवर्किंग की क्षमता को चैटजीपीटी तक विस्तारित करें | [GitHub](https://github.com/qunash/chatgpt-advanced) </br>![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)| मुफ्त |
 | चैटजीपीटी के लिए AIPRM | ब्राउज़र प्लग-इन, चयनित चैटजीपीटी निर्देश टेम्पलेट की एक श्रृंखला प्रदान करने, और यहाँ तक कि आपके खुद के बना सकते हैं, और एआई टोन और लेखन शैली को समायोजित कर सकते हैं | [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | मुफ्त |
 | जीपीटीकैश | ⚡ जीपीटीकैश एक लाइब्रेरी है जिसका उपयोग एलएलएम क्वेरियों से आये उत्तरों को समांतर चैच के रूप में स्थान देने के लिए किया जाता है। यह चैट एप्लिकेशनों की गति और लागत को कम करने में मदद करने के लिए उपयोग किया जा सकता है जिनका आधार एलएलएम सेवा पर होता है। और यह एक ऐग्सी स्थिति में रेडिस के समान होता है।| [Github](https://github.com/zilliztech/GPTCache) </br>![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| मुफ्त |
+| माइंडमैक | अधिकतम उत्पादकता के लिए डिज़ाइन किए गए OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter सभी को एक ही स्थान पर उपयोग करने के लिए macOS के लिए सुविधा संपन्न और गोपनीयता-पहला देशी ChatGPT ऐप। वर्तमान में 15 भाषाओं में उपलब्ध है। | [URL](https://mindmac.app/) | मुफ्त, भुगतान के साथ अपग्रेड |
 
 ### विभिन्न भाषामॉडलों का एकत्रण करने वाले अनुप्रयोग
 | नाम | विवरण | लिंक | शुल्क | 
