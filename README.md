@@ -1,3 +1,8 @@
+<div align="center">
+    <h1>Awesome AI Tools</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
+
 English | [中文](README-CN.md) | [हिन्दी](README-IN.md)
 
 This repo collects AI-related utilities. 
