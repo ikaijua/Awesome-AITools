@@ -178,7 +178,7 @@
 | ---- | ----------------------------- | --- | --- | 
 | 微软Azure 文本转语音| 目前最好用最真实的语音工具，包括自媒体配音最常见的云希和晓晓的声音；</br>教程：[免费使用微软的Azure；Azure使用详细教程](https://www.youtube.com/watch?v=YzNfMY_oqhA)| [URL](https://speech.microsoft.com/portal/voicegallery) |付费/每个月有50万字符的免费额度|
 | 配音神器 | 有网页端、windows客户端工具，使用比较方便 |[URL](https://peiyinshenqi.club/)|付费/非 VIP 每天可试用 5 次|
-| coqui-ai/tts | 用于文本到语音的深度学习工具包 | [Github](https://github.com/coqui-ai/tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) | 免费|
+| coqui-ai/tts | 用于文本到语音的深度学习工具包 <br> 在线体验Demo网页：https://huggingface.co/spaces/coqui/xtts| [Github](https://github.com/coqui-ai/tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) | 免费|
 | elevenlabs | 文字转语音的服务，提供多种语言 |[URL](https://elevenlabs.io/)|免费/付费|
 
 ### 语音合成
