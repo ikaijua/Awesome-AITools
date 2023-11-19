@@ -180,6 +180,8 @@
 | 配音神器 | 有网页端、windows客户端工具，使用比较方便 |[URL](https://peiyinshenqi.club/)|付费/非 VIP 每天可试用 5 次|
 | coqui-ai/tts | 用于文本到语音的深度学习工具包 <br> 在线体验Demo网页：https://huggingface.co/spaces/coqui/xtts| [Github](https://github.com/coqui-ai/tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) | 免费|
 | elevenlabs | 文字转语音的服务，提供多种语言 |[URL](https://elevenlabs.io/)|免费/付费|
+| netease-youdao/EmotiVoice | EmotiVoice是一个强大的开源TTS引擎，支持中英文双语，包含2000多种不同的音色，以及特色的情感合成功能，支持合成包含快乐、兴奋、悲伤、愤怒等广泛情感的语音。|[Github](https://github.com/netease-youdao/EmotiVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social)| Free|
+
 
 ### 语音合成
 | 名称 | 说明 | 链接 | 费用 | 
