@@ -143,6 +143,7 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- | 
 | Azure Text to speech| The best and most realistic voice tools currently available| [URL](https://speech.microsoft.com/portal/voicegallery) |Paid / 500,000 characters per month free|
 | coqui-ai/tts | A deep learning toolkit for Text-to-Speech, battle-tested in research and production <br> Online Demo: https://huggingface.co/spaces/coqui/xtts| [Github](https://github.com/coqui-ai/tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) | Free|
+| elevenlabs | Intelligent AI Text to Speech |[URL](https://elevenlabs.io/)|Free/Paid|
 | netease-youdao/EmotiVoice | A Multi-Voice and Prompt-Controlled TTS Engine. EmotiVoice speaks both English and Chinese, and with over 2000 different voices. The most prominent feature is emotional synthesis, allowing you to create speech with a wide range of emotions, including happy, excited, sad, angry and others.|[Github](https://github.com/netease-youdao/EmotiVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social)| Free|
 
 ### Voice Processing
