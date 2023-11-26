@@ -12,9 +12,9 @@ This repo collects AI-related utilities.
   - [ChatGPT and other closed-source LLMs](#chatgpt-and-other-closed-source-llms)
   - [Open Source LLMs](#open-source-llms)
   - [LLM training platform](#llm-training-platform)
-  - [ChatGPT Applications](#chatgpt-applications)
+  - [GPT Applications](#gpt-applications)
   - [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
-  - [AutoGPT](#autogpt)
+  - [AI Agent](#ai-agent)
   - [Search engine](#search-engine)
   - [Writing](#writing)
   - [Programming Development](#programming-development)
@@ -47,11 +47,13 @@ This repo collects AI-related utilities.
 | FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
 
-### ChatGPT Applications
+### GPT Applications
 | Name | Description | Links | Fees | 
 -|-|-|-
-| Chatbox | Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version| [GitHub](https://github.com/Bin-Huang/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)| Free, requires [apikey with OpenAPI](https://platform.openai.com/account/api-keys)|
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free, with paid upgrades|
+| screenshot-to-code | This simple app converts a screenshot to HTML/Tailwind CSS. It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar-looking images. You can now also enter a URL to clone a live website! | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)https://github.com/abi/screenshot-to-code| Free, need access to GPT-4 Vision|
+| Chatbox | Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version| [GitHub](https://github.com/Bin-Huang/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)| Free, requires [apikey with OpenAPI](https://platform.openai.com/account/api-keys)|
+| gpt-crawler | Crawl a site to generate knowledge files to create your own custom GPT from a URL | [Github](https://github.com/BuilderIO/gpt-crawler)![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=social)| Free |
 | ChatGPT-Shortcut | Open source, ChatGPT shortcut commands that double productivity, partitioned by domain and function, can filter prompt words by tag, keyword search and one-click copy. |[GitHub](https://github.com/rockbenben/ChatGPT-Shortcut) ![GitHub Repo stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social)|Free|
 |ChatGPT Sidebar|ChatGPT Sidebar is an artificial intelligence assistant you can use while browsing any website. |[URL](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)|Free|
 | WebChatGPT | Open source, expand the ability of networking to chatgpt | [GitHub](https://github.com/qunash/chatgpt-advanced) </br>![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)| Free|
@@ -65,7 +67,7 @@ This repo collects AI-related utilities.
 | chathub | Use different chatbots in one app, currently supporting ChatGPT, new Bing Chat, Google Bard, Claude, and 10+ open-source models including Alpaca, Vicuna, ChatGLM etc. | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|Free/Paid|
 | ChatALL | Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, and more, discover the best answers| [GitHub](https://github.com/sunner/ChatALL)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|Free|
 
-### AutoGPT
+### AI Agent
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
 |Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
