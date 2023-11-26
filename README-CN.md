@@ -10,7 +10,7 @@
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
 - [AI工具箱类软件](#ai工具箱类软件)
-- [AutoGPT](#autogpt)
+- [AI Agent](#ai-agent)
 - [搜索引擎](#搜索引擎)
 - [写作](#写作)
 - [编程开发](#编程开发)
@@ -96,7 +96,7 @@
 | ---- | ----------------------------- | --- | --- |
 |Paper2GUI|一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。</br>[B站视频介绍：补帧超分抠图配音，这个开源AI工具箱对小白太友好了！](https://www.bilibili.com/video/BV1jY411u7yU/)|[GitHub](https://github.com/Baiyuetribe/paper2gui) ![GitHub Repo stars](https://img.shields.io/github/stars/Baiyuetribe/paper2gui?style=social)|免费|
 
-### AutoGPT
+### AI Agent
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 |Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
