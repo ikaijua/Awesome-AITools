@@ -19,6 +19,7 @@
 - [图像创作](#图像创作)
 - [语音识别-生成字幕](#语音识别-生成字幕)
 - [文字转语音](#文字转语音)
+- [语音翻译](#语音翻译)
 - [语音合成](#语音合成)
 - [语音处理](#语音处理)
 - [AI生成音频-音效-音乐](#ai生成音频-音效-音乐)
@@ -187,6 +188,10 @@
 | elevenlabs | 文字转语音的服务，提供多种语言 |[URL](https://elevenlabs.io/)|免费/付费|
 | netease-youdao/EmotiVoice | EmotiVoice是一个强大的开源TTS引擎，支持中英文双语，包含2000多种不同的音色，以及特色的情感合成功能，支持合成包含快乐、兴奋、悲伤、愤怒等广泛情感的语音。|[Github](https://github.com/netease-youdao/EmotiVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social)| Free|
 
+### 语音翻译
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- | 
+| Seamless |可以实时翻译100多种语言，延迟不到2秒钟，说话者仍在讲话时就开始翻译。Seamless翻译不仅仅是文字上的转换，还能保持说话者的情感和语气、语调等，使得翻译后的语音更加自然和真实。Seamless模型统一了SeamlessExpressive、SeamlessStreaming和SeamlessM4T v2的功能。旨在实现多语言、表达性和流畅的语音翻译。在线体验[Demo地址](https://seamless.metademolab.com/expressive?utm_source=metaai&utm_medium=web&utm_campaign=fair10&utm_content=blog)|[Github](https://github.com/facebookresearch/seamless_communication) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social)|Free|
 
 ### 语音合成
 | 名称 | 说明 | 链接 | 费用 | 
