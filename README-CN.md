@@ -101,6 +101,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 |Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
+|OthersideAI/self-operating-computer|一个使用多模态模型（默认模型为GPT-4v）能够操作计算机的框架|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|免费，需要GPT-4v|
 
 ### 搜索引擎
 | 名称 | 说明 | 链接 | 费用 | 
