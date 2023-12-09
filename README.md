@@ -27,6 +27,7 @@ This repo collects AI-related utilities.
   - [AI generated music or sound effects](#ai-generated-music-or-sound-effects)
   - [Video Creation](#video-creation)
   - [Video Content Summary](#video-content-summary)
+  - [OCR(Optical Character Recognition)](#ocr)
 
 ### ChatGPT and other closed-source LLMs
 | Name | Description | Links | Fees | 
@@ -177,6 +178,11 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
 | Chat Youtube | Give a Youtube link, it will give a summary, and you can ask it questions about the content of the video |[URL](https://chatyoutube.com) | Free |
+
+### OCR
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
