@@ -31,7 +31,7 @@ This repo collects AI-related utilities.
   - [Productivity](#productivity)
   - [Sales/Marketing](#salesmarketing)
   - [Customer Support](#customer-support)
-
+  - [Others](#others)
 
 
 ### ChatGPT and other closed-source LLMs
@@ -206,6 +206,11 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | SiteGPT | Make AI your expert customer support agent. | [URL](https://sitegpt.ai/?ref=Awesome-AITools) | Paid (14 Days Free Trial) |
 | GPTHelp.ai | ChatGPT for your website / AI customer support chatbot. | [URL](https://gpthelp.ai/?ref=Awesome-AITools) | Paid (7 Days Free Trial) |
+
+### Others
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| Never Jobless LinkedIn Message Generator | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. | [URL](https://neverjobless.com/?ref=Awesome-AITools) | Paid (First 20 Messages Free) |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
