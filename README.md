@@ -197,6 +197,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | PressPulse AI | Get personalized media coverage leads every morning. | [URL](https://www.presspulse.ai/?ref=Awesome-AITools) | Paid (7 Days Free Trial) |
+| GummySearch | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | [URL](https://gummysearch.com/?ref=Awesome-AITools) | Freemium |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
