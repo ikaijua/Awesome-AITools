@@ -134,7 +134,7 @@ This repo collects AI-related utilities.
 | visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
 | Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | [URL](https://www.bing.com/images/create) | Free|
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
-
+| StockPhotoAI.net | Great stock photos, made for you. | [URL](https://www.stockphotoai.net/?ref=Awesome-AITools) | Paid(3 Photos Free) |
 
 
 ### Speech Recognition
