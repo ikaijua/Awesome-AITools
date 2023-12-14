@@ -211,6 +211,8 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Never Jobless LinkedIn Message Generator | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. | [URL](https://neverjobless.com/?ref=Awesome-AITools) | Paid (First 20 Messages Free) |
+| Aispect | New way to experience events. | [URL](https://aispect.io/?ref=Awesome-AITools) | Try For Free, Buy Credits Later |
+
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
