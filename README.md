@@ -189,6 +189,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Elephas | Personal AI writing assistant for the Mac. | [URL](https://elephas.app/?ref=Awesome-AITools) | Paid |
+| Lemmy | Autonomous AI Assistant for Work. | [URL](https://lemmy.co/?ref=Awesome-AITools) | Free Forever, Paid For Premium Version |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
