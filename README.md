@@ -194,6 +194,7 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | Elephas | Personal AI writing assistant for the Mac. | [URL](https://elephas.app/?ref=Awesome-AITools) | Paid |
 | Lemmy | Autonomous AI Assistant for Work. | [URL](https://lemmy.co/?ref=Awesome-AITools) | Free Forever, Paid For Premium Version |
+| Google Sheets Formula Generator | Forget about frustrating formulas in Google Sheets. | [URL](https://bettersheets.co/google-sheets-formula-generator?ref=Awesome-AITools) | Paid |
 
 ### Sales/Marketing
 | Name | Description | Links | Fees | 
