@@ -28,6 +28,7 @@ This repo collects AI-related utilities.
   - [Video Creation](#video-creation)
   - [Video Content Summary](#video-content-summary)
   - [OCR(Optical Character Recognition)](#ocr)
+  - [Productivity](#productivity)
 
 ### ChatGPT and other closed-source LLMs
 | Name | Description | Links | Fees | 
@@ -184,6 +185,10 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 
+### Productivity
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| Elephas | Personal AI writing assistant for the Mac. | [URL](https://elephas.app/?ref=Awesome-AITools) | Paid |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
