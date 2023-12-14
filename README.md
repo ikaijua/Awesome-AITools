@@ -29,6 +29,8 @@ This repo collects AI-related utilities.
   - [Video Content Summary](#video-content-summary)
   - [OCR(Optical Character Recognition)](#ocr)
   - [Productivity](#productivity)
+  - [Sales/Marketing](#salesmarketing)
+
 
 ### ChatGPT and other closed-source LLMs
 | Name | Description | Links | Fees | 
@@ -190,6 +192,11 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | Elephas | Personal AI writing assistant for the Mac. | [URL](https://elephas.app/?ref=Awesome-AITools) | Paid |
 | Lemmy | Autonomous AI Assistant for Work. | [URL](https://lemmy.co/?ref=Awesome-AITools) | Free Forever, Paid For Premium Version |
+
+### Sales/Marketing
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| PressPulse AI | Get personalized media coverage leads every morning. | [URL](https://www.presspulse.ai/?ref=Awesome-AITools) | Paid (7 Days Free Trial) |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
