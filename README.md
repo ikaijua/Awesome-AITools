@@ -205,6 +205,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | SiteGPT | Make AI your expert customer support agent. | [URL](https://sitegpt.ai/?ref=Awesome-AITools) | Paid (14 Days Free Trial) |
+| GPTHelp.ai | ChatGPT for your website / AI customer support chatbot. | [URL](https://gpthelp.ai/?ref=Awesome-AITools) | Paid (7 Days Free Trial) |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
