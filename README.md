@@ -12,7 +12,7 @@ This repo collects AI-related utilities.
   - [ChatGPT and other closed-source LLMs](#chatgpt-and-other-closed-source-llms)
   - [Open Source LLMs](#open-source-llms)
   - [LLM training platform](#llm-training-platform)
-  - [GPT Applications](#gpt-applications)
+  - [GPT/LLMs Applications](#gpt-llms-applications)
   - [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
   - [AI Agent](#ai-agent)
   - [Search engine](#search-engine)
@@ -48,10 +48,13 @@ This repo collects AI-related utilities.
 | FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
 
-### GPT Applications
+### GPT LLMs Applications
 | Name | Description | Links | Fees | 
 -|-|-|-
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free, with paid upgrades|
+| openai/openai-python | The official Python library for the OpenAI API, It is generated from [OpenAPI specification ](https://github.com/openai/openai-openapi) with [Stainless](https://stainlessapi.com/) | [Github](https://github.com/openai/openai-python)![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| Free, need OpenAPI [apikey](https://platform.openai.com/account/api-keys) |
+|sashabaranov/go-openai|This library provides unofficial Go clients for OpenAI API. support:  ChatGPT, GPT-3, GPT-4, DALL·E 2|[Github](https://github.com/sashabaranov/go-openai)![GitHub Repo stars](https://img.shields.io/github/stars/sashabaranov/go-openai?style=social)|Free|
+|langchain|LangChain is a framework for developing applications powered by language models.|[Github](https://github.com/langchain-ai/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)|Free|
 | screenshot-to-code | This simple app converts a screenshot to HTML/Tailwind CSS. It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar-looking images. You can now also enter a URL to clone a live website! | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| Free, need access to GPT-4 Vision|
 | Chatbox | Desktop application that uses ChatGPT API (OpenAI API) to store all chat messages and prompts locally, thus reducing the risk of data loss. A bit more stable to use than the web version| [GitHub](https://github.com/Bin-Huang/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)| Free, requires [apikey with OpenAPI](https://platform.openai.com/account/api-keys)|
 | gpt-crawler | Crawl a site to generate knowledge files to create your own custom GPT from a URL | [Github](https://github.com/BuilderIO/gpt-crawler)![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=social)| Free |
