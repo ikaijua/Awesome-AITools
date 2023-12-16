@@ -6,7 +6,7 @@
 - [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
-- [GPT 应用](#gpt应用)
+- [GPT/LLMs 应用](#gpt-llms应用)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
@@ -68,12 +68,13 @@
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
 
-### GPT应用
+### GPT-LLMs应用
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | Poe | 美版知乎 Quora 构建的AI 产品，有web和客户端。目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。chatgpt-4可以每天免费使用一次 </br> 视频介绍：[B站视频：神器！与chatGPT类似的新人工智能问答AI：Poe, 美国知乎Quaro最新产品，专业回答](https://www.bilibili.com/video/BV13Y411B7Az)| [URL](https://poe.com/) |免费，有付费升级版|
 | openai/openai-python | OpenAI API 的官方 Python 库，它是使用[Stainless](https://stainlessapi.com/)根据[OpenAPI 规范]((https://github.com/openai/openai-openapi))生成的 | [Github](https://github.com/openai/openai-python)![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| 免费，需要使用OpenAPI的[apikey](https://platform.openai.com/account/api-keys) |
 |sashabaranov/go-openai|OpenAI API的Go语言非官方的SDK，支持ChatGPT、GPT-3、 GPT-4、DALL·E 2|[Github](https://github.com/sashabaranov/go-openai)![GitHub Repo stars](https://img.shields.io/github/stars/sashabaranov/go-openai?style=social)|免费|
+|langchain|是一个强大的框架，旨在帮助开发人员使用语言模型构建端到端的应用程序。它提供了一套工具、组件和接口，可简化创建由大型语言模型 (LLM) 和聊天模型提供支持的应用程序的过程。LangChain 可以轻松管理与语言模型的交互，将多个组件链接在一起，并集成额外的资源，例如 API 和数据库。|[Github](https://github.com/langchain-ai/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)|免费|
 | screenshot-to-code | 插入截图并将其转换为简洁的 HTML/Tailwind/JS 代码，使用了GPT-4 Vision来生成代码，使用DALL-E 3生成图片 | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| 免费，需要有GPT-4 Vision的授权|
 | Chatbox | 使用ChatGPT API（OpenAI API）的桌面应用程序, 将所有的聊天信息和提示信息存储在本地，从而减少了数据丢失的风险。比网页版使用更稳定些| [GitHub](https://github.com/Bin-Huang/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)| 免费，需要使用OpenAPI的[apikey](https://platform.openai.com/account/api-keys)|
 | ChatGPT for Google |开源项目，浏览器插件，在搜索页面增加chatgpt的内容和对话框|[GitHub](https://github.com/wong2/chatgpt-google-extension) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social)|免费，需要chatgpt账号|
