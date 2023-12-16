@@ -44,7 +44,8 @@
 | ChatGPT | openAI的chatgpt </br>应用示例：</br> [B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | GPT3.5免费。ChatPlus会员20美元/月，可以使用GPT-4，目前的上限是每3小时25条消息。| 
 | New Bing | 只需注册一个账户，首页即可体验。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/8#discussioncomment-5812364) | [URL](https://www.bing.com/new) | 免费 | 
 | Claude|Anthropic研发的AI助手Claude|[URL](https://www.anthropic.com/product)| 免费|
-| Bard | Google 的大语言模型，目前已支持中文等40多种语言| [URL](https://bard.google.com/)|免费|
+| Bard | Google 的对话式AI工具，目前已支持中文等40多种语言| [URL](https://bard.google.com/)|免费|
+| Gemini| Google最新的大语言模型，包括Gemini Nono，Gemini Pro和Gemini Ultra。Gemini Pro已开放api和sdk使用。[新闻介绍](https://github.com/ikaijua/Awesome-AITools/discussions/35#discussioncomment-7869696) |[URL](https://ai.google.dev/)|免费|
 | 豆包 | 字节跳动旗下的AI聊天软件 ; <br>体验测试视频：[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
 | 月之暗面的Kimi Chat|支持联网，支持上传文件（最多 50 个，每个 100 MB）接受 pdf、doc、xlsx、ppt、txt 等|[URL](https://kimi.moonshot.cn/)|免费|
 | 文心一言 |百度的大语言模型|[URL](https://yiyan.baidu.com/)|免费|
