@@ -24,7 +24,7 @@
 - [语音合成](#语音合成)
 - [语音处理](#语音处理)
 - [AI生成音频-音效-音乐](#ai生成音频-音效-音乐)
-- [影音创作](#影音创作)
+- [AI视频创作](#ai视频创作)
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
@@ -222,7 +222,7 @@
 |audiocraft|Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|免费|
 |Stable Audio|stability.ai旗下的AI音乐、音效生成应用|[URL](https://www.stableaudio.com/)|免费/付费|
 
-### 影音创作
+### AI视频创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 | Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) | [URL](https://runwayml.com/) | 付费/有一定的免费试用额度|
@@ -230,6 +230,7 @@
 | Fliki | 將文字生成音频和视频的网站 | [URL](https://fliki.ai) | 免费/付费 |
 | d-id | 根据文字生成数字人的配音视频 | [URL](https://studio.d-id.com) | 付费，有一定的免费试用额度 |
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 付费，有一定的免费试用额度 |
+| AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 | 
