@@ -2,6 +2,7 @@
 
 这个仓库整理AI相关的实用工具。
 
+- [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
 ## 全部分类
 - [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
 - [开源大语言模型](#开源大语言模型)
@@ -28,9 +29,6 @@
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
-
-## AI新闻动态
-- [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
 
 ## 评测
 - [大语言模型评测](#大语言模型评测)
