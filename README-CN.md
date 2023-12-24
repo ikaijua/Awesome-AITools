@@ -6,10 +6,10 @@
 ## 全部分类
 - [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
 - [开源大语言模型](#开源大语言模型)
-- [大语言模型训练-评估平台](#大语言模型训练-评估平台)
 - [GPT/LLMs 应用](#gpt-llms应用)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
+- [大语言模型训练-评估平台](#大语言模型训练-评估平台)
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
 - [AI工具箱类软件](#ai工具箱类软件)
 - [AI Agent](#ai-agent)
@@ -60,12 +60,6 @@
 | Qwen(通义千问)  |阿里云研发的通义千问大模型系列 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) <br> [Qwen-72B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary)| [GitHub](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)| 免费  | 
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
 
-### 大语言模型训练-评估平台
-| Name | Description | Links | Fees |
-| ---- | ----------------------------- | --- | --- |
-| FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
-
-
 ### GPT-LLMs应用
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
@@ -95,6 +89,11 @@
 | ---- | ----------------------------- | --- | 
 | carrot | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点国内可使用ChatGPT镜像站点 | [GitHub](https://github.com/xx025/carrot) </br>![GitHub Repo stars](https://img.shields.io/github/stars/xx025/carrot?style=social)|
 | awesome-free-chatgpt | 免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | [GitHub](https://github.com/LiLittleCat/awesome-free-chatgpt)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|
+
+### 大语言模型训练-评估平台
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
 ### 集成了多个大语言模型的应用
 | 名称 | 说明 | 链接 | 费用 |
