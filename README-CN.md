@@ -161,8 +161,6 @@
 ### 图像创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
 | Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 免費账户有一定的使用分钟限制，有付费升级版本 |
 | Photoshop 生成式AI功能| 在Adobe Photoshop中使用生成式AI填充功能。功能介绍：</br> 1. [B站视频：Photoshop 革命性新功能-生成式填充功能介绍](https://www.bilibili.com/video/BV1su411Y79Z/) <br> 2. [巫师后期B站视频：引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！](https://www.bilibili.com/video/BV1qo4y1E7tK)| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Photoshop 订阅会员可下载Beta版本试用|
 | firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
