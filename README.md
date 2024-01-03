@@ -28,6 +28,11 @@ This repo collects AI-related utilities.
   - [Video Creation](#video-creation)
   - [Video Content Summary](#video-content-summary)
   - [OCR(Optical Character Recognition)](#ocr)
+  - [Productivity](#productivity)
+  - [Sales/Marketing](#salesmarketing)
+  - [Customer Support](#customer-support)
+  - [Others](#others)
+
 
 ### ChatGPT and other closed-source LLMs
 | Name | Description | Links | Fees | 
@@ -132,7 +137,7 @@ This repo collects AI-related utilities.
 | visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
 | Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | [URL](https://www.bing.com/images/create) | Free|
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
-
+| StockPhotoAI.net | Great stock photos, made for you. | [URL](https://www.stockphotoai.net/?ref=Awesome-AITools) | Paid(3 Photos Free) |
 
 
 ### Speech Recognition
@@ -186,6 +191,32 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
+
+### Productivity
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| Elephas | Personal AI writing assistant for the Mac. | [URL](https://elephas.app/?ref=Awesome-AITools) | Paid |
+| Lemmy | Autonomous AI Assistant for Work. | [URL](https://lemmy.co/?ref=Awesome-AITools) | Free Forever, Paid For Premium Version |
+| Google Sheets Formula Generator | Forget about frustrating formulas in Google Sheets. | [URL](https://bettersheets.co/google-sheets-formula-generator?ref=Awesome-AITools) | Paid |
+
+### Sales/Marketing
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| PressPulse AI | Get personalized media coverage leads every morning. | [URL](https://www.presspulse.ai/?ref=Awesome-AITools) | Paid (7 Days Free Trial) |
+| GummySearch | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | [URL](https://gummysearch.com/?ref=Awesome-AITools) | Freemium |
+| Taplio | The all-in-one, AI-powered LinkedIn tool. | [URL](https://taplio.com/?ref=Awesome-AITools) | Paid (7 day free trial) |
+
+### Customer Support
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| SiteGPT | Make AI your expert customer support agent. | [URL](https://sitegpt.ai/?ref=Awesome-AITools) | Paid (14 Days Free Trial) |
+| GPTHelp.ai | ChatGPT for your website / AI customer support chatbot. | [URL](https://gpthelp.ai/?ref=Awesome-AITools) | Paid (7 Days Free Trial) |
+
+### Others
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| Never Jobless LinkedIn Message Generator | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. | [URL](https://neverjobless.com/?ref=Awesome-AITools) | Paid (First 20 Messages Free) |
+| Aispect | New way to experience events. | [URL](https://aispect.io/?ref=Awesome-AITools) | Try For Free, Buy Credits Later |
 
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
