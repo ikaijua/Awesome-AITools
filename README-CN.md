@@ -162,6 +162,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 免費账户有一定的使用分钟限制，有付费升级版本 |
+| Stable diffusion webui | 开源项目，输入文字或图片进行图片创作， Stable diffusion webui是Stable diffusion的GUI是将stable diffusion实现可视化的图像用户操作界面，它本身还集成了很多其它有用的扩展脚本。<br>新手入门教程：https://www.bilibili.com/video/BV1Qo4y167AK/ </br> AI风格化视频或AI真人视频的效果：</br>1. [【AI动画】欣小萌天台蹦迪 动画版](https://www.bilibili.com/video/BV1RL411U7wR)，</br>2. [死磕真人AI动作，人物和背景的终于不闪了，你们觉得哪个更好点？](https://www.bilibili.com/video/BV1Fs4y1V7f7)</br>3. [5分钟，教会你如何生成AI动画](https://www.bilibili.com/video/BV13s4y1D7Ni)| [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| 免费|
 | Photoshop 生成式AI功能| 在Adobe Photoshop中使用生成式AI填充功能。功能介绍：</br> 1. [B站视频：Photoshop 革命性新功能-生成式填充功能介绍](https://www.bilibili.com/video/BV1su411Y79Z/) <br> 2. [巫师后期B站视频：引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！](https://www.bilibili.com/video/BV1qo4y1E7tK)| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Photoshop 订阅会员可下载Beta版本试用|
 | firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
 | clipdrop | stability.ai 公司旗下的图像处理网站，包含文生图、AI扩图、图生图、去除背景等功能 | [URL](https://clipdrop.co/)| 免费/ 付费|
@@ -173,7 +174,6 @@
 | Microsoft Bing Image Creator | Image Creator 是使用 DALL-E 技术创作图片的工具。试用了下**生成人像图片不堪入目** | [URL](https://www.bing.com/images/create) | 免费|
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 | 简单AI | 搜狐旗下的文生图和图片分享网站 | [URL](https://ai.sohu.com/) | 免费/付费 |
-| Stable diffusion webui | 开源项目，输入文字或图片进行图片创作， Stable diffusion webui是Stable diffusion的GUI是将stable diffusion实现可视化的图像用户操作界面，它本身还集成了很多其它有用的扩展脚本。<br>新手入门教程：https://www.bilibili.com/video/BV1Qo4y167AK/ </br> AI风格化视频或AI真人视频的效果：</br>1. [【AI动画】欣小萌天台蹦迪 动画版](https://www.bilibili.com/video/BV1RL411U7wR)，</br>2. [死磕真人AI动作，人物和背景的终于不闪了，你们觉得哪个更好点？](https://www.bilibili.com/video/BV1Fs4y1V7f7)</br>3. [5分钟，教会你如何生成AI动画](https://www.bilibili.com/video/BV13s4y1D7Ni)| [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| 免费|
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |StreamDiffusion| 实时AI互动图片生成的管道级解决方案|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|免费|
 | visual-chatgpt | 通过 ChatGPT 创作图片 | [GitHub](https://github.com/microsoft/visual-chatgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social) | 免费 
