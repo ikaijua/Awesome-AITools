@@ -10,12 +10,12 @@ This repo collects AI-related utilities.
 ## All Categories
 - [All Categories](#all-categories)
   - [ChatGPT and other closed-source LLMs](#chatgpt-and-other-closed-source-llms)
+  - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
-  - [LLM training platform](#llm-training-platform)
   - [GPT/LLMs Applications](#gpt-llms-applications)
+  - [LLM training platform](#llm-training-platform)
   - [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
   - [AI Agent](#ai-agent)
-  - [Search engine](#search-engine)
   - [Writing](#writing)
   - [Programming Development](#programming-development)
   - [Translation](#translation)
@@ -25,6 +25,7 @@ This repo collects AI-related utilities.
   - [Text To Speech](#text-to-speech)
   - [Voice Processing](#voice-processing)
   - [AI generated music or sound effects](#ai-generated-music-or-sound-effects)
+  - [Speech translation](#speech-translation)
   - [Video Creation](#video-creation)
   - [Video Content Summary](#video-content-summary)
   - [OCR(Optical Character Recognition)](#ocr)
@@ -36,17 +37,18 @@ This repo collects AI-related utilities.
 | New Bing | Microsoft's new bing.[more](https://blogs.microsoft.com/blog/2023/05/04/announcing-the-next-wave-of-ai-innovation-with-microsoft-bing-and-edge/?icid=mscom_marcom_H1a_MPH1a_BingAI) | [URL](https://www.bing.com/new) | Free | 
 | Claude| Anthropic's AI assistant|[URL](https://www.anthropic.com/product)| Free|
 | Bard | Google's conversational, AI chat service| [URL](https://bard.google.com/)|Free|
+| Gemini| Google's latest LLM, including Gemini Nono, Gemini Pro and Gemini Ultra. Gemini Pro is open for api and sdk use.  Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code |[URL](https://ai.google.dev/)|Free|
+
+### AI Search engine
+| Name | Description | Links | Fees |  
+| --- | --- | --- | --- |
+| Perplexity.ai | AI-driven conversational search engine. | [URL](https://www.perplexity.ai) | Free|
+| You.com | A search engine in conversation mode | [URL](https://you.com) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
 | Llama 2 | Llama2 is a large language model developed by Meta AI. It is the successor to Meta's Llama1 language model. Llama2 is an open-source LLM that is available for free for research and commercial use. <br>Unofficial Llama2 online test address:<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| Free |
-
-### LLM training platform
-| Name | Description | Links | Fees |
-| ---- | ----------------------------- | --- | --- |
-| FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
-
 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees | 
@@ -65,6 +67,16 @@ This repo collects AI-related utilities.
 | GPTCache |⚡ GPTCache is a library for creating semantic cache to store responses from LLM queries. It can be used to speed up and lower the cost of chat applications that rely on the LLM service. And it's similar to redis in an aigc scenario.| [Github](https://github.com/zilliztech/GPTCache) </br>![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| Free|
 | MindMac | Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages. | [URL](https://mindmac.app/) | Free, with paid upgrades|
 
+### LLM Prompts
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+
+### LLM training platform
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
 ### Applications that integrate multiple LLMs
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | ---- |
@@ -75,13 +87,8 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
 |Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
-
-### Search engine
-| Name | Description | Links | Fees |  
-| --- | --- | --- | --- |
-| New Bing |  the new Bing is now in Open Preview and no longer has a waitlist. [Blog](https://blogs.microsoft.com/blog/2023/05/04/announcing-the-next-wave-of-ai-innovation-with-microsoft-bing-and-edge/?icid=mscom_marcom_H1a_MPH1a_BingAI) | [URL](https://www.bing.com/new) | Free | 
-| You.com | A search engine in conversation mode | [URL](https://you.com) | Free |
-| Perplexity.ai | Perplexity.ai is a GPT-3 based AI tool, similar to New Bing's search engine, with reference results | [URL](https://www.perplexity.ai) | Free
+|OthersideAI/self-operating-computer|A framework to enable multimodal models to operate a computer.|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|Free，GPT-4v required|
+|AppAgent|Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|Free|
 
 ### Writing
 | Name | Description | Links | Fees | 
@@ -132,7 +139,8 @@ This repo collects AI-related utilities.
 | visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
 | Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | [URL](https://www.bing.com/images/create) | Free|
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
-
+| ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
+|StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
 
 
 ### Speech Recognition
@@ -155,15 +163,22 @@ This repo collects AI-related utilities.
 ### Voice Processing
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- | 
-|so-vits-svc| SoftVC VITS Singing Voice Conversion.|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|免费|
+|so-vits-svc| SoftVC VITS Singing Voice Conversion.|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|Free|
 |vocalremover| Extract vocal and music|[URL](https://vocalremover.org/)|Free|
 |lala.ai|Extract vocal, accompaniment and various instruments from any audio and video|[URL](https://www.lalal.ai/)|Free/Paid|
 
 ### AI generated music or sound effects
 | Name | Description | Link | Fees |
 | ---- | -------------------------- | --- | --- |
+|suno.ai|[URL](https://www.suno.ai/)|The AI music creation tool Suno can generate custom songs based on text prompts in mere second [You can create your own AI songs with this new Copilot extension](https://www.theverge.com/2023/12/19/24008279/microsoft-copilot-suno-ai-music-generator-extension)|Free/Paid|
+|suno-ai/bark|Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.|[Github](https://github.com/suno-ai/bark) ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social)|Free|
 |audiocraft|Open source library for audio/music generation by Meta, which mainly includes two models, MusicGen: text-to-music model, AudioGen: text-generated sound model. [MusicGen Online Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|Free|
 |Stable Audio|AI music and sound effect generation application by stability.ai|[URL](https://www.stableaudio.com/)|Free/Paid|
+
+### Speech translation
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- | 
+| Seamless |Seamless is a family of AI models that enable more natural and authentic communication across languages.[Online Demo](https://seamless.metademolab.com/expressive?utm_source=metaai&utm_medium=web&utm_campaign=fair10&utm_content=blog)|[Github](https://github.com/facebookresearch/seamless_communication) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social)|Free|
 
 ### Video Creation
 
@@ -174,6 +189,7 @@ This repo collects AI-related utilities.
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
+| AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
 
 
 ### Video Content Summary
