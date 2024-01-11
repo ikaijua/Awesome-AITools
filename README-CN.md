@@ -253,6 +253,7 @@
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/)| 免费 |
 | Chat Youtube | 给一个Youtube 链接，它能给出总结，还可以向它提视频內容相关的问题 |[URL](https://chatyoutube.com) | 免费 |
 | BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT?style=social)|免费|
+| TubeSum Summary Extension | 总结YouTube视频，提取关键见解，分享这些摘要，并通过时间戳提供对重要部分的访问。| [URL](https://tubesum.com/) | 免费/  付费 |
 
 ## 评测
 ### 大语言模型评测
