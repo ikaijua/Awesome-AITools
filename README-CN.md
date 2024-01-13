@@ -210,7 +210,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 |so-vits-svc| So-vits-svc（也称Sovits）是基于VITS、soft-vc、VISinger2等一系列项目开发的一款开源免费 AI 语音转换软件，用户只需准备几十分钟到几个小时不等的语音或歌声数据，就能制作属于自己的 AI 声库，将一段语音或歌声转换为你想要的音色。[更多介绍](https://zh.moegirl.org.cn/zh-hans/So-vits-svc) </br> [B站视频：手把手教学！如何自己训练一个AI歌手 - sovits本地&云端训练教程](https://www.bilibili.com/video/BV1ea4y1G7gx)|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|免费|
-|open-mmlab/Amphion|开源音频、音乐和语音生成工具包， 在线使用：https://huggingface.co/amphion| [Github](https://github.com/open-mmlab/Amphion) ![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social)|免费|
+|open-mmlab/Amphion|开源音频、音乐和语音生成工具包， 在线使用：https://huggingface.co/amphion <br> 文章介绍：机器之心：[霉霉演唱《稻香》，国内团队的Amphion音频生成火了](https://mp.weixin.qq.com/s/2oR7tu-ltnXnZqNCi-unlA)| [Github](https://github.com/open-mmlab/Amphion) ![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social)|免费|
 
 ### 语音处理
 | 名称 | 说明 | 链接 | 费用 | 
