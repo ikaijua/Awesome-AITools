@@ -49,6 +49,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
 | Llama 2 | Llama2 is a large language model developed by Meta AI. It is the successor to Meta's Llama1 language model. Llama2 is an open-source LLM that is available for free for research and commercial use. <br>Unofficial Llama2 online test address:<br> 1. https://labs.perplexity.ai/ <br>2. https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI | [URL](https://ai.meta.com/llama/) <br> [GitHub](https://github.com/facebookresearch/llama) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/llama?style=social)| Free |
+| Mixtral-8x7B |Mixtral 8x7B, a high-quality sparse mixture of experts model (SMoE) with open weights. Mixtral outperforms Llama 2 70B on most benchmarks with 6x faster inference. It matches or outperforms GPT3.5 on most standard benchmarks. <br>paper：https://arxiv.org/pdf/2401.04088.pdf <br>news：https://mistral.ai/news/mixtral-of-experts/ |[Github](https://github.com/mistralai/mistral-src) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-src?style=social)|Free|
 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees | 
