@@ -29,6 +29,7 @@ This repo collects AI-related utilities.
   - [Video Creation](#video-creation)
   - [Video Content Summary](#video-content-summary)
   - [OCR(Optical Character Recognition)](#ocr)
+  - [Customer Service](#customer-service)
 
 ### ChatGPT and other closed-source LLMs
 | Name | Description | Links | Fees | 
@@ -203,6 +204,11 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
+
+### Customer Service
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|Dear AI|AI Chatbot that supercharge customer services and boost sales. It's easy to set up through a no code platform and ready to use in minutes.|[URL](https://www.dearai.online)|Free/Paid|
 
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
