@@ -45,6 +45,7 @@
 | Claude|Anthropic研发的AI助手Claude|[URL](https://www.anthropic.com/product)| 免费|
 | Bard | Google 的对话式AI工具，目前已支持中文等40多种语言| [URL](https://bard.google.com/)|免费|
 | Gemini| Google最新的大语言模型，包括Gemini Nono，Gemini Pro和Gemini Ultra。Gemini Pro已开放api和sdk使用。[新闻介绍](https://github.com/ikaijua/Awesome-AITools/discussions/35#discussioncomment-7869696) |[URL](https://ai.google.dev/)|免费|
+| Le Chat| Mistral AI 推出了为 Le Chat 的聊天助手 |[URL](https://chat.mistral.ai/chat)|免费|
 | 豆包 | 字节跳动旗下的AI聊天软件 ; <br>体验测试视频：[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
 | 月之暗面的Kimi Chat|支持联网，支持上传文件（最多 50 个，每个 100 MB）接受 pdf、doc、xlsx、ppt、txt 等，文章总结能力比较强 <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|[URL](https://kimi.moonshot.cn/)|免费|
 | 文心一言 |百度的大语言模型|[URL](https://yiyan.baidu.com/)|免费|
