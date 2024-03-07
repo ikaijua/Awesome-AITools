@@ -110,6 +110,7 @@ This repo collects AI-related utilities.
 | Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
 |gpt-engineer|GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Free|
 | scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
+| Fitten Code | Fitten Code is an AI programming assistant driven by Fitten LLM models, which can automatically generate code, improve development efficiency, help you debug, and save your time. It can also chat with you and solve your programming problems.freeand supports over 80 languages: Python, C++,JavaScript, TypeScript, Java, etc. Fitten Code supports Visual Studio Code and JetBrains series IDEs, including IntelliJ IDEA, PyCharm, WebStorm, etc.|[URL](https://code.fittentech.com/en?lang=en)| Free |
 |flappy|Production-Ready LLM Agent SDK for Every Developer|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |Free|
 
 ### Translation
