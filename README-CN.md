@@ -141,6 +141,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 | GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 </br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) </br>[Github Copilot X的Chat功能介绍](https://www.bilibili.com/video/BV1Ho4y137Tu/)，[Copilot X申请页面](https://github.com/features/preview/copilot-x)| [URL](https://github.com/features/copilot)  | 付费 |
+| 通义灵码|阿里云开发的代码编写助手，可根据当前代码文件及跨文件的上下文，为你生成行级/函数级代码、单元测试、代码注释等，支持 Java、Python、Go、JavaScript、TypeScript、C/C++、C# 等主流语言，同时兼容 Visual Studio Code、JetBrains IDEs 等主流编程工具|[URL](https://tongyi.aliyun.com/lingma/)|免费|
 | CodeGeeX2 | 开源项目，由清华大学知识工程实验室团队研发，支持200多种主流编程语言的生成及翻译。</br> [【项目原作解读】清华大学郑勤锴：CodeGeeX大规模多语言代码生成模型](https://www.bilibili.com/video/BV1wT41127Tq/) | [GitHub](https://github.com/THUDM/CodeGeeX2/) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/CodeGeeX2?style=social)|免费|
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 免费 |
 | ai-code-translator   | 利用chatgpt将代码从一种语言翻译成另一种语言。| [GitHub](https://github.com/mckaywrigley/ai-code-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social) | 免费，需要OpenAI API key|
