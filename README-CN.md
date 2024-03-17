@@ -53,6 +53,7 @@
 | 智谱AI | 名为 ChatGLM 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发 | [URL](https://open.bigmodel.cn/)| 免费|
 | 讯飞星火 | 讯飞的大语言模型| [URL](https://xinghuo.xfyun.cn/)| 免费|
 | 百川大模型 | 百川智能的大语言模型 | [URL](https://www.baichuan-ai.com/) | 免费 |
+|零一万物|由李开复创办的AI公司，[零一万物 API 开放平台](https://platform.lingyiwanwu.com/)零一万物为新用户免费赠送60元api的使用额度，开源了模型Yi 6B和34B| [Github](https://github.com/01-ai/Yi)  ![GitHub Repo stars](https://img.shields.io/github/stars/01-ai/Yi?style=social) <br>[零一万物 API 开放平台](https://platform.lingyiwanwu.com/)|免费|
 | 中国国内发布的其他大模型|目前国内各大企业、科研机构和高校等单位已公开的 AI 大模型至少已经达到了 188 个。2023-12-17更新，[更多信息](https://github.com/ikaijua/Awesome-AITools/discussions/37#discussion-5968018)|||
 
 ### 开源大语言模型
