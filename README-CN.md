@@ -53,7 +53,7 @@
 | 智谱AI | 名为 ChatGLM 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发 | [URL](https://open.bigmodel.cn/)| 免费|
 | 讯飞星火 | 讯飞的大语言模型| [URL](https://xinghuo.xfyun.cn/)| 免费|
 | 百川大模型 | 百川智能的大语言模型 | [URL](https://www.baichuan-ai.com/) | 免费 |
-|零一万物|由李开复创办的AI公司，[零一万物 API 开放平台](https://platform.lingyiwanwu.com/)零一万物为新用户免费赠送60元api的使用额度，开源了模型Yi 6B和34B| [Github](https://github.com/01-ai/Yi)  ![GitHub Repo stars](https://img.shields.io/github/stars/01-ai/Yi?style=social) <br>[零一万物 API 开放平台](https://platform.lingyiwanwu.com/)|免费|
+|零一万物|由李开复创办的AI公司，[零一万物 API 开放平台](https://platform.lingyiwanwu.com/)为新用户免费赠送60元api的使用额度，开源了模型Yi 6B和34B|[零一万物 API 开放平台](https://platform.lingyiwanwu.com/) <br> [Github](https://github.com/01-ai/Yi)  ![GitHub Repo stars](https://img.shields.io/github/stars/01-ai/Yi?style=social) |免费|
 | 中国国内发布的其他大模型|目前国内各大企业、科研机构和高校等单位已公开的 AI 大模型至少已经达到了 188 个。2023-12-17更新，[更多信息](https://github.com/ikaijua/Awesome-AITools/discussions/37#discussion-5968018)|||
 
 ### 开源大语言模型
@@ -147,7 +147,7 @@
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 免费 |
 | ai-code-translator   | 利用chatgpt将代码从一种语言翻译成另一种语言。| [GitHub](https://github.com/mckaywrigley/ai-code-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social) | 免费，需要OpenAI API key|
 | Amazon CodeWhisperer | 亚马逊开放的AI编程辅助工具，根据你的注释和现有代码，实时生成从片段到完整功能的代码建议。在各种IDE的插件中可以安装,支持15种语言, 包括 Python, Java, and JavaScript等。只需要按照流程注册一个aws builder账号即可。| [URL](https://aws.amazon.com/cn/codewhisperer)| 免费|
-| Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，可以自动生成代码，提升开发效率，调试Bug。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。并提供丰富的IDE支持，包括Visual Studio Code、JetBrains系列IDE等。| [URL](https://code.fittentech.com/) | 免费 |
+| Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，可以自动生成代码，提升开发效率，调试Bug。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。并提供丰富的IDE支持，包括Visual Studio Code、JetBrains系列IDE等。<br>“技术胖”B站视频：[清华初创对决微软Github，哪家AI编程助手更强](https://www.bilibili.com/video/BV1MH4y1s7sU/)| [URL](https://code.fittentech.com/) | 免费 |
 |gpt-engineer|一个根据指示生成代码的AI工具，能直接构建整个代码库。[B站上的介绍演示视频：gpt-engineer：100%替代程序员的AI程序员来了...](https://www.bilibili.com/video/BV1Da4y1w7Tk/)|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|免费|
 |flappy|一个产品级面向所有程序员的LLM SDK|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |免费|
 
