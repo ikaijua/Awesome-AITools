@@ -113,6 +113,7 @@ This repo collects AI-related utilities.
 | scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
 | Fitten Code | Fitten Code is an AI programming assistant driven by Fitten LLM models, which can automatically generate code, improve development efficiency, help you debug, and save your time. It can also chat with you and solve your programming problems.freeand supports over 80 languages: Python, C++,JavaScript, TypeScript, Java, etc. Fitten Code supports Visual Studio Code and JetBrains series IDEs, including IntelliJ IDEA, PyCharm, WebStorm, etc.|[URL](https://code.fittentech.com/en?lang=en)| Free |
 |flappy|Production-Ready LLM Agent SDK for Every Developer|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |Free|
+| Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) | Free |
 
 ### Translation
 | Name | Description | Links | Fees |  
