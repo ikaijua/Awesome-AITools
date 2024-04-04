@@ -94,6 +94,7 @@ This repo collects AI-related utilities.
 |Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
 |OthersideAI/self-operating-computer|A framework to enable multimodal models to operate a computer.|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|Free，GPT-4v required|
 |AppAgent|Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|Free|
+| BrainSoup | Multi-agent and multi-LLM native client where AIs can remember documents and conversations, react to events, use tools, leverage local and external resources, and work together autonomously. | [URL](https://www.nurgo-software.com/products/brainsoup) | Paid |
 
 ### Writing
 | Name | Description | Links | Fees | 
