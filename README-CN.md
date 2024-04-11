@@ -25,7 +25,7 @@
 - [语音翻译](#语音翻译)
 - [语音合成](#语音合成)
 - [语音处理](#语音处理)
-- [AI生成音频-音效-音乐](#ai生成音频-音效-音乐)
+- [AI生成音乐-音效](#ai生成音乐-音效)
 - [AI视频创作](#ai视频创作)
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
@@ -239,6 +239,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 |suno.ai|使用AI通过文本来创作音乐 [suno专题页面](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/) <br> |[URL](https://www.suno.ai/)|免费/付费|
+|udio|使用AI通过文本来创作音乐，目前服务器超负荷在维护中|[URL](https://www.udio.com/)|免费|
 |suno-ai/bark|文本转音频模型|[Github](https://github.com/suno-ai/bark) ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social)|免费|
 |audiocraft|Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|免费|
 |Stable Audio|stability.ai旗下的AI音乐、音效生成应用|[URL](https://www.stableaudio.com/)|免费/付费|
