@@ -177,6 +177,7 @@ This repo collects AI-related utilities.
 | Name | Description | Link | Fees |
 | ---- | -------------------------- | --- | --- |
 |suno.ai|The AI music creation tool Suno can generate custom songs based on text prompts in mere second [You can create your own AI songs with this new Copilot extension](https://www.theverge.com/2023/12/19/24008279/microsoft-copilot-suno-ai-music-generator-extension)|[URL](https://www.suno.ai/)||Free/Paid|
+|udio|Create music from simple text prompts by specifying topics, genres, and other descriptors which are then transformed into professional quality tracks.|[URL](https://www.udio.com/)||
 |suno-ai/bark|Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.|[Github](https://github.com/suno-ai/bark) ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social)|Free|
 |audiocraft|Open source library for audio/music generation by Meta, which mainly includes two models, MusicGen: text-to-music model, AudioGen: text-generated sound model. [MusicGen Online Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|Free|
 |Stable Audio|AI music and sound effect generation application by stability.ai|[URL](https://www.stableaudio.com/)|Free/Paid|
