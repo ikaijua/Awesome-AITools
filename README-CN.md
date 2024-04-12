@@ -235,7 +235,7 @@
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|免费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|有免费的试用额度/付费|
 
-### AI生成音频-音效-音乐
+### AI生成音乐-音效
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 |suno.ai|使用AI通过文本来创作音乐 [suno专题页面](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/) <br> |[URL](https://www.suno.ai/)|免费/付费|
