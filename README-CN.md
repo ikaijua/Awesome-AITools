@@ -243,6 +243,7 @@
 |suno-ai/bark|文本转音频模型|[Github](https://github.com/suno-ai/bark) ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social)|免费|
 |audiocraft|Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|免费|
 |Stable Audio|stability.ai旗下的AI音乐、音效生成应用|[URL](https://www.stableaudio.com/)|免费/付费|
+|OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
 
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 | 
