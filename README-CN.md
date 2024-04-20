@@ -211,7 +211,7 @@
 | coqui-ai/tts | 用于文本到语音的深度学习工具包 <br> 在线体验Demo网页：https://huggingface.co/spaces/coqui/xtts| [Github](https://github.com/coqui-ai/tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) | 免费|
 | elevenlabs | 文字转语音的服务，提供多种语言 |[URL](https://elevenlabs.io/)|免费/付费|
 | netease-youdao/EmotiVoice | EmotiVoice是一个强大的开源TTS引擎，支持中英文双语，包含2000多种不同的音色，以及特色的情感合成功能，支持合成包含快乐、兴奋、悲伤、愤怒等广泛情感的语音。|[Github](https://github.com/netease-youdao/EmotiVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social)| Free|
-| tetos |适用于多个文本转语音 （TTS） 提供程序的统一接口，支持Edge TTS、OpenAI TTS、Azure TTS、Google TTS、火山引擎TTS、百度TTS|[Github](https://github.com/frostming/tetos) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social)|免费|
+| tetos |适用于多个文本转语音 （TTS） 提供程序的统一接口，支持Edge TTS、OpenAI TTS、Azure TTS、Google TTS、火山引擎TTS、百度TTS|[Github](https://github.com/frostming/tetos) ![GitHub Repo stars](https://img.shields.io/github/stars/frostming/tetos?style=social)|免费|
 
 ### 声音克隆
 | 名称 | 说明 | 链接 | 费用 | 
