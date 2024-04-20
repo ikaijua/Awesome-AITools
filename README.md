@@ -181,7 +181,7 @@ This repo collects AI-related utilities.
 |suno-ai/bark|Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.|[Github](https://github.com/suno-ai/bark) ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social)|Free|
 |audiocraft|Open source library for audio/music generation by Meta, which mainly includes two models, MusicGen: text-to-music model, AudioGen: text-generated sound model. [MusicGen Online Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|Free|
 |Stable Audio|AI music and sound effect generation application by stability.ai|[URL](https://www.stableaudio.com/)|Free/Paid|
-|OptimizerAI|Sound effect generation|[URL](https://www.optimizerai.xyz/) <br>[Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243)|Free/Paid|
+|OptimizerAI|Sound effect generation <br>[Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243)|[URL](https://www.optimizerai.xyz/) |Free/Paid|
 
 ### Speech translation
 | Name | Description | Links | Fees | 
