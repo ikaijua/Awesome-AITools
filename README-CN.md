@@ -30,6 +30,7 @@
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
+- [人形机器人](#人形机器人)
 
 ## 评测
 - [大语言模型评测](#大语言模型评测)
@@ -275,6 +276,19 @@
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/)| 免费 |
 | Chat Youtube | 给一个Youtube 链接，它能给出总结，还可以向它提视频內容相关的问题 |[URL](https://chatyoutube.com) | 免费 |
 | BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT?style=social)|免费|
+
+### 人形机器人
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|Figure 01|获得了微软、OpenAI、英伟达和亚马逊等投资方的投资|[URL](https://www.figure.ai/)|
+|Altlas|波士顿动力新的电动人形机器人|[URL](https://bostondynamics.com/atlas/)|
+|Optimus Gen 2|特斯拉的人形机器人|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
+|Apollo|Apptronik公司的人形机器人|[URL](https://apptronik.com/apollo)|
+|GR-1|傅利叶公司的人形机器人|[URL](https://fourierintelligence.com/gr1/)|
+|Digit|Agility公司的人形机器人|[URL](https://agilityrobotics.com/products/digit)|
+|NEO|1x公司的人形机器人|[URL](https://www.1x.tech/androids/neo)|
+|H1|宇树科技的人形机器人|[URL](https://www.unitree.com/h1/)|
+|Phoenix|sanctuary.ai公司的人形机器人|[URL](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/)|
 
 ## 评测
 ### 大语言模型评测
