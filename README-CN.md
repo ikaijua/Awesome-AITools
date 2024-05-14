@@ -41,7 +41,7 @@
 ### ChatGPT及类似闭源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-| ChatGPT | openAI的chatgpt </br>应用示例：</br> [B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | GPT3.5免费。ChatPlus会员20美元/月，可以使用GPT-4，目前的上限是每3小时25条消息。| 
+| ChatGPT | openAI的chatgpt </br>应用示例：</br> [B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | GPT3.5免费。ChatPlus会员20美元/月，可以使用GPT-4| 
 | 微软Copilot | 微软的Copilot，包含了多种AI工具和插件 | [URL](https://copilot.microsoft.com/) | 免费 | 
 | Claude|Anthropic研发的AI助手Claude|[URL](https://www.anthropic.com/product)| 免费|
 | Gemini| Google 的对话式AI工具和最新的大语言模型，包括Gemini Nono，Gemini Pro和Gemini Ultra。Gemini Pro已开放api和sdk使用。api目前可免费使用，有每分钟60个请求的限制。[新闻介绍](https://github.com/ikaijua/Awesome-AITools/discussions/35#discussioncomment-7869696) |[Gemini AI聊天助手](https://bard.google.com/) <br>[Gemini api开发者网站](https://ai.google.dev/)|免费|
