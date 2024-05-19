@@ -259,6 +259,7 @@
 | d-id | 根据文字生成数字人的配音视频 | [URL](https://studio.d-id.com) | 付费，有一定的免费试用额度 |
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 付费，有一定的免费试用额度 |
 | AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
+|vivago.ai/video|	文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)|	免费|
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 | 
