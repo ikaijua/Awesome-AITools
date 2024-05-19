@@ -202,6 +202,7 @@ This repo collects AI-related utilities.
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
+|vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
 
 
 ### Video Content Summary
