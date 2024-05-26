@@ -15,6 +15,7 @@
 - [AI工具箱类软件](#ai工具箱类软件)
 - [AI Agent](#ai-agent)
 - [搜索引擎](#搜索引擎)
+- [阅读](#阅读)
 - [写作](#写作)
 - [编程开发](#编程开发)
 - [翻译工具](#翻译工具)
@@ -134,7 +135,12 @@
 | --- | --- | --- | --- |
 | New Bing | 只需注册一个账户，首页即可体验。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/8#discussioncomment-5812364) | [URL](https://www.bing.com/new) | 免费 | 
 | You.com | 结合对话模式的搜索引擎 | [URL](https://you.com) | 免费 |
-| Perplexity.ai | Perplexity.ai 是一个基于 GPT-3 的 AI 工具，类似 New Bing 的搜寻引擎、会附上参考结果 | [URL](https://www.perplexity.ai) | 免费
+| Perplexity.ai | Perplexity.ai 是一个基于 GPT-3 的 AI 工具，类似 New Bing 的搜寻引擎、会附上参考结果 | [URL](https://www.perplexity.ai) | 免费|
+
+### 阅读
+| 名称 | 说明 | 链接 | 费用 | 
+| --- | --- | --- | --- |
+| 微信读书 | “AI问书”功能，在阅读时遇到不理解的内容，可以通过AI问书功能获得即时解释。AI问书的回答通常包含注释和相关书籍推荐，并且可以通过点击回答中的链接跳转到相关书籍的特定选段，增加回答的可信度[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/77#discussioncomment-9559619) | [URL](https://weread.qq.com/) | 免费/付费 | 
 
 ### 写作
 | 名称 | 说明 | 链接 | 费用 | 
