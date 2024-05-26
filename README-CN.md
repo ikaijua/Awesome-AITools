@@ -54,7 +54,7 @@
 | 通义千问 |阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|免费|
 | 智谱AI | 名为 ChatGLM 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发 | [URL](https://open.bigmodel.cn/)| 免费|
 | 讯飞星火 | 讯飞的大语言模型| [URL](https://xinghuo.xfyun.cn/)| 免费|
-| 百川大模型 | 百川智能的大语言模型 | [URL](https://www.baichuan-ai.com/) | 免费 |
+| 百川大模型 | 百川智能的大语言模型 [开发者体验中心](https://platform.baichuan-ai.com/playground)| AI聊天助手：[百小应](https://ying.baichuan-ai.com/chat) | 免费 |
 | 零一万物 |由李开复创办的AI公司，[零一万物 API 开放平台](https://platform.lingyiwanwu.com/)为新用户免费赠送60元api的使用额度，开源了模型Yi 6B和34B|[零一万物 API 开放平台](https://platform.lingyiwanwu.com/) <br> [Github](https://github.com/01-ai/Yi)  ![GitHub Repo stars](https://img.shields.io/github/stars/01-ai/Yi?style=social) |免费|
 | 腾讯混元模型 |腾讯的大语言模型；[API文档](https://cloud.tencent.com/document/api/1729/105701)|[URL](https://hunyuan.tencent.com/bot)|免费|
 | 中国国内发布的其他大模型|目前国内各大企业、科研机构和高校等单位已公开的 AI 大模型至少已经达到了 188 个。2023-12-17更新，[更多信息](https://github.com/ikaijua/Awesome-AITools/discussions/37#discussion-5968018)|||
