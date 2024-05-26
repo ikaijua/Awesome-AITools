@@ -87,7 +87,7 @@ This repo collects AI-related utilities.
 ### LLM training platform
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
-| FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+| lm-sys/FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
 ### Applications that integrate multiple LLMs
 | Name | Description | Links | Fees | 
