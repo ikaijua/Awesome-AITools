@@ -9,6 +9,7 @@
 - [GPT/LLMs 应用](#gpt-llms应用)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
+- [大语言模型排行榜](#大语言模型排行榜)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
 - [AI工具箱类软件](#ai工具箱类软件)
@@ -98,6 +99,11 @@
 | ---- | ----------------------------- | --- | 
 | carrot | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点国内可使用ChatGPT镜像站点 | [GitHub](https://github.com/xx025/carrot) </br>![GitHub Repo stars](https://img.shields.io/github/stars/xx025/carrot?style=social)|
 | awesome-free-chatgpt | 免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | [GitHub](https://github.com/LiLittleCat/awesome-free-chatgpt)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|
+
+### 大语言模型排行榜
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena 是一个用于大语言模型评估的众包开放平台。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>B站视频：[量子位/1v1单挑90万轮之后，最强大模型是……](https://www.bilibili.com/video/BV1Qs421w7df/) |[URL](https://chat.lmsys.org/) |Free|
 
 ### 大语言模型训练-评估平台
 | Name | Description | Links | Fees |
