@@ -13,6 +13,8 @@ This repo collects AI-related utilities.
   - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
   - [GPT/LLMs Applications](#gpt-llms-applications)
+  - [LLM Prompts](#llm-prompts)
+  - [LLM Leaderboard](#llm-leaderboard)
   - [LLM training platform](#llm-training-platform)
   - [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
   - [AI Agent](#ai-agent)
@@ -76,6 +78,11 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+
+### LLM Leaderboard
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals. Collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. |[URL](https://chat.lmsys.org/) |Free|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
