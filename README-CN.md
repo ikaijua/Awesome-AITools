@@ -165,6 +165,7 @@
 |gpt-engineer|一个根据指示生成代码的AI工具，能直接构建整个代码库。[B站上的介绍演示视频：gpt-engineer：100%替代程序员的AI程序员来了...](https://www.bilibili.com/video/BV1Da4y1w7Tk/)|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|免费|
 |flappy|一个产品级面向所有程序员的LLM SDK|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |免费|
 |腾讯云AI代码助手|腾讯云 AI 代码助手主要提供两类功能：AI 助手对话功能和代码补全功能。|[URL](https://console.cloud.tencent.com/acc)|免费|
+|Mistral/Codestral|Mistral.ai的代码生成大语言模型，官方介绍：[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), 模型下载:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat) 模型选择Codestral|免费|
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 | 
