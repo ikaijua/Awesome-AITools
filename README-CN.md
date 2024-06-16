@@ -255,7 +255,7 @@
 
 ### AI生成音乐-音效
 | 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- | 
+| ---- | ----------------------------- | --- | --- | \
 |suno.ai|使用AI通过文本来创作音乐 [suno专题页面](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/) <br> |[URL](https://www.suno.ai/)|免费/付费|
 |udio|使用AI通过文本来创作音乐|[URL](https://www.udio.com/)|免费/付费|
 |elevenlabs/sound-effects|elevenlabs 提供的通过文本生成音效的工具|[URL](https://elevenlabs.io/app/sound-effects)|免费|
@@ -267,6 +267,7 @@
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
+| Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
 | Sora | OpenAI的文本生成视频的模型。Sora技术报告：https://github.com/ikaijua/Awesome-AITools/discussions/54, Sora的访问权限未完全开放，部分视觉艺术家、设计师和电影制作人获得了访问权限 | [URL](https://openai.com/sora) | - |
 | 剪映 |字幕生成语音、识别语音、一键图文成片，还有很便捷、强大的视频剪辑功能|[URL](https://www.capcut.cn/)|免费/vip|
 | Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) | [URL](https://runwayml.com/) | 付费/有一定的免费试用额度|
