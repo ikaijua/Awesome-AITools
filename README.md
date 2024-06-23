@@ -36,9 +36,9 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT | OpenAI's chatgpt | [URL](https://chat.openai.com) | Free, with paid upgrades | 
-| New Bing | Microsoft's new bing.[more](https://blogs.microsoft.com/blog/2023/05/04/announcing-the-next-wave-of-ai-innovation-with-microsoft-bing-and-edge/?icid=mscom_marcom_H1a_MPH1a_BingAI) | [URL](https://www.bing.com/new) | Free | 
 | Claude| Anthropic's AI assistant|[URL](https://www.anthropic.com/product)| Free|
 | Gemini| Google's conversational, AI chat service. Google's latest LLM, including Gemini Nono, Gemini Pro and Gemini Ultra. Gemini Pro is open for api and sdk use.  Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code |[URL](https://gemini.google.com/) <br> dev: [URL](https://ai.google.dev/)|Free|
+| Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
 
 ### AI Search engine
