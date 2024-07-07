@@ -67,7 +67,7 @@
 |grok-1|马斯克的xAI公司开源的大语言模型|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|免费|
 | Qwen(通义千问)  |阿里云研发的通义千问大模型系列 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) <br> [Qwen-72B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary) <br>[Qwen1.5 72B 在线体验](https://huggingface.co/spaces/Qwen/Qwen1.5-72B-Chat)| [Qwen-7B](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)<br>[Qwen1.5](https://github.com/QwenLM/Qwen1.5)![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen1.5?style=social)| 免费  | 
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
-| Phi-3| Phi-3是微软开发的开放式人工智能模型系列。Phi-3 模型是目前能力最强、最具成本效益的小型语言模型（SLM），在各种语言、推理、编码和数学基准测试中，其性能均优于相同大小和更大的模型。|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|Free|
+| Phi-3| Phi-3是微软开发的开放式人工智能模型系列。Phi-3 模型是目前能力最强、最具成本效益的小型语言模型（SLM），在各种语言、推理、编码和数学基准测试中，其性能均优于相同大小和更大的模型。|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|免费|
 
 ### GPT-LLMs应用
 | 名称 | 说明 | 链接 | 费用 | 
