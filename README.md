@@ -84,6 +84,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals. Collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. |[URL](https://chat.lmsys.org/) |Free|
+|Artificial Analysis|Artificial Analysis is a platform that provides AI model and service provider comparisons and benchmarks to help users make informed decisions when choosing AI models and service providers. The platform provides comparative data on a wide range of popular AI models, including OpenAI's GPT-4, Meta's Llama 3, and Anthropic's Claude series, covering performance metrics such as response time, latency, and cost.|[URL](https://artificialanalysis.ai/)|Free|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
