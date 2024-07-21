@@ -33,7 +33,7 @@
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
-- [AI生成模特试装和商品图](#AI生成模特试装和商品图)
+- [AI生成模特试装和商品图](#ai生成模特试装和商品图)
 - [人形机器人](#人形机器人)
 
 ## 评测
@@ -303,6 +303,8 @@
 | BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT?style=social)|免费|
 
 ### AI生成模特试装和商品图
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
 |PhotoStudio|虹软PhotoStudio AI智能商拍为商家设置了极为简单便捷的使用流程：上传衣服图/人台图/真人图，选择模特库中的模特和场景，只需3步即可瀑布式产出服装模特商拍大片。|[URL](www.psai.cn)|付费/试用|
 
 ### 人形机器人
