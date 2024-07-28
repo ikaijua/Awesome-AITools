@@ -207,6 +207,7 @@ This repo collects AI-related utilities.
 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
+| KLING AI|AI Video Creation Tool by kuaishou.  |[URL](https://klingai.com/)|Free/Paid|
 | Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. Sora access not fully open, some visual artists, designers and filmmakers given access | [URL](https://openai.com/sora) | - |
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
