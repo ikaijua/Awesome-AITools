@@ -75,6 +75,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | Poe | 美版知乎 Quora 构建的AI 产品，有web和客户端。目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。chatgpt-4可以每天免费使用一次 </br> 视频介绍：[B站视频：神器！与chatGPT类似的新人工智能问答AI：Poe, 美国知乎Quaro最新产品，专业回答](https://www.bilibili.com/video/BV13Y411B7Az)| [URL](https://poe.com/) |免费，有付费升级版|
+| bot.360|360构建的AI对话机器人，集合了国内主要的一些大模型比如豆包、kimi、MiniMax、通义千问等|[URL](https://bot.360.com/)|免费|
 | monica | AI助手，提供搜索、阅读、写作、翻译、绘画等多种任务的帮助。有独立应用和浏览器插件| [URL](https://monica.im) <br> [chrome插件](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb)|免费/付费|
 | ollama | 在本地环境中轻松运行和管理大型语言模型，如Llama 、Mistral、Gemma2等|[Github](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social)	|免费|
 | openai/openai-python | OpenAI API 的官方 Python 库，它是使用[Stainless](https://stainlessapi.com/)根据[OpenAPI 规范]((https://github.com/openai/openai-openapi))生成的 | [Github](https://github.com/openai/openai-python)![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| 免费，需要使用OpenAPI的[apikey](https://platform.openai.com/account/api-keys) |
