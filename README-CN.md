@@ -30,6 +30,7 @@
 - [语音处理](#语音处理)
 - [AI生成音乐-音效](#ai生成音乐-音效)
 - [AI视频创作](#ai视频创作)
+- [视频翻译](#视频翻译)
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
@@ -287,6 +288,11 @@
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 付费，有一定的免费试用额度 |
 | AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
 |vivago.ai/video|	文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)|	免费|
+
+### 视频翻译
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- | 
+|easyvideotrans|着眼于从原始视频到翻译后最终视频的整个工作流程，[在线网站](https://easyvideotrans.com/)|[Github](https://github.com/sutro-planet/easyvideotrans) ![GitHub Repo stars](https://img.shields.io/github/stars/sutro-planet/easyvideotrans?style=social)|免费|
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 | 
