@@ -80,7 +80,7 @@ This repo collects AI-related utilities.
 | MindMac | Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages. | [URL](https://mindmac.app/) | Free, with paid upgrades|
 | MemFree | Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. | [Github](https://github.com/memfreeme/memfree) </br>![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)| Free & Suport one-click self-host|
 
-### Image Creation
+### AI Image Creation
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Free account has a certain usage minutes limit, and there is a paid upgrade version |
