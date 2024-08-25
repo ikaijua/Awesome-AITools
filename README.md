@@ -16,6 +16,7 @@ This repo collects AI-related utilities.
   - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
   - [GPT/LLMs Applications](#gpt-llms-applications)
+  - [AI Image Creation](#ai-image-creation)
   - [LLM Prompts](#llm-prompts)
   - [LLM Leaderboard](#llm-leaderboard)
   - [LLM training platform](#llm-training-platform)
@@ -25,7 +26,6 @@ This repo collects AI-related utilities.
   - [Programming Development](#programming-development)
   - [Translation](#translation)
   - [AI Conversation or AI Voice Conversation](#ai-conversation-or-ai-voice-conversation)
-  - [Image Creation](#image-creation)
   - [Speech Recognition](#speech-recognition)
   - [Text To Speech](#text-to-speech)
   - [Voice Processing](#voice-processing)
@@ -79,6 +79,24 @@ This repo collects AI-related utilities.
 | GPTCache |⚡ GPTCache is a library for creating semantic cache to store responses from LLM queries. It can be used to speed up and lower the cost of chat applications that rely on the LLM service. And it's similar to redis in an aigc scenario.| [Github](https://github.com/zilliztech/GPTCache) </br>![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| Free|
 | MindMac | Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages. | [URL](https://mindmac.app/) | Free, with paid upgrades|
 | MemFree | Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. | [Github](https://github.com/memfreeme/memfree) </br>![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)| Free & Suport one-click self-host|
+
+### Image Creation
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Free account has a certain usage minutes limit, and there is a paid upgrade version |
+| Photoshop AI| Adobe Photoshop generative-fill| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Paid|
+| Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| Free|
+| civitai |	civitai.com is a website platform for sharing AI image creation model resources, with a large number of models, has become the main model exchange place in the SD open source community	| [URL](https://civitai.com/)	| Free|
+| clipdrop |	clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. |	[URL](https://clipdrop.co/)	| Free/Paid |
+| firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
+| ideogram.ai | Enter text to create pictures. A product developed by a company founded by many ex-Googlers |[URL](https://ideogram.ai/)| Free |
+| Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
+|DragGAN|Interactive Point-based Manipulation on the Generative Image Manifold|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|Free|
+| visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
+| Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | [URL](https://www.bing.com/images/create) | Free|
+| remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
+| ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
+|StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
 
 ### LLM Prompts
 | Name | Description | Links | Fees | 
@@ -144,25 +162,6 @@ This repo collects AI-related utilities.
 | pi.ai | An AI that's been shown to be very good at chatting, so you don't have to worry about talking all day. It supports both text and speech. Voice input is required with Apple's input system. Good for practicing English conversation and listening.| [URL](https://pi.ai/) | Free|
 |Voice Control for ChatGPT | This Chrome extension allows you to have voice conversations with ChatGPT. | [URL](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) | Free, requires chatgpt account  | 
 |SpeechGPT|SpeechGPT is a web application that enables you to converse with ChatGPT.|[GitHub](https://github.com/hahahumble/speechgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|Free，requires OpenAI API key|
-
-
-### Image Creation
-| Name | Description | Links | Fees | 
-| ---- | ----------------------------- | --- | --- |
-| Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Free account has a certain usage minutes limit, and there is a paid upgrade version |
-| Photoshop AI| Adobe Photoshop generative-fill| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Paid|
-| Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| Free|
-| civitai |	civitai.com is a website platform for sharing AI image creation model resources, with a large number of models, has become the main model exchange place in the SD open source community	| [URL](https://civitai.com/)	| Free|
-| clipdrop |	clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. |	[URL](https://clipdrop.co/)	| Free/Paid |
-| firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
-| ideogram.ai | Enter text to create pictures. A product developed by a company founded by many ex-Googlers |[URL](https://ideogram.ai/)| Free |
-| Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
-|DragGAN|Interactive Point-based Manipulation on the Generative Image Manifold|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|Free|
-| visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
-| Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | [URL](https://www.bing.com/images/create) | Free|
-| remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
-| ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
-|StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
 
 
 ### Speech Recognition
