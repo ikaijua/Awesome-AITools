@@ -8,6 +8,7 @@
 - [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
 - [开源大语言模型](#开源大语言模型)
 - [GPT/LLMs 应用](#gpt-llms应用)
+- [AI图像创作](#ai图像创作)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
 - [大语言模型排行榜](#大语言模型排行榜)
@@ -21,7 +22,6 @@
 - [编程开发](#编程开发)
 - [翻译工具](#翻译工具)
 - [AI聊天-口语练习](#ai聊天-口语练习)
-- [图像创作](#图像创作)
 - [语音识别-生成字幕](#语音识别-生成字幕)
 - [文字转语音](#文字转语音)
 - [声音克隆](#声音克隆)
@@ -94,6 +94,30 @@
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
 | GPTCache |⚡ GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库，类似于aigc场景中的redis。 它可用于降低依赖 LLM 服务（如ChatGPT）的成本，同时也可以有效减少服务响应时间，因为大模型推理一般都比较耗时。| [GitHub](https://github.com/zilliztech/GPTCache) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| 免费|
 | MindMac | 功能丰富、隐私第一的 macOS 原生 ChatGPT 应用程序，可在一个地方使用 OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter，旨在实现最大生产力。 目前有 15 种语言版本。| [URL](https://mindmac.app/) | 免费，有付费升级版 |
+
+### AI图像创作
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+| Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费/免费试用 |
+| Stable diffusion webui | 开源项目，输入文字或图片进行图片创作， Stable diffusion webui是Stable diffusion的GUI是将stable diffusion实现可视化的图像用户操作界面，它本身还集成了很多其它有用的扩展脚本。<br>新手入门教程：https://www.bilibili.com/video/BV1Qo4y167AK/ </br> AI风格化视频或AI真人视频的效果：</br>1. [【AI动画】欣小萌天台蹦迪 动画版](https://www.bilibili.com/video/BV1RL411U7wR)，</br>2. [死磕真人AI动作，人物和背景的终于不闪了，你们觉得哪个更好点？](https://www.bilibili.com/video/BV1Fs4y1V7f7)</br>3. [5分钟，教会你如何生成AI动画](https://www.bilibili.com/video/BV13s4y1D7Ni)| [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| 免费|
+| 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
+| Photoshop 生成式AI功能| 在Adobe Photoshop中使用生成式AI填充功能。功能介绍：</br> 1. [B站视频：Photoshop 革命性新功能-生成式填充功能介绍](https://www.bilibili.com/video/BV1su411Y79Z/) <br> 2. [巫师后期B站视频：引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！](https://www.bilibili.com/video/BV1qo4y1E7tK)| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Photoshop 订阅会员可下载Beta版本试用|
+| firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
+| clipdrop | stability.ai 公司旗下的图像处理网站，包含文生图、AI扩图、图生图、去除背景等功能 | [URL](https://clipdrop.co/)| 免费/ 付费|
+| civitai | Civitai(C站)是一个用于分享AI图像创作模型资源的网站平台，拥有大量模型，已成为SD开源社区主要的模型交流场所 |[URL](https://civitai.com/)|免费|
+| 文心一格 | 百度旗下的文生图和AI图片编辑应用| [URL](https://yige.baidu.com/)| 免费/付费 |
+| 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
+| 美图的奇想智能MiracleVision|美图的文生图应用|[URL](https://www.miraclevision.com/text-to-image/)|免费|
+| ideogram.ai | AI 文字生成图片的网站。前谷歌AI绘画4位大牛创立的公司推出的产品 | [URL](https://ideogram.ai/) | 免费 |
+| Skybox AI | 输入文字生成360度全景图片 | [URL](https://skybox.blockadelabs.com/)| 免费/ 付费|
+| Microsoft Bing Image Creator | Image Creator 是使用 DALL-E 技术创作图片的工具。试用了下**生成人像图片不堪入目** | [URL](https://www.bing.com/images/create) | 免费|
+| remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
+| 简单AI | 搜狐旗下的文生图和图片分享网站 | [URL](https://ai.sohu.com/) | 免费/付费 |
+|ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
+|StreamDiffusion| 实时AI互动图片生成的管道级解决方案|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|免费|
+| visual-chatgpt | 通过 ChatGPT 创作图片 | [GitHub](https://github.com/microsoft/visual-chatgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social) | 免费 
+|DragGAN|一种新的交互式图像编辑方法，允许用户通过简单地在图像上点击并拖动点来进行编辑|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|免费|
+|black-forest-labs/flux|FLUX.1 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)|免费|
 
 ### ChatGPT Prompts
 | 名称 | 说明 | 链接 |费用|
@@ -187,31 +211,6 @@
 | pi.ai | 一个公认很会聊天的AI，不用担心把天聊死了，并且支持文字和语音。语音输入需要借助苹果系统自带的输入。很适合练习英语对话和听力| [URL](https://pi.ai) | 免费 |
 |Voice Control for ChatGPT | chrome扩展程序，通过它可以与 ChatGPT 进行语音对话。可以帮助英语口语或其他语言口语练习。</br>视频示例：[B站视频:免费口语老师：如何用ChatGPT练习英语口语](https://www.bilibili.com/video/BV1iy4y1Q7Fh) | [URL](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) | 免费，需要chatgpt账号  | 
 |SpeechGPT|开源项目，SpeechGPT 是一个让你与 ChatGPT 聊天的网站。|[GitHub](https://github.com/hahahumble/speechgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|免费，需要OpenAI API key|
-
-
-### 图像创作
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-| Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费/免费试用 |
-| Stable diffusion webui | 开源项目，输入文字或图片进行图片创作， Stable diffusion webui是Stable diffusion的GUI是将stable diffusion实现可视化的图像用户操作界面，它本身还集成了很多其它有用的扩展脚本。<br>新手入门教程：https://www.bilibili.com/video/BV1Qo4y167AK/ </br> AI风格化视频或AI真人视频的效果：</br>1. [【AI动画】欣小萌天台蹦迪 动画版](https://www.bilibili.com/video/BV1RL411U7wR)，</br>2. [死磕真人AI动作，人物和背景的终于不闪了，你们觉得哪个更好点？](https://www.bilibili.com/video/BV1Fs4y1V7f7)</br>3. [5分钟，教会你如何生成AI动画](https://www.bilibili.com/video/BV13s4y1D7Ni)| [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| 免费|
-| 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
-| Photoshop 生成式AI功能| 在Adobe Photoshop中使用生成式AI填充功能。功能介绍：</br> 1. [B站视频：Photoshop 革命性新功能-生成式填充功能介绍](https://www.bilibili.com/video/BV1su411Y79Z/) <br> 2. [巫师后期B站视频：引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！](https://www.bilibili.com/video/BV1qo4y1E7tK)| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Photoshop 订阅会员可下载Beta版本试用|
-| firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
-| clipdrop | stability.ai 公司旗下的图像处理网站，包含文生图、AI扩图、图生图、去除背景等功能 | [URL](https://clipdrop.co/)| 免费/ 付费|
-| civitai | Civitai(C站)是一个用于分享AI图像创作模型资源的网站平台，拥有大量模型，已成为SD开源社区主要的模型交流场所 |[URL](https://civitai.com/)|免费|
-| 文心一格 | 百度旗下的文生图和AI图片编辑应用| [URL](https://yige.baidu.com/)| 免费/付费 |
-| 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
-| 美图的奇想智能MiracleVision|美图的文生图应用|[URL](https://www.miraclevision.com/text-to-image/)|免费|
-| ideogram.ai | AI 文字生成图片的网站。前谷歌AI绘画4位大牛创立的公司推出的产品 | [URL](https://ideogram.ai/) | 免费 |
-| Skybox AI | 输入文字生成360度全景图片 | [URL](https://skybox.blockadelabs.com/)| 免费/ 付费|
-| Microsoft Bing Image Creator | Image Creator 是使用 DALL-E 技术创作图片的工具。试用了下**生成人像图片不堪入目** | [URL](https://www.bing.com/images/create) | 免费|
-| remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
-| 简单AI | 搜狐旗下的文生图和图片分享网站 | [URL](https://ai.sohu.com/) | 免费/付费 |
-|ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
-|StreamDiffusion| 实时AI互动图片生成的管道级解决方案|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|免费|
-| visual-chatgpt | 通过 ChatGPT 创作图片 | [GitHub](https://github.com/microsoft/visual-chatgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social) | 免费 
-|DragGAN|一种新的交互式图像编辑方法，允许用户通过简单地在图像上点击并拖动点来进行编辑|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|免费|
-|black-forest-labs/flux|FLUX.1 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)|免费|
 
 ### 语音识别-生成字幕
 | 名称 | 说明 | 链接 | 费用 | 
