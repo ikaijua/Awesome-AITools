@@ -276,7 +276,7 @@
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
-| 剪映 |字幕生成语音、识别语音、一键图文成片，还有很便捷、强大的视频剪辑功能|[URL](https://www.capcut.cn/)|免费/vip|
+| 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能|[URL](https://www.capcut.cn/)|免费/付费|
 | 快手可灵|支持文生视频和图生视频|[URL](https://kling.kuaishou.com/)|免费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
