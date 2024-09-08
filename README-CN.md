@@ -282,7 +282,7 @@
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
 | Sora | OpenAI的文本生成视频的模型。Sora技术报告：https://github.com/ikaijua/Awesome-AITools/discussions/54, Sora的访问权限未完全开放，部分视觉艺术家、设计师和电影制作人获得了访问权限 | [URL](https://openai.com/sora) | - |
-| Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) | [URL](https://runwayml.com/) | 付费/有一定的免费试用额度|
+| Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) | [URL](https://runwayml.com/) <br>精选视频：https://runwayml.com/staff-picks | 付费/有一定的免费试用额度|
 | Pika | 文本/图像 AI生成视频| [URL](https://pika.art/home)|	Paid/Free trial付费/有一定的免费试用额度|
 | Fliki | 將文字生成音频和视频的网站 | [URL](https://fliki.ai) | 免费/付费 |
 | d-id | 根据文字生成数字人的配音视频 | [URL](https://studio.d-id.com) | 付费，有一定的免费试用额度 |
