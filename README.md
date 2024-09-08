@@ -216,7 +216,7 @@ This repo collects AI-related utilities.
 | Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. Sora access not fully open, some visual artists, designers and filmmakers given access | [URL](https://openai.com/sora) | - |
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
-| Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video  | [URL](https://runwayml.com/) | Paid/Free trial|
+| Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video. Featured video: https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | Paid/Free trial|
 | Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
