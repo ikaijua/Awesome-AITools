@@ -282,11 +282,11 @@
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
 | Sora | OpenAI的文本生成视频的模型。Sora技术报告：https://github.com/ikaijua/Awesome-AITools/discussions/54, Sora的访问权限未完全开放，部分视觉艺术家、设计师和电影制作人获得了访问权限 | [URL](https://openai.com/sora) | - |
-| Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) | [URL](https://runwayml.com/) <br>精选视频：https://runwayml.com/staff-picks | 付费/有一定的免费试用额度|
-| Pika | 文本/图像 AI生成视频| [URL](https://pika.art/home)|	Paid/Free trial付费/有一定的免费试用额度|
-| Fliki | 將文字生成音频和视频的网站 | [URL](https://fliki.ai) | 免费/付费 |
-| d-id | 根据文字生成数字人的配音视频 | [URL](https://studio.d-id.com) | 付费，有一定的免费试用额度 |
-| HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 付费，有一定的免费试用额度 |
+| Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) <br>精选视频：https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | 免费试用/付费|
+| Pika | 文本/图像 AI生成视频| [URL](https://pika.art/home)|	免费试用/付费|
+| Fliki | 將文字生成音频和视频的网站 | [URL](https://fliki.ai) | 免费试用/付费 |
+| d-id | 根据文字生成数字人的配音视频 | [URL](https://studio.d-id.com) | 免费试用/付费 |
+| HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 免费试用/付费 |
 | AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
 |vivago.ai/video|	文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)|	免费|
 
