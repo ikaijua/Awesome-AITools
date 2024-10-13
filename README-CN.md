@@ -118,6 +118,7 @@
 | visual-chatgpt | 通过 ChatGPT 创作图片 | [GitHub](https://github.com/microsoft/visual-chatgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social) | 免费 
 |DragGAN|一种新的交互式图像编辑方法，允许用户通过简单地在图像上点击并拖动点来进行编辑|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|免费|
 |black-forest-labs/flux|FLUX.1 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)|免费|
+|HivisionIDPhotos|一个轻量级的AI证件照制作算法。|[Github](https://github.com/Zeyi-Lin/HivisionIDPhotos) ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=social)|免费|
 
 ### ChatGPT Prompts
 | 名称 | 说明 | 链接 |费用|
