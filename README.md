@@ -134,6 +134,7 @@ This repo collects AI-related utilities.
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
+| Logiballs | An AI-powered writing tool to create any type of content and supercharge your productivity. |  [URL](https://logicballs.com) | Free/Paid|
 
 ### Programming Development
 | Name | Description | Links | Fees |  
