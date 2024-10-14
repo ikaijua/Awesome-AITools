@@ -198,6 +198,7 @@
 |flappy|一个产品级面向所有程序员的LLM SDK|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |免费|
 |腾讯云AI代码助手|腾讯云 AI 代码助手主要提供两类功能：AI 助手对话功能和代码补全功能。|[URL](https://console.cloud.tencent.com/acc)|免费|
 |Mistral/Codestral|Mistral.ai的代码生成大语言模型，官方介绍：[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), 模型下载:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat) 模型选择Codestral|免费|
+|batchai|对Copilot和Cursor们的补充：用 AI 批量处理项目代码。|[GitHub](https://github.com/qiangyt/batchai) ![GitHub Repo stars](https://img.shields.io/github/stars/qiangyt/batchai?style=social)|Free|
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 | 
