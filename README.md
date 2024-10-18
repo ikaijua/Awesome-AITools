@@ -184,6 +184,7 @@ This repo collects AI-related utilities.
 | netease-youdao/EmotiVoice | A Multi-Voice and Prompt-Controlled TTS Engine. EmotiVoice speaks both English and Chinese, and with over 2000 different voices. The most prominent feature is emotional synthesis, allowing you to create speech with a wide range of emotions, including happy, excited, sad, angry and others.|[Github](https://github.com/netease-youdao/EmotiVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social)| Free|
 | tetos |A unified interface for multiple Text-to-Speech (TTS) providers. Supported TTS providers: Edge TTS, OpenAI TTS, Azure TTS, Google TTS, Volcengine TTS, Baidu TTS|[Github](https://github.com/frostming/tetos) ![GitHub Repo stars](https://img.shields.io/github/stars/frostming/tetos?style=social)|Free|
 | ChatTTS |ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages. Our model is trained with 100,000+ hours composed of chinese and english. Website：https://chattts.com/|[Github](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|Free|
+| Kveeky |AI Voiceover Artist for Your Next Video. Website：(https://kveeky.com/)| [URL](https://kveeky.com/)|Free/Paid|
 
 ### Voice Processing
 | Name | Description | Links | Fees | 
