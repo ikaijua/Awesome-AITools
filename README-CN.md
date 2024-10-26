@@ -232,6 +232,7 @@
 
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
+|豆包|	字节跳动旗下的AI聊天软件，有网页、客户端和app应用 ; 体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)|[URL](https://www.doubao.com/)	|免费|
 | pi.ai | 一个公认很会聊天的AI，不用担心把天聊死了，并且支持文字和语音。语音输入需要借助苹果系统自带的输入。很适合练习英语对话和听力| [URL](https://pi.ai) | 免费 |
 |Voice Control for ChatGPT | chrome扩展程序，通过它可以与 ChatGPT 进行语音对话。可以帮助英语口语或其他语言口语练习。</br>视频示例：[B站视频:免费口语老师：如何用ChatGPT练习英语口语](https://www.bilibili.com/video/BV1iy4y1Q7Fh) | [URL](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) | 免费，需要chatgpt账号  | 
 |SpeechGPT|开源项目，SpeechGPT 是一个让你与 ChatGPT 聊天的网站。|[GitHub](https://github.com/hahahumble/speechgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|免费，需要OpenAI API key|
