@@ -17,7 +17,7 @@
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
 - [AI工具箱类软件](#ai工具箱类软件)
 - [AI Agent](#ai-agent)
-- [搜索引擎](#搜索引擎)
+- [AI搜索](#ai搜索)
 - [阅读](#阅读)
 - [写作](#写作)
 - [编程开发](#编程开发)
@@ -184,12 +184,13 @@
 |microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
 |Taskade AI| 在统一的工作空间内构建、训练和部署自主AI代理，用于任务管理、团队协作和工作流自动化。通过结构化列表、笔记和思维导图提升团队生产力。 | [URL](https://www.taskade.com/) | 每日免费AI额度 / 支持付费升级 |
 
-### 搜索引擎
+### ai搜索
 | 名称 | 说明 | 链接 | 费用 | 
 | --- | --- | --- | --- |
 | You.com | 结合对话模式的搜索引擎 | [URL](https://you.com) | 免费 |
 | Perplexity.ai | Perplexity.ai 是一个基于 GPT-3 的 AI 工具，类似 New Bing 的搜寻引擎、会附上参考结果 | [URL](https://www.perplexity.ai) | 免费|
 | MindSearch |中科大和上海人工智能实验室联合研发国产开源搜索引擎MindSearch（思・索）,采用分层检索策略，先广泛搜索再精确选择，有效管理互联网上的海量信息。[在线Demo](https://mindsearch.openxlab.org.cn/)|[Github](https://github.com/InternLM/mindsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/mindsearch?style=social)|免费|
+| 知乎直答 |知乎的AI搜索，有通用搜索和专业搜索；介绍:B站视频[朋克周/专业报告和学术期刊为你所用，AI搜索迎来新选择](https://www.bilibili.com/video/BV1U6SXYFECC/)|[URL](https://zhida.zhihu.com/)|免费|
 
 ### 阅读
 | 名称 | 说明 | 链接 | 费用 | 
