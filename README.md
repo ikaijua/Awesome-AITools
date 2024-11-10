@@ -27,6 +27,7 @@ This repo collects AI-related utilities.
   - [Translation](#translation)
   - [AI Conversation or AI Voice Conversation](#ai-conversation-or-ai-voice-conversation)
   - [Speech Recognition](#speech-recognition)
+  - [Music Recognition](#music-recognition)
   - [Text To Speech](#text-to-speech)
   - [Voice Processing](#voice-processing)
   - [AI generated music or sound effects](#ai-generated-music-or-sound-effects)
@@ -188,6 +189,11 @@ This repo collects AI-related utilities.
 | netease-youdao/EmotiVoice | A Multi-Voice and Prompt-Controlled TTS Engine. EmotiVoice speaks both English and Chinese, and with over 2000 different voices. The most prominent feature is emotional synthesis, allowing you to create speech with a wide range of emotions, including happy, excited, sad, angry and others.|[Github](https://github.com/netease-youdao/EmotiVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/EmotiVoice?style=social)| Free|
 | tetos |A unified interface for multiple Text-to-Speech (TTS) providers. Supported TTS providers: Edge TTS, OpenAI TTS, Azure TTS, Google TTS, Volcengine TTS, Baidu TTS|[Github](https://github.com/frostming/tetos) ![GitHub Repo stars](https://img.shields.io/github/stars/frostming/tetos?style=social)|Free|
 | ChatTTS |ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages. Our model is trained with 100,000+ hours composed of chinese and english. Website：https://chattts.com/|[Github](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|Free|
+
+### Music Recognition
+| Name | Description | Links | Fee | 
+| ---- | ----------------------------- | --- | --- |
+|shazam| Download the shazaom app for music recognition, which is pretty fast |[URL](https://www.shazam.com/)| Free|
 
 ### Voice Processing
 | Name | Description | Links | Fees | 
