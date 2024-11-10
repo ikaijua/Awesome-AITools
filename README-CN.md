@@ -25,6 +25,7 @@
 - [AI聊天-口语练习](#ai聊天-口语练习)
 - [语音识别-生成字幕](#语音识别-生成字幕)
 - [文字转语音](#文字转语音)
+- [音乐识别](#音乐识别)
 - [声音克隆](#声音克隆)
 - [语音翻译](#语音翻译)
 - [语音合成](#语音合成)
@@ -264,6 +265,11 @@
 | tetos |适用于多个文本转语音 （TTS） 提供程序的统一接口，支持Edge TTS、OpenAI TTS、Azure TTS、Google TTS、火山引擎TTS、百度TTS|[Github](https://github.com/frostming/tetos) ![GitHub Repo stars](https://img.shields.io/github/stars/frostming/tetos?style=social)|免费|
 | ChatTTS |ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。官网：https://chattts.com/|[Github](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|免费|
 |FunAudioLLM/CosyVoice|阿里开源的TTS模型|[Github](https://github.com/FunAudioLLM/CosyVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social)|免费|
+
+### 音乐识别
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+|shazam|下载shazaom app可以进行音乐识别，识别速度挺快的|[URL](https://www.shazam.com/)|免费|
 
 ### 声音克隆
 | 名称 | 说明 | 链接 | 费用 | 
