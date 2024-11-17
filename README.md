@@ -3,7 +3,7 @@
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
-English | [中文](README-CN.md) | [हिन्दी](README-IN.md)
+English | [中文](README-CN.md)
 
 This repo collects AI-related utilities. 
 
