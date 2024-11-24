@@ -192,6 +192,7 @@
 | --- | --- | --- | --- |
 | 秘塔搜索 | 搜索网络信息并提供汇总信息，并附有参考链接，还创建话题知识库|[URL](https://metaso.cn/)|免费|
 | 知乎直答 |知乎的AI搜索，有通用搜索和专业搜索；介绍:B站视频[朋克周/专业报告和学术期刊为你所用，AI搜索迎来新选择](https://www.bilibili.com/video/BV1U6SXYFECC/)|[URL](https://zhida.zhihu.com/)|免费|
+| IMA |IMA是腾讯推出的一款AI智能工作台，它集成了搜索、阅读、写作、知识库管理等多种功能。目前只有Mac和Windows客户端。搜索相比其他搜索能覆盖微信公众号文章，支持知识库管理比如上传本地文件、公众号文章或网页链接，构建个人知识库。支持写作但目前不支持文件夹的功能。|[URL](https://ima.qq.com/) |免费| 
 | You.com | 结合对话模式的搜索引擎 | [URL](https://you.com) | 免费 |
 | Perplexity.ai | Perplexity.ai 是一个基于 GPT-3 的 AI 工具，类似 New Bing 的搜寻引擎、会附上参考结果 | [URL](https://www.perplexity.ai) | 免费|
 | MindSearch |中科大和上海人工智能实验室联合研发国产开源搜索引擎MindSearch（思・索）,采用分层检索策略，先广泛搜索再精确选择，有效管理互联网上的海量信息。[在线Demo](https://mindsearch.openxlab.org.cn/)|[Github](https://github.com/InternLM/mindsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/mindsearch?style=social)|免费|
