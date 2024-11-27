@@ -133,6 +133,7 @@ This repo collects AI-related utilities.
 |AppAgent|Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|Free|
 |microsoft/autogen|AutoGen is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|Free|
 |potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
+|saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
 
 ### Writing
 | Name | Description | Links | Fees | 
