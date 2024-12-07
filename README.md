@@ -17,6 +17,7 @@ This repo collects AI-related utilities.
   - [Open Source LLMs](#open-source-llms)
   - [GPT/LLMs Applications](#gpt-llms-applications)
   - [AI Image Creation](#ai-image-creation)
+  - [Video Creation](#video-creation)
   - [LLM Prompts](#llm-prompts)
   - [LLM Leaderboard](#llm-leaderboard)
   - [LLM training platform](#llm-training-platform)
@@ -32,7 +33,6 @@ This repo collects AI-related utilities.
   - [Voice Processing](#voice-processing)
   - [AI generated music or sound effects](#ai-generated-music-or-sound-effects)
   - [Speech translation](#speech-translation)
-  - [Video Creation](#video-creation)
   - [Video Content Summary](#video-content-summary)
   - [OCR(Optical Character Recognition)](#ocr)
 
@@ -101,6 +101,23 @@ This repo collects AI-related utilities.
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 |StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
+
+### Video Creation
+
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| KLING AI|AI Video Creation Tool by kuaishou.  |[URL](https://klingai.com/)|Free/Paid|
+| hailuoai|AI Video Creation Tool by Minimax|[URL](https://hailuoai.com/video)|Free/Paid|
+| Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
+| Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. Sora access not fully open, some visual artists, designers and filmmakers given access | [URL](https://openai.com/sora) | - |
+| capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
+| Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video. Featured video: https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | Paid/Free trial|
+| Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
+| Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
+| d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
+| HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
+| AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
+|vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
 
 ### LLM Prompts
 | Name | Description | Links | Fees | 
@@ -221,22 +238,6 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- | 
 | Seamless |Seamless is a family of AI models that enable more natural and authentic communication across languages.[Online Demo](https://seamless.metademolab.com/expressive?utm_source=metaai&utm_medium=web&utm_campaign=fair10&utm_content=blog)|[Github](https://github.com/facebookresearch/seamless_communication) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social)|Free|
-
-### Video Creation
-
-| Name | Description | Links | Fees | 
-| ---- | ----------------------------- | --- | --- |
-| KLING AI|AI Video Creation Tool by kuaishou.  |[URL](https://klingai.com/)|Free/Paid|
-| Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
-| Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. Sora access not fully open, some visual artists, designers and filmmakers given access | [URL](https://openai.com/sora) | - |
-| capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
-| Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video. Featured video: https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | Paid/Free trial|
-| Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
-| Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
-| d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
-| HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
-| AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
-|vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
 
 
 ### Video Content Summary
