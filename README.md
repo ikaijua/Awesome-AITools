@@ -18,6 +18,7 @@ This repo collects AI-related utilities.
   - [GPT/LLMs Applications](#gpt-llms-applications)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
+  - [AI Cloud Platform](#ai-cloud-platform)
   - [LLM Prompts](#llm-prompts)
   - [LLM Leaderboard](#llm-leaderboard)
   - [LLM training platform](#llm-training-platform)
@@ -118,6 +119,11 @@ This repo collects AI-related utilities.
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
 |vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
+
+### AI Cloud Platform
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
 
 ### LLM Prompts
 | Name | Description | Links | Fees | 
