@@ -4,7 +4,7 @@
 
 如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！ღ( ´･ᴗ･` )ღ
 
-<img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="20%" height="20%" />  
+<img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="30%" height="30%" />  
 
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
  
