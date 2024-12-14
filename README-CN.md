@@ -1,9 +1,14 @@
 [English](README.md) | 中文
 
-这个仓库整理AI相关的实用工具。
+**这个仓库整理AI相关的实用工具。**
+
+如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！ღ( ´･ᴗ･` )ღ
+
+<img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="20%" height="20%" />  
 
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
-- [赞赏支持](#赞赏支持)
+ 
+
 ## 全部分类
 - [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
@@ -385,9 +390,5 @@ Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论�
 [![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
 
-### 赞赏支持
-如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！
-
-<img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="20%" height="20%" />   
 
 
