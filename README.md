@@ -46,7 +46,7 @@ This repo collects AI-related utilities.
 | Grok | xAI's AI assistant |[URL](https://x.com/i/grok)|Free|
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
-| DeepSeek | DeepSeek's AI assistant. API: https://platform.deepseek.com/api_keys|[URL](https://chat.deepseek.com/)|Free/Paid|
+| DeepSeek | DeepSeek's AI assistant. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
 
 ### AI Search engine
 | Name | Description | Links | Fees |  
