@@ -270,6 +270,7 @@
 | 飞书秒记 | 上传视频或者音频可转录为文字，并可一键导出到飞书文档。处理速度很快，一个将近 2 个多小时的视频，约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes)| 免费，有企业付费版|
 | 通义听悟 | 阿里旗下的语音转录应用 | [URL](https://tingwu.aliyun.com/) | 免费/付费 |
 | whisper-web | 在浏览器中运行ML驱动的语音识别! 使用[Transformers.js](https://github.com/xenova/transformers.js)构建。[Demo链接](https://huggingface.co/spaces/Xenova/whisper-web) | [GitHub](https://github.com/xenova/whisper-web) ![GitHub Repo stars](https://img.shields.io/github/stars/xenova/whisper-web?style=social)|免费|
+|阿里云智能语音交互-语音识别API|试用版3个月免费试用期，录音文件识别免费额度:2小时/日|[URL](https://ai.aliyun.com/nls)|付费/免费试用|
 
 ### 文字转语音
 | 名称 | 说明 | 链接 | 费用 | 
