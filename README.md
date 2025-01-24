@@ -268,3 +268,5 @@ This repo collects AI-related utilities.
 
 Awesome-AITools Discord Link: https://discord.gg/7hAvJQME
 
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
