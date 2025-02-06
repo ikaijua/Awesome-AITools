@@ -106,6 +106,7 @@ This repo collects AI-related utilities.
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 |StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
+| Seede AI| Helps you create a poster in 1 min|[URL](https://seede.ai/)|Free/Paid|
 
 ### Video Creation
 
