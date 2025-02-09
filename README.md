@@ -66,6 +66,8 @@ This repo collects AI-related utilities.
 ### GPT LLMs Applications
 | Name | Description | Links | Fees | 
 -|-|-|-
+| Abso | Framework for calling 100+ LLMs using OpenAI's format. | [URL](https://abso.ai) | Free |
+| Lunary | Open-source platform for GenAI developers, with features like observability, prompt management and more. | [Github](https://github.com/lunary-ai/lunary) ![GitHub Repo stars](https://img.shields.io/github/stars/lunary-ai/lunary?style=social) | Free  | 
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free, with paid upgrades|
 | HuggingChat|Open source codebase powering the HuggingChat app. [URL](https://huggingface.co/chat/)|[Github](https://github.com/huggingface/chat-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Free|
 | Google AI Studio|Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts and then get an API key to use in your app development|[URL](https://aistudio.google.com/)|Free|
