@@ -41,12 +41,12 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT | OpenAI's chatgpt | [URL](https://chat.openai.com) | Free/Paid | 
+| DeepSeek | DeepSeek's AI assistant. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
 | Claude| Anthropic's AI assistant|[URL](https://claude.ai/)| Free/Paid|
 | Gemini| Google's conversational, AI chat service. Google's latest LLM, including Gemini Nono, Gemini Pro and Gemini Ultra. Gemini Pro is open for api and sdk use.  Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code |[URL](https://gemini.google.com/) <br> dev: [URL](https://ai.google.dev/)|Free|
 | Grok | xAI's AI assistant |1.[x.com/grok](https://x.com/i/grok) <br>2.[grok.com](https://grok.com/)|Free|
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
-| DeepSeek | DeepSeek's AI assistant. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
 
 ### AI Search engine
 | Name | Description | Links | Fees |  
@@ -57,8 +57,11 @@ This repo collects AI-related utilities.
 ### Open Source LLMs
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
-| Llama 3 | Llama3 is a large language model developed by Meta AI. It is the successor to Meta's Llama2 language model. <br>Online test address:<br>[huggingface.co/Meta-Llama-3-70B-Instruct](https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct) |[GitHub](https://github.com/meta-llama/llama3) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social)| Free |
+| DeepSeek-R1 |DeepSeek's first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning.|[Github](https://github.com/deepseek-ai/DeepSeek-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social)|Free|
 | DeepSeek-V3 |A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.|[Github](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|Free|
+| Llama 3 | Llama3 is a large language model developed by Meta AI. It is the successor to Meta's Llama2 language model. <br>Online test address:<br>[huggingface.co/Meta-Llama-3-70B-Instruct](https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct) |[GitHub](https://github.com/meta-llama/llama3) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social)| Free |
+
+
 | Mixtral |Mixtral 8x7B, a high-quality sparse mixture of experts model (SMoE) with open weights. Mixtral outperforms Llama 2 70B on most benchmarks with 6x faster inference. It matches or outperforms GPT3.5 on most standard benchmarks. <br>paper：https://arxiv.org/pdf/2401.04088.pdf <br>news：https://mistral.ai/news/mixtral-of-experts/ |[mistral-inference](https://github.com/mistralai/mistral-inference) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social)<br>[mistral-finetune](https://github.com/mistralai/mistral-finetune) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-finetune?style=social)|Free|
 |grok-1|A large language model open sourced by xAI|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|Free|
 |Phi-3| Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|Free|
