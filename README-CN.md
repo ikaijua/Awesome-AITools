@@ -8,14 +8,13 @@
 
 ## 全部分类
 - [ChatGPT及类似闭源大语言模型](#chatgpt及类似闭源大语言模型)
-- [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
+- [开源大语言模型](#开源大语言模型)
 - [GPT/LLMs 应用](#gpt-llms应用)
+- [大语言模型排行榜](#大语言模型排行榜)
 - [AI图像创作](#ai图像创作)
 - [AI视频创作](#ai视频创作)
 - [AI云平台](#ai云平台)
 - [ChatGPT Prompts](#chatgpt-prompts)
-- [开源大语言模型](#开源大语言模型)
-- [大语言模型排行榜](#大语言模型排行榜)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
 - [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
 - [AI工具箱类软件](#ai工具箱类软件)
@@ -50,15 +49,14 @@
 ### ChatGPT及类似闭源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
+| DeepSeek | DeepSeek的AI助手。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
 | ChatGPT | openAI的chatgpt </br>应用示例：</br> [B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)</br>[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | 免费/付费| 
 | Claude|Anthropic研发的AI助手Claude|[URL](https://claude.ai/)| 免费/付费|
 | Gemini| Google 的对话式AI工具和最新的大语言模型，包括Gemini Nono，Gemini Pro和Gemini Ultra。Gemini Pro已开放api和sdk使用。api目前可免费使用，有每分钟60个请求的限制。[新闻介绍](https://github.com/ikaijua/Awesome-AITools/discussions/35#discussioncomment-7869696) |[Gemini AI聊天助手](https://bard.google.com/) <br>[Gemini api开发者网站](https://ai.google.dev/)|免费|
 | Grok | xAI研发的AI助手，结合了x上的文章内容 |[URL](https://x.com/i/grok)|免费|
 | 微软Copilot | 微软的Copilot，包含了多种AI工具和插件 | [URL](https://copilot.microsoft.com/) | 免费 | 
 | Le Chat| Mistral AI 推出了为 Le Chat 的聊天助手 |[URL](https://chat.mistral.ai/chat)|免费|
-| 豆包 | 字节跳动旗下的AI聊天软件 ; [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) <br>体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)<br>[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
 | 月之暗面的Kimi Chat|支持联网，支持上传文件（最多 50 个，每个 100 MB）接受 pdf、doc、xlsx、ppt、txt 等，文章总结能力比较强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|[URL](https://kimi.moonshot.cn/)|免费|
-| DeepSeek | DeepSeek的AI助手。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
 | 文心一言 |百度的大语言模型|[URL](https://yiyan.baidu.com/)|免费|
 | 通义千问 |阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|免费|
 | 智谱AI | 名为 ChatGLM 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发 | [URL](https://open.bigmodel.cn/)| 免费|
@@ -68,11 +66,17 @@
 | 腾讯混元模型 |腾讯的大语言模型；[API文档](https://cloud.tencent.com/document/api/1729/105701)|[URL](https://hunyuan.tencent.com/bot)|免费|
 | 中国国内发布的其他大模型|目前国内各大企业、科研机构和高校等单位已公开的 AI 大模型至少已经达到了 188 个。2023-12-17更新，[更多信息](https://github.com/ikaijua/Awesome-AITools/discussions/37#discussion-5968018)|||
 
-### 国内可使用的ChatGPT镜像站点
-| 名称 | 说明 | 链接 |
-| ---- | ----------------------------- | --- | 
-| carrot | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点国内可使用ChatGPT镜像站点 | [GitHub](https://github.com/xx025/carrot) </br>![GitHub Repo stars](https://img.shields.io/github/stars/xx025/carrot?style=social)|
-| awesome-free-chatgpt | 免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | [GitHub](https://github.com/LiLittleCat/awesome-free-chatgpt)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|
+### 开源大语言模型
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+| DeepSeek-R1 |DeepSeek 的第一代推理模型 DeepSeek-R1-Zero 和 DeepSeek-R1。DeepSeek-R1-Zero 是一种通过大规模强化学习（RL）训练的模型，没有监督微调（SFT）作为初步步骤，在推理性能表现卓越。|[Github](https://github.com/deepseek-ai/DeepSeek-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social)|免费|
+| DeepSeek-V3 |DeepSeek推出的大语言模型，MoE 模型，671B 参数，激活 37B，在 14.8T token 上进行了预训练。|[Github](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|免费|
+| Llama 3 | Llama3是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v3版本。<br>Llama3在线测试地址：[huggingface.co/Meta-Llama-3-70B-Instruct](https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct)|[GitHub](https://github.com/meta-llama/llama3) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social)| 免费  | 
+| Mixtral-8x7B |法国人工智能初创公司 Mistral AI开源的一种具有开放权重的稀疏专家混合模型 (SMoE)，在大多数基准测试中都优于 Llama 2 70B 和 GPT-3.5 <br>论文地址：https://arxiv.org/pdf/2401.04088.pdf <br>论文主页：https://mistral.ai/news/mixtral-of-experts/ |[Github](https://github.com/mistralai/mistral-src) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-src?style=social)|免费|
+|grok-1|马斯克的xAI公司开源的大语言模型|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|免费|
+| Qwen(通义千问)  |阿里云研发的通义千问大模型系列 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) <br> [Qwen-72B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary) <br>[Qwen1.5 72B 在线体验](https://huggingface.co/spaces/Qwen/Qwen1.5-72B-Chat)| [Qwen-7B](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)<br>[Qwen1.5](https://github.com/QwenLM/Qwen1.5)![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen1.5?style=social)| 免费  | 
+| ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
+| Phi-3| Phi-3是微软开发的开放式人工智能模型系列。Phi-3 模型是目前能力最强、最具成本效益的小型语言模型（SLM），在各种语言、推理、编码和数学基准测试中，其性能均优于相同大小和更大的模型。|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|免费|
 
 ### GPT-LLMs应用
 | 名称 | 说明 | 链接 | 费用 | 
@@ -100,6 +104,12 @@
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
 | GPTCache |⚡ GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库，类似于aigc场景中的redis。 它可用于降低依赖 LLM 服务（如ChatGPT）的成本，同时也可以有效减少服务响应时间，因为大模型推理一般都比较耗时。| [GitHub](https://github.com/zilliztech/GPTCache) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| 免费|
 | MindMac | 功能丰富、隐私第一的 macOS 原生 ChatGPT 应用程序，可在一个地方使用 OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter，旨在实现最大生产力。 目前有 15 种语言版本。| [URL](https://mindmac.app/) | 免费，有付费升级版 |
+
+### 大语言模型排行榜
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena 是一个用于大语言模型评估的众包开放平台。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>B站视频：[量子位/1v1单挑90万轮之后，最强大模型是……](https://www.bilibili.com/video/BV1Qs421w7df/) |[URL](https://chat.lmsys.org/) |免费|
+|Artificial Analysis|Artificial Analysis 是一个提供 AI 模型和服务商比较及基准测试的资源平台，帮助用户在选择 AI 模型和服务提供商时做出明智决策。平台提供多种流行 AI 模型的比较数据，包括 OpenAI 的 GPT-4、Meta 的 Llama 3 和 Anthropic 的 Claude 系列，涵盖了响应速度、延迟和成本等性能指标。|[URL](https://artificialanalysis.ai/)|免费|
 
 ### AI图像创作
 | 名称 | 说明 | 链接 | 费用 | 
@@ -154,24 +164,6 @@
 | 名称 | 说明 | 链接 |费用|
 | ---- | ----------------------------- | --- | --- |
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
-
-### 开源大语言模型
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-| Llama 3 | Llama3是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v3版本。<br>Llama3在线测试地址：[huggingface.co/Meta-Llama-3-70B-Instruct](https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct)|[GitHub](https://github.com/meta-llama/llama3) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social)| 免费  | 
-| DeepSeek-V3 |DeepSeek推出的大语言模型，MoE 模型，671B 参数，激活 37B，在 14.8T token 上进行了预训练。|[Github](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|免费|
-| Mixtral-8x7B |法国人工智能初创公司 Mistral AI开源的一种具有开放权重的稀疏专家混合模型 (SMoE)，在大多数基准测试中都优于 Llama 2 70B 和 GPT-3.5 <br>论文地址：https://arxiv.org/pdf/2401.04088.pdf <br>论文主页：https://mistral.ai/news/mixtral-of-experts/ |[Github](https://github.com/mistralai/mistral-src) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-src?style=social)|免费|
-|grok-1|马斯克的xAI公司开源的大语言模型|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|免费|
-| Qwen(通义千问)  |阿里云研发的通义千问大模型系列 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) <br> [Qwen-72B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary) <br>[Qwen1.5 72B 在线体验](https://huggingface.co/spaces/Qwen/Qwen1.5-72B-Chat)| [Qwen-7B](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)<br>[Qwen1.5](https://github.com/QwenLM/Qwen1.5)![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen1.5?style=social)| 免费  | 
-| ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
-| Phi-3| Phi-3是微软开发的开放式人工智能模型系列。Phi-3 模型是目前能力最强、最具成本效益的小型语言模型（SLM），在各种语言、推理、编码和数学基准测试中，其性能均优于相同大小和更大的模型。|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|免费|
-
-
-### 大语言模型排行榜
-| Name | Description | Links | Fees | 
-| ---- | ----------------------------- | --- | --- |
-|LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena 是一个用于大语言模型评估的众包开放平台。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>B站视频：[量子位/1v1单挑90万轮之后，最强大模型是……](https://www.bilibili.com/video/BV1Qs421w7df/) |[URL](https://chat.lmsys.org/) |免费|
-|Artificial Analysis|Artificial Analysis 是一个提供 AI 模型和服务商比较及基准测试的资源平台，帮助用户在选择 AI 模型和服务提供商时做出明智决策。平台提供多种流行 AI 模型的比较数据，包括 OpenAI 的 GPT-4、Meta 的 Llama 3 和 Anthropic 的 Claude 系列，涵盖了响应速度、延迟和成本等性能指标。|[URL](https://artificialanalysis.ai/)|免费|
 
 ### 大语言模型训练-评估平台
 | Name | Description | Links | Fees |
