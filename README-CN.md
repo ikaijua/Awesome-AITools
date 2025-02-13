@@ -126,7 +126,7 @@
 | 美图的奇想智能MiracleVision|美图的文生图应用|[URL](https://www.miraclevision.com/text-to-image/)|免费|
 | ideogram.ai | AI 文字生成图片的网站。前谷歌AI绘画4位大牛创立的公司推出的产品 | [URL](https://ideogram.ai/) | 免费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://skybox.blockadelabs.com/)| 免费/ 付费|
-| Microsoft Bing Image Creator | Image Creator 是使用 DALL-E 技术创作图片的工具。试用了下**生成人像图片不堪入目** | [URL](https://www.bing.com/images/create) | 免费|
+| Nero AI | AI图片放大、修复划痕、AI图片上色、AI图片去噪、AI一键抠图换背景、AI神奇擦除笔、AI写真；[介绍](https://github.com/ikaijua/Awesome-AITools/issues/100)。API文档：https://ai.nero.com/ai-api/docs/|[URL]( https://ai.nero.com/)|付费/试用|
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |StreamDiffusion| 实时AI互动图片生成的管道级解决方案|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|免费|
