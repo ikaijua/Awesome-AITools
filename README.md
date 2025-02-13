@@ -100,6 +100,7 @@ This repo collects AI-related utilities.
 | clipdrop |	clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. |	[URL](https://clipdrop.co/)	| Free/Paid |
 | firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
 | ideogram.ai | Enter text to create pictures. A product developed by a company founded by many ex-Googlers |[URL](https://ideogram.ai/)| Free/Paid |
+| Nero AI | AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/|[URL](https://ai.nero.com/)|Paid/Trial|
 | Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
 |DragGAN|Interactive Point-based Manipulation on the Generative Image Manifold|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|Free|
 | visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
