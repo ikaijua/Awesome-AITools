@@ -24,7 +24,6 @@
 - [写作](#写作)
 - [编程开发](#编程开发)
 - [翻译工具](#翻译工具)
-- [AI聊天-口语练习](#ai聊天-口语练习)
 - [语音识别-生成字幕](#语音识别-生成字幕)
 - [文字转语音](#文字转语音)
 - [音乐识别](#音乐识别)
@@ -242,15 +241,6 @@
 | Deep L | 准确即时的翻译工具，目前支持 31 种语言 | [URL](https://www.deepl.com/translator) | 免费/付费
 | openai-translator | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 | [GitHub](https://github.com/yetone/openai-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| 免费，需要OpenAI API key |
 
-### AI聊天-口语练习
-
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-|豆包|	字节跳动旗下的AI聊天软件，有网页、客户端和app应用 ; 体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)|[URL](https://www.doubao.com/)	|免费|
-| pi.ai | 一个公认很会聊天的AI，不用担心把天聊死了，并且支持文字和语音。语音输入需要借助苹果系统自带的输入。很适合练习英语对话和听力| [URL](https://pi.ai) | 免费 |
-|Voice Control for ChatGPT | chrome扩展程序，通过它可以与 ChatGPT 进行语音对话。可以帮助英语口语或其他语言口语练习。</br>视频示例：[B站视频:免费口语老师：如何用ChatGPT练习英语口语](https://www.bilibili.com/video/BV1iy4y1Q7Fh) | [URL](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) | 免费，需要chatgpt账号  | 
-|SpeechGPT|开源项目，SpeechGPT 是一个让你与 ChatGPT 聊天的网站。|[GitHub](https://github.com/hahahumble/speechgpt) ![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|免费，需要OpenAI API key|
-
 ### 语音识别-生成字幕
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
@@ -320,8 +310,6 @@
 |audiocraft|Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|免费|
 |Stable Audio|stability.ai旗下的AI音乐、音效生成应用|[URL](https://www.stableaudio.com/)|免费/付费|
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
-
-
 
 ### 视频翻译
 | 名称 | 说明 | 链接 | 费用 | 
