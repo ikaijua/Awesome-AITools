@@ -50,20 +50,21 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | DeepSeek | DeepSeek的AI助手。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
+| 豆包 | 字节跳动旗下的AI聊天软件 ; [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) <br>体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)<br>[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
+| 月之暗面的Kimi Chat|支持联网，支持上传文件（最多 50 个，每个 100 MB）接受 pdf、doc、xlsx、ppt、txt 等，文章总结能力比较强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|[URL](https://kimi.moonshot.cn/)|免费|
+| 腾讯混元模型 |腾讯的大语言模型；[API文档](https://cloud.tencent.com/document/api/1729/105701)|[URL](https://hunyuan.tencent.com/bot)|免费|
 | ChatGPT | openAI的chatgpt </br>应用示例：</br> [B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)</br>[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | 免费/付费| 
 | Claude|Anthropic研发的AI助手Claude|[URL](https://claude.ai/)| 免费/付费|
 | Gemini| Google 的对话式AI工具和最新的大语言模型，包括Gemini Nono，Gemini Pro和Gemini Ultra。Gemini Pro已开放api和sdk使用。api目前可免费使用，有每分钟60个请求的限制。[新闻介绍](https://github.com/ikaijua/Awesome-AITools/discussions/35#discussioncomment-7869696) |[Gemini AI聊天助手](https://bard.google.com/) <br>[Gemini api开发者网站](https://ai.google.dev/)|免费|
 | Grok | xAI研发的AI助手，结合了x上的文章内容 |[URL](https://x.com/i/grok)|免费|
 | 微软Copilot | 微软的Copilot，包含了多种AI工具和插件 | [URL](https://copilot.microsoft.com/) | 免费 | 
 | Le Chat| Mistral AI 推出了为 Le Chat 的聊天助手 |[URL](https://chat.mistral.ai/chat)|免费|
-| 月之暗面的Kimi Chat|支持联网，支持上传文件（最多 50 个，每个 100 MB）接受 pdf、doc、xlsx、ppt、txt 等，文章总结能力比较强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|[URL](https://kimi.moonshot.cn/)|免费|
 | 文心一言 |百度的大语言模型|[URL](https://yiyan.baidu.com/)|免费|
 | 通义千问 |阿里云的大语言模型 </br> 视频介绍： [B站视频：国产AI到底行不行？测试完通义千问，我只想说两个字【我们离ChatGPT还有多远】](https://www.bilibili.com/video/BV1KT411W7FN/)|[URL](https://tongyi.aliyun.com/)|免费|
 | 智谱AI | 名为 ChatGLM 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发 | [URL](https://open.bigmodel.cn/)| 免费|
 | 讯飞星火 | 讯飞的大语言模型| [URL](https://xinghuo.xfyun.cn/)| 免费|
 | 百川大模型 | 百川智能的大语言模型 [开发者体验中心](https://platform.baichuan-ai.com/playground)| AI聊天助手：[百小应](https://ying.baichuan-ai.com/chat) | 免费 |
 | 零一万物 |由李开复创办的AI公司，[零一万物 API 开放平台](https://platform.lingyiwanwu.com/)为新用户免费赠送60元api的使用额度，开源了模型Yi 6B和34B|[零一万物 API 开放平台](https://platform.lingyiwanwu.com/) <br> [Github](https://github.com/01-ai/Yi)  ![GitHub Repo stars](https://img.shields.io/github/stars/01-ai/Yi?style=social) |免费|
-| 腾讯混元模型 |腾讯的大语言模型；[API文档](https://cloud.tencent.com/document/api/1729/105701)|[URL](https://hunyuan.tencent.com/bot)|免费|
 | 中国国内发布的其他大模型|目前国内各大企业、科研机构和高校等单位已公开的 AI 大模型至少已经达到了 188 个。2023-12-17更新，[更多信息](https://github.com/ikaijua/Awesome-AITools/discussions/37#discussion-5968018)|||
 
 ### 开源大语言模型
