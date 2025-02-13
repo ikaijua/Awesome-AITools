@@ -104,7 +104,6 @@ This repo collects AI-related utilities.
 | Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
 |DragGAN|Interactive Point-based Manipulation on the Generative Image Manifold|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|Free|
 | visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
-| Microsoft Bing Image Creator | Image Creator is a tool for creating pictures using DALL-E technology. Tried **Generating portrait pictures is unsightly** | [URL](https://www.bing.com/images/create) | Free|
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 |StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
