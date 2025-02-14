@@ -22,7 +22,6 @@ This repo collects AI-related utilities.
   - [LLM Prompts](#llm-prompts)
   - [LLM Leaderboard](#llm-leaderboard)
   - [LLM training platform](#llm-training-platform)
-  - [Applications that integrate multiple LLMs](#applications-that-integrate-multiple-llms)
   - [AI Agent](#ai-agent)
   - [Writing](#writing)
   - [Programming Development](#programming-development)
@@ -90,6 +89,8 @@ This repo collects AI-related utilities.
 | GPTCache |⚡ GPTCache is a library for creating semantic cache to store responses from LLM queries. It can be used to speed up and lower the cost of chat applications that rely on the LLM service. And it's similar to redis in an aigc scenario.| [Github](https://github.com/zilliztech/GPTCache) </br>![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| Free|
 | MindMac | Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages. | [URL](https://mindmac.app/) | Free, with paid upgrades|
 | MemFree | Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. | [Github](https://github.com/memfreeme/memfree) </br>![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)| Free & Suport one-click self-host|
+| chathub | Use different chatbots in one app, currently supporting ChatGPT, new Bing Chat, Google Bard, Claude, and 10+ open-source models including Alpaca, Vicuna, ChatGLM etc. | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|Free/Paid|
+| Harbor | Effortlessly run LLM backends, APIs, frontends, and services with one command. | [GitHub](https://github.com/av/harbor) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/av/harbor?style=social)|  Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
@@ -151,9 +152,7 @@ This repo collects AI-related utilities.
 ### Applications that integrate multiple LLMs
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | ---- |
-| chathub | Use different chatbots in one app, currently supporting ChatGPT, new Bing Chat, Google Bard, Claude, and 10+ open-source models including Alpaca, Vicuna, ChatGLM etc. | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|Free/Paid|
-| ChatALL | Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, and more, discover the best answers| [GitHub](https://github.com/sunner/ChatALL)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|Free|
-| Harbor | Effortlessly run LLM backends, APIs, frontends, and services with one command. | [GitHub](https://github.com/av/harbor) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/av/harbor?style=social)|  Free |
+
 
 ### AI Agent
 | Name | Description | Links | Fees |  
