@@ -16,7 +16,6 @@
 - [AI云平台](#ai云平台)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
-- [集成了多个大语言模型的应用](#集成了多个大语言模型的应用)
 - [AI工具箱类软件](#ai工具箱类软件)
 - [AI Agent](#ai-agent)
 - [AI搜索](#ai搜索)
@@ -105,6 +104,7 @@
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
 | GPTCache |⚡ GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库，类似于aigc场景中的redis。 它可用于降低依赖 LLM 服务（如ChatGPT）的成本，同时也可以有效减少服务响应时间，因为大模型推理一般都比较耗时。| [GitHub](https://github.com/zilliztech/GPTCache) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)| 免费|
 | MindMac | 功能丰富、隐私第一的 macOS 原生 ChatGPT 应用程序，可在一个地方使用 OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter，旨在实现最大生产力。 目前有 15 种语言版本。| [URL](https://mindmac.app/) | 免费，有付费升级版 |
+| chathub | 浏览器插件，在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard 和 Claude (via Poe)，未来将集成更多机器人， 同时与多个聊天机器人聊天，方便比较它们的答案 | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|免费，付费支持更多功能|
 
 ### 大语言模型排行榜
 | Name | Description | Links | Fees | 
@@ -171,13 +171,6 @@
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
-
-### 集成了多个大语言模型的应用
-| 名称 | 说明 | 链接 | 费用 |
-| ---- | ----------------------------- | --- | ---- |
-| chathub | 浏览器插件，在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard 和 Claude (via Poe)，未来将集成更多机器人， 同时与多个聊天机器人聊天，方便比较它们的答案 | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|免费，付费支持更多功能|
-| ChatALL | 同时与多个大语言模型聊天的客户端（支持Windows、macOS、Linux系统），支持ChatGPT、Bing Chat、Claude、Bard、MOSS、Alpaca、HuggingChat等。需要拥有可以访问这些 AI 的帐号，或 API token| [GitHub](https://github.com/sunner/ChatALL)  </br> ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|免费|
-
 
 ### AI工具箱类软件
 | 名称 | 说明 | 链接 | 费用 | 
