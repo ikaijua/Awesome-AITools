@@ -81,7 +81,7 @@
 ### GPT-LLMs应用
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-|Cherry Studio|Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。|[Github](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|免费|
+|Cherry Studio|Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等；集成了流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等；支持 Ollama、LM Studio 本地模型部署|[Github](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|免费|
 | NotebookLM |NotebookLM是谷歌推出的一款强大的虚拟研究助手，它可以将各种类型的文件，包括文本、视频、音频甚至数据集，转化成生动有趣的播客节目（播客音频目前只支持英语）。除此之外，NotebookLM 还可以生成常见问题解答、学习指南、目录、时间轴和简报等，并支持用户进行自由对话和事实核查。|[URL](https://notebooklm.google.com/)|免费|
 | Learn about |谷歌开发的人工智能学习助手。它是一个会话式的学习伙伴，能适应您独特的好奇心和学习目标，帮助您掌握新主题并加深理解。|[URL](https://learning.google.com/experiments/learn-about)|免费|
 | Poe | 美版知乎 Quora 构建的AI 产品，有web和客户端。目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。chatgpt-4可以每天免费使用一次 </br> 视频介绍：[B站视频：神器！与chatGPT类似的新人工智能问答AI：Poe, 美国知乎Quaro最新产品，专业回答](https://www.bilibili.com/video/BV13Y411B7Az)| [URL](https://poe.com/) |免费，有付费升级版|
