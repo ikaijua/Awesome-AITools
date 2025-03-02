@@ -53,8 +53,8 @@
 | 月之暗面的Kimi Chat|支持联网，支持上传文件（最多 50 个，每个 100 MB）接受 pdf、doc、xlsx、ppt、txt 等，文章总结能力比较强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|[URL](https://kimi.moonshot.cn/)|免费|
 | Gemini| Google 的对话式AI工具和最新的大语言模型，包括Gemini Nono，Gemini Pro和Gemini Ultra。Gemini Pro已开放api和sdk使用。api目前可免费使用，有每分钟60个请求的限制。[新闻介绍](https://github.com/ikaijua/Awesome-AITools/discussions/35#discussioncomment-7869696) |[Gemini AI聊天助手](https://bard.google.com/) <br>[Gemini api开发者网站](https://ai.google.dev/)|免费|
 | 腾讯混元模型 |腾讯的大语言模型；[API文档](https://cloud.tencent.com/document/api/1729/105701)|[URL](https://hunyuan.tencent.com/bot)|免费|
-| Claude|Anthropic研发的AI助手Claude|[URL](https://claude.ai/)| 免费/付费|
-| Grok | xAI研发的AI助手，结合了x上的文章内容 |[URL](https://x.com/i/grok)|免费|
+| Claude|Anthropic研发的AI助手Claude。以编程能力强著称|[URL](https://claude.ai/)| 免费/付费|
+| Grok | xAI研发的AI助手，结合了x上的文章内容。马斯克的AI公司的产品 |[URL](https://x.com/i/grok)|免费|
 | 微软Copilot | 微软的Copilot，包含了多种AI工具和插件 | [URL](https://copilot.microsoft.com/) | 免费 | 
 | Le Chat| Mistral AI 推出了为 Le Chat 的聊天助手 |[URL](https://chat.mistral.ai/chat)|免费|
 | 文心一言 |百度的大语言模型|[URL](https://yiyan.baidu.com/)|免费|
