@@ -212,6 +212,8 @@
 | grammarly | 纠正语法、拼写、标点符号等错误的写作助手| [URL](https://app.grammarly.com/) | 免费/有付费升级版|
 | 火山写作 | 写作润色、翻译 | [URL](https://www.writingo.net/document) |免费|
 | TextCraft | Microsoft Word 的加载项，无缝集成了包括文本生成、校对等在内的核心 AI 工具，直接嵌入用户界面。| [URL](https://github.com/suncloudsmoon/TextCraft) | 免费 |
+| AceEssay.ai | 提供AI学术写作、去AI痕迹、查AI率、查重复率、查AI生成引用文献真实性等多种能力的创作平台。 | [URL](https://aceessay.ai/) | 免费/有付费升级版 |
+| Humanizepro.ai | 提供能通过turnitin/GPTzero/zeroGPT等多个检测平台的去AI痕迹能力。 | [URL](https://humanizepro.ai/) | 免费/有付费升级版 |
 
 ### 编程开发
 | 名称 | 说明 | 链接 | 费用 | 

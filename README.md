@@ -171,6 +171,8 @@ This repo collects AI-related utilities.
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [URL](https://github.com/suncloudsmoon/TextCraft) | Free |
+| AceEssay.ai | English academic style AI writing, humanizer, AI detector, validate references and plagiarism checking tools. | [URL](https://aceessay.ai/) | Free/Paid |
+| Humanizepro.ai | Provide Humanize capability that can pass multiple AI detection platforms such as Turnitin, GPTZero, and ZeroGPT. | [URL](https://humanizepro.ai/) | Free/Paid |
 
 ### Programming Development
 | Name | Description | Links | Fees |  
