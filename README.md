@@ -16,6 +16,7 @@ This repo collects AI-related utilities.
   - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
   - [GPT/LLMs Applications](#gpt-llms-applications)
+  - [Programming Development](#programming-development)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
@@ -24,9 +25,7 @@ This repo collects AI-related utilities.
   - [LLM training platform](#llm-training-platform)
   - [AI Agent](#ai-agent)
   - [Writing](#writing)
-  - [Programming Development](#programming-development)
   - [Translation](#translation)
-  - [AI Conversation or AI Voice Conversation](#ai-conversation-or-ai-voice-conversation)
   - [Speech Recognition](#speech-recognition)
   - [Music Recognition](#music-recognition)
   - [Text To Speech](#text-to-speech)
@@ -92,6 +91,23 @@ This repo collects AI-related utilities.
 | MemFree | Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. | [Github](https://github.com/memfreeme/memfree) </br>![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)| Free & Suport one-click self-host|
 | chathub | Use different chatbots in one app, currently supporting ChatGPT, new Bing Chat, Google Bard, Claude, and 10+ open-source models including Alpaca, Vicuna, ChatGLM etc. | [GitHub](https://github.com/chathub-dev/chathub) </br>![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|Free/Paid|
 | Harbor | Effortlessly run LLM backends, APIs, frontends, and services with one command. | [GitHub](https://github.com/av/harbor) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/av/harbor?style=social)|  Free |
+
+### Programming Development
+| Name | Description | Links | Fees |  
+| ---- | ----------------------------- | --- | --- | 
+| GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
+| Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
+| Trae | Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
+| MarsCode |Built-in AI programming assistant with capabilities like code completion, explanation, and debugging for faster development.|[URL](https://www.marscode.com/)|Free|
+| ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)| Free, requires OpenAI API key|
+| Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
+|gpt-engineer|GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Free|
+| Codeium | Powerful in-IDE AI coding assistant|[URL](https://codeium.com/)|Free/Paid|
+| scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
+| Fitten Code | Fitten Code is an AI programming assistant driven by Fitten LLM models, which can automatically generate code, improve development efficiency, help you debug, and save your time. It can also chat with you and solve your programming problems.freeand supports over 80 languages: Python, C++,JavaScript, TypeScript, Java, etc. Fitten Code supports Visual Studio Code and JetBrains series IDEs, including IntelliJ IDEA, PyCharm, WebStorm, etc.|[URL](https://code.fittentech.com/en?lang=en)| Free |
+|flappy|Production-Ready LLM Agent SDK for Every Developer|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |Free|
+| Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
+| Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
@@ -173,22 +189,7 @@ This repo collects AI-related utilities.
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [URL](https://github.com/suncloudsmoon/TextCraft) | Free |
 
-### Programming Development
-| Name | Description | Links | Fees |  
-| ---- | ----------------------------- | --- | --- | 
-| GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
-| Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
-| Trae | Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
-| MarsCode |Built-in AI programming assistant with capabilities like code completion, explanation, and debugging for faster development.|[URL](https://www.marscode.com/)|Free|
-| ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)| Free, requires OpenAI API key|
-| Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
-|gpt-engineer|GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Free|
-| Codeium | Powerful in-IDE AI coding assistant|[URL](https://codeium.com/)|Free/Paid|
-| scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
-| Fitten Code | Fitten Code is an AI programming assistant driven by Fitten LLM models, which can automatically generate code, improve development efficiency, help you debug, and save your time. It can also chat with you and solve your programming problems.freeand supports over 80 languages: Python, C++,JavaScript, TypeScript, Java, etc. Fitten Code supports Visual Studio Code and JetBrains series IDEs, including IntelliJ IDEA, PyCharm, WebStorm, etc.|[URL](https://code.fittentech.com/en?lang=en)| Free |
-|flappy|Production-Ready LLM Agent SDK for Every Developer|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |Free|
-| Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
-| Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
+
 
 ### Translation
 | Name | Description | Links | Fees |  
@@ -196,15 +197,6 @@ This repo collects AI-related utilities.
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | [URL](https://www.deepl.com/translator) | Free/Paid
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/yetone/openai-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| Free, requires OpenAI API key |
-
-### AI Conversation or AI Voice Conversation
-
-| Name | Description | Links | Fees | 
-| ---- | ----------------------------- | --- | --- |
-| pi.ai | An AI that's been shown to be very good at chatting, so you don't have to worry about talking all day. It supports both text and speech. Voice input is required with Apple's input system. Good for practicing English conversation and listening.| [URL](https://pi.ai/) | Free|
-|Voice Control for ChatGPT | This Chrome extension allows you to have voice conversations with ChatGPT. | [URL](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) | Free, requires chatgpt account  | 
-|SpeechGPT|SpeechGPT is a web application that enables you to converse with ChatGPT.|[GitHub](https://github.com/hahahumble/speechgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|Free，requires OpenAI API key|
-
 
 ### Speech Recognition
 | Name | Description | Links | Fees | 
