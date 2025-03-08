@@ -46,7 +46,7 @@ This repo collects AI-related utilities.
 | Grok | xAI's AI assistant |1.[x.com/grok](https://x.com/i/grok) <br>2.[grok.com](https://grok.com/)|Free|
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
-| qwen | Alibaba's AI assistant|[URL](https://chat.qwen.ai/)|Free|
+| qwen | Alibaba's AI assistant. Includes QwQ-32B, Qwen2.5-Max, Qwen2.5-Plus, Qwen2.5-VL-72B-Instruct and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
 
 ### AI Search engine
 | Name | Description | Links | Fees |  
