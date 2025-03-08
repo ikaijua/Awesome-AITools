@@ -12,7 +12,7 @@ This repo collects AI-related utilities.
 
 ## All Categories
 - [All Categories](#all-categories)
-  - [ChatGPT and other closed-source LLMs](#chatgpt-and-other-closed-source-llms)
+  - [ChatGPT and other AI chat assistant](#chatgpt-and-other-ai-chat-assistant)
   - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
   - [GPT/LLMs Applications](#gpt-llms-applications)
@@ -36,7 +36,7 @@ This repo collects AI-related utilities.
   - [Video Content Summary](#video-content-summary)
   - [OCR(Optical Character Recognition)](#ocr)
 
-### ChatGPT and other closed-source LLMs
+### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT | OpenAI's chatgpt | [URL](https://chat.openai.com) | Free/Paid | 
@@ -46,6 +46,7 @@ This repo collects AI-related utilities.
 | Grok | xAI's AI assistant |1.[x.com/grok](https://x.com/i/grok) <br>2.[grok.com](https://grok.com/)|Free|
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
+| qwen | Alibaba's AI assistant|[URL](https://chat.qwen.ai/)|Free|
 
 ### AI Search engine
 | Name | Description | Links | Fees |  
