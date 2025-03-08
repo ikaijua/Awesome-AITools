@@ -213,6 +213,7 @@
 ### 编程开发
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
+| Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
 | GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 </br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) </br>[Github Copilot X的Chat功能介绍](https://www.bilibili.com/video/BV1Ho4y137Tu/)，[Copilot X申请页面](https://github.com/features/preview/copilot-x)| [URL](https://github.com/features/copilot)  | 付费 |
 | 通义灵码|阿里云开发的代码编写助手，可根据当前代码文件及跨文件的上下文，为你生成行级/函数级代码、单元测试、代码注释等，支持 Java、Python、Go、JavaScript、TypeScript、C/C++、C# 等主流语言，同时兼容 Visual Studio Code、JetBrains IDEs 等主流编程工具|[URL](https://tongyi.aliyun.com/lingma/)|免费|
 | 豆包MarsCode|字节跳动旗下的AI代码助手，提供智能补全、智能预测、智能问答等能力|[URL](https://www.marscode.cn/)|免费|
