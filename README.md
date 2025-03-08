@@ -15,13 +15,13 @@ This repo collects AI-related utilities.
   - [ChatGPT and other AI chat assistant](#chatgpt-and-other-ai-chat-assistant)
   - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
+  - [LLM Leaderboard](#llm-leaderboard)
   - [GPT/LLMs Applications](#gpt-llms-applications)
   - [Programming Development](#programming-development)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
   - [LLM Prompts](#llm-prompts)
-  - [LLM Leaderboard](#llm-leaderboard)
   - [LLM training platform](#llm-training-platform)
   - [AI Agent](#ai-agent)
   - [Writing](#writing)
@@ -62,6 +62,12 @@ This repo collects AI-related utilities.
 | Mixtral |Mixtral 8x7B, a high-quality sparse mixture of experts model (SMoE) with open weights. Mixtral outperforms Llama 2 70B on most benchmarks with 6x faster inference. It matches or outperforms GPT3.5 on most standard benchmarks. <br>paper：https://arxiv.org/pdf/2401.04088.pdf <br>news：https://mistral.ai/news/mixtral-of-experts/ |[mistral-inference](https://github.com/mistralai/mistral-inference) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social)<br>[mistral-finetune](https://github.com/mistralai/mistral-finetune) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-finetune?style=social)|Free|
 |grok-1|A large language model open sourced by xAI|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|Free|
 |Phi-3| Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|Free|
+
+### LLM Leaderboard
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals. Collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. |[URL](https://chat.lmsys.org/) |Free|
+|Artificial Analysis|Artificial Analysis is a platform that provides AI model and service provider comparisons and benchmarks to help users make informed decisions when choosing AI models and service providers. The platform provides comparative data on a wide range of popular AI models, including OpenAI's GPT-4, Meta's Llama 3, and Anthropic's Claude series, covering performance metrics such as response time, latency, and cost.|[URL](https://artificialanalysis.ai/)|Free|
 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees | 
@@ -154,12 +160,6 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
-
-### LLM Leaderboard
-| Name | Description | Links | Fees | 
-| ---- | ----------------------------- | --- | --- |
-|LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals. Collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. |[URL](https://chat.lmsys.org/) |Free|
-|Artificial Analysis|Artificial Analysis is a platform that provides AI model and service provider comparisons and benchmarks to help users make informed decisions when choosing AI models and service providers. The platform provides comparative data on a wide range of popular AI models, including OpenAI's GPT-4, Meta's Llama 3, and Anthropic's Claude series, covering performance metrics such as response time, latency, and cost.|[URL](https://artificialanalysis.ai/)|Free|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
