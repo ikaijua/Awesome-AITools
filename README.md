@@ -66,6 +66,8 @@ This repo collects AI-related utilities.
 ### GPT LLMs Applications
 | Name | Description | Links | Fees | 
 -|-|-|-
+| Abso | Framework for calling 100+ LLMs using OpenAI's format. | [URL](https://abso.ai) | Free |
+| Lunary | Open-source platform for GenAI developers, with features like observability, prompt management and more. | [Github](https://github.com/lunary-ai/lunary) ![GitHub Repo stars](https://img.shields.io/github/stars/lunary-ai/lunary?style=social) | Free  | 
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free, with paid upgrades|
 |Cherry Studio|Cherry Studio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux. Support major LLM Cloud Services: OpenAI, Gemini, Anthropic, and more AI Web Service Integration: Claude, Peplexity, Poe, and others Local Model Support with Ollama, LM Studio|[Github](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|Free|
 | HuggingChat|Open source codebase powering the HuggingChat app. [URL](https://huggingface.co/chat/)|[Github](https://github.com/huggingface/chat-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Free|
