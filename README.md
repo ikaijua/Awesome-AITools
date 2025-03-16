@@ -33,6 +33,7 @@ This repo collects AI-related utilities.
   - [AI generated music or sound effects](#ai-generated-music-or-sound-effects)
   - [Speech translation](#speech-translation)
   - [Video Content Summary](#video-content-summary)
+  - [Academic research](#academic-research)
   - [OCR(Optical Character Recognition)](#ocr)
 
 ### ChatGPT and other AI chat assistant
@@ -166,10 +167,6 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | lm-sys/FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
-### Applications that integrate multiple LLMs
-| Name | Description | Links | Fees | 
-| ---- | ----------------------------- | --- | ---- |
-
 
 ### AI Agent
 | Name | Description | Links | Fees |  
@@ -253,6 +250,12 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
 | Chat Youtube | Give a Youtube link, it will give a summary, and you can ask it questions about the content of the video |[URL](https://chatyoutube.com) | Free |
+
+### Academic research
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
+
 
 ### OCR
 | Name | Description | Links | Fees | 
