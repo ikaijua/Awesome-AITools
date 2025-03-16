@@ -315,6 +315,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 |easyvideotrans|着眼于从原始视频到翻译后最终视频的整个工作流程，[在线网站](https://easyvideotrans.com/)|[Github](https://github.com/sutro-planet/easyvideotrans) ![GitHub Repo stars](https://img.shields.io/github/stars/sutro-planet/easyvideotrans?style=social)|免费|
+|VideoLingo|VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音。|[Github](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social)|免费|
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 | 
