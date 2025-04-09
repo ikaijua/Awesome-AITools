@@ -16,7 +16,7 @@ This repo collects AI-related utilities.
   - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
-  - [GPT/LLMs Applications](#gpt-llms-applications)
+  - [GPT LLMs Applications](#gpt-llms-applications)
   - [Programming Development](#programming-development)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
@@ -27,14 +27,14 @@ This repo collects AI-related utilities.
   - [Writing](#writing)
   - [Translation](#translation)
   - [Speech Recognition](#speech-recognition)
-  - [Music Recognition](#music-recognition)
   - [Text To Speech](#text-to-speech)
+  - [Music Recognition](#music-recognition)
   - [Voice Processing](#voice-processing)
   - [AI generated music or sound effects](#ai-generated-music-or-sound-effects)
   - [Speech translation](#speech-translation)
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
-  - [OCR(Optical Character Recognition)](#ocr)
+  - [OCR](#ocr)
 
 ### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
@@ -178,6 +178,7 @@ This repo collects AI-related utilities.
 |microsoft/autogen|AutoGen is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|Free|
 |potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
 |saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
+|MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
 
 ### Writing
 | Name | Description | Links | Fees | 
