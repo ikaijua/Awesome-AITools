@@ -178,6 +178,7 @@ This repo collects AI-related utilities.
 |microsoft/autogen|AutoGen is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|Free|
 |potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
 |saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
+| OnRanko | An AI-powered digital marketing platform that automates SEO, content creation, and UX analysis to drive organic growth. | [GitHub](https://github.com/OnRanko/onranko-app) ![GitHub Repo stars](https://img.shields.io/github/stars/OnRanko/onranko-app?style=social) | Free Trial |
 
 ### Writing
 | Name | Description | Links | Fees | 
