@@ -116,6 +116,7 @@ This repo collects AI-related utilities.
 |flappy|Production-Ready LLM Agent SDK for Every Developer|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |Free|
 | Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
 | Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
+| Agentic Radar | Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more. | [GitHub](https://github.com/splx-ai/agentic-radar) ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)| Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
