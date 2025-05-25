@@ -162,6 +162,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+| AI Flow Chat | No-code visual tool for automating and chaining AI prompt workflows. Features a drag-and-drop builder, model flexibility, one-click sharing as apps, and reusable automation templates. Popular among writers, analysts, and creators for drastically reducing time of AI tasks. | [URL](https://aiflowchat.com) | Free / Paid |
 
 ### LLM training platform
 | Name | Description | Links | Fees |
