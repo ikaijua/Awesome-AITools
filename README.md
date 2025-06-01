@@ -53,6 +53,7 @@ This repo collects AI-related utilities.
 | --- | --- | --- | --- |
 | Perplexity.ai | AI-driven conversational search engine. | [URL](https://www.perplexity.ai) | Free|
 | You.com | A search engine in conversation mode | [URL](https://you.com) | Free |
+| Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
