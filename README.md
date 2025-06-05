@@ -261,6 +261,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
+| Discover interesting AI ideas | Discover AI startup project from the latest papers and open source repositories, updated everyday | [URL](https://www.everydayai.top/)| Free |
 
 
 ### OCR
