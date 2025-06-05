@@ -327,6 +327,7 @@
 | ---- | ----------------------------- | --- | --- | 
 |gpt_academic|为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容llama,rwkv,盘古大模型等。|[GitHub](https://github.com/binary-husky/gpt_academic) ![GitHub Repo stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social)|免费|
 |alphaxiv|一个基于arXiv平台的开放学术讨论社区，允许用户通过替换论文链接域名（arxiv.org替换为alphaxiv.org）直接在论文页面上进行逐行评论、提问和实时互动。并提供了 Ask AI 和 AI 生成文章博客等 AI 功能|[URL](https://www.alphaxiv.org/)|免费|
+|发现有趣的AI创意|从最新论文和开源库中发现人工智能初创项目，每日更新|[URL](https://www.everydayai.top/)|免费|
 
 ### OCR图像识别文字
 | 名称 | 说明 | 链接 | 费用 | 
