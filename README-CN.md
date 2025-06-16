@@ -38,6 +38,7 @@
 - [视频内容总结](#视频内容总结)
 - [AI生成模特试装和商品图](#ai生成模特试装和商品图)
 - [人形机器人](#人形机器人)
+- [人工智能供应商](#人工智能供应商)
 
 ## 评测
 - [大语言模型评测](#大语言模型评测)
@@ -134,6 +135,7 @@
 | Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费/免费试用 |
 | Stable diffusion webui | 开源项目，输入文字或图片进行图片创作， Stable diffusion webui是Stable diffusion的GUI是将stable diffusion实现可视化的图像用户操作界面，它本身还集成了很多其它有用的扩展脚本。<br>新手入门教程：https://www.bilibili.com/video/BV1Qo4y167AK/ </br> AI风格化视频或AI真人视频的效果：</br>1. [【AI动画】欣小萌天台蹦迪 动画版](https://www.bilibili.com/video/BV1RL411U7wR)，</br>2. [死磕真人AI动作，人物和背景的终于不闪了，你们觉得哪个更好点？](https://www.bilibili.com/video/BV1Fs4y1V7f7)</br>3. [5分钟，教会你如何生成AI动画](https://www.bilibili.com/video/BV13s4y1D7Ni)| [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| 免费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
+| AI/ML API| 提供300+AI模型，包括Deepseek，Gemini，ChatGPT。 这些模型以企业级速率限制和正常运行时间运行| [URL](https://aimlapi.com/app/?utm_source=Awesome-AITools&utm_medium=github&utm_campaign=integration) |免费/付费|
 | Photoshop 生成式AI功能| 在Adobe Photoshop中使用生成式AI填充功能。功能介绍：</br> 1. [B站视频：Photoshop 革命性新功能-生成式填充功能介绍](https://www.bilibili.com/video/BV1su411Y79Z/) <br> 2. [巫师后期B站视频：引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！](https://www.bilibili.com/video/BV1qo4y1E7tK)| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Photoshop 订阅会员可下载Beta版本试用|
 | firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
 | clipdrop | stability.ai 公司旗下的图像处理网站，包含文生图、AI扩图、图生图、去除背景等功能 | [URL](https://clipdrop.co/)| 免费/ 付费|
@@ -159,6 +161,7 @@
 | ---- | ----------------------------- | --- | --- | 
 | 腾讯混元AI视频|文生视频、图生视频功能；对口型和动作驱动功能：可以通过上传照片和音频或选择动作模版生成视频; 需要排队|[URL](https://video.hunyuan.tencent.com/)|免费|
 | Sora | OpenAI的文本生成视频的模型。Sora技术报告：https://github.com/ikaijua/Awesome-AITools/discussions/54| [URL](https://sora.com) | 付费 |
+| AI/ML API| 提供300+AI模型，包括Deepseek，Gemini，ChatGPT。 这些模型以企业级速率限制和正常运行时间运行| [URL](https://aimlapi.com/app/?utm_source=Awesome-AITools&utm_medium=github&utm_campaign=integration) |免费/付费|
 | 快手可灵|支持文生视频和图生视频|[URL](https://kling.kuaishou.com/)|免费/付费|
 | 海螺AI| Minimax的AI视频生成平台|[URL](https://hailuoai.com/video)|免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
@@ -361,6 +364,12 @@
 |H1|宇树科技的人形机器人|[URL](https://www.unitree.com/h1/)|
 |Phoenix|sanctuary.ai公司的人形机器人|[URL](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/)|
 |MenteeBot|以色列人形机器人公司 Meetee Robotics 发布的首款双足人形机器人|[URL](https://www.menteebot.com/)|
+
+### 人工智能供应商
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+| AI/ML API| 提供300+AI模型，包括Deepseek，Gemini，ChatGPT。 这些模型以企业级速率限制和正常运行时间运行| [URL](https://aimlapi.com/app/?utm_source=Awesome-AITools&utm_medium=github&utm_campaign=integration) |免费/付费|
+
 
 ## 评测
 ### 大语言模型评测

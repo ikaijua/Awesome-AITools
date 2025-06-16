@@ -35,6 +35,7 @@ This repo collects AI-related utilities.
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [AI providers](#ai-providers)
 
 ### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
@@ -125,13 +126,14 @@ This repo collects AI-related utilities.
 | ---- | ----------------------------- | --- | --- |
 | Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Free account has a certain usage minutes limit, and there is a paid upgrade version |
 | Photoshop AI| Adobe Photoshop generative-fill| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Paid|
+| AI/ML API| Provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes| [URL](https://aimlapi.com/app/?utm_source=Awesome-AITools&utm_medium=github&utm_campaign=integration) |Free/Paid|
 | Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| Free|
 | civitai |	civitai.com is a website platform for sharing AI image creation model resources, with a large number of models, has become the main model exchange place in the SD open source community	| [URL](https://civitai.com/)	| Free|
 | clipdrop |	clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. |	[URL](https://clipdrop.co/)	| Free/Paid |
 | firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
 | ideogram.ai | Enter text to create pictures. A product developed by a company founded by many ex-Googlers |[URL](https://ideogram.ai/)| Free/Paid |
 | Nero AI | AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/|[URL](https://ai.nero.com/)|Paid/Trial|
-| Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
+| Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
 |DragGAN|Interactive Point-based Manipulation on the Generative Image Manifold|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|Free|
 | visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
@@ -144,6 +146,7 @@ This repo collects AI-related utilities.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. | [URL](https://openai.com/sora) | Paid |
+| AI/ML API| Provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes| [URL](https://aimlapi.com/app/?utm_source=Awesome-AITools&utm_medium=github&utm_campaign=integration) |Free/Paid|
 | KLING AI|AI Video Creation Tool by kuaishou.  |[URL](https://klingai.com/)|Free/Paid|
 | hailuoai|AI Video Creation Tool by Minimax|[URL](https://hailuoai.com/video)|Free/Paid|
 | Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
@@ -270,6 +273,10 @@ This repo collects AI-related utilities.
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
+### AI Providers
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+| AI/ML API| Provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes| [URL](https://aimlapi.com/app/?utm_source=Awesome-AITools&utm_medium=github&utm_campaign=integration) |Free/Paid|
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
