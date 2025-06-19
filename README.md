@@ -119,6 +119,7 @@ This repo collects AI-related utilities.
 |flappy|Production-Ready LLM Agent SDK for Every Developer|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |Free|
 | Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
 | Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
+| tools-online.app|Free Lightweight coding playground with LLM coding agent. Explore local/browser based models or SOTA Models from OpenAI/Others using API keys.|[URL](https://www.tools-online.app/)|Free Offline Models/Paid with API Key|
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
@@ -190,7 +191,7 @@ This repo collects AI-related utilities.
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [URL](https://github.com/suncloudsmoon/TextCraft) | Free |
-
+| Notepad|Free AI assisted Lightweight writing tool, explore local/browser based models or SOTA Models from OpenAI/Others using API keys. Write research papers, resumes, blogs, etc. and export in PDF/Markdown/html/docs format.|[URL](https://www.tools-online.app/tools/notepad)|Free Offline Models/Paid with API Key|
 
 
 ### Translation
