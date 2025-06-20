@@ -200,6 +200,7 @@ This repo collects AI-related utilities.
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | [URL](https://www.deepl.com/translator) | Free/Paid
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/yetone/openai-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| Free, requires OpenAI API key |
+｜RTranslator ｜RTranslator is an open-source, free, and offline real-time translation app for Android.｜[Github](https://github.com/niedev/RTranslator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)｜Free｜
 
 ### Speech Recognition
 | Name | Description | Links | Fees | 
