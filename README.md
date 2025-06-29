@@ -175,6 +175,7 @@ This repo collects AI-related utilities.
 ### AI Agent
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
+|Gemini CLI|An open-source AI agent that brings the power of Gemini directly into your terminal.|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|Free|
 |Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
 |OthersideAI/self-operating-computer|A framework to enable multimodal models to operate a computer.|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|Free，GPT-4v required|
 |AppAgent|Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|Free|
