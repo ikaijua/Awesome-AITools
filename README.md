@@ -106,8 +106,8 @@ This repo collects AI-related utilities.
 ### Programming Development
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- | 
-| GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
+| GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | Trae | Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
 | MarsCode |Built-in AI programming assistant with capabilities like code completion, explanation, and debugging for faster development.|[URL](https://www.marscode.com/)|Free|
 | ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)| Free, requires OpenAI API key|
