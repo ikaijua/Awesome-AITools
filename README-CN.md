@@ -156,13 +156,13 @@
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
+| 海螺AI| Minimax的AI视频生成平台|[URL](https://hailuoai.com/video)|免费/付费|
+| 快手可灵|支持文生视频和图生视频|[URL](https://kling.kuaishou.com/)|免费/付费|
+| 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
+| 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
 | 腾讯混元AI视频|文生视频、图生视频功能；对口型和动作驱动功能：可以通过上传照片和音频或选择动作模版生成视频; 需要排队|[URL](https://video.hunyuan.tencent.com/)|免费|
 | Sora | OpenAI的文本生成视频的模型。Sora技术报告：https://github.com/ikaijua/Awesome-AITools/discussions/54| [URL](https://sora.com) | 付费 |
-| 快手可灵|支持文生视频和图生视频|[URL](https://kling.kuaishou.com/)|免费/付费|
-| 海螺AI| Minimax的AI视频生成平台|[URL](https://hailuoai.com/video)|免费/付费|
-| 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | 通义万相 | 阿里旗下AI图片和视频创作应用| [URL](https://tongyi.aliyun.com/wanxiang/videoCreation) | 免费/付费 |
-| 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
 | Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
 | Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) <br>精选视频：https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | 免费试用/付费|
 | MOKI |美图的AI短片创作工具|[URL](www.moki.cn)| 免费试用/付费|
