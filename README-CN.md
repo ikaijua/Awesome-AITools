@@ -60,7 +60,6 @@
 | 微软Copilot | 微软的Copilot，包含了多种AI工具和插件 | [URL](https://copilot.microsoft.com/) | 免费 | 
 | Le Chat| Mistral AI 推出了为 Le Chat 的聊天助手 |[URL](https://chat.mistral.ai/chat)|免费|
 | 智谱AI | 名为 ChatGLM 的人工智能助手，是基于清华大学 KEG 实验室和智谱 AI 公司于 2023 年共同训练的语言模型开发 | [URL](https://open.bigmodel.cn/)| 免费|
-| 中国国内发布的其他大模型|目前国内各大企业、科研机构和高校等单位已公开的 AI 大模型至少已经达到了 188 个。2023-12-17更新，[更多信息](https://github.com/ikaijua/Awesome-AITools/discussions/37#discussion-5968018)|||
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
