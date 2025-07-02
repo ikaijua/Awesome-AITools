@@ -5,7 +5,7 @@
 
 English | [中文](README-CN.md)
 
-This repo collects AI-related tools. 
+This repo collects awesome AI tools. 
 
 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
