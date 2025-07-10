@@ -138,6 +138,8 @@ This repo collects awesome AI tools.
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 |StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
 | Seede AI| Helps you create a poster in 1 min|[URL](https://seede.ai/)|Free/Paid|
+| Serplux| Helps you create an image according to your content|[URL](https://serplux.com/premium/agent/blog-image-generator)|Free/Paid|
+
 
 ### Video Creation
 
@@ -191,6 +193,8 @@ This repo collects awesome AI tools.
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [URL](https://github.com/suncloudsmoon/TextCraft) | Free |
+| Serplux | Different type of Free AI Writing Tools  | [URL](https://serplux.com/) | Free/Paid |
+
 
 
 
