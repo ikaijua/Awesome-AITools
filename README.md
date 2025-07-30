@@ -119,6 +119,7 @@ This repo collects awesome AI tools.
 |flappy|Production-Ready LLM Agent SDK for Every Developer|[GitHub](https://github.com/pleisto/flappy) ![GitHub Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social) |Free|
 | Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
 | Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
+| AI For Developers |Every AI Tools For Developers|[URL](https://aifordevelopers.org) |Free|
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
