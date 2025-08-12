@@ -212,6 +212,7 @@ This repo collects awesome AI tools.
 | WhisperDesktop| Open source, OpenAI-based Whisper, a desktop application for Windows, uses the GPU for processing, which will be faster than on the CPU with good GPU performance.|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|Free|
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
 | whisper-web | ML-powered speech recognition directly in your browser. Built with [Transformers.js](https://github.com/xenova/transformers.js). [Demo](https://huggingface.co/spaces/Xenova/whisper-web) | [GitHub](https://github.com/xenova/whisper-web) ![GitHub Repo stars](https://img.shields.io/github/stars/xenova/whisper-web?style=social)|Free|
+| Typist | Lightning-fast AI transcription service processing audio at ~200x realtime speed using whisper-v3-large | [URL](https://iamtypist.dev) | Free/Paid |
 
 ### Text To Speech
 | Name | Description | Links | Fees | 
