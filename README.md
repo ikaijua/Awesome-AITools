@@ -208,6 +208,7 @@ This repo collects awesome AI tools.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | whisper | OpenAPI open source robust speech recognition model through large-scale weak supervision | [GitHub](https://github.com/openai/whisper) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/openai/whisper?style=social)| Free |
+| whisper.cpp | Port of OpenAI's Whisper model in C/C++|[Github](https://github.com/ggml-org/whisper.cpp) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social)|Free|
 | buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | [GitHub](https://github.com/chidiwilliams/buzz) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| Free |
 | WhisperDesktop| Open source, OpenAI-based Whisper, a desktop application for Windows, uses the GPU for processing, which will be faster than on the CPU with good GPU performance.|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|Free|
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
