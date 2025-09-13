@@ -218,7 +218,7 @@ This repo collects awesome AI tools.
 ### Text To Speech
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- | 
-| index-tts2 |Bilibili's Open-Source Industrial-Grade Controllable High-Efficiency Zero-Sample Text-to-Speech System. Online Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo, Paper: https://arxiv.org/abs/2506.21619|[Github](https://github.com/index-tts/index-tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) |Free|
+| index-tts2 |Bilibili's Open-Source Industrial-Grade Controllable High-Efficiency Zero-Sample Text-to-Speech System. <br>Online Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo <br>Paper: https://arxiv.org/abs/2506.21619|[Github](https://github.com/index-tts/index-tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) |Free|
 | Azure Text to speech| The best and most realistic voice tools currently available| [URL](https://speech.microsoft.com/portal/voicegallery) |Paid / 500,000 characters per month free|
 | Hailuo AI Text to Speech | Offer over 300 voices in 17 languages and multiple accents, covering a wide range of styles and age groups to provide the voice effects you need.|[URL](https://www.hailuo.ai/audio)|Limited-time Free|
 | coqui-ai/tts | A deep learning toolkit for Text-to-Speech, battle-tested in research and production <br> Online Demo: https://huggingface.co/spaces/coqui/xtts| [Github](https://github.com/coqui-ai/tts) ![GitHub Repo stars](https://img.shields.io/github/stars/coqui-ai/tts?style=social) | Free|
