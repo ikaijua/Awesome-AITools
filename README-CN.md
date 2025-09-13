@@ -54,7 +54,7 @@
 | 腾讯元宝/混元 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
 | 通义千问 |阿里的大语言模型 <br> qwen.ai中可体验最新的模型和不同的模型，包括Qwen3-Coder等|1. [qwen.ai](https://chat.qwen.ai/) <br>2. [通义网页版](https://tongyi.aliyun.com/)|免费|
 | 月之暗面的Kimi Chat|支持联网，文章总结能力比较强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI开放平台](https://platform.moonshot.cn/)|免费|
-| Gemini| Google 的对话式AI工具和最新的大语言模型，包括Gemini Nono，Gemini Pro和Gemini Ultra。Gemini Pro已开放api和sdk使用。api目前可免费使用，有每分钟60个请求的限制。<br>Gemini 文生图和图片编辑的评测文章：[16组案例测试Gemini 2.0，说是言出法随的当下P图王中王不为过！](https://mp.weixin.qq.com/s/2nias6lfWaUjjGSxDDaGJA)<br>[新闻介绍](https://github.com/ikaijua/Awesome-AITools/discussions/35#discussioncomment-7869696) |1. [Gemini AI聊天助手](https://bard.google.com/) <br>2. [Gemini api开发者网站](https://ai.google.dev/)|免费|
+| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 2.5 pro 和 Gemini 2.5 Flash 模型。最新推出的Gemini 2.5 Flash Image (Nano Banana)在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了很大的突破|1. [gemini](https://gemini.google.com/) <br>2. [aistudio](https://aistudio.google.com)|免费|
 | Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最新模型是 Claude Opus 4 和Claude Sonnet 4|[URL](https://claude.ai/)| 免费/付费|
 | Grok | xAI研发的AI助手，结合了x上的文章内容。马斯克的AI公司的产品 |[URL](https://x.com/i/grok)|免费|
 | 微软Copilot | 微软的Copilot，包含了多种AI工具和插件 | [URL](https://copilot.microsoft.com/) | 免费 | 
