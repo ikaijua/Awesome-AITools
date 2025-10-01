@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ikaijua-awesome-aitools-badge.png)](https://mseep.ai/app/ikaijua-awesome-aitools)
+
 <div align="center">
     <h1>Awesome AI Tools</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
