@@ -121,6 +121,7 @@ This repo collects awesome AI tools.
 | Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
 | Roundtable | Zero-configuration MCP server that unifies multiple AI coding assistants for enhanced development workflows. Intelligent client management platform enabling seamless coordination between Claude Code, Cursor, GPT-4, and other AI development tools. | [GitHub](https://github.com/askbudi/roundtable) ![GitHub Repo stars](https://img.shields.io/github/stars/askbudi/roundtable?style=social) </br> [Website](https://askbudi.ai/roundtable) | Free |
 | Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
+| Rulesync |The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between different AI agents in both directions.|[GitHub](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social)|Free|
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
