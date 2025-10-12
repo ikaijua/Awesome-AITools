@@ -59,7 +59,7 @@
 | Grok | xAI研发的AI助手，结合了x上的文章内容。马斯克的AI公司的产品 |[URL](https://x.com/i/grok)|免费|
 | 微软Copilot | 微软的Copilot，包含了多种AI工具和插件 | [URL](https://copilot.microsoft.com/) | 免费 | 
 | Le Chat| Mistral AI 推出了为 Le Chat 的聊天助手 |[URL](https://chat.mistral.ai/chat)|免费|
-| 智谱AI | 最新的GLM-4.5模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费|
+| 智谱AI | 最新的GLM-4.6模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费|
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
