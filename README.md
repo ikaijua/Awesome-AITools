@@ -126,7 +126,7 @@ This repo collects awesome AI tools.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Gemini 2.5 Flash Image (Nano Banana)|Google's advanced AI model for image generation and editing. No. 1 in the LMArea Text to Image and Image Edit leadboard. Online website: <br> 1. [gemini](https://gemini.google.com/app)<br> 2.[aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)   <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)|Free/Paid|
-| Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Free account has a certain usage minutes limit, and there is a paid upgrade version |
+| Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Paid |
 | Photoshop AI| Adobe Photoshop generative-fill| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Paid|
 | Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| Free|
 | civitai |	civitai.com is a website platform for sharing AI image creation model resources, with a large number of models, has become the main model exchange place in the SD open source community	| [URL](https://civitai.com/)	| Free|
