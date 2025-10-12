@@ -358,7 +358,7 @@
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-|Figure 01|获得了微软、OpenAI、英伟达和亚马逊等投资方的投资|[URL](https://www.figure.ai/)|
+|Figure 03|获得了微软、OpenAI、英伟达和亚马逊等投资方的投资|[URL](https://www.figure.ai/)|
 |Altlas|波士顿动力新的电动人形机器人|[URL](https://bostondynamics.com/atlas/)|
 |Optimus Gen 2|特斯拉的人形机器人|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
 |Apollo|Apptronik公司的人形机器人|[URL](https://apptronik.com/apollo)|
