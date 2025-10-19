@@ -121,7 +121,7 @@ This repo collects awesome AI tools.
 | Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
 | Roundtable | Zero-configuration MCP server that unifies multiple AI coding assistants for enhanced development workflows. Intelligent client management platform enabling seamless coordination between Claude Code, Cursor, GPT-4, and other AI development tools. | [GitHub](https://github.com/askbudi/roundtable) ![GitHub Repo stars](https://img.shields.io/github/stars/askbudi/roundtable?style=social) </br> [Website](https://askbudi.ai/roundtable) | Free |
 | Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
-| Kodus | Open Source Code Review Agent | [GitHub](https://github.com/kodustech/kodus-ai/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kodustech/kodus-ai?style=social"> | [Free/Paid]
+| Kodus | Open Source Code Review Agent | [GitHub](https://github.com/kodustech/kodus-ai/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kodustech/kodus-ai?style=social"> | Free/Paid|
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
