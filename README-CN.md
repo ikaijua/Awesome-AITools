@@ -49,7 +49,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 2.5 pro 和 Gemini 2.5 Flash 模型。最新推出的Gemini 2.5 Flash Image (Nano Banana)在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步|1. [gemini](https://gemini.google.com/) <br>2. [aistudio](https://aistudio.google.com)|免费|
-| 通义千问 |阿里的大语言模型 <br> qwen.ai中可体验最新的模型和不同的模型，包括Qwen3-Coder等|1. [qwen.ai](https://chat.qwen.ai/) <br>2. [通义网页版](https://tongyi.aliyun.com/)|免费|
+| 通义千问 |阿里的大语言模型 <br> qwen.ai中可体验最新的模型和不同的模型，最强的 Qwen3-Max-Thinking-Preview，有深度研究的选项|1. [qwen.ai](https://chat.qwen.ai/) <br>2. [通义网页版](https://tongyi.aliyun.com/)|免费|
 | ChatGPT | openAI的chatgpt，最新模型 GPT-5 </br>应用示例：</br> [B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)</br>[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | 免费/付费| 
 | Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最新模型是 Claude Opus 4 和Claude Sonnet 4|[URL](https://claude.ai/)| 免费/付费|
 | DeepSeek | DeepSeek的AI助手。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
