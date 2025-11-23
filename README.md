@@ -39,9 +39,9 @@ This repo collects awesome AI tools.
 ### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| ChatGPT | OpenAI's chatgpt | [URL](https://chat.openai.com) | Free/Paid | 
-| Gemini| Google's conversational, AI chat service. Google's latest LLM, including Gemini Nono, Gemini Pro and Gemini Ultra. Gemini Pro is open for api and sdk use.  Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code |[gemini](https://gemini.google.com/) <br> [ai.google.dev](https://ai.google.dev/)|Free/Paid|
-| Claude| Anthropic's AI assistant|[URL](https://claude.ai/)| Free/Paid|
+| ChatGPT | OpenAI's AI assistant  | [URL](https://chat.openai.com) | Free/Paid | 
+| Gemini| Google's LLM, including Gemini-3 |[gemini](https://gemini.google.com/) <br> [ai.google.dev](https://ai.google.dev/)|Free/Paid|
+| Claude| Anthropic's LLM|[URL](https://claude.ai/)| Free/Paid|
 | DeepSeek | DeepSeek's AI assistant. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
 | Grok | xAI's AI assistant |1.[x.com/grok](https://x.com/i/grok) <br>2.[grok.com](https://grok.com/)|Free|
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
