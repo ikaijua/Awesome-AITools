@@ -110,7 +110,6 @@ This repo collects awesome AI tools.
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | Trae | Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
 | MarsCode |Built-in AI programming assistant with capabilities like code completion, explanation, and debugging for faster development.|[URL](https://www.marscode.com/)|Free|
-| ai-code-translator | Open source project. Translates code from one language to another using chatgpt. | [GitHub](https://github.com/mckaywrigley/ai-code-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)| Free, requires OpenAI API key|
 | Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
 |gpt-engineer|GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.|[GitHub](https://github.com/AntonOsika/gpt-engineer) ![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Free|
 | Codeium | Powerful in-IDE AI coding assistant|[URL](https://codeium.com/)|Free/Paid|
