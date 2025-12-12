@@ -133,7 +133,6 @@ This repo collects awesome AI tools.
 | Nero AI | AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/|[URL](https://ai.nero.com/)|Paid/Trial|
 | Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
 |DragGAN|Interactive Point-based Manipulation on the Generative Image Manifold|[GitHub](https://github.com/XingangPan/DragGAN) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/XingangPan/DragGAN?style=social)|Free|
-| visual-chatgpt | Create images with ChatGPT | [GitHub](https://github.com/microsoft/visual-chatgpt) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)| Free |
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 |StreamDiffusion| A Pipeline-Level Solution for Real-Time Interactive Generation|[Github](https://github.com/cumulo-autumn/StreamDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/cumulo-autumn/StreamDiffusion?style=social)|Free|
