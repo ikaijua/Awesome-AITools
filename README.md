@@ -5,7 +5,7 @@
 
 English | [中文](README-CN.md)
 
-This repo collects awesome AI tools. 
+This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together! Please use the following template as a reference for your recommendations. [issue](https://github.com/ikaijua/Awesome-AITools/issues/233)
 
 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
