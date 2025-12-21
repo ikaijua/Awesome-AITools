@@ -125,10 +125,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Nano Banana/Nano Banana Pro|Google's advanced AI model for image generation and editing. No. 1 in the LMArea Text to Image and Image Edit leadboard. Online website: <br> 1. [gemini](https://gemini.google.com/app)<br> 2.[aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)   <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)|Free/Paid|
 | Z-Image | Z-Image is a high-performance image generation model recently open-sourced by Alibaba's Tongyi Lab. It strikes a balance between "extreme speed" and "high quality," making it highly suitable for scenarios requiring rapid image generation. Z-Image-Turbo Online Demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo | [Github](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social) | Free |
 | Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Paid |
+| ChatGPT Images |GPT Image 1.5|[URL](https://chatgpt.com/images)|Free/Paid|
 | Photoshop AI| Adobe Photoshop generative-fill| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Paid|
 | Stable diffusion webui | Open source project, input text or pictures to create pictures, Stable diffusion webui is the GUI of Stable diffusion, and it is an image user interface that visualizes stable diffusion. It also integrates many other useful extension scripts. | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)| Free|
 | civitai |	civitai.com is a website platform for sharing AI image creation model resources, with a large number of models, has become the main model exchange place in the SD open source community	| [URL](https://civitai.com/)	| Free|
-| clipdrop |	clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. |	[URL](https://clipdrop.co/)	| Free/Paid |
+| clipdrop | clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. |	[URL](https://clipdrop.co/)	| Free/Paid |
 | firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
 | ideogram.ai | Enter text to create pictures. A product developed by a company founded by many ex-Googlers |[URL](https://ideogram.ai/)| Free/Paid |
 | Nero AI | AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/|[URL](https://ai.nero.com/)|Paid/Trial|
@@ -140,7 +141,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| Wan2.5-preview |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
+| Wan2.6 |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. | [URL](https://openai.com/sora) | Paid |
 | KLING AI|AI Video Creation Tool by kuaishou.  |[URL](https://klingai.com/)|Free/Paid|
 | hailuoai|AI Video Creation Tool by Minimax|[URL](https://hailuoai.com/video)|Free/Paid|
