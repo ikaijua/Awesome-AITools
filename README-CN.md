@@ -198,6 +198,7 @@
 |AppAgent|可以操作手机应用程序的AI Agent|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|免费|
 |microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
 |Taskade AI| 在统一的工作空间内构建、训练和部署自主AI代理，用于任务管理、团队协作和工作流自动化。通过结构化列表、笔记和思维导图提升团队生产力。 | [URL](https://www.taskade.com/) | 每日免费AI额度 / 支持付费升级 |
+|Veeso AI| 以内容为先的图形排版工具，将文字转化为清晰、精致的视觉呈现。比如电商详情页、易拉宝、社媒图文、知识卡片、邮件、网页等 | [URL](https://veeso.ai/) | 每天免费积分体验，可付费 |
 
 ### ai搜索
 | 名称 | 说明 | 链接 | 费用 | 
