@@ -143,7 +143,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- |
 | Wan2.6 |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. | [URL](https://openai.com/sora) | Paid |
-| KLING AI|AI Video Creation Tool by kuaishou.  |[URL](https://klingai.com/)|Free/Paid|
+| KLING AI|AI Video Creation Tool by kuaishou. Support text to video, image to video, start-end frame and motion control |[URL](https://klingai.com/)|Free/Paid|
 | hailuoai|AI Video Creation Tool by Minimax|[URL](https://hailuoai.com/video)|Free/Paid|
 | Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
