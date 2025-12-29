@@ -151,7 +151,7 @@
 | ---- | ----------------------------- | --- | --- | 
 | 通义万相 | 阿里旗下AI图片和视频创作应用| [URL](https://tongyi.aliyun.com/wanxiang/videoCreation) | 免费/付费 |
 | 海螺AI| Minimax的AI视频生成平台|[URL](https://hailuoai.com/video)|免费/付费|
-| 快手可灵|支持文生视频和图生视频|[URL](https://kling.kuaishou.com/)|免费/付费|
+| 快手可灵|支持文生视频和图生视频、首尾帧、动作控制功能|[URL](https://kling.kuaishou.com/)|免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
 | PixVerse | 利用文本和照片创建令人惊叹的人工智能视频 |[URL](https://app.pixverse.ai/)|付费/试用|
