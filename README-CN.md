@@ -14,11 +14,11 @@
 - [编程开发](#编程开发)
 - [AI图像创作](#ai图像创作)
 - [AI视频创作](#ai视频创作)
+- [AI Agent](#ai-agent)
 - [AI云平台](#ai云平台)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
 - [AI工具箱类软件](#ai工具箱类软件)
-- [AI Agent](#ai-agent)
 - [AI搜索](#ai搜索)
 - [阅读](#阅读)
 - [写作](#写作)
@@ -168,6 +168,18 @@
 | AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
 |vivago.ai/video|	文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)|	免费|
 
+### AI Agent
+| 名称 | 说明 | 链接 | 费用 | 
+| ---- | ----------------------------- | --- | --- |
+Manus | Manus 是一款行动引擎，它不仅提供答案，还能执行任务、自动化工作流程并扩展您的服务范围 | [URL](https://manus.im/) | 免费试用/付费 |
+|Gemini CLI|一个开源的基于Gemini的命令行终端AI智能体|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|免费|
+|agentscope|面向Agent的编程：构建大型语言模型应用程序。阿里开源|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|免费|
+|Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
+|OthersideAI/self-operating-computer|一个使用多模态模型（默认模型为GPT-4v）能够操作计算机的框架|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|免费，需要GPT-4v|
+|AppAgent|可以操作手机应用程序的AI Agent|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|免费|
+|microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
+|Taskade AI| 在统一的工作空间内构建、训练和部署自主AI代理，用于任务管理、团队协作和工作流自动化。通过结构化列表、笔记和思维导图提升团队生产力。 | [URL](https://www.taskade.com/) | 每日免费AI额度 / 支持付费升级 |
+
 ### AI云平台
 | 名称 | 说明 | 链接 |费用|
 | ---- | ----------------------------- | --- | --- |
@@ -187,17 +199,6 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 |Paper2GUI|一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。</br>[B站视频介绍：补帧超分抠图配音，这个开源AI工具箱对小白太友好了！](https://www.bilibili.com/video/BV1jY411u7yU/)|[GitHub](https://github.com/Baiyuetribe/paper2gui) ![GitHub Repo stars](https://img.shields.io/github/stars/Baiyuetribe/paper2gui?style=social)|免费|
-
-### AI Agent
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-|Gemini CLI|一个开源的基于Gemini的命令行终端AI智能体|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|免费|
-|agentscope|面向Agent的编程：构建大型语言模型应用程序。阿里开源|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|免费|
-|Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
-|OthersideAI/self-operating-computer|一个使用多模态模型（默认模型为GPT-4v）能够操作计算机的框架|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|免费，需要GPT-4v|
-|AppAgent|可以操作手机应用程序的AI Agent|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|免费|
-|microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
-|Taskade AI| 在统一的工作空间内构建、训练和部署自主AI代理，用于任务管理、团队协作和工作流自动化。通过结构化列表、笔记和思维导图提升团队生产力。 | [URL](https://www.taskade.com/) | 每日免费AI额度 / 支持付费升级 |
 
 ### ai搜索
 | 名称 | 说明 | 链接 | 费用 | 
