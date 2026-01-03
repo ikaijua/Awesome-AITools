@@ -88,6 +88,7 @@
 | NotebookLM |NotebookLM是谷歌推出的一款强大的虚拟研究助手，它可以将各种类型的文件，包括文本、视频、音频甚至数据集，转化成生动有趣的播客节目（播客音频目前只支持英语）。除此之外，NotebookLM 还可以生成常见问题解答、学习指南、目录、时间轴和简报等，并支持用户进行自由对话和事实核查。|[URL](https://notebooklm.google.com/)|免费|
 | Learn about |谷歌开发的人工智能学习助手。它是一个会话式的学习伙伴，能适应您独特的好奇心和学习目标，帮助您掌握新主题并加深理解。|[URL](https://learning.google.com/experiments/learn-about)|免费|
 | Poe | 美版知乎 Quora 构建的AI 产品，有web和客户端。目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。chatgpt-4可以每天免费使用一次 </br> 视频介绍：[B站视频：神器！与chatGPT类似的新人工智能问答AI：Poe, 美国知乎Quaro最新产品，专业回答](https://www.bilibili.com/video/BV13Y411B7Az)| [URL](https://poe.com/) |免费，有付费升级版|
+| NoteGPT|NoteGPT 是一款智能笔记工具，它可以记录、转录并总结各种内容，比如会议、讲座、播客、YouTube 视频、B站视频、新闻简报和文章等。|[URL](https://notegpt.io/)|免费/付费|
 | bot.360|360构建的AI对话机器人，集合了国内主要的一些大模型比如豆包、kimi、MiniMax、通义千问等|[URL](https://bot.360.com/)|免费|
 | HuggingChat|Hugging Face 的开源聊天应用程序 Hugging Chat. [URL](https://huggingface.co/chat/)|[Github](https://github.com/huggingface/chat-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|免费|
 | monica | AI助手，提供搜索、阅读、写作、翻译、绘画等多种任务的帮助。有独立应用和浏览器插件| [URL](https://monica.im) <br> [chrome插件](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb)|免费/付费|
