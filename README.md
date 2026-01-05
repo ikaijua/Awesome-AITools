@@ -13,6 +13,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ## All Categories
 - [All Categories](#all-categories)
   - [ChatGPT and other AI chat assistant](#chatgpt-and-other-ai-chat-assistant)
+  - [AI Agent](#ai-agent)
   - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
@@ -20,7 +21,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Programming Development](#programming-development)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
-  - [AI Agent](#ai-agent)
   - [AI Cloud Platform](#ai-cloud-platform)
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
@@ -47,6 +47,21 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
 | qwen | Alibaba's AI assistant. Includes Qwen3, Qwen3-Code and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
+
+### AI Agent
+| Name | Description | Links | Fees |  
+| ---- | ----------------------------- | --- | --- |
+|AnyGen|AnyGen is the AI assistant that truly "gets work done" for you. From writing and analysis to planning and reporting, it transforms your ideas into ready-to-use professional deliverables in minutes.|[URL](https://www.anygen.io/)|Free Trial/Paid|
+|Manus|Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach|[URL](https://manus.im/)|Free Trial/Paid|
+|Gemini CLI|An open-source AI agent that brings the power of Gemini directly into your terminal.|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|Free|
+|agentscope|Agent-Oriented Programming for Building LLM Applications, Open-sourced by Alibaba|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|Free|
+|Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
+|OthersideAI/self-operating-computer|A framework to enable multimodal models to operate a computer.|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|Free，GPT-4v required|
+|AppAgent|Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|Free|
+|microsoft/autogen|AutoGen is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|Free|
+|potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
+|saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
+|MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
 
 ### AI Search engine
 | Name | Description | Links | Fees |  
@@ -158,20 +173,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
 |vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
 | MaxVideoAI | Multi-engine AI video generation platform (Sora-style, Pika, Veo, Kling & more) | [URL](https://maxvideoai.com) | Free/Paid |
-
-### AI Agent
-| Name | Description | Links | Fees |  
-| ---- | ----------------------------- | --- | --- |
-|Manus|Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach|[URL](https://manus.im/)|Free Trial/Paid|
-|Gemini CLI|An open-source AI agent that brings the power of Gemini directly into your terminal.|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|Free|
-|agentscope|Agent-Oriented Programming for Building LLM Applications, Open-sourced by Alibaba|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|Free|
-|Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
-|OthersideAI/self-operating-computer|A framework to enable multimodal models to operate a computer.|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|Free，GPT-4v required|
-|AppAgent|Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|Free|
-|microsoft/autogen|AutoGen is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|Free|
-|potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
-|saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
-|MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
 
 ### AI Cloud Platform
 | Name | Description | Links | Fees | 
