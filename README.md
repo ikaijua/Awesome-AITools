@@ -41,7 +41,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- |
 | Gemini| Google's LLM, including Gemini-3 pro|[gemini](https://gemini.google.com/) <br> [ai.google.dev](https://ai.google.dev/)|Free/Paid|
 | ChatGPT | OpenAI's AI assistant  | [URL](https://chat.openai.com) | Free/Paid | 
-| Claude| Anthropic's LLM|[URL](https://claude.ai/)| Free/Paid|
+| Claude| Anthropic's LLM, including Claude Opus 4.5|[URL](https://claude.ai/)| Free/Paid|
 | DeepSeek | DeepSeek's AI assistant. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
 | Grok | xAI's AI assistant |1.[x.com/grok](https://x.com/i/grok) <br>2.[grok.com](https://grok.com/)|Free|
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
