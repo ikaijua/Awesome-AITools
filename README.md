@@ -35,6 +35,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [AI try-on](#ai-virtual-try-on)
 
 ### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
