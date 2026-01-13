@@ -38,6 +38,8 @@
 - [视频内容总结](#视频内容总结)
 - [AI生成模特试装和商品图](#ai生成模特试装和商品图)
 - [人形机器人](#人形机器人)
+- [AI检测器](#ai检测器)
+
 
 ## 评测
 - [大语言模型评测](#大语言模型评测)
@@ -363,6 +365,11 @@
 |H1|宇树科技的人形机器人|[URL](https://www.unitree.com/h1/)|
 |Phoenix|sanctuary.ai公司的人形机器人|[URL](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/)|
 |MenteeBot|以色列人形机器人公司 Meetee Robotics 发布的首款双足人形机器人|[URL](https://www.menteebot.com/)|
+
+### AI检测器
+| 名称 | 说明 | 链接 | 费用 |
+| :--- | :--- | :--- | :--- |
+| AI Detect Lab | 针对 Midjourney v7 和 Flux 优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
 
 ## 精选文章
 ### chatgpt相关文章
