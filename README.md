@@ -36,6 +36,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Academic research](#academic-research)
   - [OCR](#ocr)
   - [AI vitral try-on](#ai-virtual-try-on)
+  - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
@@ -287,6 +288,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- |
 |Outfit Swap Studio|AI virtual try-on / outfit swap for user photos. Generates outfit-changed results while aiming to preserve the original face and background for consistency.|[URL](https://outfitswapstudio.com/)||Free/Paid|
 
+### AI Detection
+| Name | Description | Links | Fees |
+| :--- | :--- | :--- | :--- |
+| AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
