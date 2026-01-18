@@ -288,6 +288,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- |
 |Outfit Swap Studio|AI virtual try-on / outfit swap for user photos. Generates outfit-changed results while aiming to preserve the original face and background for consistency.|[URL](https://outfitswapstudio.com/)||Free/Paid|
 
+### Real Estate
+| Name | Description | Links | Fees | 
+| ---- | ----------------------------- | --- | --- |
+|AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
+
 ### AI Detection
 | Name | Description | Links | Fees |
 | :--- | :--- | :--- | :--- |
