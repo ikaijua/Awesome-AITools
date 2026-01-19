@@ -64,6 +64,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
 |saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
 |MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
+|Registry Broker|Universal AI agent discovery API that aggregates agents from NANDA, MCP, Virtuals, A2A, and other registries into a unified search interface|[URL](https://hol.org/registry/docs), [Github](https://github.com/hashgraph-online/registry-broker) ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/registry-broker?style=social)|Free|
 
 ### AI Search engine
 | Name | Description | Links | Fees |  
