@@ -75,6 +75,7 @@
 |AppAgent|可以操作手机应用程序的AI Agent|[Github](https://github.com/mnotgod96/AppAgent) ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)|免费|
 |microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
 |Taskade AI| 在统一的工作空间内构建、训练和部署自主AI代理，用于任务管理、团队协作和工作流自动化。通过结构化列表、笔记和思维导图提升团队生产力。 | [URL](https://www.taskade.com/) | 每日免费AI额度 / 支持付费升级 |
+|Infinite Gratitude|Claude Code 多Agent研究技能。部署 10 个专业Agent分 3 波进行全面研究。|[Github](https://github.com/sstklen/infinite-gratitude) ![GitHub Repo stars](https://img.shields.io/github/stars/sstklen/infinite-gratitude?style=social)|免费|
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
@@ -138,6 +139,7 @@
 | Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，可以自动生成代码，提升开发效率，调试Bug。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。并提供丰富的IDE支持，包括Visual Studio Code、JetBrains系列IDE等。<br>“技术胖”B站视频：[清华初创对决微软Github，哪家AI编程助手更强](https://www.bilibili.com/video/BV1MH4y1s7sU/)| [URL](https://code.fittentech.com/) | 免费 |
 |腾讯云AI代码助手|腾讯云 AI 代码助手主要提供两类功能：AI 助手对话功能和代码补全功能。|[URL](https://console.cloud.tencent.com/acc)|免费|
 |Mistral/Codestral|Mistral.ai的代码生成大语言模型，官方介绍：[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), 模型下载:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat) 模型选择Codestral|免费|
+| Claude API 成本优化 | 使用 Batch API、Prompt Caching 和 Extended Thinking 节省 50-90% 的 Claude API 成本。Anthropic 官方技术与实施指南。| [GitHub](https://github.com/sstklen/claude-api-cost-optimization) ![GitHub Repo stars](https://img.shields.io/github/stars/sstklen/claude-api-cost-optimization?style=social) | 免费 |
 
 ### AI图像创作
 | 名称 | 说明 | 链接 | 费用 | 
