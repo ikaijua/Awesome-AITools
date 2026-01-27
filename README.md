@@ -64,6 +64,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
 |saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
 |MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
+|Infinite Gratitude|Multi-agent research skill for Claude Code. Deploys 10 specialized agents in 3 waves to conduct comprehensive research on any topic.|[Github](https://github.com/sstklen/infinite-gratitude) ![GitHub Repo stars](https://img.shields.io/github/stars/sstklen/infinite-gratitude?style=social)|Free|
 
 ### AI Search engine
 | Name | Description | Links | Fees |  
@@ -137,6 +138,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Roundtable | Zero-configuration MCP server that unifies multiple AI coding assistants for enhanced development workflows. Intelligent client management platform enabling seamless coordination between Claude Code, Cursor, GPT-4, and other AI development tools. | [GitHub](https://github.com/askbudi/roundtable) ![GitHub Repo stars](https://img.shields.io/github/stars/askbudi/roundtable?style=social) </br> [Website](https://askbudi.ai/roundtable) | Free |
 | Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
 | Kodus | Open Source Code Review Agent | [GitHub](https://github.com/kodustech/kodus-ai/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kodustech/kodus-ai?style=social"> | Free/Paid|
+| Claude API Cost Optimization | Save 50-90% on Claude API costs using Batch API, Prompt Caching, and Extended Thinking. Official Anthropic techniques with implementation guides. | [GitHub](https://github.com/sstklen/claude-api-cost-optimization) ![GitHub Repo stars](https://img.shields.io/github/stars/sstklen/claude-api-cost-optimization?style=social) | Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
