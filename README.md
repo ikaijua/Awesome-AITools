@@ -35,7 +35,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
-  - [AI vitral try-on](#ai-virtual-try-on)
   - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chat assistant
@@ -281,10 +280,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
-### AI virtual try-on
-| Name | Description | Links | Fees | 
-| ---- | ----------------------------- | --- | --- |
-|Outfit Swap Studio|AI virtual try-on / outfit swap for user photos. Generates outfit-changed results while aiming to preserve the original face and background for consistency.|[URL](https://outfitswapstudio.com/)||Free/Paid|
 
 ### Real Estate
 | Name | Description | Links | Fees | 
