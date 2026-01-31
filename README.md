@@ -256,7 +256,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |Stable Audio|AI music and sound effect generation application by stability.ai|[URL](https://www.stableaudio.com/)|Free/Paid|
 |OptimizerAI|Sound effect generation <br>[Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243)|[URL](https://www.optimizerai.xyz/) |Free/Paid|
 |SFX Engine|AI Sound effect generation |[URL](https://sfxengine.com/) |Free/Paid|
-|MuseGen|An AI music studio for lyric writing and song generation |[URL](https://musegen.org) |Free/Paid|  
 
 ### Speech translation
 | Name | Description | Links | Fees | 
