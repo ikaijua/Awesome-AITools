@@ -52,8 +52,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Agent
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
-|AnyGen|AnyGen is the AI assistant that truly "gets work done" for you. From writing and analysis to planning and reporting, it transforms your ideas into ready-to-use professional deliverables in minutes. [The AI Assistant Built for Work](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|Free Trial/Paid|
 |Manus|Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach|[URL](https://manus.im/)|Free Trial/Paid|
+|AnyGen|AnyGen is the AI assistant that truly "gets work done" for you. From writing and analysis to planning and reporting, it transforms your ideas into ready-to-use professional deliverables in minutes. [The AI Assistant Built for Work](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|Free Trial/Paid|
 |Gemini CLI|An open-source AI agent that brings the power of Gemini directly into your terminal.|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|Free|
 |agentscope|Agent-Oriented Programming for Building LLM Applications, Open-sourced by Alibaba|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|Free|
 |Auto-GPT|Open source, An experimental open-source attempt to make GPT-4 fully autonomous.|[GitHub](https://github.com/Torantulino/Auto-GPT) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|Free|
