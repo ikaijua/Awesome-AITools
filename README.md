@@ -185,6 +185,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### LLM Prompts
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
+| Awesome DeepSeek V4 | Community-curated benchmarks, news, and tools for DeepSeek V4. | [Github](https://github.com/deepseek-community/awesome-deepseek-v4) | Free |
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
 
 ### LLM training platform
