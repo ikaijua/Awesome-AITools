@@ -18,7 +18,6 @@
 - [AI云平台](#ai云平台)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
-- [AI工具箱类软件](#ai工具箱类软件)
 - [AI搜索](#ai搜索)
 - [阅读](#阅读)
 - [写作](#写作)
@@ -198,11 +197,6 @@
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
-
-### AI工具箱类软件
-| 名称 | 说明 | 链接 | 费用 | 
-| ---- | ----------------------------- | --- | --- |
-|Paper2GUI|一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。</br>[B站视频介绍：补帧超分抠图配音，这个开源AI工具箱对小白太友好了！](https://www.bilibili.com/video/BV1jY411u7yU/)|[GitHub](https://github.com/Baiyuetribe/paper2gui) ![GitHub Repo stars](https://img.shields.io/github/stars/Baiyuetribe/paper2gui?style=social)|免费|
 
 ### ai搜索
 | 名称 | 说明 | 链接 | 费用 | 
