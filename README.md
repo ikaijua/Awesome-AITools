@@ -48,6 +48,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
 | qwen | Alibaba's AI assistant. Includes Qwen3, Qwen3-Code and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
+| Breezy | Real-time AI voice chat with unique characters. Talk naturally and hear responses instantly.|[URL](https://talkbreezy.com/)|Free/Paid|
 
 ### AI Agent
 | Name | Description | Links | Fees |  
