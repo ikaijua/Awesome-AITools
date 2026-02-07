@@ -40,14 +40,14 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| Gemini| Google's LLM, including Gemini-3 pro|[gemini](https://gemini.google.com/) <br> [ai.google.dev](https://ai.google.dev/)|Free/Paid|
-| ChatGPT | OpenAI's AI assistant, including GPT-5.2  | [URL](https://chat.openai.com) | Free/Paid | 
-| Claude| Anthropic's LLM, including Claude Opus 4.6|[URL](https://claude.ai/)| Free/Paid|
-| DeepSeek | DeepSeek's AI assistant. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
-| Grok | xAI's LLM, including grok-4.1-thinking |1.[x.com/grok](https://x.com/i/grok) <br>2.[grok.com](https://grok.com/)|Free|
+| Gemini| Google's LLMs, including Gemini-3 pro|[gemini](https://gemini.google.com/) <br> [ai.google.dev](https://ai.google.dev/)|Free/Paid|
+| ChatGPT | OpenAI's LLMs, including GPT-5.2  | [URL](https://chat.openai.com) | Free/Paid | 
+| Claude| Anthropic's LLMs, including Claude Opus 4.6|[URL](https://claude.ai/)| Free/Paid|
+| DeepSeek | DeepSeek's LLMs. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
+| Grok | xAI's LLMs, including grok-4.1-thinking |1.[x.com/grok](https://x.com/i/grok) <br>2.[grok.com](https://grok.com/)|Free|
 | Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
 | Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
-| qwen | Alibaba's AI assistant. Includes Qwen3, Qwen3-Code and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
+| qwen | Alibaba's LLMs. Includes Qwen3, Qwen3-Code and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
 
 ### AI Agent
 | Name | Description | Links | Fees |  
