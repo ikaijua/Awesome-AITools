@@ -125,8 +125,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- | 
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
-| Trae | Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
-| MarsCode |Built-in AI programming assistant with capabilities like code completion, explanation, and debugging for faster development.|[URL](https://www.marscode.com/)|Free|
+| Trae | ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
 | Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
 | Codeium | Powerful in-IDE AI coding assistant|[URL](https://codeium.com/)|Free/Paid|
 | scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
