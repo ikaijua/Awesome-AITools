@@ -135,6 +135,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Roundtable | Zero-configuration MCP server that unifies multiple AI coding assistants for enhanced development workflows. Intelligent client management platform enabling seamless coordination between Claude Code, Cursor, GPT-4, and other AI development tools. | [GitHub](https://github.com/askbudi/roundtable) ![GitHub Repo stars](https://img.shields.io/github/stars/askbudi/roundtable?style=social) </br> [Website](https://askbudi.ai/roundtable) | Free |
 | Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
 | Kodus | Open Source Code Review Agent | [GitHub](https://github.com/kodustech/kodus-ai/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kodustech/kodus-ai?style=social"> | Free/Paid|
+| Kagan | AI-powered Kanban TUI for autonomous development workflows. Integrates with Claude Code and OpenCode for ticket-driven AI coding with git worktree isolation and MCP server support. | [GitHub](https://github.com/aorumbayev/kagan) ![GitHub Repo stars](https://img.shields.io/github/stars/aorumbayev/kagan?style=social) | Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
