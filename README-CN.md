@@ -178,7 +178,7 @@
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 免费试用/付费 |
 | AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
 |vivago.ai/video|	文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)|	免费|
-| TubePrompter | 免费AI工具，将YouTube、TikTok和Instagram视频转换为Sora、Veo、Midjourney、Runway Gen-3、Stable Diffusion等AI生成器的优化提示词。分析视频的视觉元素、构图、光影和艺术风格。 | [URL](https://tubeprompter.com) | 免费 |
+| TubePrompter | 将任意视频转换为Sora、Midjourney、Runway等AI生成器的提示词 | [URL](https://tubeprompter.com) | 免费 |
 
 ### AI云平台
 | 名称 | 说明 | 链接 |费用|
