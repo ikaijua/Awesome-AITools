@@ -173,6 +173,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
 |vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|  
+| TubePrompter | Free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Veo, Midjourney, Runway Gen-3, Stable Diffusion, and more. Analyzes visual elements, composition, lighting, and artistic style. | [URL](https://tubeprompter.com) | Free |
 
 ### AI Cloud Platform
 | Name | Description | Links | Fees | 
