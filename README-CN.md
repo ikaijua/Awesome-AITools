@@ -72,6 +72,7 @@
 |Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
 |OthersideAI/self-operating-computer|一个使用多模态模型（默认模型为GPT-4v）能够操作计算机的框架|[Github](https://github.com/OthersideAI/self-operating-computer) ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)|免费，需要GPT-4v|
 |microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
+|Taskade|AI原生工作空间平台。通过提示词构建应用，部署具有记忆和知识库的自主AI Agent，100+集成自动化工作流，实时多人协作。支持MCP（Model Context Protocol）。跨平台：Web、桌面端、移动端和浏览器扩展。|[URL](https://taskade.com) , [Github](https://github.com/taskade/taskade) ![GitHub Repo stars](https://img.shields.io/github/stars/taskade/taskade?style=social)|免费/付费|
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
