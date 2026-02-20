@@ -119,6 +119,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Harbor | Effortlessly run LLM backends, APIs, frontends, and services with one command. | [GitHub](https://github.com/av/harbor) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/av/harbor?style=social)|  Free |
 |gemini-fullstack-langgraph-quickstart|Get started with building Fullstack Agents using Gemini 2.5 and LangGraph|[Github](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)|Free|
 |NoteGPT|NoteGPT is a smart note-taking tool that can record, transcribe, and summarize various content, such as meetings, lectures, podcasts, YouTube videos, news briefings, and articles.| [URL](https://notegpt.io/) | Free/Paid |
+|OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, Mistral, etc.). Zero markup pricing, 5% commission on inference traffic, supports smart routing/failover, BYOK (Bring Your Own Key). |[URL](https://openrouter.ai/)| Free/Paid |
 
 ### Programming Development
 | Name | Description | Links | Fees |  
