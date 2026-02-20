@@ -40,7 +40,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### ChatGPT and other AI chat assistant
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| Gemini| Google's LLMs, including Gemini-3 pro. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
+| Gemini| Google's LLMs, including Gemini-3.1 pro. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
 | ChatGPT | OpenAI's LLMs, including GPT-5.2  | [URL](https://chat.openai.com) | Free/Paid | 
 | Claude| Anthropic's LLMs, including Claude Opus 4.6|[URL](https://claude.ai/)| Free/Paid|
 | DeepSeek | DeepSeek's LLMs. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
