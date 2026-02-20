@@ -120,6 +120,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |gemini-fullstack-langgraph-quickstart|Get started with building Fullstack Agents using Gemini 2.5 and LangGraph|[Github](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)|Free|
 |NoteGPT|NoteGPT is a smart note-taking tool that can record, transcribe, and summarize various content, such as meetings, lectures, podcasts, YouTube videos, news briefings, and articles.| [URL](https://notegpt.io/) | Free/Paid |
 |OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, Mistral, etc.). Zero markup pricing, 5% commission on inference traffic, supports smart routing/failover |[URL](https://openrouter.ai/)| Free/Paid |
+| OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 
 ### Programming Development
 | Name | Description | Links | Fees |  
