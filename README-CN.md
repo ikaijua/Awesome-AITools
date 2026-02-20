@@ -49,7 +49,7 @@
 ### ChatGPT及类似大语言模型AI助手
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
-| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.0 pro 和 Gemini 3.0 Flash 模型。最新推出的Gemini 3.0 Flash Image (Nano Banana)在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步|1. [gemini](https://gemini.google.com/) <br>2. [aistudio](https://aistudio.google.com)|免费|
+| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.1 pro模型，Gemini 3.0 Flash Image (Nano Banana)在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) |免费/付费|
 | 通义千问 |阿里的大语言模型 <br> qwen.ai中可体验最新的模型和不同的模型，最强的 Qwen3-Max-Thinking-Preview，有深度研究的选项|[URL](https://www.qianwen.com/)|免费|
 | ChatGPT | openAI的chatgpt，最新模型 GPT-5.2 </br>应用示例：</br> [B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)</br>[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | 免费/付费| 
 | 豆包 | 字节跳动旗下的AI聊天软件 ; [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) <br>体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)<br>[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
