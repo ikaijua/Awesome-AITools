@@ -89,6 +89,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |LiveCodeBench|LiveCodeBench is a holistic and contamination-free evaluation benchmark of LLMs for code that continuously collects new problems over time. Particularly, LiveCodeBench also focuses on broader code-related capabilities, such as self-repair, code execution, and test output prediction, beyond mere code generation. |[URL](https://livecodebench.github.io/leaderboard.html)|Free|
 |LLM Stats|LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily‑updated, open‑source community data on capability, price, speed, and context length.|[URL](https://llm-stats.com/)|Free|
 |Price Per Token|Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more. Includes token counters, cost calculators, and benchmark comparisons.|[URL](https://pricepertoken.com/)|Free|
+|Rival|AI model comparison platform with blind preference voting across 200+ models. Side-by-side output comparison, community-driven rankings (RIVAL Index), open datasets, and a multi-model Prompt Lab for real-time testing.|[URL](https://rival.tips)|Free / Paid|
 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees | 
