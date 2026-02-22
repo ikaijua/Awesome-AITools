@@ -17,7 +17,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
   - [GPT LLMs Applications](#gpt-llms-applications)
-  - [Programming Development](#programming-development)
+  - [AI Coding](#ai-coding)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
@@ -114,19 +114,18 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 
-### Programming Development
+### AI Coding
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- | 
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
+| Claude Code |	Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities.|[Github](https://github.com/anthropics/claude-code)</br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Paid/Free Trial|
+| Antigravity | Google AI coding assistant based on Windsurf technology, deeply integrated with Gemini and Google Cloud	|[URL](https://antigravity.google/)	|Free for Individual Use/Paid|
 | Trae | ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
 | Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
-| Codeium | Powerful in-IDE AI coding assistant|[URL](https://codeium.com/)|Free/Paid|
 | scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
-| Fitten Code | Fitten Code is an AI programming assistant driven by Fitten LLM models, which can automatically generate code, improve development efficiency, help you debug, and save your time. It can also chat with you and solve your programming problems.freeand supports over 80 languages: Python, C++,JavaScript, TypeScript, Java, etc. Fitten Code supports Visual Studio Code and JetBrains series IDEs, including IntelliJ IDEA, PyCharm, WebStorm, etc.|[URL](https://code.fittentech.com/en?lang=en)| Free |
 | Plandex | Open source, terminal-based AI programming engine for complex tasks | [GitHub](https://github.com/plandex-ai/plandex) ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)| Free |
 | Roundtable | Zero-configuration MCP server that unifies multiple AI coding assistants for enhanced development workflows. Intelligent client management platform enabling seamless coordination between Claude Code, Cursor, GPT-4, and other AI development tools. | [GitHub](https://github.com/askbudi/roundtable) ![GitHub Repo stars](https://img.shields.io/github/stars/askbudi/roundtable?style=social) </br> [Website](https://askbudi.ai/roundtable) | Free |
-| Mistral/Codestral|[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), models:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat)|Free|
 | Kodus | Open Source Code Review Agent | [GitHub](https://github.com/kodustech/kodus-ai/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kodustech/kodus-ai?style=social"> | Free/Paid|
 | Kagan | AI-powered Kanban TUI for autonomous development workflows. Integrates with Claude Code and OpenCode for ticket-driven AI coding with git worktree isolation and MCP server support. | [GitHub](https://github.com/aorumbayev/kagan) ![GitHub Repo stars](https://img.shields.io/github/stars/aorumbayev/kagan?style=social) | Free |
 
