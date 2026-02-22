@@ -44,10 +44,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ChatGPT | OpenAI's LLMs, including GPT-5.2  | [URL](https://chat.openai.com) | Free/Paid | 
 | Claude| Anthropic's LLMs, including Claude Opus 4.6|[URL](https://claude.ai/)| Free/Paid|
 | DeepSeek | DeepSeek's LLMs. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
-| Grok | xAI's LLMs, including grok-4.1-thinking. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free|
-| Microsoft Copilot| Microsoft's AI assistant.|[URL](https://copilot.microsoft.com/)|Free|
-| Le Chat| Mistral.ai's conversational, AI chat service|[URL](https://chat.mistral.ai/chat)|Free|
+| Grok | xAI's LLMs, including grok-4.1-thinking. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
 | qwen | Alibaba's LLMs. Includes Qwen3, Qwen3-Code and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
+| Dola | Bytedance's AI chatbot|[URL](https://www.dola.com/)|Free|
 
 ### AI Agent
 | Name | Description | Links | Fees |  
