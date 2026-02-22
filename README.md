@@ -44,7 +44,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Gemini| Google's AI chatbot, including Gemini-3.1 pro. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
-| ChatGPT | OpenAI's AI chatbot, including GPT-5.2  | [URL](https://chat.openai.com) | Free/Paid | 
+| ChatGPT | OpenAI's AI chatbot, including GPT-5.2  | [URL](https://chatgpt.com) | Free/Paid | 
 | Claude| Anthropic's AI chatbot, including Claude Opus 4.6|[URL](https://claude.ai/)| Free/Paid|
 | DeepSeek | DeepSeek's AI chatbot. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
 | Grok | xAI's AI chatbot, including grok-4.1-thinking. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
@@ -260,7 +260,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
-| Chat Youtube | Give a Youtube link, it will give a summary, and you can ask it questions about the content of the video |[URL](https://chatyoutube.com) | Free |
 
 ### Academic research
 | Name | Description | Links | Fees | 

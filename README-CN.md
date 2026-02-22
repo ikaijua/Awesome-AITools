@@ -25,13 +25,12 @@
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [GPT/LLMs 应用](#gpt-llms应用)
-- [编程开发](#编程开发)
+- [AI Coding](#ai-coding)
 - [AI图像创作](#ai图像创作)
 - [AI视频创作](#ai视频创作)
 - [AI云平台](#ai云平台)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
-- [AI搜索](#ai搜索)
 - [阅读](#阅读)
 - [写作](#写作)
 - [翻译工具](#翻译工具)
@@ -67,7 +66,7 @@
 | 智谱AI | 最新的GLM-5模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费/付费|
 | Minimax| 最新的 Minimax-m2.5模型|[URL](https://www.minimax.io/)|免费/付费|
 | 通义千问 |阿里的大语言模型 <br> qwen.ai中可体验最新的模型和不同的模型，最强的 Qwen3-Max-Thinking-Preview，有深度研究的选项|[URL](https://www.qianwen.com/)|免费|
-| ChatGPT | openAI的chatgpt，最新模型 GPT-5.2 </br>应用示例：</br> [B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)</br>[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chat.openai.com)  | 免费/付费| 
+| ChatGPT | openAI的chatgpt，最新模型 GPT-5.2 </br>应用示例：</br> [B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)</br>[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)</br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chatgpt.com)  | 免费/付费| 
 | 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
 | DeepSeek | DeepSeek的AI助手。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
 | Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最新模型是 Claude Opus 4 和Claude Sonnet 4|[URL](https://claude.ai/)| 免费/付费|
@@ -95,7 +94,7 @@
 | Llama 3 | Llama3是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v3版本。<br>Llama3在线测试地址：[huggingface.co/Meta-Llama-3-70B-Instruct](https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct)|[GitHub](https://github.com/meta-llama/llama3) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social)| 免费  | 
 | Mixtral-8x7B |法国人工智能初创公司 Mistral AI开源的一种具有开放权重的稀疏专家混合模型 (SMoE)，在大多数基准测试中都优于 Llama 2 70B 和 GPT-3.5 <br>论文地址：https://arxiv.org/pdf/2401.04088.pdf <br>论文主页：https://mistral.ai/news/mixtral-of-experts/ |[Github](https://github.com/mistralai/mistral-src) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-src?style=social)|免费|
 |grok-1|马斯克的xAI公司开源的大语言模型|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|免费|
-| Qwen(通义千问)  |阿里研发的通义千问大模型系列 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) <br> [Qwen-72B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary) <br>[Qwen1.5 72B 在线体验](https://huggingface.co/spaces/Qwen/Qwen1.5-72B-Chat)| [Qwen-7B](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)<br>[Qwen1.5](https://github.com/QwenLM/Qwen1.5)![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen1.5?style=social)| 免费  | 
+| Qwen(通义千问)  |阿里研发的通义千问大模型系列 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) <br> [Qwen-72B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary) | [Qwen-7B](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)<br>[Qwen1.5](https://github.com/QwenLM/Qwen1.5)![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen1.5?style=social)| 免费  | 
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
 | Phi-3| Phi-3是微软开发的开放式人工智能模型系列。Phi-3 模型是目前能力最强、最具成本效益的小型语言模型（SLM），在各种语言、推理、编码和数学基准测试中，其性能均优于相同大小和更大的模型。|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|免费|
 
@@ -133,20 +132,21 @@
 | AIPRM for ChatGPT |浏览器插件，提供一系列精选ChatGPT 指令模板，甚至还能够自己创建，还可以调整AI 语气和写作风格 </br>B站视频：[集大成者！ChatGPT百宝箱，内置多种功能，所见即所得！](https://www.bilibili.com/video/BV1LT411S7GK)| [URL](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) | 免费|
 | MindMac | 功能丰富、隐私第一的 macOS 原生 ChatGPT 应用程序，可在一个地方使用 OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter，旨在实现最大生产力。 目前有 15 种语言版本。| [URL](https://mindmac.app/) | 免费，有付费升级版 |
 |OpenRouter| 集成了 400 余种 AI 模型（OpenAI、Anthropic、Google、Mistral 等）的统一 API 网关。零加价定价，推理流量仅收取 5% 服务费，支持智能路由 / 故障转移|[URL](https://openrouter.ai/)| 免费/付费 |
+| IMA |IMA是腾讯推出的一款AI智能工作台，它集成了搜索、阅读、写作、知识库管理等多种功能。目前只有Mac和Windows客户端。搜索相比其他搜索能覆盖微信公众号文章，支持知识库管理比如上传本地文件、公众号文章或网页链接，构建个人知识库。支持写作但目前不支持文件夹的功能。|[URL](https://ima.qq.com/) |免费| 
+| MindSearch |中科大和上海人工智能实验室联合研发国产开源搜索引擎MindSearch（思・索）,采用分层检索策略，先广泛搜索再精确选择，有效管理互联网上的海量信息。[在线Demo](https://mindsearch.openxlab.org.cn/)|[Github](https://github.com/InternLM/mindsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/mindsearch?style=social)|免费|
 
-### 编程开发
+### AI Coding
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 | Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 付费/免费试用 |
-| GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 </br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) </br>[Github Copilot X的Chat功能介绍](https://www.bilibili.com/video/BV1Ho4y137Tu/)，[Copilot X申请页面](https://github.com/features/preview/copilot-x)| [URL](https://github.com/features/copilot)  | 付费 |
+| GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 </br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) | [URL](https://github.com/features/copilot)  | 付费 |
 | 通义灵码|阿里云开发的代码编写助手，可根据当前代码文件及跨文件的上下文，为你生成行级/函数级代码、单元测试、代码注释等，支持 Java、Python、Go、JavaScript、TypeScript、C/C++、C# 等主流语言，同时兼容 Visual Studio Code、JetBrains IDEs 等主流编程工具|[URL](https://tongyi.aliyun.com/lingma/)|免费|
 | 豆包MarsCode|字节跳动旗下的AI代码助手，提供智能补全、智能预测、智能问答等能力|[URL](https://www.marscode.cn/)|免费|
 | CodeGeeX | 智谱AI旗下的代码生成大模型，支持200多种主流编程语言的生成及翻译。开源模型：<br>[CodeGeeX2](https://github.com/THUDM/CodeGeeX2/) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/CodeGeeX2?style=social) <br>[CodeGeex4](https://github.com/THUDM/CodeGeeX4) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/CodeGeeX4?style=social)</br> [【项目原作解读】清华大学郑勤锴：CodeGeeX大规模多语言代码生成模型](https://www.bilibili.com/video/BV1wT41127Tq/) | [URL](https://codegeex.cn/) |免费|
 | Amazon CodeWhisperer | 亚马逊开放的AI编程辅助工具，根据你的注释和现有代码，实时生成从片段到完整功能的代码建议。在各种IDE的插件中可以安装,支持15种语言, 包括 Python, Java, and JavaScript等。只需要按照流程注册一个aws builder账号即可。| [URL](https://aws.amazon.com/cn/codewhisperer)| 免费|
 | Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，可以自动生成代码，提升开发效率，调试Bug。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。并提供丰富的IDE支持，包括Visual Studio Code、JetBrains系列IDE等。<br>“技术胖”B站视频：[清华初创对决微软Github，哪家AI编程助手更强](https://www.bilibili.com/video/BV1MH4y1s7sU/)| [URL](https://code.fittentech.com/) | 免费 |
 |腾讯云AI代码助手|腾讯云 AI 代码助手主要提供两类功能：AI 助手对话功能和代码补全功能。|[URL](https://console.cloud.tencent.com/acc)|免费|
-|Mistral/Codestral|Mistral.ai的代码生成大语言模型，官方介绍：[Empowering developers and democratising coding with Mistral AI.](https://mistral.ai/news/codestral/), 模型下载:https://huggingface.co/mistralai/Codestral-22B-v0.1|[URL](https://chat.mistral.ai/chat) 模型选择Codestral|免费|
 | Kagan | 用于自主开发工作流的AI驱动看板TUI工具。集成Claude Code和OpenCode，支持基于工单的AI编码、git worktree隔离和MCP服务器。 | [GitHub](https://github.com/aorumbayev/kagan) ![GitHub Repo stars](https://img.shields.io/github/stars/aorumbayev/kagan?style=social) | 免费 |
 
 ### AI图像创作
@@ -161,7 +161,6 @@
 | firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
 | clipdrop | stability.ai 公司旗下的图像处理网站，包含文生图、AI扩图、图生图、去除背景等功能 | [URL](https://clipdrop.co/)| 免费/ 付费|
 | civitai | Civitai(C站)是一个用于分享AI图像创作模型资源的网站平台，拥有大量模型，已成为SD开源社区主要的模型交流场所 |[URL](https://civitai.com/)|免费|
-| 文心一格 | 百度旗下的文生图和AI图片编辑应用| [URL](https://yige.baidu.com/)| 免费/付费 |
 | 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
 | 美图的奇想智能MiracleVision|美图的文生图应用|[URL](https://www.miraclevision.com/text-to-image/)|免费|
 | ideogram.ai | AI 文字生成图片的网站。前谷歌AI绘画4位大牛创立的公司推出的产品 | [URL](https://ideogram.ai/) | 免费 |
@@ -209,17 +208,6 @@
 | ---- | ----------------------------- | --- | --- |
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
-### ai搜索
-| 名称 | 说明 | 链接 | 费用 | 
-| --- | --- | --- | --- |
-| 秘塔搜索 | 搜索网络信息并提供汇总信息，并附有参考链接，还创建话题知识库|[URL](https://metaso.cn/)|免费|
-| 知乎直答 |知乎的AI搜索，有通用搜索和专业搜索；介绍:B站视频[朋克周/专业报告和学术期刊为你所用，AI搜索迎来新选择](https://www.bilibili.com/video/BV1U6SXYFECC/)|[URL](https://zhida.zhihu.com/)|免费|
-| IMA |IMA是腾讯推出的一款AI智能工作台，它集成了搜索、阅读、写作、知识库管理等多种功能。目前只有Mac和Windows客户端。搜索相比其他搜索能覆盖微信公众号文章，支持知识库管理比如上传本地文件、公众号文章或网页链接，构建个人知识库。支持写作但目前不支持文件夹的功能。|[URL](https://ima.qq.com/) |免费| 
-| You.com | 结合对话模式的搜索引擎 | [URL](https://you.com) | 免费 |
-| Perplexity.ai | Perplexity.ai 是一个基于 GPT-3 的 AI 工具，类似 New Bing 的搜寻引擎、会附上参考结果 | [URL](https://www.perplexity.ai) | 免费|
-| MindSearch |中科大和上海人工智能实验室联合研发国产开源搜索引擎MindSearch（思・索）,采用分层检索策略，先广泛搜索再精确选择，有效管理互联网上的海量信息。[在线Demo](https://mindsearch.openxlab.org.cn/)|[Github](https://github.com/InternLM/mindsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/mindsearch?style=social)|免费|
-
-
 ### 阅读
 | 名称 | 说明 | 链接 | 费用 | 
 | --- | --- | --- | --- |
@@ -233,7 +221,6 @@
 | 写作猫 | 集AI写作、多人协作、文本校对、改写润色、自动配图等功能为一体AI Native内容创作平台| [URL](https://xiezuocat.com/)| 免费|
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) |  免費版本使用有文字字数限制/有付费升级版 |
 | grammarly | 纠正语法、拼写、标点符号等错误的写作助手| [URL](https://app.grammarly.com/) | 免费/有付费升级版|
-| 火山写作 | 写作润色、翻译 | [URL](https://www.writingo.net/document) |免费|
 | TextCraft | Microsoft Word 的加载项，无缝集成了包括文本生成、校对等在内的核心 AI 工具，直接嵌入用户界面。| [URL](https://github.com/suncloudsmoon/TextCraft) | 免费 |
 
 
@@ -264,7 +251,7 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
 | index-tts2 |B站开源的一个工业级可控且高效的零样本文本到语音系统。在线 Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo <br>论文: https://arxiv.org/abs/2506.21619|[Github](https://github.com/index-tts/index-tts) ![GitHub Repo stars](https://img.shields.io/github/stars/index-tts/index-tts?style=social) |免费|
-| 微软Azure 文本转语音| 目前最好用最真实的语音工具，包括自媒体配音最常见的云希和晓晓的声音；<br>效果演示：[痕继痕迹:啊？这是AI合成的？- 盘点那些超逼真的AI语音！](https://www.bilibili.com/video/BV1DC411G7Av/)</br>教程：[免费使用微软的Azure；Azure使用详细教程](https://www.youtube.com/watch?v=YzNfMY_oqhA);| [URL](https://speech.microsoft.com/portal/voicegallery) |付费/每个月有50万字符的免费额度|
+| 微软Azure 文本转语音| 目前最好用最真实的语音工具，包括自媒体配音最常见的云希和晓晓的声音；<br>效果演示：[痕继痕迹:啊？这是AI合成的？- 盘点那些超逼真的AI语音！](https://www.bilibili.com/video/BV1DC411G7Av/)| [URL](https://speech.microsoft.com/portal/voicegallery) |付费/每个月有50万字符的免费额度|
 | 海螺 AI 语音转文字 | 提供 17 种语言、多种口音的 300 多种声音，涵盖多种风格和年龄段|[URL](https://www.hailuo.ai/audio)|限时免费|
 | FireRedTTS‑2 |FireRedTTS‑2 是一种用于多说话人对话生成的长格式流式 TTS 系统，可提供稳定、自然的语音，具有可靠的说话人切换和上下文感知的韵律。小红书开源的。|[URL](https://github.com/FireRedTeam/FireRedTTS2)|免费|
 | 剪映 |文本朗读有很多的音色选择|[URL](https://www.capcut.cn/)|免费/vip|
@@ -348,7 +335,6 @@
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/)| 免费 |
-| Chat Youtube | 给一个Youtube 链接，它能给出总结，还可以向它提视频內容相关的问题 |[URL](https://chatyoutube.com) | 免费 |
 | BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT?style=social)|免费|
 
 ### AI生成模特试装和商品图
@@ -365,7 +351,7 @@
 |Optimus Gen 2|特斯拉的人形机器人|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
 |Apollo|Apptronik公司的人形机器人|[URL](https://apptronik.com/apollo)|
 |GR-1|傅利叶公司的人形机器人|[URL](https://fourierintelligence.com/gr1/)|
-|Digit|Agility公司的人形机器人|[URL](https://agilityrobotics.com/products/digit)|
+|Digit|Agility公司的人形机器人|[URL](https://agilityrobotics.com/)|
 |NEO|1x公司的人形机器人 <br>[Neo Gamma家务机器人视频](https://www.bilibili.com/video/BV1a3PMeGE4s/)|[URL](https://www.1x.tech/androids/neo)|
 |H1|宇树科技的人形机器人|[URL](https://www.unitree.com/h1/)|
 |Phoenix|sanctuary.ai公司的人形机器人|[URL](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/)|
