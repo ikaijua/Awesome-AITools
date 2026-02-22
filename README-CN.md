@@ -241,11 +241,11 @@
 ### 文字转语音
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
+| 海螺 AI 语音转文字 | 提供 17 种语言、多种口音的 300 多种声音，涵盖多种风格和年龄段|[URL](https://www.hailuo.ai/audio)|限时免费|
+| 剪映 |文本朗读有很多的音色选择|[URL](https://www.capcut.cn/)|免费/vip|
 | index-tts2 |B站开源的一个工业级可控且高效的零样本文本到语音系统。在线 Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo <br>论文: https://arxiv.org/abs/2506.21619|[Github](https://github.com/index-tts/index-tts) ![GitHub Repo stars](https://img.shields.io/github/stars/index-tts/index-tts?style=social) |免费|
 | 微软Azure 文本转语音| 目前最好用最真实的语音工具，包括自媒体配音最常见的云希和晓晓的声音；<br>效果演示：[痕继痕迹:啊？这是AI合成的？- 盘点那些超逼真的AI语音！](https://www.bilibili.com/video/BV1DC411G7Av/)| [URL](https://speech.microsoft.com/portal/voicegallery) |付费/每个月有50万字符的免费额度|
-| 海螺 AI 语音转文字 | 提供 17 种语言、多种口音的 300 多种声音，涵盖多种风格和年龄段|[URL](https://www.hailuo.ai/audio)|限时免费|
 | FireRedTTS‑2 |FireRedTTS‑2 是一种用于多说话人对话生成的长格式流式 TTS 系统，可提供稳定、自然的语音，具有可靠的说话人切换和上下文感知的韵律。小红书开源的。|[URL](https://github.com/FireRedTeam/FireRedTTS2)|免费|
-| 剪映 |文本朗读有很多的音色选择|[URL](https://www.capcut.cn/)|免费/vip|
 | TTS-Online | 提供超过160种声音选项 美真人配音选择，包含主流的小帅 小美 微软的一些语音，如果你是二次元游戏迷之类网站还提供超过1000+的动漫游戏角色的声音。网站可以提供api。分享者：[issue](https://github.com/ikaijua/Awesome-AITools/issues/31) | [URL](https://www.ttson.cn/)|免费 |
 | 火山引擎TTS| 火山引擎的语音合成| [URL](https://www.volcengine.com/product/tts)|付费|
 | 配音神器 | 有网页端、windows客户端工具，使用比较方便 |[URL](https://peiyinshenqi.club/)|付费/非 VIP 每天可试用 5 次|
@@ -328,6 +328,10 @@
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/)| 免费 |
 | BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT?style=social)|免费|
 
+### AI检测器
+| 名称 | 说明 | 链接 | 费用 |
+| :--- | :--- | :--- | :--- |
+| AI Detect Lab | 针对 Midjourney v7 和 Flux 优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 | 
@@ -342,11 +346,6 @@
 |H1|宇树科技的人形机器人|[URL](https://www.unitree.com/h1/)|
 |Phoenix|sanctuary.ai公司的人形机器人|[URL](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/)|
 |MenteeBot|以色列人形机器人公司 Meetee Robotics 发布的首款双足人形机器人|[URL](https://www.menteebot.com/)|
-
-### AI检测器
-| 名称 | 说明 | 链接 | 费用 |
-| :--- | :--- | :--- | :--- |
-| AI Detect Lab | 针对 Midjourney v7 和 Flux 优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
 
 ## 精选文章
 ### chatgpt相关文章
