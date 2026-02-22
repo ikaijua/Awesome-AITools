@@ -50,10 +50,6 @@
 - [人形机器人](#人形机器人)
 - [AI检测器](#ai检测器)
 
-
-## 评测
-- [大语言模型评测](#大语言模型评测)
-
 ## 精选文章
 - [chatgpt相关文章](#chatgpt相关文章)
 
@@ -229,8 +225,7 @@
 | Google 翻译|支持不同的格式，包括文本、图片、文档和网址|[URL](https://translate.google.com/)|免费|
 | Deep L | 准确即时的翻译工具，目前支持 31 种语言 | [URL](https://www.deepl.com/translator) | 免费/付费|
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
-| openai-translator | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 | [GitHub](https://github.com/yetone/openai-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| 免费，需要OpenAI API key |
-|RTranslator | RTranslator 是一款开源、免费的安卓离线实时翻译应用程序。|[Github](https://github.com/niedev/RTranslator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
+|RTranslator | RTranslator 是一款开源、免费的安卓离线**实时**翻译应用程序。|[Github](https://github.com/niedev/RTranslator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
 
 ### 语音识别-生成字幕
 | 名称 | 说明 | 链接 | 费用 | 
