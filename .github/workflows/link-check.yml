@@ -15,54 +15,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Create lychee config
-        run: |
-          cat > .lychee.toml << 'EOF'
-          # Lychee configuration file
-          verbose = true
-          no_progress = true
-          timeout = 30
-          max_concurrency = 6
-          max_retries = 0
-          
-          # Skip checking these domains
-          exclude = [
-            "openai.com",
-            "sora.com",
-            "claude.ai",
-            "chatgpt.com",
-            "platform.openai.com",
-            "midjourney.com",
-            "ideogram.ai",
-            "perplexity.ai",
-            "mistral.ai",
-            "together.ai",
-            "minimax.io",
-            "hailuo.ai",
-            "moegirl.org.cn",
-            "stableaudio.com",
-            "civitai.com",
-            "blockadelabs.com",
-            "capcut.cn",
-            "adobe.com",
-            "huggingface.co",
-            "file://",
-            "youtube.com",
-            "youtu.be",
-            "chatyoutube.com",
-            "agilityrobotics.com",
-            "writingo.net",
-            "github.com/features",
-            "baidu.com",
-            "psai.cn",
-            "moki.cn"
-          ]
-          EOF
-
       - name: Check links
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args: --config .lychee.toml './**/*.md'
+          args: --verbose --no-progress --timeout 30 --max-concurrency 6 --max-retries 0 './**/*.md'
           fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
