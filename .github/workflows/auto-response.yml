@@ -1,0 +1,58 @@
+name: Auto Response
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  auto-response:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Auto respond to new issue
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issueAuthor = context.payload.issue.user.login;
+            const issueBody = `
+            Hi @${issueAuthor}! 👋
+
+            Thank you for opening this issue! We appreciate your contribution to the Awesome AI Tools project.
+
+            If this is a tool recommendation, please make sure to follow our [recommendation template](https://github.com/${context.repo.owner}/${context.repo.repo}/issues/233).
+
+            We'll review your issue as soon as possible! 🚀
+            `;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: issueBody
+            });
+
+      - name: Auto respond to new PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prAuthor = context.payload.pull_request.user.login;
+            const prBody = `
+            Hi @${prAuthor}! 👋
+
+            Thank you for your pull request! We're excited to review your contribution.
+
+            Please make sure to follow our [recommendation template](https://github.com/${context.repo.owner}/${context.repo.repo}/issues/233) when submitting a tool recommendation.
+
+            We'll review your PR as soon as possible! 🚀
+            `;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: prBody
+            });
