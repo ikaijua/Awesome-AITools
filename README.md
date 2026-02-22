@@ -14,7 +14,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 - [All Categories](#all-categories)
   - [ChatGPT and other AI chat assistant](#chatgpt-and-other-ai-chat-assistant)
   - [AI Agent](#ai-agent)
-  - [AI Search engine](#ai-search-engine)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
   - [GPT LLMs Applications](#gpt-llms-applications)
@@ -60,12 +59,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
 |MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
 
-### AI Search engine
-| Name | Description | Links | Fees |  
-| --- | --- | --- | --- |
-| Perplexity.ai | AI-driven conversational search engine. | [URL](https://www.perplexity.ai) | Free|
-| You.com | A search engine in conversation mode | [URL](https://you.com) | Free |
-| Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
@@ -90,8 +83,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees | 
 -|-|-|-
-| NotebookLM |AI Research Assistant developed by Google. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. |[URL](https://notebooklm.google.com/)|Free|
 | Google AI Studio|Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts and then get an API key to use in your app development. [Available regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions)|[URL](https://aistudio.google.com/)|Free|
+| NotebookLM |AI Research Assistant developed by Google. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. |[URL](https://notebooklm.google.com/)|Free|
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free, with paid upgrades|
 |Cherry Studio|Cherry Studio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux. Support major LLM Cloud Services: OpenAI, Gemini, Anthropic, and more AI Web Service Integration: Claude, Peplexity, Poe, and others Local Model Support with Ollama, LM Studio|[Github](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|Free|
 | HuggingChat|Open source codebase powering the HuggingChat app. [URL](https://huggingface.co/chat/)|[Github](https://github.com/huggingface/chat-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Free|
@@ -119,6 +112,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |NoteGPT|NoteGPT is a smart note-taking tool that can record, transcribe, and summarize various content, such as meetings, lectures, podcasts, YouTube videos, news briefings, and articles.| [URL](https://notegpt.io/) | Free/Paid |
 |OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, Mistral, etc.). Zero markup pricing, 5% commission on inference traffic, supports smart routing/failover |[URL](https://openrouter.ai/)| Free/Paid |
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
+| Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 
 ### Programming Development
 | Name | Description | Links | Fees |  
