@@ -151,6 +151,7 @@
 ### AI图像创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- |
+| 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Nano Banana/Nano Banana Pro|谷歌用于图像生成与编辑的先进人工智能模型。在LMArea文本转图像和图像编辑排行榜中位列榜首。<br> [Nano Banana 的用法合集](https://github.com/ikaijua/Awesome-AITools/wiki/Nano-Banana-%E7%9A%84%E7%94%A8%E6%B3%95%E5%90%88%E9%9B%86) <br>在线网站：<br> 1. [aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) <br> 2. [gemini](https://gemini.google.com/app) <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) |免费/付费|
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[Github](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
 | Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
@@ -172,12 +173,13 @@
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 | 
 | ---- | ----------------------------- | --- | --- | 
+| 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用seedance 2.0 |[URL](https://xyq.jianying.com/) |试用积分/付费|
+| 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
+| 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
 | 通义万相 | 阿里旗下AI图片和视频创作应用| [URL](https://tongyi.aliyun.com/wanxiang/videoCreation) | 免费/付费 |
 | 海螺AI| Minimax的AI视频生成平台|[URL](https://hailuoai.com/video)|免费/付费|
 | 快手可灵|支持文生视频和图生视频、首尾帧、动作控制功能|[URL](https://kling.kuaishou.com/)|免费/付费|
-| 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
-| 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
 | PixVerse | 利用文本和照片创建令人惊叹的人工智能视频 |[URL](https://app.pixverse.ai/)|付费/试用|
 | 腾讯混元AI视频|文生视频、图生视频功能；对口型和动作驱动功能：可以通过上传照片和音频或选择动作模版生成视频; 需要排队|[URL](https://video.hunyuan.tencent.com/)|免费|
 | Sora | OpenAI的文本生成视频的模型。Sora技术报告：https://github.com/ikaijua/Awesome-AITools/discussions/54| [URL](https://sora.com) | 付费 |
@@ -186,8 +188,6 @@
 | MOKI |美图的AI短片创作工具|[URL](www.moki.cn)| 免费试用/付费|
 | Pika | 文本/图像 AI生成视频| [URL](https://pika.art/home)|	免费试用/付费|
 | krea.ai| 提供文生图/视频、图片放大、模型训练等功能，Krea ai想做视频和图片界的 POE，目前集成了海螺、luma、Runway和可灵四家最好的视频生成模型。|[URL](https://www.krea.ai/)|免费试用/付费|
-| Fliki | 將文字生成音频和视频的网站 | [URL](https://fliki.ai) | 免费试用/付费 |
-| d-id | 根据文字生成数字人的配音视频 | [URL](https://studio.d-id.com) | 免费试用/付费 |
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 免费试用/付费 |
 | AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
 |vivago.ai/video|	文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)|	免费|
