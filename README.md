@@ -12,7 +12,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 ## All Categories
 - [All Categories](#all-categories)
-  - [ChatGPT and other AI chat bot](#chatgpt-and-other-ai-chat-bot)
+  - [ChatGPT and other AI chatbot](#chatgpt-and-other-ai-chatbot)
   - [AI Agent](#ai-agent)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
@@ -36,7 +36,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [OCR](#ocr)
   - [AI Detection](#ai-detection)
 
-### ChatGPT and other AI chat assistant
+### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Gemini| Google's AI chatbot, including Gemini-3.1 pro. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
