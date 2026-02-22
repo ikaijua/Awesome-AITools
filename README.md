@@ -1,6 +1,10 @@
 <div align="center">
     <h1>Awesome AI Tools</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <br>
+    <a href="https://github.com/ikaijua/Awesome-AITools/stargazers"><img src="https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=social" alt="Stars"></a>
+    <a href="https://github.com/ikaijua/Awesome-AITools/network/members"><img src="https://img.shields.io/github/forks/ikaijua/Awesome-AITools?style=social" alt="Forks"></a>
+    <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
 </div>
 
 English | [中文](README-CN.md)
