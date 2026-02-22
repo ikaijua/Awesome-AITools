@@ -63,6 +63,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |saplings|A framework for building agents that use search algorithms to complete tasks. |[Github](https://github.com/shobrook/saplings) ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/saplings?style=social)|Free|
 |MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
 
+|Registry Broker|Universal AI-agent discovery and search across NANDA, MCP, Virtuals, A2A, Olas, and ERC-8004 with a single protocol-federated API, plus trust scoring for interoperability across networks.|[Docs](https://hol.org/registry/docs), [Github](https://github.com/hashgraph-online/hashnet-mcp-js) ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/hashnet-mcp-js?style=social)|Free|
+
 ### AI Search engine
 | Name | Description | Links | Fees |  
 | --- | --- | --- | --- |
@@ -293,4 +295,3 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
-
