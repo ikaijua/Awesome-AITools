@@ -43,13 +43,13 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| Gemini| Google's AI chatbot, including Gemini-3.1 pro. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
-| ChatGPT | OpenAI's AI chatbot, including GPT-5.2  | [URL](https://chatgpt.com) | Free/Paid | 
-| Claude| Anthropic's AI chatbot, including Claude Opus 4.6|[URL](https://claude.ai/)| Free/Paid|
-| DeepSeek | DeepSeek's AI chatbot. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
-| Grok | xAI's AI chatbot, including grok-4.1-thinking. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
-| qwen | Alibaba's AI chatbot. Includes Qwen3, Qwen3-Code and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
-| Dola | Bytedance's AI chatbot|[URL](https://www.dola.com/)|Free|
+| Gemini| Google's AI chatbot, including Gemini-3.1 pro. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
+| ChatGPT | OpenAI's AI chatbot, including GPT-5.2. Best for general purpose, coding, and creative writing. Great for most users. | [URL](https://chatgpt.com) | Free/Paid | 
+| Claude| Anthropic's AI chatbot, including Claude Opus 4.6. Best for coding, long context, safety, and enterprise use. |[URL](https://claude.ai/)| Free/Paid|
+| DeepSeek | DeepSeek's AI chatbot. Cost-effective option. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
+| Grok | xAI's AI chatbot, including grok-4.1-thinking. Best for real-time internet access and Elon Musk's AI vision. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
+| qwen | Alibaba's AI chatbot. Includes Qwen3, Qwen3-Code and other Qwen LLMs.|[URL](https://chat.qwen.ai/)|Free|
+| Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
 
 ### AI Agent
 | Name | Description | Links | Fees |  
@@ -264,6 +264,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Academic research
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
+| AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
 
 
