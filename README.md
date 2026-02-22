@@ -50,6 +50,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | qwen | Alibaba's LLMs. Includes Qwen3, Qwen3-Code and other Qwen LLMs|[URL](https://chat.qwen.ai/)|Free|
 
 ### AI Agent
+
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — Alignment, safety & cognitive architecture for autonomous AI agents. Six modules: membrane security, epistemic tagger, self-audit, beacon, cognitive architecture, collective cognition. Zero dependencies.
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
 |Manus|Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach|[URL](https://manus.im/)|Free Trial/Paid|
