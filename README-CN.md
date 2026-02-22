@@ -1,3 +1,12 @@
+<div align="center">
+    <h1>Awesome AI Tools</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <br>
+    <a href="https://github.com/ikaijua/Awesome-AITools/stargazers"><img src="https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=social" alt="Stars"></a>
+    <a href="https://github.com/ikaijua/Awesome-AITools/network/members"><img src="https://img.shields.io/github/forks/ikaijua/Awesome-AITools?style=social" alt="Forks"></a>
+    <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
+</div>
+
 [English](README.md) | 中文
 
 **这个仓库收集整理AI相关的实用工具，欢迎大家一起推荐更多实用的AI工具，[推荐参考模板](https://github.com/ikaijua/Awesome-AITools/issues/232)**
