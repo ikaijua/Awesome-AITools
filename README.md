@@ -121,16 +121,16 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Coding
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- | 
+| Claude Code |	Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities.|[Github](https://github.com/anthropics/claude-code)</br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Paid/Free Trial|
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
-| Claude Code |	Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities.|[Github](https://github.com/anthropics/claude-code)</br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Paid/Free Trial|
 | Antigravity | Google AI coding assistant based on Windsurf technology, deeply integrated with Gemini and Google Cloud	|[URL](https://antigravity.google/)	|Free for Individual Use/Paid|
+| Happy Coder | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | Free |
 | Trae | ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
 | Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
 | scalene |Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|[Github](https://github.com/plasma-umass/scalene) </br>![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|Free|
 | Kodus | Open Source Code Review Agent | [GitHub](https://github.com/kodustech/kodus-ai/) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kodustech/kodus-ai?style=social"> | Free/Paid|
 | Kagan | AI-powered Kanban TUI for autonomous development workflows. Integrates with Claude Code and OpenCode for ticket-driven AI coding with git worktree isolation and MCP server support. | [GitHub](https://github.com/aorumbayev/kagan) ![GitHub Repo stars](https://img.shields.io/github/stars/aorumbayev/kagan?style=social) | Free |
-| Happy Coder | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
