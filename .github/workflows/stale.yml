@@ -1,0 +1,39 @@
+name: Stale Issues and PRs
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 时间 0 点运行
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mark stale issues and PRs
+        uses: actions/stale@v9
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Issue 配置：7 天标记 stale，再 7 天（总共 14 天）关闭
+          stale-issue-message: 'This issue has been inactive for 7 days. It will be closed in 7 days if there is no activity.'
+          close-issue-message: 'This issue has been closed due to inactivity for 14 days. Feel free to reopen if there are updates.'
+          days-before-issue-stale: 7
+          days-before-issue-close: 7
+          
+          # PR 配置：7 天标记 stale，再 7 天（总共 14 天）关闭
+          stale-pr-message: 'This PR has been inactive for 7 days. It will be closed in 7 days if there is no activity.'
+          close-pr-message: 'This PR has been closed due to inactivity for 14 days. Feel free to reopen if there are updates.'
+          days-before-pr-stale: 7
+          days-before-pr-close: 7
+          
+          # 排除特定 issue 编号 (233 和 232)
+          exempt-issue-numbers: '233,232'
+          
+          # 其他配置
+          remove-stale-when-updated: true
+          stale-issue-label: 'stale'
+          stale-pr-label: 'stale'
