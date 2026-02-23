@@ -52,6 +52,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
 
 ### AI Agent
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Persistent Neo4j knowledge graph (91 nodes, 6 semantic domains), 7-layer AI safety guardrails, smart contract audit. [GitHub](https://github.com/odei-ai/web)
 | Name | Description | Links | Fees |  
 | ---- | ----------------------------- | --- | --- |
 |Manus|Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach|[URL](https://manus.im/)|Free Trial/Paid|
