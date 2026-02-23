@@ -43,11 +43,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
-| Gemini| Google's AI chatbot, including Gemini-3.1 pro. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
-| ChatGPT | OpenAI's AI chatbot, including GPT-5.2. Best for general purpose, coding, and creative writing. Great for most users. | [URL](https://chatgpt.com) | Free/Paid | 
-| Claude| Anthropic's AI chatbot, including Claude Opus 4.6. Best for coding, long context, safety, and enterprise use. |[URL](https://claude.ai/)| Free/Paid|
+| Gemini| Google's AI chatbot, including Gemini-3.1 pro. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. Best for: Image processing and web information integration, Deep Research feature performs exceptionally well, seamlessly integrates with Google Drive. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
+| ChatGPT | OpenAI's AI chatbot, including GPT-5.2. Best for general purpose, coding, and creative writing. Great for most users. Memory function is currently the best - it remembers what you've said and picks up right where you left off in the next conversation, making it feel most like talking to a real person. | [URL](https://chatgpt.com) | Free/Paid | 
+| Claude| Anthropic's AI chatbot, including Claude Opus 4.6. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
 | DeepSeek | DeepSeek's AI chatbot. Cost-effective option. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
-| Grok | xAI's AI chatbot, including grok-4.1-thinking. Best for real-time internet access and Elon Musk's AI vision. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
+| Grok | xAI's AI chatbot, including grok-4.1-thinking. Best for real-time internet access and Elon Musk's AI vision. Real-time data and news is its moat - can directly access posts on X as information sources, a differentiation that's hard to replicate. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
 | qwen | Alibaba's AI chatbot. Includes Qwen3, Qwen3-Code and other Qwen LLMs.|[URL](https://chat.qwen.ai/)|Free|
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
 
