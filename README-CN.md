@@ -143,6 +143,7 @@
 | Fitten Code | Fitten Code是由非十大模型驱动的AI编程助手，可以自动生成代码，提升开发效率，调试Bug。还可以对话聊天，解决您编程碰到的问题。免费且支持80多种语言：Python、C++、Javascript、Typescript、Java等。并提供丰富的IDE支持，包括Visual Studio Code、JetBrains系列IDE等。<br>“技术胖”B站视频：[清华初创对决微软Github，哪家AI编程助手更强](https://www.bilibili.com/video/BV1MH4y1s7sU/)| [URL](https://code.fittentech.com/) | 免费 |
 |腾讯云AI代码助手|腾讯云 AI 代码助手主要提供两类功能：AI 助手对话功能和代码补全功能。|[URL](https://console.cloud.tencent.com/acc)|免费|
 | Kagan | 用于自主开发工作流的AI驱动看板TUI工具。集成Claude Code和OpenCode，支持基于工单的AI编码、git worktree隔离和MCP服务器。 | [GitHub](https://github.com/aorumbayev/kagan) ![GitHub Repo stars](https://img.shields.io/github/stars/aorumbayev/kagan?style=social) | 免费 |
+| Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
 
 ### AI图像创作
 | 名称 | 说明 | 链接 | 费用 | 
