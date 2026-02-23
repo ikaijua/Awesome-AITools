@@ -3,8 +3,12 @@ name: Link Check
 on:
   push:
     branches: [main, master]
+    paths:
+      - '**/*.md'
   pull_request:
     branches: [main, master]
+    paths:
+      - '**/*.md'
   schedule:
     - cron: '0 0 * * 0'
 
