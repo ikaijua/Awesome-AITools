@@ -175,6 +175,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+|deAPI.ai|Unified AI inference API on decentralized GPU cloud. Text-to-image (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling & more through a single API. No credit card required.|[URL](https://deapi.ai/) [GitHub](https://github.com/deapi-ai/claude-code-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/deapi-ai/claude-code-skills?style=social)|Free/$5 credit on signup|
 
 ### LLM Prompts
 | Name | Description | Links | Fees | 
