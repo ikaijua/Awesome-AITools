@@ -62,7 +62,7 @@ jobs:
               We'll review your PR as soon as possible! 🚀
               `;
 
-              // 对于 PR，使用 pull_request 相关的 API 或确保使用正确的 issue 编号
+              // For PRs, use pull_request related API or ensure we get the correct issue number
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
