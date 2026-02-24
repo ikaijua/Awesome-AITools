@@ -23,41 +23,54 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const issueAuthor = context.payload.issue.user.login;
-            const issueBody = `
-            Hi @${issueAuthor}! 👋
+            try {
+              const issueAuthor = context.payload.issue.user.login;
+              const issueBody = `
+              Hi @${issueAuthor}! 👋
 
-            Thank you for opening this issue! We appreciate your contribution to the Awesome AI Tools project.
+              Thank you for opening this issue! We appreciate your contribution to the Awesome AI Tools project.
 
-            If this is a tool recommendation, please make sure to follow our [recommendation template](https://github.com/${context.repo.owner}/${context.repo.repo}/issues/233).
+              If this is a tool recommendation, please make sure to follow our [recommendation template](https://github.com/${context.repo.owner}/${context.repo.repo}/issues/233).
 
-            We'll review your issue as soon as possible! 🚀
-            `;
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: issueBody
-            });
+              We'll review your issue as soon as possible! 🚀
+              `;
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: issueBody
+              });
+              console.log('Issue response sent successfully');
+            } catch (error) {
+              console.error('Error responding to issue:', error);
+            }
 
       - name: Auto respond to new PR
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           script: |
-            const prAuthor = context.payload.pull_request.user.login;
-            const prBody = `
-            Hi @${prAuthor}! 👋
+            try {
+              const prAuthor = context.payload.pull_request.user.login;
+              const prBody = `
+              Hi @${prAuthor}! 👋
 
-            Thank you for your pull request! We're excited to review your contribution.
+              Thank you for your pull request! We're excited to review your contribution.
 
-            Please make sure to follow our [recommendation template](https://github.com/${context.repo.owner}/${context.repo.repo}/issues/233) when submitting a tool recommendation.
+              Please make sure to follow our [recommendation template](https://github.com/${context.repo.owner}/${context.repo.repo}/issues/233) when submitting a tool recommendation.
 
-            We'll review your PR as soon as possible! 🚀
-            `;
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: prBody
-            });
+              We'll review your PR as soon as possible! 🚀
+              `;
+
+              // 对于 PR，使用 pull_request 相关的 API 或确保使用正确的 issue 编号
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.pull_request.number,
+                body: prBody
+              });
+              console.log('PR response sent successfully');
+            } catch (error) {
+              console.error('Error responding to PR:', error);
+              console.log('This may be due to PR coming from a fork with restricted permissions');
+            }
