@@ -38,6 +38,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [Immigration & Legal](#immigration--legal)
   - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chatbot
@@ -283,6 +284,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
+
+### Immigration & Legal
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| VisaCanvas | AI-powered immigration eligibility assessment for US EB-1A and NIW green card categories. Evaluates against all 10 USCIS criteria in a 3-minute assessment. | [URL](https://visacanvas.com/) | Free |
 
 ### AI Detection
 | Name | Description | Links | Fees |
