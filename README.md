@@ -127,6 +127,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Claude Code |	Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities.|[Github](https://github.com/anthropics/claude-code)</br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Paid/Free Trial|
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
+| dbForge AI Assistant | AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts | [URL](https://www.devart.com/dbforge/ai-assistant/) | Paid/Free Trial|
 | Antigravity | Google AI coding assistant based on Windsurf technology, deeply integrated with Gemini and Google Cloud	|[URL](https://antigravity.google/)	|Free for Individual Use/Paid|
 | Happy Coder | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | Free |
 | Trae | ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
