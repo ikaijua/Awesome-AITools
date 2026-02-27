@@ -50,7 +50,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Grok | xAI's AI chatbot, including grok-4.1-thinking. Best for real-time internet access and Elon Musk's AI vision. Real-time data and news is its moat - can directly access posts on X as information sources, a differentiation that's hard to replicate. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
 | qwen | Alibaba's AI chatbot. Includes Qwen3, Qwen3-Code and other Qwen LLMs.|[URL](https://chat.qwen.ai/)|Free|
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
-
+| ChatGPT-CopyWeb | OpenAI's AI chatbot, including GPT-5.2. Best for general purpose, coding, and creative writing. Great for most users. Memory function is currently the best - it remembers what you've said and picks up right where you left off in the next conversation, making it feel most like talking to a real person. | [URL](https://copyweb.net) | Free/Paid | 
 ### AI Agent
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
