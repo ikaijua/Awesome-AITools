@@ -290,5 +290,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | :--- | :--- | :--- | :--- |
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
+
+### AI Tool Directories & Resources
+| Name | Description | Links | Fees |
+| ---- | ---------------------------- | --- | --- |
+| StackBuilt | Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work. | [URL](https://stackbuilt.co)| Free |
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
