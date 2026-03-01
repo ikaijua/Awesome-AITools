@@ -207,6 +207,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/yetone/openai-translator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[Github](https://github.com/niedev/RTranslator) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
+| ai-i18n | GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n files (XLIFF, JSON). | [GitHub](https://github.com/i18n-actions/ai-i18n) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/i18n-actions/ai-i18n?style=social)| Free |
 
 ### Speech Recognition
 | Name | Description | Links | Fees | 
