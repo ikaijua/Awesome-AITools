@@ -292,3 +292,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
+
+
+- [Anchor Browser](https://anchorbrowser.io) - Browser infrastructure for AI agents
