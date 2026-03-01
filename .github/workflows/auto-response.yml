@@ -3,7 +3,7 @@ name: Auto Response
 on:
   issues:
     types: [opened]
-  pull_request:
+  pull_request_target:
     types: [opened]
 
 permissions:
@@ -46,7 +46,7 @@ jobs:
             }
 
       - name: Auto respond to new PR
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request_target'
         uses: actions/github-script@v7
         with:
           script: |
