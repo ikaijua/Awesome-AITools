@@ -15,6 +15,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## All Categories
+- [agent101](https://agent101.ventify.ai) - Open directory of 500+ tools for AI agents. Structured metadata, 15 categories, MCP server, JSON API. No auth required.
 - [All Categories](#all-categories)
   - [ChatGPT and other AI chatbot](#chatgpt-and-other-ai-chatbot)
   - [AI Agent](#ai-agent)
