@@ -287,6 +287,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- |
 |AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
 
+### SEO & AI Search Optimization
+| Name | Description | Links | Fees |
+| :--- | :--- | :--- | :--- |
+| GEOScore | AI search visibility scanner — checks if your site can be found by ChatGPT, Perplexity, Claude, and Gemini. Analyzes 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Free tools: AI Robots.txt Generator and AI Crawler Access Checker. | [URL](https://geoscoreai.com/) | Free/Paid |
+
 ### AI Detection
 | Name | Description | Links | Fees |
 | :--- | :--- | :--- | :--- |
