@@ -273,6 +273,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- |
 | AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
+| BGPT MCP | Remote MCP server for searching scientific papers and retrieving structured experimental data (methods, results, quality scores, sample sizes) extracted from full-text studies. Supports SSE and Streamable HTTP transports. | [URL](https://bgpt.pro/mcp) [Github](https://github.com/connerlambden/bgpt-mcp) | Free/Paid |
 
 
 ### OCR
