@@ -155,6 +155,8 @@
 | ---- | ----------------------------- | --- | --- |
 | anthropics/skills | Claude Code官方技能仓库，为Claude Code AI助手提供可复用的工具集成和扩展功能 | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | 免费 |
 | openai/skills | OpenAI GPT模型官方技能仓库，为OpenAI的AI助手提供可复用的工具和扩展功能 | [Github](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | 免费 |
+| skills.sh | 社区驱动的AI助手技能注册表与市场，为包括Claude Code、OpenAI GPT等各类大语言模型助手提供精选的可复用技能集合，提供所有技能的下载用量统计和热门趋势排行榜 | [网站](https://skills.sh/) | 免费/付费 |
+| JimLiu/baoyu-skills | Claude Code社区技能仓库，提供包括微博发布功能在内的实用中文和地区特定技能 | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | 免费 |
 
 ### AI图像创作
 | 名称 | 说明 | 链接 | 费用 | 
