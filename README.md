@@ -27,6 +27,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [AI Cloud Platform](#ai-cloud-platform)
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
+  - [News & Information](#news-information)
   - [Writing](#writing)
   - [Translation](#translation)
   - [Speech Recognition](#speech-recognition)
@@ -191,6 +192,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
 | lm-sys/FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
+### News & Information
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| World Monitor | AI-powered real-time global intelligence dashboard with 435+ curated feeds, geopolitical monitoring, infrastructure tracking, AI summaries, 21 languages support, local AI runtime and cross-platform native desktop apps | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social), [Official Site](https://worldmonitor.app) | Free |
 
 ### Writing
 | Name | Description | Links | Fees | 

@@ -31,6 +31,7 @@
 - [AI云平台](#ai云平台)
 - [ChatGPT Prompts](#chatgpt-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
+- [新闻资讯](#新闻资讯)
 - [阅读](#阅读)
 - [写作](#写作)
 - [翻译工具](#翻译工具)
@@ -206,10 +207,15 @@
 | ---- | ----------------------------- | --- | --- |
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
+### 新闻资讯
+| 名称 | 说明 | 链接 | 费用 |
+| ---- | ----------------------------- | --- | --- |
+| World Monitor | AI驱动的实时全球情报面板，聚合435+个精选信源，提供地缘政治监控、基础设施追踪、AI摘要、21种语言支持，可本地运行AI模型，支持全平台桌面端应用 | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)、[官网](https://worldmonitor.app) | 免费 |
+
 ### 阅读
-| 名称 | 说明 | 链接 | 费用 | 
+| 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| 微信读书 | “AI问书”功能，在阅读时遇到不理解的内容，可以通过AI问书功能获得即时解释。AI问书的回答通常包含注释和相关书籍推荐，并且可以通过点击回答中的链接跳转到相关书籍的特定选段，增加回答的可信度[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/77#discussioncomment-9559619) | [URL](https://weread.qq.com/) | 免费/付费 | 
+| 微信读书 | “AI问书”功能，在阅读时遇到不理解的内容，可以通过AI问书功能获得即时解释。AI问书的回答通常包含注释和相关书籍推荐，并且可以通过点击回答中的链接跳转到相关书籍的特定选段，增加回答的可信度[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/77#discussioncomment-9559619) | [URL](https://weread.qq.com/) | 免费/付费 |
 
 ### 写作
 | 名称 | 说明 | 链接 | 费用 | 
