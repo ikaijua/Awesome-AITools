@@ -22,6 +22,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [LLM Leaderboard](#llm-leaderboard)
   - [GPT LLMs Applications](#gpt-llms-applications)
   - [AI Coding](#ai-coding)
+  - [Skills](#skills)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
@@ -139,6 +140,12 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Kagan | AI-powered Kanban TUI for autonomous development workflows. Integrates with Claude Code and OpenCode for ticket-driven AI coding with git worktree isolation and MCP server support. | [GitHub](https://github.com/aorumbayev/kagan) ![GitHub Repo stars](https://img.shields.io/github/stars/aorumbayev/kagan?style=social) | Free |
 | Steel Browser | Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling. | [Github](https://github.com/steel-dev/steel-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) | Free |
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
+
+### Skills
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| anthropics/skills | Official skills repository for Claude Code skills, providing reusable tool integrations and extensions for Claude Code AI assistant | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | Free |
+| openai/skills | Official skills repository for OpenAI GPT models, providing reusable tools and extensions for OpenAI's AI assistants | [Github](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
