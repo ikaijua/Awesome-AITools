@@ -146,6 +146,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ---- | ----------------------------- | --- | --- |
 | anthropics/skills | Official skills repository for Claude Code skills, providing reusable tool integrations and extensions for Claude Code AI assistant | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | Free |
 | openai/skills | Official skills repository for OpenAI GPT models, providing reusable tools and extensions for OpenAI's AI assistants | [Github](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | Free |
+| skills.sh | Community-driven skills registry and marketplace for AI assistants, providing a curated collection of reusable skills for various AI platforms including Claude Code, OpenAI GPT, and other LLM assistants, with download usage statistics and trending popularity rankings for all skills | [Website](https://skills.sh/) | Free/Paid |
+| JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
