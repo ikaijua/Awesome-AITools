@@ -70,6 +70,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 
 
+| [helloandy.net CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) | Generates CLAUDE.md system prompts for Claude AI agents from plain-English descriptions using a 3-step OpenRouter pipeline. | [URL](https://helloandy.net/claude-md-writer/) | Free |
+| [helloandy.net SKILL.md Generator](https://helloandy.net/skill-generator/) | Builds structured SKILL.md instruction files for AI agents with AI Quick Generate mode. | [URL](https://helloandy.net/skill-generator/) | Free |
+
 ### Open Source LLMs
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
@@ -218,6 +221,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [URL](https://github.com/suncloudsmoon/TextCraft) | Free |
 
 
+
+| [helloandy.net AI Text Humanizer](https://helloandy.net/humanizer/) | Rewrites AI-generated text with natural rhythm and sentence variation. Research-backed: main AI tell is rhythm (CoV 0.1 vs 0.6), not vocabulary. | [URL](https://helloandy.net/humanizer/) | Free |
+| [helloandy.net AI Text Auditor](https://helloandy.net/ai-text-auditor/) | Scores text against 28 AI writing patterns with risk rating and detailed breakdown. | [URL](https://helloandy.net/ai-text-auditor/) | Free |
+| [helloandy.net AI Writing Coach](https://helloandy.net/ai-prose-improver/) | Generates specific rewriting suggestions by prose quality, sentence variation, and structural issues. | [URL](https://helloandy.net/ai-prose-improver/) | Free |
 
 ### Translation
 | Name | Description | Links | Fees |  
