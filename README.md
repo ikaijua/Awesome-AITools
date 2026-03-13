@@ -56,6 +56,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Agent
 | Name | Description | Links | Fees |
 | ---- | ----------------------------- | --- | --- |
+| [Agent101](https://agent101.ventify.ai) | Open directory of 3,900+ tools for AI agents. Search by task across 15 categories. MCP server + REST API. | [GitHub](https://github.com/rachelsu-blip/agent101-template) | Free |
 |OpenClaw|Open-source self-hosted AI agent that runs locally and autonomously executes tasks. Connects to WhatsApp, Telegram, Slack, Discord and other messaging platforms, with browser control, system access, and persistent memory. Developed by Peter Steinberger, gained over 180K GitHub stars, one of the fastest-growing open-source projects|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|Free|
 |Manus|Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach|[URL](https://manus.im/)|Free Trial/Paid|
 |AnyGen|AnyGen is the AI assistant that truly "gets work done" for you. From writing and analysis to planning and reporting, it transforms your ideas into ready-to-use professional deliverables in minutes. [The AI Assistant Built for Work](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|Free Trial/Paid|
