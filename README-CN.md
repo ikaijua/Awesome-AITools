@@ -49,6 +49,7 @@
 - [学术科研](#学术科研)
 - [OCR图像识别文字](#ocr图像识别文字)
 - [视频内容总结](#视频内容总结)
+- [SEO与营销](#seo与营销)
 - [AI检测器](#ai检测器)
 - [人形机器人](#人形机器人)
 
@@ -348,6 +349,11 @@
 | ---- | ----------------------------- | --- | --- |
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/)| 免费 |
 | BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT?style=social)|免费|
+
+### SEO与营销
+| 名称 | 说明 | 链接 | 费用 |
+| :--- | :--- | :--- | :--- |
+| GEOScore | AI驱动的扫描工具，检测你的网站在ChatGPT、Perplexity、Gemini等AI搜索引擎中的表现。提供11项AI搜索可见性技术检查，免费扫描。 | [URL](https://geoscoreai.com) | 免费/付费 |
 
 ### AI检测器
 | 名称 | 说明 | 链接 | 费用 |
