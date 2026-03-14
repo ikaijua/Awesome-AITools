@@ -91,7 +91,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |Price Per Token|Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more. Includes token counters, cost calculators, and benchmark comparisons.|[URL](https://pricepertoken.com/)|Free|
 
 ### GPT LLMs Applications
-| Name | Description | Links | Fees | 
+| Name | Description | Links | Fees |
 -|-|-|-
 | Google AI Studio|Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts and then get an API key to use in your app development. [Available regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions)|[URL](https://aistudio.google.com/)|Free|
 | NotebookLM |AI Research Assistant developed by Google. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. |[URL](https://notebooklm.google.com/)|Free|
@@ -126,9 +126,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 
 ### AI Coding
-| Name | Description | Links | Fees |  
-| ---- | ----------------------------- | --- | --- | 
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
 | Claude Code |	Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities.|[Github](https://github.com/anthropics/claude-code)</br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Paid/Free Trial|
+| musistudio/claude-code-router | A powerful tool to route Claude Code requests to different models and customize any request. Supports multi-provider routing, request/response transformation, dynamic model switching, CLI model management, and GitHub Actions integration. |[Github](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|Free|
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | dbForge AI Assistant | AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts | [URL](https://www.devart.com/dbforge/ai-assistant/) | Paid/Free Trial|
