@@ -124,6 +124,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |NoteGPT|NoteGPT is a smart note-taking tool that can record, transcribe, and summarize various content, such as meetings, lectures, podcasts, YouTube videos, news briefings, and articles.| [URL](https://notegpt.io/) | Free/Paid |
 |OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, Mistral, etc.). Zero markup pricing, 5% commission on inference traffic, supports smart routing/failover |[URL](https://openrouter.ai/)| Free/Paid |
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) </br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
+| onWatch | Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, Codex, Synthetic, Z.ai, GitHub Copilot, MiniMax, Antigravity). Background daemon with Material Design 3 web dashboard, ~15MB binary, <50MB RAM, zero telemetry. | [GitHub](https://github.com/onllm-dev/onwatch) ![GitHub Repo stars](https://img.shields.io/github/stars/onllm-dev/onwatch?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 
 ### AI Coding
