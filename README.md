@@ -182,6 +182,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
 | Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video. Featured video: https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | Paid/Free trial|
+| PopcornAI | AI video and image generator for creators, ecommerce sellers, and growth teams. Turn prompts and product images into short branded videos, launch visuals, and campaign-ready creative assets. | [URL](https://popcornai.art/) | Free/Paid |
 | pixverse | Create Amazing AI Videos from Text & Photos |[URL](https://app.pixverse.ai/)|Paid/Free trial|
 | Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
