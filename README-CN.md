@@ -26,7 +26,7 @@
 - [大语言模型排行榜](#大语言模型排行榜)
 - [GPT/LLMs 应用](#gpt-llms应用)
 - [AI Coding](#ai-coding)
-- [Skills 技能库](#skills-技能库)
+- [Agent Skills](#agent-skills)
 - [AI图像创作](#ai图像创作)
 - [AI视频创作](#ai视频创作)
 - [AI云平台](#ai云平台)
@@ -153,7 +153,7 @@
 | Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
 | Termux | Android终端模拟器和Linux环境应用，可直接在移动设备上运行编码工具、AI模型和各类开发环境，内置SSH客户端支持登录远程主机。 | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | 免费 |
 
-### Skills 技能库
+### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
 | ---- | ----------------------------- | --- | --- |
 | anthropics/skills | Claude Code官方技能仓库，为Claude Code AI助手提供可复用的工具集成和扩展功能 | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | 免费 |
