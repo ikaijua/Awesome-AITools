@@ -85,7 +85,6 @@
 |agentscope|面向Agent的编程：构建大型语言模型应用程序。阿里开源|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|免费|
 |Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
 |microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
-|Taskade|AI原生工作空间平台。通过提示词构建应用，部署具有记忆和知识库的自主AI Agent，100+集成自动化工作流，实时多人协作。支持MCP（Model Context Protocol）。跨平台：Web、桌面端、移动端和浏览器扩展。|[URL](https://taskade.com) , [Github](https://github.com/taskade/taskade) ![GitHub Repo stars](https://img.shields.io/github/stars/taskade/taskade?style=social)|免费/付费|
 |msitarzewski/agency-agents|开源AI代理工具包，包含70+细分领域的专业代理角色，覆盖工程、设计、营销、销售等领域。提供开箱即用的代理人设、工作流模板，支持Claude Code、Cursor、Aider等多AI开发工具。|[Github](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|免费|
 
 ### 开源大语言模型
