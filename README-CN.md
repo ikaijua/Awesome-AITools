@@ -161,6 +161,8 @@
 | openai/skills | OpenAI GPT模型官方技能仓库，为OpenAI的AI助手提供可复用的工具和扩展功能 | [Github](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | 免费 |
 | skills.sh | 社区驱动的AI助手技能注册表与市场，为包括Claude Code、OpenAI GPT等各类大语言模型助手提供精选的可复用技能集合，提供所有技能的下载用量统计和热门趋势排行榜 | [网站](https://skills.sh/) | 免费/付费 |
 | JimLiu/baoyu-skills | Claude Code社区技能仓库，提供包括微博发布功能在内的实用中文和地区特定技能 | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | 免费 |
+| ClawHub | AI代理的快速技能注册中心，具备向量搜索功能。提供集中式的代理技能管理和发现平台。 | [URL](https://clawhub.ai/) | 免费/付费 |
+| SkillHub | 专为中国用户优化的AI技能社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能。 | [URL](https://skillhub.tencent.com/) | 免费 |
 
 ### AI图像创作
 | 名称 | 说明 | 链接 | 费用 | 
