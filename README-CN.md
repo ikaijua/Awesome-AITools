@@ -22,11 +22,11 @@
 ## 全部分类
 - [ChatGPT及类似大语言模型AI助手](#chatgpt及类似大语言模型ai助手)
 - [AI Agent](#ai-agent)
+- [Agent Skills](#agent-skills)
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [GPT/LLMs 应用](#gpt-llms应用)
 - [AI Coding](#ai-coding)
-- [Agent Skills](#agent-skills)
 - [AI图像创作](#ai图像创作)
 - [AI视频创作](#ai视频创作)
 - [AI云平台](#ai云平台)
@@ -86,6 +86,16 @@
 |Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
 |microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
 |msitarzewski/agency-agents|开源AI代理工具包，包含70+细分领域的专业代理角色，覆盖工程、设计、营销、销售等领域。提供开箱即用的代理人设、工作流模板，支持Claude Code、Cursor、Aider等多AI开发工具。|[Github](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|免费|
+
+### Agent Skills
+| 名称 | 说明 | 链接 | 费用 |
+| ---- | ----------------------------- | --- | --- |
+| anthropics/skills | Claude Code官方技能仓库，为Claude Code AI助手提供可复用的工具集成和扩展功能 | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | 免费 |
+| openai/skills | OpenAI GPT模型官方技能仓库，为OpenAI的AI助手提供可复用的工具和扩展功能 | [Github](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | 免费 |
+| skills.sh | 社区驱动的AI助手技能注册表与市场，为包括Claude Code、OpenAI GPT等各类大语言模型助手提供精选的可复用技能集合，提供所有技能的下载用量统计和热门趋势排行榜 | [网站](https://skills.sh/) | 免费/付费 |
+| JimLiu/baoyu-skills | Claude Code社区技能仓库，提供包括微博发布功能在内的实用中文和地区特定技能 | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | 免费 |
+| ClawHub | AI代理的快速技能注册中心，具备向量搜索功能。提供集中式的代理技能管理和发现平台。 | [URL](https://clawhub.ai/) | 免费/付费 |
+| SkillHub | 腾讯推出的专为中国用户优化的AI技能社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能。 | [URL](https://skillhub.tencent.com/) | 免费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 | 
@@ -153,15 +163,6 @@
 | Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
 | Termux | Android终端模拟器和Linux环境应用，可直接在移动设备上运行编码工具、AI模型和各类开发环境，内置SSH客户端支持登录远程主机。 | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | 免费 |
 
-### Agent Skills
-| 名称 | 说明 | 链接 | 费用 |
-| ---- | ----------------------------- | --- | --- |
-| anthropics/skills | Claude Code官方技能仓库，为Claude Code AI助手提供可复用的工具集成和扩展功能 | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | 免费 |
-| openai/skills | OpenAI GPT模型官方技能仓库，为OpenAI的AI助手提供可复用的工具和扩展功能 | [Github](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | 免费 |
-| skills.sh | 社区驱动的AI助手技能注册表与市场，为包括Claude Code、OpenAI GPT等各类大语言模型助手提供精选的可复用技能集合，提供所有技能的下载用量统计和热门趋势排行榜 | [网站](https://skills.sh/) | 免费/付费 |
-| JimLiu/baoyu-skills | Claude Code社区技能仓库，提供包括微博发布功能在内的实用中文和地区特定技能 | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | 免费 |
-| ClawHub | AI代理的快速技能注册中心，具备向量搜索功能。提供集中式的代理技能管理和发现平台。 | [URL](https://clawhub.ai/) | 免费/付费 |
-| SkillHub | 腾讯推出的专为中国用户优化的AI技能社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能。 | [URL](https://skillhub.tencent.com/) | 免费 |
 
 ### AI图像创作
 | 名称 | 说明 | 链接 | 费用 | 
