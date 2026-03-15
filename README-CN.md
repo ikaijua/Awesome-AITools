@@ -75,11 +75,12 @@
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
 | ---- | ----------------------------- | --- | --- |
+| Claude Code | Anthropic的AI编程助手，以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。 |[URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [Github](https://github.com/anthropics/claude-code)</br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|付费/免费试用|
 |OpenClaw|开源的自托管 AI 智能体，可以在本地运行并自主执行任务。能够连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器，访问系统，具有持久记忆功能。由 Peter Steinberger 开发，GitHub 获得超过 18 万星标，是增长最快的开源项目之一|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|免费|
-|AnyGen|AnyGen 是一款真正能帮你”完成工作”的 AI 助手。从写作和分析到规划和报告，它能在几分钟内将你的想法转化为可直接使用的专业成果。[专为工作打造的 AI 助手](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|免费试用/付费|
-| Manus | Manus 是一款行动引擎，它不仅提供答案，还能执行任务、自动化工作流程并扩展您的服务范围 | [URL](https://manus.im/) | 免费试用/付费 |
-| MiniMax Agent|Minimax的 Agent 助手|[URL](https://agent.minimaxi.com/)|免费/付费|
 |Gemini CLI|一个开源的基于Gemini的命令行终端AI智能体|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|免费|
+|AnyGen|AnyGen 是一款真正能帮你”完成工作”的 AI 助手。从写作和分析到规划和报告，它能在几分钟内将你的想法转化为可直接使用的专业成果。[专为工作打造的 AI 助手](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|免费试用/付费|
+|Manus | Manus 是一款行动引擎，它不仅提供答案，还能执行任务、自动化工作流程并扩展您的服务范围 | [URL](https://manus.im/) | 免费试用/付费 |
+| MiniMax Agent|Minimax的 Agent 助手|[URL](https://agent.minimaxi.com/)|免费/付费|
 |agentscope|面向Agent的编程：构建大型语言模型应用程序。阿里开源|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|免费|
 |Auto-GPT|开源项目，使用gpt自主地实现你设定的任何目标。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj)|[GitHub](https://github.com/Torantulino/Auto-GPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|免费，需要OpenAI API key|
 |microsoft/autogen|AutoGen 是一个开源编程框架，用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
@@ -138,8 +139,6 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | ---- | ----------------------------- | --- | --- |
-| Claude Code | Anthropic的AI编程助手，以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。 |[URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [Github](https://github.com/anthropics/claude-code)</br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|付费/免费试用|
-| musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions集成。 |[Github](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
 | Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 付费/免费试用 |
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 付费/免费试用 |
