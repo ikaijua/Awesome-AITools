@@ -152,6 +152,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 
+| GEO Boost | AI Visibility & Agent Optimization Platform. Check if AI search engines (ChatGPT, Gemini, Perplexity) can find your brand with GEO/AEO scoring, structured data audit and actionable recommendations | [Website](https://geo-boost.makesall.cn) <br> [Github](https://github.com/nicokant/geo-boost) | Free/Paid |
 ### AI Image Creation
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
