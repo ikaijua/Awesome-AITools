@@ -153,6 +153,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | skills.sh | Community-driven skills registry and marketplace for AI assistants, providing a curated collection of reusable skills for various AI platforms including Claude Code, OpenAI GPT, and other LLM assistants, with download usage statistics and trending popularity rankings for all skills | [Website](https://skills.sh/) | Free/Paid |
 | JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
+| Arch Tools | 61 production-ready AI tools (code analysis, web scraping, image generation, NLP, crypto, search) accessible via REST API and MCP protocol with x402 USDC micropayments | [Website](https://archtools.dev) [Github](https://github.com/Deesmo/Arch-AI-Tools) | Free/Paid |
 
 ### AI Image Creation
 | Name | Description | Links | Fees | 
