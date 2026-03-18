@@ -202,6 +202,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+|dohko04/awesome-ai-prompts-for-devs|198 production-ready AI engineering resources: prompt frameworks, multi-agent configs, MCP setups, RAG pipelines for Claude Code, Cursor, GPT-5, Copilot & more.|[Github](https://github.com/dohko04/awesome-ai-prompts-for-devs) ![GitHub Repo stars](https://img.shields.io/github/stars/dohko04/awesome-ai-prompts-for-devs?style=social)|Free samples / $9 Pro|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
