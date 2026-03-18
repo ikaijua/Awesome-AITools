@@ -164,6 +164,7 @@
 | Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
 | Termux | Android终端模拟器和Linux环境应用，可直接在移动设备上运行编码工具、AI模型和各类开发环境，内置SSH客户端支持登录远程主机。 | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | 免费 |
 | AI-Codereview-Gitlab | 基于大模型(DeepSeek, OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | 免费 |
+| AI Developer Toolkit | 32个以上经过生产验证的 Claude Code AI 提示词，涵盖代码审查、调试、测试、架构和安全审计。 | [URL](https://money-monkey-26.github.io/ai-dev-toolkit/) , [Github](https://github.com/Money-Monkey-26/ai-dev-toolkit) ![GitHub Repo stars](https://img.shields.io/github/stars/Money-Monkey-26/ai-dev-toolkit?style=social) | 付费 |
 
 
 ### AI图像创作
