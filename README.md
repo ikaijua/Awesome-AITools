@@ -40,6 +40,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [Health & Biotech](#health--biotech)
   - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chatbot
@@ -308,6 +309,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 |AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
+
+### Health & Biotech
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| DeepDNA | AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights. | [URL](https://deepdna.ai) | Paid |
 
 ### AI Detection
 | Name | Description | Links | Fees |
