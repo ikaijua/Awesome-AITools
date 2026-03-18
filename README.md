@@ -155,6 +155,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 
 ### AI Image Creation
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates and multiple AI models (Gemini, DALL-E, Stable Diffusion). Supports text-to-image, image editing, background removal, and upscaling.
 | Name | Description | Links | Fees | 
 | ---- | ----------------------------- | --- | --- |
 | Nano Banana/Nano Banana Pro|Google's advanced AI model for image generation and editing. No. 1 in the LMArea Text to Image and Image Edit leadboard. Online website: <br> 1. [gemini](https://gemini.google.com/app)<br> 2.[aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)   <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)|Free/Paid|
