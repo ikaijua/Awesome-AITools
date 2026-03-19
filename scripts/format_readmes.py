@@ -1,6 +1,12 @@
 import re
 
+import os
+
 def clean_file(file_path, is_chinese=False):
+    if not os.path.exists(file_path):
+        print(f"File {file_path} not found.")
+        return
+    
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -33,13 +39,14 @@ def clean_file(file_path, is_chinese=False):
                 continue
 
         # 3 & 8. Standardize all table separators
-        if re.match(r'^\s*\|?[:\s-]*\|[:\s-]*\|[:\s-]*\|[:\s-]*\|?\s*$', line) and ('-' in line):
+        if re.match(r'^\s*\|?[:\s-]*\|[:\s-]*\|[:\s-]*\|?\s*$', line) and ('-' in line):
+            # This regex might need to be more precise based on number of columns, 
+            # but standardizing to 4 cols as requested.
             line = '| --- | --- | --- | --- |'
-        elif re.match(r'^\s*[-:\s]*\|[-:\s]*\|[-:\s]*\|[-:\s]*\s*$', line) and ('-' in line):
+        elif re.match(r'^\s*[-:\s]*\|[-:\s]*\|[-:\s]*\s*$', line) and ('-' in line):
              line = '| --- | --- | --- | --- |'
 
         # 6. Ensure table headers are consistent
-        # More flexible regex for headers
         if is_chinese:
             if re.match(r'^\s*\|?\s*(Name|名称)\s*\|\s*(Description|说明)\s*\|\s*(Links|链接)\s*\|\s*(Fees?|费用)\s*\|?\s*$', line, re.IGNORECASE):
                 line = '| 名称 | 说明 | 链接 | 费用 |'
@@ -62,5 +69,10 @@ def clean_file(file_path, is_chinese=False):
         f.write(content)
 
 if __name__ == "__main__":
-    clean_file('/root/workspace/Awesome-AITools/README.md', is_chinese=False)
-    clean_file('/root/workspace/Awesome-AITools/README-CN.md', is_chinese=True)
+    # Get the directory where the script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Go up one level to the project root
+    project_root = os.path.dirname(script_dir)
+    
+    clean_file(os.path.join(project_root, 'README.md'), is_chinese=False)
+    clean_file(os.path.join(project_root, 'README-CN.md'), is_chinese=True)
