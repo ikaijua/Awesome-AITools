@@ -4,6 +4,32 @@
 
 Claude Code is Anthropic's official command-line tool that brings Claude's powerful capabilities directly into your development workflow. It's an interactive AI assistant specifically designed to help developers with various software engineering tasks.
 
+## Core Philosophy
+
+### AI-Native Development
+Claude Code is not just a code completion tool—it deeply integrates AI into the entire development workflow. It understands project context, executes complex task chains, and goes beyond generating mere code snippets.
+
+### Context Awareness
+Traditional code assistants can only see the current file, while Claude Code can:
+- Explore and understand the entire codebase structure
+- Track function calls and dependency relationships
+- Maintain long-term memory, understanding project evolution history
+- Preserve project knowledge across sessions
+
+### Human-AI Collaboration
+Claude Code adopts a "human-in-the-loop" design philosophy:
+- AI proposes solutions, humans make final decisions
+- Sensitive operations require user confirmation
+- Transparent execution process, users always maintain control
+- Supports iterative dialogue to progressively refine solutions
+
+### Safety and Control
+Safety is a core design principle of Claude Code:
+- Dangerous operations (e.g., deleting files, force pushing) require explicit confirmation
+- Automatic detection and alerts for potential security vulnerabilities
+- Support for project-level security rules via CLAUDE.md
+- Operations are traceable and easy to rollback
+
 ## Core Features
 
 ### 1. Code Understanding & Navigation
