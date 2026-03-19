@@ -2,21 +2,21 @@
 
 ## What is Codex?
 
-Codex is a lightweight coding agent from OpenAI that runs in your terminal. It's an AI-powered coding assistant that can understand and modify code directly from the command line. Unlike AI tools that require IDEs or browsers, Codex provides developers with a cleaner, workflow-integrated way to interact with code.
+Codex CLI is a high-performance, Rust-based coding agent from OpenAI that runs in your terminal. It's an AI-powered coding assistant that can understand and modify code directly from the command line. Powered by the GPT-5.4 ecosystem, Codex CLI provides developers with a ultra-low latency, workflow-integrated way to interact with code.
 
 ## Core Philosophy
 
-### Terminal First
-Codex is designed for the command line, perfect for developers who prefer working in terminals:
+### Terminal First & High Performance
+Codex CLI is built in Rust for the fastest possible terminal interaction:
+- Ultra-low latency responses powered by GPT-5.4 mini
 - Use AI assistance without leaving your terminal
-- Seamlessly integrates with existing development workflows
-- Lightweight and fast responding
+- Seamlessly integrates with existing shell scripts and pipes
 
 ### Understand and Modify
-Not just generating code snippets, Codex can:
+Not just generating code snippets, Codex CLI can:
 - Understand your project structure
 - Directly modify code in files
-- Execute multi-step programming tasks
+- Execute multi-step programming tasks with high speed
 
 ### Simple and Efficient
 - Minimal configuration, works out of the box
