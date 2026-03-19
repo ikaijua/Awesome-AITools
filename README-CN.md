@@ -240,7 +240,6 @@
 | ---- | ----------------------------- | --- | --- |
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) |  免費版本使用有文字字数限制/有付费升级版 |
 | grammarly | 纠正语法、拼写、标点符号等错误的写作助手| [URL](https://app.grammarly.com/) | 免费/有付费升级版|
-| TextCraft | Microsoft Word 的加载项，无缝集成了包括文本生成、校对等在内的核心 AI 工具，直接嵌入用户界面。| [URL](https://github.com/suncloudsmoon/TextCraft) | 免费 |
 
 
 ### 翻译工具

@@ -218,7 +218,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
-| TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [URL](https://github.com/suncloudsmoon/TextCraft) | Free |
 
 
 
