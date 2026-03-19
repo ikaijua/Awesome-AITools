@@ -82,32 +82,6 @@ codex "Analyze this project's structure"
 codex "Generate unit tests for src/api.js"
 ```
 
-## Comparison with Other Tools
-
-### Codex vs Claude Code
-
-| Aspect | Codex | Claude Code |
-|--------|-------|-------------|
-| Developer | OpenAI | Anthropic |
-| Positioning | Lightweight, quick to start | Full-featured, deep project support |
-| Memory System | No persistent memory | Persistent memory |
-| Safety Design | Relatively simple | Dangerous operations require confirmation, configurable rules |
-| Extensibility | Fewer extension options | Supports MCP, skills system, hooks |
-
-**Recommendation**: Choose Codex for a simple, direct tool for quick single-file tasks. Choose Claude Code for large projects, cross-session memory, and complex refactoring.
-
-### Codex vs Gemini CLI
-
-| Aspect | Codex | Gemini CLI |
-|--------|-------|------------|
-| Developer | OpenAI | Google |
-| Open Source | Not open source | Fully open source |
-| Multimodal | Text only | Supports images and other modalities |
-| Entry Barrier | Requires OpenAI API key | Requires Google AI API key |
-| Integration | Basic integration | Google ecosystem integration |
-
-**Recommendation**: Choose Codex if you're already familiar with the OpenAI ecosystem. Choose Gemini CLI if you value open source or need multimodal capabilities.
-
 ## Best Practices
 
 1. **Provide Context** - Tell it what you're doing, and it will give better suggestions
@@ -120,6 +94,7 @@ codex "Generate unit tests for src/api.js"
 - [GitHub Repository](https://github.com/openai/codex)
 - [OpenAI Documentation](https://platform.openai.com/docs)
 - [Get API Key](https://platform.openai.com/api-keys)
+- [Comparison with Other Tools](../COMPARISON.md)
 
 ## License
 
