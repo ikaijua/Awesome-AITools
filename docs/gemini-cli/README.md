@@ -101,32 +101,6 @@ gemini "Explain how Docker works"
 gemini "Generate documentation comments for this function" < my_function.js
 ```
 
-## Comparison with Other Tools
-
-### Gemini CLI vs Claude Code
-
-| Aspect | Gemini CLI | Claude Code |
-|--------|------------|-------------|
-| Developer | Google | Anthropic |
-| Open Source | Fully open source | Not open source |
-| Multimodal | Supports images and other modalities | Text only |
-| Memory System | No persistent memory | Persistent memory |
-| Integration | Google ecosystem integration | Deep Git/GitHub/GitLab integration |
-
-**Recommendation**: Choose Gemini CLI if you value open source transparency and need multimodal capabilities. Choose Claude Code for project-level memory and deep workflow integration.
-
-### Gemini CLI vs Codex
-
-| Aspect | Gemini CLI | Codex |
-|--------|------------|-------|
-| Developer | Google | OpenAI |
-| Open Source | Fully open source | Not open source |
-| Multimodal | Supports images and other modalities | Text only |
-| Entry Barrier | Requires Google AI API key | Requires OpenAI API key |
-| Ecosystem | Google services | OpenAI services |
-
-**Recommendation**: Choose Gemini CLI if you value open source and need multimodal capabilities. Choose Codex if you're more familiar with the OpenAI ecosystem.
-
 ## Best Practices
 
 1. **Be Specific** - More specific questions yield more useful answers
@@ -139,6 +113,7 @@ gemini "Generate documentation comments for this function" < my_function.js
 - [GitHub Repository](https://github.com/google-gemini/gemini-cli)
 - [Google AI Studio](https://aistudio.google.com/)
 - [Gemini API Documentation](https://ai.google.dev/docs)
+- [Comparison with Other Tools](../COMPARISON.md)
 
 ## License
 

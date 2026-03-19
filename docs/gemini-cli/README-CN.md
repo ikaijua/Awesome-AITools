@@ -101,32 +101,6 @@ gemini "解释一下 Docker 的工作原理"
 gemini "为这个函数生成文档注释" < my_function.js
 ```
 
-## 与其他工具的对比
-
-### Gemini CLI vs Claude Code
-
-| 方面 | Gemini CLI | Claude Code |
-|------|------------|-------------|
-| 开发者 | Google | Anthropic |
-| 开源程度 | 完全开源 | 非开源 |
-| 多模态 | 支持图片等多模态 | 纯文本 |
-| 记忆系统 | 无持久记忆 | 有持久化记忆 |
-| 集成能力 | 与 Google 生态集成 | Git/GitHub/GitLab 深度集成 |
-
-**选择建议**：如果你重视开源透明、需要多模态能力，选 Gemini CLI；如果需要项目级记忆和深度工作流集成，选 Claude Code。
-
-### Gemini CLI vs Codex
-
-| 方面 | Gemini CLI | Codex |
-|------|------------|-------|
-| 开发者 | Google | OpenAI |
-| 开源程度 | 完全开源 | 非开源 |
-| 多模态 | 支持图片等多模态 | 纯文本 |
-| 使用门槛 | 需要 Google AI API 密钥 | 需要 OpenAI API 密钥 |
-| 生态集成 | Google 服务 | OpenAI 服务 |
-
-**选择建议**：如果你重视开源、需要多模态能力，选 Gemini CLI；如果你更熟悉 OpenAI 生态，选 Codex。
-
 ## 最佳实践
 
 1. **明确提问** - 问题越具体，回答越有用
@@ -139,6 +113,7 @@ gemini "为这个函数生成文档注释" < my_function.js
 - [GitHub 仓库](https://github.com/google-gemini/gemini-cli)
 - [Google AI Studio](https://aistudio.google.com/)
 - [Gemini API 文档](https://ai.google.dev/docs)
+- [与其他工具对比](../COMPARISON-CN.md)
 
 ## 许可证
 

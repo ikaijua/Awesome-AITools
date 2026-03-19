@@ -82,32 +82,6 @@ codex "分析这个项目的结构"
 codex "为 src/api.js 生成单元测试"
 ```
 
-## 与其他工具的对比
-
-### Codex vs Claude Code
-
-| 方面 | Codex | Claude Code |
-|------|-------|-------------|
-| 开发者 | OpenAI | Anthropic |
-| 定位 | 轻量级，快速上手 | 功能全面，深度项目支持 |
-| 记忆系统 | 无持久记忆 | 有持久化记忆 |
-| 安全设计 | 相对简单 | 危险操作需确认，可配置规则 |
-| 扩展性 | 较少扩展选项 | 支持 MCP、技能系统、钩子 |
-
-**选择建议**：如果你想要一个简单直接的工具，快速完成单文件任务，选 Codex；如果需要处理大型项目、跨会话记忆、复杂重构，选 Claude Code。
-
-### Codex vs Gemini CLI
-
-| 方面 | Codex | Gemini CLI |
-|------|-------|------------|
-| 开发者 | OpenAI | Google |
-| 开源程度 | 非开源 | 完全开源 |
-| 多模态 | 纯文本 | 支持图片等多模态 |
-| 使用门槛 | 需要 OpenAI API 密钥 | 需要 Google AI API 密钥 |
-| 集成能力 | 基础集成 | 与 Google 生态集成 |
-
-**选择建议**：如果你已经熟悉 OpenAI 生态，选 Codex；如果你重视开源或需要多模态能力，选 Gemini CLI。
-
 ## 最佳实践
 
 1. **提供上下文** - 告诉它你在做什么，它会给出更好的建议
@@ -120,6 +94,7 @@ codex "为 src/api.js 生成单元测试"
 - [GitHub 仓库](https://github.com/openai/codex)
 - [OpenAI 文档](https://platform.openai.com/docs)
 - [API 密钥获取](https://platform.openai.com/api-keys)
+- [与其他工具对比](../COMPARISON-CN.md)
 
 ## 许可证
 

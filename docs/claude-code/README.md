@@ -110,32 +110,6 @@ Project-level instruction file defining project-specific rules and context.
 ### keybindings.json
 Custom keyboard shortcuts configuration.
 
-## Comparison with Other Tools
-
-### Claude Code vs Codex
-
-| Aspect | Claude Code | Codex |
-|--------|-------------|-------|
-| Developer | Anthropic | OpenAI |
-| Context Capability | Ultra-long context, understands entire projects | Focused on single files or functions |
-| Memory System | Persistent memory, remembers projects across sessions | No persistent memory |
-| Safety Design | Dangerous operations require confirmation, configurable rules | Relatively simple |
-| Extensibility | Supports MCP, skills system, hooks | Fewer extension options |
-
-**Recommendation**: Choose Claude Code for deep understanding of large projects, cross-session work, and security focus. Choose Codex for lightweight, single-file assistance.
-
-### Claude Code vs Gemini CLI
-
-| Aspect | Claude Code | Gemini CLI |
-|--------|-------------|------------|
-| Developer | Anthropic | Google |
-| Open Source | Not open source | Fully open source |
-| Multimodal | Text only | Supports images and other modalities |
-| Memory System | Persistent memory | No persistent memory |
-| Integration | Deep Git/GitHub/GitLab integration | Basic integration |
-
-**Recommendation**: Choose Claude Code for project-level memory and deep workflow integration. Choose Gemini CLI if you value open source, need multimodal capabilities, or want Google ecosystem integration.
-
 ## Best Practices
 
 1. **Provide Clear Task Descriptions** - More specific questions yield better answers
@@ -148,6 +122,7 @@ Custom keyboard shortcuts configuration.
 - [Official Documentation](https://docs.anthropic.com/claude-code)
 - [GitHub Repository](https://github.com/anthropics/claude-code)
 - [Issue Tracker](https://github.com/anthropics/claude-code/issues)
+- [Comparison with Other Tools](../COMPARISON.md)
 
 ## License
 
