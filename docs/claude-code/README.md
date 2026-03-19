@@ -6,29 +6,26 @@ Claude Code is Anthropic's official command-line tool that brings Claude's power
 
 ## Core Philosophy
 
-### AI-Native Development
-Claude Code is not just a code completion tool—it deeply integrates AI into the entire development workflow. It understands project context, executes complex task chains, and goes beyond generating mere code snippets.
+### More Than Just "Code Completion"
+Most AI coding assistants just complete a few lines of code. But Claude Code is more like a real partner who understands your project—you tell it "fix the login page bug," and it will read the code, find the issue, fix it, and even commit the change for you.
 
-### Context Awareness
-Traditional code assistants can only see the current file, while Claude Code can:
-- Explore and understand the entire codebase structure
-- Track function calls and dependency relationships
-- Maintain long-term memory, understanding project evolution history
-- Preserve project knowledge across sessions
+### Remembers Your Project
+Ever had this awkward moment: you explain your project structure to an AI, close the conversation, and next time you have to start all over? Claude Code is different—it remembers:
+- Knows your project's modules and how they connect
+- Picks up where you left off in the next conversation
+- You can use CLAUDE.md to tell it your project's "rules"
 
-### Human-AI Collaboration
-Claude Code adopts a "human-in-the-loop" design philosophy:
-- AI proposes solutions, humans make final decisions
-- Sensitive operations require user confirmation
-- Transparent execution process, users always maintain control
-- Supports iterative dialogue to progressively refine solutions
+### You're in Charge
+Claude Code asks you first, never acts on its own:
+- Big decisions like deleting files or pushing code need your approval
+- It tells you what it's about to do and waits for your confirmation
+- If something goes wrong, you can always ask it to fix it
 
-### Safety and Control
-Safety is a core design principle of Claude Code:
-- Dangerous operations (e.g., deleting files, force pushing) require explicit confirmation
-- Automatic detection and alerts for potential security vulnerabilities
-- Support for project-level security rules via CLAUDE.md
-- Operations are traceable and easy to rollback
+### Safety First
+It's more cautious than you are:
+- Proactively warns you when it spots potential issues
+- Never quietly executes dangerous operations
+- You can specify what's absolutely off-limits in CLAUDE.md
 
 ## Core Features
 
