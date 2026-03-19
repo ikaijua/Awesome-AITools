@@ -4,16 +4,18 @@ This document compares three mainstream terminal AI coding tools: Claude Code, C
 
 ## Quick Comparison
 
-| Aspect | Claude Code | Codex | Gemini CLI |
-|--------|-------------|-------|------------|
+| Aspect | Claude Code | Codex CLI | Gemini CLI |
+|--------|-------------|-----------|------------|
 | Developer | Anthropic | OpenAI | Google |
 | Open Source | No | No | Yes (fully) |
+| Architecture | TypeScript/Node | Rust-based | TypeScript/Node |
 | API Required | Anthropic API | OpenAI API | Google AI API |
-| Multimodal | Text only | Text only | Supports images |
-| Persistent Memory | ✅ Yes | ❌ No | ❌ No |
-| Project Understanding | Deep understanding of entire projects | Single file/function focus | Moderate |
-| Safety Design | Confirmation for dangerous operations | Relatively simple | Relatively simple |
-| Extensibility | MCP, skills, hooks | Limited | Customizable (open source) |
+| Multimodal | Text only | Text only | Supports images & design assets |
+| Persistent Memory | ✅ Yes (Full) | ❌ No | ⚠️ Project Context (`GEMINI.md`) |
+| Context Window | 1M Tokens | 128K Tokens | 1M+ Tokens |
+| Project Understanding | Deep understanding of entire projects | Single file/function focus | Massive-scale repository mapping |
+| Safety Design | Confirmation for dangerous operations | Sandbox-first | Confirmation for dangerous operations |
+| Extensibility | MCP, skills, hooks | Security-focused scripts | Customizable (open source) |
 
 ## Detailed Comparison
 
@@ -22,31 +24,34 @@ This document compares three mainstream terminal AI coding tools: Claude Code, C
 **Claude Code**
 - Ultra-long context, understands entire project structure
 - Persistent memory, remembers project info across sessions
-- Supports CLAUDE.md for project rules
+- Supports `claude.md` for project rules and style guides
 
-**Codex**
-- Focuses on single file or function level understanding
-- No persistent memory, each conversation is independent
+**Codex CLI**
+- Focuses on high-speed single file or function level understanding
+- Rust-based architecture for ultra-low latency
+- No persistent session memory, each conversation is independent
 
 **Gemini CLI**
-- Long context processing capability
-- No persistent memory
-- Can pipe in file contents
+- 1M+ token context window, can ingest entire large-scale repositories
+- Project-level context via `GEMINI.md` files for architectural mandates
+- Multimodal support for design-to-code workflows (images, PDFs)
 
 ### Safety and Control
 
 **Claude Code**
 - Dangerous operations (deleting files, force pushing, etc.) require user confirmation
-- Configurable project-level safety rules via CLAUDE.md
+- Configurable project-level safety rules via `claude.md`
 - Automatic detection of potential security vulnerabilities
 
-**Codex**
-- Relatively simple safety design
-- Code modifications require user initiation
+**Codex CLI**
+- Sandbox-first execution environment
+- Real-time vulnerability patching in "Security Mode"
+- Relatively simple but fast safety design
 
 **Gemini CLI**
 - Open source code is auditable
-- Basic safety protections
+- Project-specific mandates in `GEMINI.md` ensure architectural compliance
+- Basic safety protections with confirmation for sensitive actions
 
 ### Extension and Integration
 
@@ -56,12 +61,14 @@ This document compares three mainstream terminal AI coding tools: Claude Code, C
 - Configurable automation hooks
 - Deep Git/GitHub/GitLab integration
 
-**Codex**
-- Fewer extension options
-- Basic command-line integration
+**Codex CLI**
+- Optimized for shell script integration
+- Lightweight and "Unix-native" workflow
+- Focused on security and performance
 
 **Gemini CLI**
 - Fully open source, self-modifiable and extensible
+- Deep integration with Google Search for up-to-date documentation
 - Supports shell scripts and pipe operations
 - Google ecosystem integration
 
@@ -69,37 +76,37 @@ This document compares three mainstream terminal AI coding tools: Claude Code, C
 
 **Claude Code**
 - Requires Anthropic API access
-- Relatively complex configuration, but powerful
+- Powerful but requires learning the agentic workflow
 
-**Codex**
-- Requires OpenAI API key
-- Simple configuration, works out of the box
+**Codex CLI**
+- Requires OpenAI API key (GPT-5.4 ecosystem)
+- Simple configuration, minimal latency
 
 **Gemini CLI**
 - Requires Google AI API key
-- Can install from source, suitable for developers
+- Flexible and customizable for developers who want full control
 
 ## Recommendations
 
 ### Choose Claude Code if you need:
 - Deep understanding of large projects
-- Cross-session project memory
+- Complex autonomous refactoring
 - High security and controllability
-- Complex workflow integration
+- Parallel agent collaboration
 - Deep integration with Git platforms
 
-### Choose Codex if you need:
-- Quick single-file assistance
-- Simple and direct experience
+### Choose Codex CLI if you need:
+- Ultra-fast, low-latency performance
+- "Unix-native" experience for scripts
+- Security-focused vulnerability patching
 - Minimal configuration
-- Already familiar with OpenAI ecosystem
 
 ### Choose Gemini CLI if you need:
-- Fully open source solution
-- Multimodal capabilities (image processing)
-- Customization and extensibility
-- Integration with Google services
-- Transparent and controllable code
+- Processing of massive-scale codebases (1M+ context)
+- Multimodal capabilities (design assets, screenshots)
+- Customization and extensibility of the tool itself
+- Real-time web grounding via Google Search
+- Transparent and controllable open-source code
 
 ## Combined Usage
 

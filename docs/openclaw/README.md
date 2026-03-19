@@ -2,7 +2,7 @@
 
 ## What is OpenClaw?
 
-OpenClaw is an open-source self-hosted AI agent that runs locally and autonomously executes tasks. It can connect to multiple messaging platforms, control browsers, access systems, and has persistent memory. Developed by Peter Steinberger, it has gained over 180K GitHub stars, making it one of the fastest-growing open-source projects.
+OpenClaw is an open-source self-hosted AI agent that runs locally and autonomously executes tasks. It can connect to multiple messaging platforms, control browsers, access systems, and has persistent memory. Developed by Peter Steinberger, it has gained over 247K GitHub stars, making it one of the fastest-growing open-source projects.
 
 ## Core Philosophy
 
