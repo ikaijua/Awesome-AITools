@@ -93,3 +93,11 @@ This document archives the revolutionary research papers and projects that have 
 *   **Authors:** Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis
 *   **Link:** [arXiv:2308.04079](https://arxiv.org/abs/2308.04079) | [Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 *   **Impact:** A major leap in efficiency for 3D radiance fields, enabling high-quality, real-time rendering using explicit 3D Gaussian representations.
+
+# MILESTONE PARADIGMS: The Structured Evolution of Modern AI
+- LeNet / AlexNet / ResNet / ViT: The Evolution of Visual Backbone Network Paradigms
+- R-CNN / Faster R-CNN: Engineering of Detection and Perception Systems
+- Transformer / BERT / GPT-3: Large Models and Language Paradigms
+- GAN / Diffusion: Generative Model Paradigms
+- CLIP: Multimodal Alignment
+- NeRF / Gaussian Splatting: 3D Representation and Renderable World Models
