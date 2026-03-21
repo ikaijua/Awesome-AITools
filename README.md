@@ -142,6 +142,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | dbForge AI Assistant | AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts | [URL](https://www.devart.com/dbforge/ai-assistant/) | Paid/Free Trial|
+| AI for Database | Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. | [URL](https://aifordatabase.com) | Free/Paid |
 | Antigravity | Google AI coding assistant based on Windsurf technology, deeply integrated with Gemini and Google Cloud |[URL](https://antigravity.google/) |Free for Individual Use/Paid|
 | Happy Coder | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | Free |
 | Trae | ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
