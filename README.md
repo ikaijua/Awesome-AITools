@@ -315,3 +315,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
