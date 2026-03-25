@@ -184,6 +184,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. | [URL](https://openai.com/sora) | Paid |
 | KLING AI|AI Video Creation Tool by kuaishou. Support text to video, image to video, start-end frame and motion control |[URL](https://klingai.com/)|Free/Paid|
 | hailuoai|AI Video Creation Tool by Minimax|[URL](https://hailuoai.com/video)|Free/Paid|
+| PVID|Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports text-to-video, image-to-video, video-to-video|[URL](http://pvid.app/)|Free (100 credits)|
 | Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
 | Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video. Featured video: https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | Paid/Free trial|
