@@ -309,6 +309,12 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 |AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
 
+## AI SEO & Citation Tools
+
+| Name | Description | Links | Fees |
+| ---- | ----------- | ----- | ---- |
+| [Cited By AI®](https://citedbyai.info) | Block-level AI citation auditing using the Citation Probability Score® (CPS®) framework. Scores content across 5 pillars to predict citation probability in ChatGPT, Perplexity, Gemini, and Google AI Overviews. Free CPS® Lite checker via MCP. | [URL](https://citedbyai.info) [MCP](https://github.com/citedbyai/citedbyai-mcp-server) | Free/Paid |
+
 ### AI Detection
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
