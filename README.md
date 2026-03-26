@@ -295,6 +295,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
+| TECS-L | Open-source framework for energy-efficient AI architectures. Derives Phi6Simple activation (71% fewer FLOPs than GELU), HCN dimensions (10-20% param savings), phi-bottleneck FFN (67% compression). 40-50% combined energy savings. | [Github](https://github.com/need-singularity/TECS-L) ![GitHub Repo stars](https://img.shields.io/github/stars/need-singularity/TECS-L?style=social) | Free |
 
 
 ### OCR
