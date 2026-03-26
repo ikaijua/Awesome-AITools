@@ -234,6 +234,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/yetone/openai-translator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[Github](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
 
+### Voice AI Assistants
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| AnveVoice | Voice AI for websites that takes real DOM actions — navigates pages, fills forms, clicks buttons. Supports 50+ languages with under 700ms latency. | [URL](https://anvevoice.app) | Free/Paid |
+
 ### Speech Recognition
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
