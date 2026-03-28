@@ -205,6 +205,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[Github](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+|Midas Tools|Free AI prompt tools: Prompt Roaster (get your prompts roasted then fixed), Prompt Enhancer (5 enhanced versions), Prompt Scorer (rate 1-100), Image Prompt Builder (12 art styles), and Prompt Generator. No signup required.|[Official Site](https://www.midastools.co)|Free|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
