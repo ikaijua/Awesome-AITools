@@ -313,5 +313,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
+| Truvizy | Free AI-powered scam, deepfake, and online fraud detection for videos, images, and URLs. Features content authenticity verification (C2PA), URL phishing detection, and a Chrome extension for real-time protection. Available in 42 languages. | [URL](https://truvizy.app) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
