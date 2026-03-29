@@ -39,3 +39,4 @@ jobs:
           stale-pr-label: 'stale'
           operations-per-run: 300
           ascending: true
+          cache-results: false
