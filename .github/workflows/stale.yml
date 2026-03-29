@@ -24,21 +24,17 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Issue configuration: Mark stale after 7 days, close after 3 more days (10 days total inactivity)
-          # > 7d inactive → mark stale; > 10d inactive → close automatically
-          # (7 days to mark + 3 days after marking = 10 days total from last activity)
-          stale-issue-message: 'This issue has been inactive for 7 days. It will be closed in 3 days if there is no activity.'
-          close-issue-message: 'This issue has been closed due to inactivity for 10 days. Feel free to reopen if there are updates.'
-          days-before-issue-stale: 7
-          days-before-issue-close: 3
+          # Issue configuration: Close directly after 14 days inactivity (no pre-mark)
+          # > 14 days inactive → close immediately
+          close-issue-message: 'This issue has been closed due to inactivity for 14 days. Feel free to reopen if there are updates.'
+          days-before-issue-stale: 14
+          days-before-issue-close: 0
 
-          # PR configuration: Mark stale after 7 days, close after 3 more days (10 days total inactivity)
-          # > 7d inactive → mark stale; > 10d inactive → close automatically
-          # (7 days to mark + 3 days after marking = 10 days total from last activity)
-          stale-pr-message: 'This PR has been inactive for 7 days. It will be closed in 3 days if there is no activity.'
-          close-pr-message: 'This PR has been closed due to inactivity for 10 days. Feel free to reopen if there are updates.'
-          days-before-pr-stale: 7
-          days-before-pr-close: 3
+          # PR configuration: Close directly after 14 days inactivity (no pre-mark)
+          # > 14 days inactive → close immediately
+          close-pr-message: 'This PR has been closed due to inactivity for 14 days. Feel free to reopen if there are updates.'
+          days-before-pr-stale: 14
+          days-before-pr-close: 0
 
           # Exempt items with the 'exempt-stale' label
           exempt-issue-labels: 'exempt-stale'
