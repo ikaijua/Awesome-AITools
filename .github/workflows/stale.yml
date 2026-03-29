@@ -13,6 +13,12 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Clean up stale cache
+        run: rm -rf ./_state
+
       - name: Mark stale issues and PRs
         uses: actions/stale@v9
         with:
@@ -39,4 +45,3 @@ jobs:
           stale-pr-label: 'stale'
           operations-per-run: 300
           ascending: true
-          cache-results: false
