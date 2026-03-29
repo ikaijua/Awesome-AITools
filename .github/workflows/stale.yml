@@ -18,17 +18,17 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Issue configuration: Mark stale after 7 days and close immediately (7 days total)
-          stale-issue-message: 'This issue has been inactive for 7 days. It will be closed automatically.'
-          close-issue-message: 'This issue has been closed due to inactivity for 7 days. Feel free to reopen if there are updates.'
+          # Issue configuration: Mark stale after 7 days, close after another 7 days (14 days total)
+          stale-issue-message: 'This issue has been inactive for 7 days. It will be closed in 7 days if there is no activity.'
+          close-issue-message: 'This issue has been closed due to inactivity for 14 days. Feel free to reopen if there are updates.'
           days-before-issue-stale: 7
-          days-before-issue-close: 0
+          days-before-issue-close: 7
 
-          # PR configuration: Mark stale after 7 days and close immediately (7 days total)
-          stale-pr-message: 'This PR has been inactive for 7 days. It will be closed automatically.'
-          close-pr-message: 'This PR has been closed due to inactivity for 7 days. Feel free to reopen if there are updates.'
+          # PR configuration: Mark stale after 7 days, close after another 7 days (14 days total)
+          stale-pr-message: 'This PR has been inactive for 7 days. It will be closed in 7 days if there is no activity.'
+          close-pr-message: 'This PR has been closed due to inactivity for 14 days. Feel free to reopen if there are updates.'
           days-before-pr-stale: 7
-          days-before-pr-close: 0
+          days-before-pr-close: 7
 
           # Exempt issues with the 'exempt-stale' label
           exempt-issue-labels: 'exempt-stale'
