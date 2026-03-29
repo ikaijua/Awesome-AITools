@@ -61,18 +61,10 @@ npm install
 npm link
 ```
 
-### 配置
-
-设置你的 Google AI API 密钥：
-
-```bash
-export GOOGLE_AI_API_KEY="your-api-key"
-```
-
 ### 基本使用
 
 ```bash
-# 启动交互模式
+# 启动交互模式，进入的时候会提示几种授权的方式，使用浏览器或者浏览器的验证码则不需要APIKEY
 gemini
 
 # 直接提问
