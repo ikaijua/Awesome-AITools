@@ -36,8 +36,9 @@ jobs:
           days-before-pr-stale: 7
           days-before-pr-close: 7
 
-          # Exempt issues with the 'exempt-stale' label
+          # Exempt items with the 'exempt-stale' label
           exempt-issue-labels: 'exempt-stale'
+          exempt-pr-labels: 'exempt-stale'
 
           # Other configurations
           remove-stale-when-updated: true
