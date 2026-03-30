@@ -157,6 +157,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
 | AI-Codereview-Gitlab | GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | Free |
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
+| CodeCosts | Pricing comparison site for AI coding tools (Cursor, GitHub Copilot, Windsurf, etc.) with a free public API | [URL](https://codecosts.pages.dev), [API](https://codecosts-api.pingbase-api.workers.dev) | Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees |
