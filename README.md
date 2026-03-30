@@ -84,6 +84,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
+| Clarvia MCP | AEO (Agent Experience Optimization) scoring for 15,400+ MCP servers and AI tools. Scores services on accessibility, structure, agent compatibility, and trust signals. Includes 24 MCP tools for gate-checking, scanning, comparing, and finding agent-friendly alternatives. Install: `claude mcp add clarvia -- npx -y clarvia-mcp-server` | [Github](https://github.com/clarvia-project/scanner) ![GitHub Repo stars](https://img.shields.io/github/stars/clarvia-project/scanner?style=social) [Website](https://clarvia.art) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
