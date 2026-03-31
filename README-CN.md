@@ -92,6 +92,7 @@
 |TradingAgents|一个多智能体大语言模型金融交易框架，模拟真实世界交易公司的运作。它使用专门的 AI 智能体（基本面、情绪、技术和新闻分析师）通过结构化辩论协作评估市场状况并辅助交易决策。|[Github](https://github.com/TauricResearch/TradingAgents) ![GitHub Repo stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social)|免费|
 |deer-flow|字节跳动开源的高性能 AI Agent 框架。它提供了一种灵活高效的方式来编排复杂的 Agent 工作流，内置支持多种大语言模型。|[Github](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|免费|
 |weixin-agent-sdk|微信 AI Agent 桥接框架，通过简单的 Agent 接口将任意 AI 后端接入微信。支持 ACP 协议接入 Claude Code、Codex 等兼容 Agent，也可自定义 Agent 实现。|[Github](https://github.com/wong2/weixin-agent-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/weixin-agent-sdk?style=social)|免费|
+| codex-plugin-cc | Claude Code 插件，允许用户在 Claude Code 工作流中直接使用 OpenAI Codex 进行代码审查和任务委托。提供 /codex:review、/codex:adversarial-review 等命令 | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | 免费 |
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
