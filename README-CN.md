@@ -93,6 +93,7 @@
 |deer-flow|字节跳动开源的高性能 AI Agent 框架。它提供了一种灵活高效的方式来编排复杂的 Agent 工作流，内置支持多种大语言模型。|[Github](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|免费|
 |weixin-agent-sdk|微信 AI Agent 桥接框架，通过简单的 Agent 接口将任意 AI 后端接入微信。支持 ACP 协议接入 Claude Code、Codex 等兼容 Agent，也可自定义 Agent 实现。|[Github](https://github.com/wong2/weixin-agent-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/weixin-agent-sdk?style=social)|免费|
 | codex-plugin-cc | Claude Code 插件，允许用户在 Claude Code 工作流中直接使用 OpenAI Codex 进行代码审查和任务委托。提供 /codex:review、/codex:adversarial-review 等命令 | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | 免费 |
+|instructkr/claw-code|Anthropic Claude Code 代理框架的重新实现项目，目前正在用 Rust 重写以提升内存安全性。专注于构建更好的 AI 代理工具框架，采用合法合规的方式重新实现 |[Github](https://github.com/instructkr/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/instructkr/claw-code?style=social)|免费|
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
