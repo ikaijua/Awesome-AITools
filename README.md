@@ -74,6 +74,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |deer-flow|A framework for building high-performance AI agents, developed by ByteDance. It provides a flexible and efficient way to orchestrate complex agent workflows with built-in support for various LLMs.|[Github](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|Free|
 |weixin-agent-sdk|WeChat AI Agent bridge framework that connects any AI backend to WeChat through a simple Agent interface. Supports ACP protocol for Claude Code, Codex and other compatible agents.|[Github](https://github.com/wong2/weixin-agent-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/weixin-agent-sdk?style=social)|Free|
 | codex-plugin-cc | Claude Code plugin that enables using OpenAI Codex for code reviews and task delegation directly within Claude Code workflow. Provides /codex:review, /codex:adversarial-review and other commands | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | Free |
+|instructkr/claw-code|A reimplementation of Anthropic's Claude Code agent harness, currently being rewritten in Rust for memory safety. Focuses on building a better tool harness for AI agents with legal/ethical reimplementation |[Github](https://github.com/instructkr/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/instructkr/claw-code?style=social)|Free|
 
 
 ### Agent Skills
