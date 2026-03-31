@@ -23,6 +23,7 @@
 - [ChatGPT及类似大语言模型AI助手](#chatgpt及类似大语言模型ai助手)
 - [AI Agent](#ai-agent)
 - [Agent Skills](#agent-skills)
+- [办公协作CLI工具](#办公协作cli工具)
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [GPT-LLMs应用](#gpt-llms应用)
@@ -103,6 +104,13 @@
 | SkillHub | 腾讯推出的专为中国用户优化的AI技能社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能。 | [URL](https://skillhub.tencent.com/) | 免费 |
 | garrytan/gstack | 一套精心设计的 Claude Code 技能集，可将 AI 智能体转换为由专家组成的专项团队（CEO、产品经理、测试工程师、运维工程师）。增加了自定义斜杠命令和自动化质量检查功能。 | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | 免费 |
 
+### 办公协作CLI工具
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| 飞书 CLI | 飞书官方命令行工具，帮助开发者快速开发和管理飞书应用 | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | 免费 |
+| 钉钉 CLI | 钉钉官方命令行工具，帮助开发者快速开发和管理钉钉应用 | [Github](https://github.com/DingTalk-Real-World/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-World/cli?style=social) | 免费 |
+| 企业微信 CLI | 企业微信开源命令行工具，帮助开发者快速开发和管理企业微信应用 | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | 免费 |
+
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
@@ -168,7 +176,6 @@
 | Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
 | Termux | Android终端模拟器和Linux环境应用，可直接在移动设备上运行编码工具、AI模型和各类开发环境，内置SSH客户端支持登录远程主机。 | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | 免费 |
 | AI-Codereview-Gitlab | 基于大模型(DeepSeek, OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | 免费 |
-| Lark CLI | 飞书官方命令行工具，帮助开发者快速开发和管理飞书应用 | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | 免费 |
 
 
 ### AI图像创作
