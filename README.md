@@ -19,6 +19,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [ChatGPT and other AI chatbot](#chatgpt-and-other-ai-chatbot)
   - [AI Agent](#ai-agent)
   - [Agent Skills](#agent-skills)
+  - [Office Collaboration CLI](#office-collaboration-cli)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
   - [GPT LLMs Applications](#gpt-llms-applications)
@@ -84,6 +85,13 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
+
+### Office Collaboration CLI
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
+| DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-World/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-World/cli?style=social) | Free |
+| WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
@@ -156,7 +164,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Steel Browser | Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling. | [Github](https://github.com/steel-dev/steel-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) | Free |
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
 | AI-Codereview-Gitlab | GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | Free |
-| Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 
 ### AI Image Creation
 | Name | Description | Links | Fees |
