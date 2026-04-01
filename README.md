@@ -77,6 +77,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |instructkr/claw-code|A reimplementation of Anthropic's Claude Code agent harness, currently being rewritten in Rust for memory safety. Focuses on building a better tool harness for AI agents with legal/ethical reimplementation |[Github](https://github.com/instructkr/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/instructkr/claw-code?style=social)|Free|
 
 
+|AgentShield|Open-source firewall and audit log for AI agents. Sits between agents and their tools as a policy-enforcing proxy intercepting MCP tool calls, CLI commands, and HTTP requests. Features a rules-based policy engine, structured JSON audit logging with automatic secret redaction, and a real-time web dashboard.|[Github](https://github.com/brigen/agent-shield) ![GitHub Repo stars](https://img.shields.io/github/stars/brigen/agent-shield?style=social)|Free|
+
 ### Agent Skills
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
