@@ -75,6 +75,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |weixin-agent-sdk|WeChat AI Agent bridge framework that connects any AI backend to WeChat through a simple Agent interface. Supports ACP protocol for Claude Code, Codex and other compatible agents.|[Github](https://github.com/wong2/weixin-agent-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/weixin-agent-sdk?style=social)|Free|
 | codex-plugin-cc | Claude Code plugin that enables using OpenAI Codex for code reviews and task delegation directly within Claude Code workflow. Provides /codex:review, /codex:adversarial-review and other commands | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | Free |
 |instructkr/claw-code|A reimplementation of Anthropic's Claude Code agent harness, currently being rewritten in Rust for memory safety. Focuses on building a better tool harness for AI agents with legal/ethical reimplementation |[Github](https://github.com/instructkr/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/instructkr/claw-code?style=social)|Free|
+|AnveVoice|AI voice assistant for websites with real DOM actions. Adds voice interaction to any website with a single script tag — fills forms, clicks buttons, and navigates pages. 50+ languages, sub-700ms latency, WCAG 2.1 AA compliant.|[URL](https://anvevoice.app)|Free/Paid|
 
 
 ### Agent Skills
