@@ -78,6 +78,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 
 ### Agent Skills
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | anthropics/skills | Official skills repository for Claude Code skills, providing reusable tool integrations and extensions for Claude Code AI assistant | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | Free |
