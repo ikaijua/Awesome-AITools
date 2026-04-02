@@ -41,6 +41,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [Game Development](#game-development)
   - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chatbot
@@ -323,5 +324,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
+
+
+### Game Development
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| Awesome Game Dev AI | Curated list of AI tools for the full game development pipeline, organized by stage: agent frameworks, 3D asset generation, rigging, motion & animation, scene & world generation, concept art, BGM & sound effects, and more. | [Github](https://github.com/SeeleAI/awesome-game-dev-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/SeeleAI/awesome-game-dev-ai?style=social) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
