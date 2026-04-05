@@ -95,7 +95,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
 | Chrome DevTools MCP | Official Model Context Protocol server that bridges AI agents (like Claude Code, Gemini CLI) to a live Chrome browser for running, testing, and debugging code with console monitoring, network inspection, and performance analysis. | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | Free |
 | bb-browser | Enable AI agents to control your real Chrome browser session, accessing sites with your existing login state without APIs. | [Github](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | Free |
-| BrowserBase MCP | BrowserBase Model Context Protocol server for headless browser automation, web scraping, and interaction with dynamic web content using Stagehand | [Github](https://github.com/browserbase/mcp-server-browserbase) ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
