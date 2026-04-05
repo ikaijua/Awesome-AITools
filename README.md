@@ -19,7 +19,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [ChatGPT and other AI chatbot](#chatgpt-and-other-ai-chatbot)
   - [AI Agent](#ai-agent)
   - [Agent Skills](#agent-skills)
-  - [Office Collaboration CLI](#office-collaboration-cli)
+  - [Office Collaboration CLI/MCP](#office-collaboration-climcp)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
   - [GPT LLMs Applications](#gpt-llms-applications)
@@ -87,12 +87,14 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
 
-### Office Collaboration CLI
+### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
+| Chrome DevTools MCP | Model Context Protocol server that enables AI agents to interact with Chrome DevTools, inspect network requests, debug JavaScript, and analyze web pages. | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | Free |
+| BrowserBase MCP | BrowserBase Model Context Protocol server for headless browser automation, web scraping, and interaction with dynamic web content using Stagehand | [Github](https://github.com/browserbase/mcp-server-browserbase) ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |

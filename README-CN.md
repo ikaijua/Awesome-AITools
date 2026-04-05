@@ -23,7 +23,7 @@
 - [ChatGPT及类似大语言模型AI助手](#chatgpt及类似大语言模型ai助手)
 - [AI Agent](#ai-agent)
 - [Agent Skills](#agent-skills)
-- [办公协作CLI工具](#办公协作cli工具)
+- [办公协作CLI/MCP工具](#办公协作climcp工具)
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [GPT-LLMs应用](#gpt-llms应用)
@@ -105,13 +105,14 @@
 | ClawHub | AI代理的快速技能注册中心，具备向量搜索功能。提供集中式的代理技能管理和发现平台。 | [URL](https://clawhub.ai/) | 免费/付费 |
 | SkillHub | 腾讯推出的专为中国用户优化的AI技能社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能。 | [URL](https://skillhub.tencent.com/) | 免费 |
 | garrytan/gstack | 一套精心设计的 Claude Code 技能集，可将 AI 智能体转换为由专家组成的专项团队（CEO、产品经理、测试工程师、运维工程师）。增加了自定义斜杠命令和自动化质量检查功能。 | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | 免费 |
-
-### 办公协作CLI工具
+### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | 飞书 CLI | 飞书官方命令行工具，帮助开发者快速开发和管理飞书应用 | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | 免费 |
 | 钉钉 CLI | 钉钉官方命令行工具，帮助开发者快速开发和管理钉钉应用 | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | 免费 |
 | 企业微信 CLI | 企业微信开源命令行工具，帮助开发者快速开发和管理企业微信应用 | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | 免费 |
+| Chrome DevTools MCP | Model Context Protocol 服务器，使 AI 智能体能够与 Chrome DevTools 交互，检查网络请求、调试 JavaScript 和分析网页。 | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
+| BrowserBase MCP | BrowserBase Model Context Protocol 服务器，通过 Stagehand 实现无头浏览器自动化、网页抓取和与动态网页内容交互 | [Github](https://github.com/browserbase/mcp-server-browserbase) ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social) | 免费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
