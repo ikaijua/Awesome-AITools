@@ -90,11 +90,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| Chrome DevTools MCP | Official Model Context Protocol server that bridges AI agents (like Claude Code, Gemini CLI) to a live Chrome browser for running, testing, and debugging code with console monitoring, network inspection, and performance analysis. | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | Free |
+| bb-browser | Enable AI agents to control your real Chrome browser session, accessing sites with your existing login state without APIs. | [Github](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | Free |
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
-| Chrome DevTools MCP | Official Model Context Protocol server that bridges AI agents (like Claude Code, Gemini CLI) to a live Chrome browser for running, testing, and debugging code with console monitoring, network inspection, and performance analysis. | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | Free |
-| bb-browser | Enable AI agents to control your real Chrome browser session, accessing sites with your existing login state without APIs. | [Github](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
