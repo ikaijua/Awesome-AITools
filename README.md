@@ -86,6 +86,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
+| Guardian Agent Prompts | 57 production-tested agent system prompts for multi-agent orchestration, task routing with anti-duplication, quality gates, and specialized agents for coding, security, and business automation. |[GitHub](https://github.com/milkomida77/guardian-agent-prompts)|
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
