@@ -276,6 +276,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Voice Processing
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+|VibeVoice|Open-source voice AI framework from Microsoft that includes both ASR and TTS capabilities. ASR supports 60-minute long-form audio with speaker diarization and 50+ languages; TTS generates natural long-form multi-speaker or real-time streaming speech.|[GitHub](https://github.com/microsoft/VibeVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)|Free|
 |so-vits-svc| SoftVC VITS Singing Voice Conversion.|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|Free|
 |vocalremover| Extract vocal and music|[URL](https://vocalremover.org/)|Free|
 |lala.ai|Extract vocal, accompaniment and various instruments from any audio and video|[URL](https://www.lalal.ai/)|Free/Paid|
