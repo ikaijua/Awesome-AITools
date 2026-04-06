@@ -330,6 +330,7 @@
 ### 语音处理
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+|VibeVoice|微软开源的语音 AI 框架，同时包含 ASR 和 TTS 功能。ASR 支持 60 分钟长音频处理，自带说话人分离和 50+ 语言支持；TTS 支持生成自然的长格式多说话人语音和实时流式输出。|[Github](https://github.com/microsoft/VibeVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)|免费|
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|有免费的试用额度/付费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|有免费的试用额度/付费|
 
