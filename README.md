@@ -75,6 +75,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |weixin-agent-sdk|WeChat AI Agent bridge framework that connects any AI backend to WeChat through a simple Agent interface. Supports ACP protocol for Claude Code, Codex and other compatible agents.|[Github](https://github.com/wong2/weixin-agent-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/weixin-agent-sdk?style=social)|Free|
 | codex-plugin-cc | Claude Code plugin that enables using OpenAI Codex for code reviews and task delegation directly within Claude Code workflow. Provides /codex:review, /codex:adversarial-review and other commands | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | Free |
 |instructkr/claw-code|A reimplementation of Anthropic's Claude Code agent harness, currently being rewritten in Rust for memory safety. Focuses on building a better tool harness for AI agents with legal/ethical reimplementation |[Github](https://github.com/instructkr/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/instructkr/claw-code?style=social)|Free|
+|CLI-Anything|An open-source framework that makes all software agent-native — auto-generates production-ready CLIs for any application via a 7-phase pipeline, enabling AI agents to control any desktop software. Supports 16+ AI agent platforms including Claude Code, OpenClaw, Codex and includes CLI-Hub for community CLI discovery. |[Github](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|Free|
 
 
 ### Agent Skills
@@ -234,6 +235,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
+| Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
 
