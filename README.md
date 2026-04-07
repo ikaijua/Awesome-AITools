@@ -153,6 +153,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 
+### AI Interview Tools
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| OpenClaw (即答侠) | Real-time AI interview copilot with 700ms response time. Provides STAR-format answer frameworks during live interviews. Features an invisible floating window undetectable by screen sharing. Supports Zoom, Teams, Google Meet, and other video interview platforms | [URL](https://interviewasssistant.com) | Free Trial/Paid |
+
 ### AI Coding
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
