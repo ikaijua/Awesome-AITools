@@ -87,6 +87,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
 
+| RemoteOpenClaw | Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell open-source AI agent skills and personas. | [Website](https://remoteopenclaw.com) | Free/Paid |
+
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
