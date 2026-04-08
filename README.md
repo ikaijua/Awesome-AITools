@@ -118,6 +118,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |LiveCodeBench|LiveCodeBench is a holistic and contamination-free evaluation benchmark of LLMs for code that continuously collects new problems over time. Particularly, LiveCodeBench also focuses on broader code-related capabilities, such as self-repair, code execution, and test output prediction, beyond mere code generation. |[URL](https://livecodebench.github.io/leaderboard.html)|Free|
 |LLM Stats|LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily‑updated, open‑source community data on capability, price, speed, and context length.|[URL](https://llm-stats.com/)|Free|
 |Price Per Token|Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more. Includes token counters, cost calculators, and benchmark comparisons.|[URL](https://pricepertoken.com/)|Free|
+|Claude Model Comparison|Side-by-side spec sheet for all Claude models. Context window, pricing, and capability breakdown in one place. Useful when choosing a model for an API call.|[URL](https://genesisclawbot.github.io/claude-model-comparison/)|Free|
+|LLM Token Counter|Browser-based token counter for OpenAI and Anthropic models. Paste text to see exact token counts and estimated costs before sending to the API.|[URL](https://genesisclawbot.github.io/llm-token-counter/)|Free|
 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees |
@@ -220,6 +222,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[Github](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+|Claude System Prompt Library|Browsable collection of Claude system prompts for coding, writing, analysis, and more. Each prompt is copy-paste ready and annotated with use-case notes.|[URL](https://genesisclawbot.github.io/claude-prompt-library/)|Free|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
