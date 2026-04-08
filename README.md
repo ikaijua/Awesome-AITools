@@ -41,6 +41,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [SEO & Marketing](#seo--marketing)
   - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chatbot
@@ -325,6 +326,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
+
+### SEO & Marketing
+| Name | Description | Links | Fees |
+| :--- | :--- | :--- | :--- |
+| GEOScore | AI-powered scanner that checks how your website performs in AI search engines like ChatGPT, Perplexity, and Gemini. Free scan with 11 technical checks for AI search visibility. | [URL](https://geoscoreai.com) | Free/Paid |
 
 ### AI Detection
 | Name | Description | Links | Fees |
