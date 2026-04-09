@@ -233,6 +233,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Together AI |Together AI是一个专为生成式AI设计的云平台，提供了从模型推理、微调到GPU集群部署等多种服务。相比其他传统云平台，Together AI 主要聚焦于高效处理开源生成式模型，并为开发者和企业提供更灵活、定制化的解决方案。Together AI 支持多个开源模型，包括 LLaMA、Falcon、FLUX1 等。这些模型覆盖了从自然语言处理、对话系统到代码生成等多个领域，满足了不同场景下的应用需求。用户可以直接调用这些模型，也可以上传自己的数据进行微调，提升模型在特定任务中的表现。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) |[URL](https://www.together.ai/)|免费/付费|
+| LeetGPU |GPU编程学习和竞赛平台，类似于GPU编程领域的 LeetCode，帮助开发者练习和掌握GPU编程技能。对于AI模型训练和推理的GPU加速优化非常有帮助，是学习CUDA/GPU编程的优质平台。|[URL](https://www.leetgpu.com/)|免费|
 
 ### LLM Prompts
 | 名称 | 说明 | 链接 | 费用 |

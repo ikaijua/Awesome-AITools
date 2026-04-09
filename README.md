@@ -214,6 +214,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+|LeetGPU|GPU programming platform for learning, practicing, and competing on GPU programming challenges. Similar to LeetCode but for GPU programming, helping developers master GPU acceleration skills essential for AI model training and inference.|[URL](https://www.leetgpu.com/) |Free|
 
 ### LLM Prompts
 | Name | Description | Links | Fees |
