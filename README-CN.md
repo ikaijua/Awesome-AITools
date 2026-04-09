@@ -95,6 +95,7 @@
 | codex-plugin-cc | Claude Code 插件，允许用户在 Claude Code 工作流中直接使用 OpenAI Codex 进行代码审查和任务委托。提供 /codex:review、/codex:adversarial-review 等命令 | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | 免费 |
 |instructkr/claw-code|Anthropic Claude Code 代理框架的重新实现项目，目前正在用 Rust 重写以提升内存安全性。专注于构建更好的 AI 代理工具框架，采用合法合规的方式重新实现 |[Github](https://github.com/instructkr/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/instructkr/claw-code?style=social)|免费|
 |CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。|[Github](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
+|MemPalace|开源AI记忆系统，将完整对话和项目数据本地存储，无需依赖云端。采用"记忆宫殿"分层结构组织记忆，在 LongMemEval 基准测试中达到 96.6% 召回率（目前得分最高），支持 MCP 集成，可以配合本地大语言模型离线使用。|[Github](https://github.com/milla-jovovich/mempalace) ![GitHub Repo stars](https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social)|免费|
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
