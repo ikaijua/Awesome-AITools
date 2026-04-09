@@ -78,6 +78,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |CLI-Anything|An open-source framework that makes all software agent-native — auto-generates production-ready CLIs for any application via a 7-phase pipeline, enabling AI agents to control any desktop software. Supports 16+ AI agent platforms including Claude Code, OpenClaw, Codex and includes CLI-Hub for community CLI discovery. |[Github](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|Free|
 
 
+|AgentShield|Open-source firewall and audit log for AI agents. Sits between agents and their tools as a policy-enforcing proxy intercepting MCP tool calls, CLI commands, and HTTP requests. Features a rules-based policy engine, structured JSON audit logging with automatic secret redaction, and a real-time web dashboard.|[Github](https://github.com/brigen/agent-shield) ![GitHub Repo stars](https://img.shields.io/github/stars/brigen/agent-shield?style=social)|Free|
+
 ### Agent Skills
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
