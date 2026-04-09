@@ -228,6 +228,7 @@
 | krea.ai| 提供文生图/视频、图片放大、模型训练等功能，Krea ai想做视频和图片界的 POE，目前集成了海螺、luma、Runway和可灵四家最好的视频生成模型。|[URL](https://www.krea.ai/)|免费试用/付费|
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 免费试用/付费 |
 | AnimateDiff | Animatediff是香港中文大学团队开源的AI视频生成方法，基于Stable DIffusion的开源基建，8月份开源模型之后，一个月就把AI视频生成的质量提高了几个等级。<br>介绍文章：[这款工具让你一秒成AI版宫崎骏，AI视频“ChatGPT时刻”快到了](https://mp.weixin.qq.com/s/NgYv6VBSBRIBOFuyUnMnxA)| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|免费|
+| LingtiStudio | 一个提示词生成数分钟长视频，Cli&网页均支持的 AI 视频生产系统，自动根据主题制作分镜脚本、关键帧、配音、视频片段、字幕和最终成片输出。 | [Github](https://github.com/ruilisi/LingtiStudio) ![GitHub Repo stars](https://img.shields.io/github/stars/ruilisi/LingtiStudio?style=social) | 免费 |
 |vivago.ai/video| 文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)| 免费|
 
 ### AI云平台
