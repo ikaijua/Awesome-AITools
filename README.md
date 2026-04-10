@@ -239,6 +239,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
+| humanize-chinese | Open-source Chinese AI text detection and rewriting toolkit for scoring AI-likeness, reducing AIGC traces in academic writing, and applying multiple style transforms locally with pure Python and zero dependencies. | [GitHub](https://github.com/voidborne-d/humanize-chinese) ![GitHub Repo stars](https://img.shields.io/github/stars/voidborne-d/humanize-chinese?style=social) | Free |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
 
 
