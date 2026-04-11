@@ -89,6 +89,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
+| BulkPublish MCP Server | Social media MCP server with 29 tools for 11 platforms. AI agents can create posts, schedule content, upload media, and track analytics via MCP. Also provides REST API, Python & Node.js SDKs. | [Github](https://github.com/azeemkafridi/bulkpublish-api) ![GitHub Repo stars](https://img.shields.io/github/stars/azeemkafridi/bulkpublish-api?style=social), [npm](https://www.npmjs.com/package/@bulkpublish/mcp-server) | Free/Paid |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
