@@ -24,6 +24,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [LLM Leaderboard](#llm-leaderboard)
   - [GPT LLMs Applications](#gpt-llms-applications)
   - [AI Coding](#ai-coding)
+  - [AI Finance & Quant Investment](#ai-finance--quant-investment)
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
@@ -41,6 +42,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [Real Estate](#real-estate)
   - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chatbot
@@ -70,7 +72,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |potpie-ai/potpie|Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents. |[URL](https://potpie.ai) , [Github](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|Free Trial|
 |MastraAI|Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals|[Github](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)|Free|
 |msitarzewski/agency-agents|Open-source AI agency toolkit with 70+ specialized agent personas across engineering, design, marketing, sales, and more. Features ready-to-use agent personalities, workflow templates, and multi-tool support for Claude Code, Cursor, Aider and other AI dev tools.|[Github](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|Free|
-|TradingAgents|A multi-agent LLM financial trading framework that mirrors the dynamics of real-world trading firms. It uses specialized AI agents to collaboratively evaluate market conditions and inform trading decisions through structured debates.|[Github](https://github.com/TauricResearch/TradingAgents) ![GitHub Repo stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social)|Free|
 |deer-flow|A framework for building high-performance AI agents, developed by ByteDance. It provides a flexible and efficient way to orchestrate complex agent workflows with built-in support for various LLMs.|[Github](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|Free|
 |weixin-agent-sdk|WeChat AI Agent bridge framework that connects any AI backend to WeChat through a simple Agent interface. Supports ACP protocol for Claude Code, Codex and other compatible agents.|[Github](https://github.com/wong2/weixin-agent-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/weixin-agent-sdk?style=social)|Free|
 | codex-plugin-cc | Claude Code plugin that enables using OpenAI Codex for code reviews and task delegation directly within Claude Code workflow. Provides /codex:review, /codex:adversarial-review and other commands | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | Free |
@@ -171,6 +172,12 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Steel Browser | Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling. | [Github](https://github.com/steel-dev/steel-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) | Free |
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
 | AI-Codereview-Gitlab | GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | Free |
+
+### AI Finance & Quant Investment
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+|TradingAgents|A multi-agent LLM financial trading framework that mirrors the dynamics of real-world trading firms. It uses specialized AI agents to collaboratively evaluate market conditions and inform trading decisions through structured debates.|[Github](https://github.com/TauricResearch/TradingAgents) ![GitHub Repo stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social)|Free|
+|VNPy|A comprehensive open-source quantitative trading framework in Python, supports strategy backtesting, live trading across multiple exchanges, and integrates AI/LLM capabilities for financial market analysis and strategy development. Widely used by quant traders in China.|[Github](https://github.com/vnpy/vnpy) ![GitHub Repo stars](https://img.shields.io/github/stars/vnpy/vnpy?style=social)|Free|
 
 ### AI Image Creation
 | Name | Description | Links | Fees |
