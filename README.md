@@ -80,6 +80,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |MemPalace|Open-source AI memory system that stores full conversations and project data locally without cloud dependencies. Organizes memories into a hierarchical "palace" structure, achieves 96.6% recall on LongMemEval benchmarks (highest scoring), supports MCP integration and works offline with local LLMs.|[Github](https://github.com/milla-jovovich/mempalace) ![GitHub Repo stars](https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social)|Free|
 
 
+| codesight | CLI token optimizer and AI context generator with built-in MCP server. Scans codebases to extract routes, schema, components, and dependencies, reducing AI context tokens by 9x–13x. Profiles for Claude Code, Cursor, Copilot, Codex, and Windsurf. Zero runtime dependencies. | [Github](https://github.com/Houseofmvps/codesight) ![GitHub Repo stars](https://img.shields.io/github/stars/Houseofmvps/codesight?style=social) | Free |
 ### Agent Skills
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
