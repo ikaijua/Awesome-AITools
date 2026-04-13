@@ -268,6 +268,7 @@
 | --- | --- | --- | --- |
 | Obsidian | 强大的本地优先 markdown 笔记工具，拥有丰富的 AI 插件生态 - 通过社区插件支持 AI 总结、RAG、智能笔记处理等功能 | [URL](https://obsidian.md/) | 免费/付费|
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) |  免費版本使用有文字字数限制/有付费升级版 |
+| humanize-chinese | 开源中文 AI 文本检测与改写工具，可本地给出 0-100 AI 痕迹评分，支持学术 AIGC 降重与 7 种风格改写，纯 Python、零依赖。 | [GitHub](https://github.com/voidborne-d/humanize-chinese) ![GitHub Repo stars](https://img.shields.io/github/stars/voidborne-d/humanize-chinese?style=social) | 免费 |
 | grammarly | 纠正语法、拼写、标点符号等错误的写作助手| [URL](https://app.grammarly.com/) | 免费/有付费升级版|
 
 
