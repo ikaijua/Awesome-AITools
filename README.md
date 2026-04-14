@@ -312,6 +312,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 
 ### Video Content Summary
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
