@@ -213,6 +213,7 @@
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |black-forest-labs/flux|FLUX.1 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)|免费|
+| ArtImageHub | AI驱动的老照片修复工具。可修复家庭照片的划痕、褪色、模糊和水渍损伤。一次性付费4.99美元，无需订阅。 | [URL](https://artimagehub.com/old-photo-restoration) | 付费 |
 
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
