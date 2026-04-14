@@ -197,6 +197,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
+| ArtImageHub | AI-powered old photo restoration. Automatically repairs scratches, fading, and blurry faces on old family photographs using CodeFormer + GFPGAN + Real-ESRGAN. | [URL](https://artimagehub.com/old-photo-restoration) | Paid ($4.99 one-time) |
 
 ### Video Creation
 
