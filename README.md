@@ -178,6 +178,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 |TradingAgents|A multi-agent LLM financial trading framework that mirrors the dynamics of real-world trading firms. It uses specialized AI agents to collaboratively evaluate market conditions and inform trading decisions through structured debates.|[Github](https://github.com/TauricResearch/TradingAgents) ![GitHub Repo stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social)|Free|
 |VNPy|A comprehensive open-source quantitative trading framework in Python, supports strategy backtesting, live trading across multiple exchanges, and integrates AI/LLM capabilities for financial market analysis and strategy development. Widely used by quant traders in China.|[Github](https://github.com/vnpy/vnpy) ![GitHub Repo stars](https://img.shields.io/github/stars/vnpy/vnpy?style=social)|Free|
+|TimesFM|Google Research's open-source pretrained time-series foundation model for time-series forecasting. Supports long context (16k) and long-horizon forecasting up to 1k steps, which is widely used for financial and quantitative investment predictions.|[Github](https://github.com/google-research/timesfm) ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/timesfm?style=social)|Free|
 
 ### AI Image Creation
 | Name | Description | Links | Fees |
