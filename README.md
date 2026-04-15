@@ -341,4 +341,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
+### Developer Utilities
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+|Formatho Tools|100+ privacy-first developer utilities. All processing happens client-side. No signup required. No data leaves your browser.|[URL](https://formatho.com/Tools) [Github](https://github.com/formatho/awesome-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/formatho/awesome-ai-tools?style=social)|Free|
+
+
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
