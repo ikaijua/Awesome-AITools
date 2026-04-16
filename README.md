@@ -154,6 +154,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, Mistral, etc.). Zero markup pricing, 5% commission on inference traffic, supports smart routing/failover |[URL](https://openrouter.ai/)| Free/Paid |
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
+| Not Human Search | AI tool discovery engine with agentic scoring. Indexes 8,600+ AI tools and MCP servers. REST API and MCP server for programmatic access. | [URL](https://nothumansearch.ai/) | Free |
+| AI Dev Jobs | AI/ML-focused job board aggregating 5,600+ jobs from 300+ companies. REST API and MCP server for programmatic job search. | [URL](https://aidevboard.com/) | Free |
 
 ### AI Coding
 | Name | Description | Links | Fees |
