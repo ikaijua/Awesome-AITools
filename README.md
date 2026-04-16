@@ -99,6 +99,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
+| Not Human Search | Search engine for AI agents — indexes 8,600+ tools and APIs ranked by agentic readiness score (0-100). MCP server with 6 tools for agent-native discovery, site analysis, and live endpoint verification. | [URL](https://nothumansearch.ai/) [Github](https://github.com/unitedideas/nothumansearch) ![GitHub Repo stars](https://img.shields.io/github/stars/unitedideas/nothumansearch?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
@@ -323,6 +324,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
 
+| 8bitconcepts | In-depth AI research papers analyzing emerging concepts from frontier model architectures to agent frameworks. Covers topics like MCP adoption, reasoning models, and AI infrastructure with original analysis. | [URL](https://8bitconcepts.com/) | Free |
 
 ### OCR
 | Name | Description | Links | Fees |
