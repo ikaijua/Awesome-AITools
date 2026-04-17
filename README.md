@@ -315,3 +315,5 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+
+- [Credit Optimizer v5](https://creditopt.ai) - Save 30-75% on Manus AI credits through intelligent Standard/Max mode routing. Free and open-source.
