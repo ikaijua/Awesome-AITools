@@ -32,6 +32,7 @@
 - [AI图像创作](#ai图像创作)
 - [AI视频创作](#ai视频创作)
 - [AI云平台](#ai云平台)
+- [GPU编程](#gpu编程)
 - [LLM Prompts](#llm-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
 - [新闻资讯](#新闻资讯)
@@ -174,6 +175,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
+| LeetCUDA | 一个开源的 CUDA 编程和深度学习算子优化学习仓库及题库。包含从基础到高级（如 FlashAttention-2）的 200 多个 Kernel 实现，并提供 PyTorch 绑定，是学习 GPU 加速和算子优化的优质资源。 | [Github](https://github.com/xlite-dev/LeetCUDA) ![GitHub Repo stars](https://img.shields.io/github/stars/xlite-dev/LeetCUDA?style=social) | 免费 |
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 付费/免费试用 |
 | GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 <br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) | [URL](https://github.com/features/copilot)  | 付费 |
 | 通义灵码|阿里云开发的代码编写助手，可根据当前代码文件及跨文件的上下文，为你生成行级/函数级代码、单元测试、代码注释等，支持 Java、Python、Go、JavaScript、TypeScript、C/C++、C# 等主流语言，同时兼容 Visual Studio Code、JetBrains IDEs 等主流编程工具|[URL](https://tongyi.aliyun.com/lingma/)|免费|
@@ -242,7 +244,12 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Together AI |Together AI是一个专为生成式AI设计的云平台，提供了从模型推理、微调到GPU集群部署等多种服务。相比其他传统云平台，Together AI 主要聚焦于高效处理开源生成式模型，并为开发者和企业提供更灵活、定制化的解决方案。Together AI 支持多个开源模型，包括 LLaMA、Falcon、FLUX1 等。这些模型覆盖了从自然语言处理、对话系统到代码生成等多个领域，满足了不同场景下的应用需求。用户可以直接调用这些模型，也可以上传自己的数据进行微调，提升模型在特定任务中的表现。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) |[URL](https://www.together.ai/)|免费/付费|
+
+### GPU编程
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
 | LeetGPU |GPU编程学习和竞赛平台，类似于GPU编程领域的 LeetCode，帮助开发者练习和掌握GPU编程技能。对于AI模型训练和推理的GPU加速优化非常有帮助，是学习CUDA/GPU编程的优质平台。|[URL](https://www.leetgpu.com/)|免费|
+| LeetCUDA |使用 CUDA 实现的 LeetCode 算法集合，适合学习 GPU 并行编程。通过解决经典算法问题来练习 CUDA 编程的实践项目。|[Github](https://github.com/xlite-dev/LeetCUDA) ![GitHub Repo stars](https://img.shields.io/github/stars/xlite-dev/LeetCUDA?style=social)|免费|
 
 ### LLM Prompts
 | 名称 | 说明 | 链接 | 费用 |
