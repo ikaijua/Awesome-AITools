@@ -28,6 +28,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [AI Image Creation](#ai-image-creation)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
+  - [GPU Programming](#gpu-programming)
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
   - [News Information](#news-information)
@@ -162,6 +163,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | dbForge AI Assistant | AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts | [URL](https://www.devart.com/dbforge/ai-assistant/) | Paid/Free Trial|
+| LeetCUDA | An open-source educational repository and question bank for CUDA programming and deep learning operator optimization. Includes 200+ kernels ranging from basic to advanced (e.g., FlashAttention-2) with PyTorch bindings. | [Github](https://github.com/xlite-dev/LeetCUDA) ![GitHub Repo stars](https://img.shields.io/github/stars/xlite-dev/LeetCUDA?style=social) | Free |
 | Antigravity | Google AI coding assistant based on Windsurf technology, deeply integrated with Gemini and Google Cloud |[URL](https://antigravity.google/) |Free for Individual Use/Paid|
 | Happy Coder | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | Free |
 | Trae | ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
@@ -224,7 +226,12 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+
+### GPU Programming
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
 |LeetGPU|GPU programming platform for learning, practicing, and competing on GPU programming challenges. Similar to LeetCode but for GPU programming, helping developers master GPU acceleration skills essential for AI model training and inference.|[URL](https://www.leetgpu.com/) |Free|
+|LeetCUDA|Collection of LeetCode algorithms implemented with CUDA for learning GPU parallel programming. A practical project to practice CUDA programming by solving classic algorithm problems.|[Github](https://github.com/xlite-dev/LeetCUDA) ![GitHub Repo stars](https://img.shields.io/github/stars/xlite-dev/LeetCUDA?style=social)|Free|
 
 ### LLM Prompts
 | Name | Description | Links | Fees |
