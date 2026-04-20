@@ -82,6 +82,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | codesight | CLI token optimizer and AI context generator with built-in MCP server. Scans codebases to extract routes, schema, components, and dependencies, reducing AI context tokens by 9x–13x. Profiles for Claude Code, Cursor, Copilot, Codex, and Windsurf. Zero runtime dependencies. | [Github](https://github.com/Houseofmvps/codesight) ![GitHub Repo stars](https://img.shields.io/github/stars/Houseofmvps/codesight?style=social) | Free |
 | Hermes Agent | Open-source agentic framework built by NousResearch, fine-tuned on Hermes models with strong tool calling and reasoning capabilities for building autonomous AI agents. | [Github](https://github.com/NousResearch/hermes-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) | Free |
 
+| theihtisham/agent-shadow-brain | AI-powered background code analysis agent with 60+ cognitive modules, infinite memory, and self-evolving intelligence for developers. Runs autonomously to analyze codebases and provide intelligent insights. | [Github](https://github.com/theihtisham/agent-shadow-brain) ![GitHub Repo stars](https://img.shields.io/github/stars/theihtisham/agent-shadow-brain?style=social) | [npm](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain) | Free |
 ### Agent Skills
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
@@ -91,6 +92,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | JimLiu/baoyu-skills | Community skills repository for Claude Code, providing practical Chinese-language and region-specific skills including Weibo posting functionality | [Github](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) | Free |
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
+| theihtisham/omni-skills-forge | Universal skill/slash-command manager for AI coding assistants. Install, manage, and share custom skills across Claude Code, Cursor, Windsurf, and more. | [Github](https://github.com/theihtisham/omni-skills-forge) ![GitHub Repo stars](https://img.shields.io/github/stars/theihtisham/omni-skills-forge?style=social) | [npm](https://www.npmjs.com/package/omni-skills-forge) | Free |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
