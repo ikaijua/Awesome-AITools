@@ -221,6 +221,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
 |vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
+| HeyVid | All-in-one AI video and image generator. Supports text-to-video, image-to-video, and text-to-image in a single workspace. | [URL](https://heyvid.ai) | Paid/Free trial |
 
 ### AI Cloud Platform
 | Name | Description | Links | Fees |
