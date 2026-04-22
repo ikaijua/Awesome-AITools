@@ -110,6 +110,7 @@
 | ClawHub | AI代理的快速技能注册中心，具备向量搜索功能。提供集中式的代理技能管理和发现平台。 | [URL](https://clawhub.ai/) | 免费/付费 |
 | SkillHub | 腾讯推出的专为中国用户优化的AI技能社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能。 | [URL](https://skillhub.tencent.com/) | 免费 |
 | garrytan/gstack | 一套精心设计的 Claude Code 技能集，可将 AI 智能体转换为由专家组成的专项团队（CEO、产品经理、测试工程师、运维工程师）。增加了自定义斜杠命令和自动化质量检查功能。 | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | 免费 |
+| addyosmani/agent-skills | 由 Google Gemini 团队主管 Addy Osmani 开源的 20+ 标准化工程流程技能库。将资深工程师的开发规范封装成 AI 智能体可执行的技能，覆盖完整软件开发生命周期：从需求定义、规划、构建、验证、评审到发布。内置 7 个命令：/spec、/plan、/build、/test、/ship 等。兼容 Claude Code、Gemini CLI、Codex、Cursor。 | [Github](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | 免费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
