@@ -103,6 +103,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
 
+| [helloandy.net CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) | Generates CLAUDE.md system prompts for Claude AI agents from plain-English descriptions using a 3-step OpenRouter pipeline. | [URL](https://helloandy.net/claude-md-writer/) | Free |
+| [helloandy.net SKILL.md Generator](https://helloandy.net/skill-generator/) | Builds structured SKILL.md instruction files for AI agents with AI Quick Generate mode. | [URL](https://helloandy.net/skill-generator/) | Free |
+
 ### Open Source LLMs
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
@@ -259,6 +262,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
 
 
+
+| [helloandy.net AI Text Humanizer](https://helloandy.net/humanizer/) | Rewrites AI-generated text with natural rhythm and sentence variation. Research-backed: main AI tell is rhythm (CoV 0.1 vs 0.6), not vocabulary. | [URL](https://helloandy.net/humanizer/) | Free |
+| [helloandy.net AI Text Auditor](https://helloandy.net/ai-text-auditor/) | Scores text against 28 AI writing patterns with risk rating and detailed breakdown. | [URL](https://helloandy.net/ai-text-auditor/) | Free |
+| [helloandy.net AI Writing Coach](https://helloandy.net/ai-prose-improver/) | Generates specific rewriting suggestions by prose quality, sentence variation, and structural issues. | [URL](https://helloandy.net/ai-prose-improver/) | Free |
 
 ### Translation
 | Name | Description | Links | Fees |
