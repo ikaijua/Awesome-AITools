@@ -352,3 +352,4 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+| [BenchGecko](https://benchgecko.ai/zh/) | AI模型基准测试排行榜，跨供应商定价对比，AI经济仪表盘。追踪数千个模型，数百个供应商。免费API。 |
