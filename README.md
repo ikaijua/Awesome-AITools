@@ -352,3 +352,4 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+- [Which AI Model](https://tools.modologystudios.com/which-model/) - Free browser tool: 4 questions → one specific AI model recommendation with reasoning (Claude, GPT-4o, Gemini, Llama 4, DeepSeek). No account required.
