@@ -351,4 +351,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
+### Free AI Resources & Directories
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| Free AI Bible | The ultimate directory of 700+ free AI APIs and tools for developers in 2026. Covers free LLM APIs (Groq, Gemini, Mistral), image generation, model hosting, local AI tools, vector databases. No credit card required. Updated weekly. | [Github](https://github.com/abbosaliboev/free-ai-bible) ![GitHub Repo stars](https://img.shields.io/github/stars/abbosaliboev/free-ai-bible?style=social) | Free |
+
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
