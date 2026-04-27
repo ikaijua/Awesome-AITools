@@ -229,6 +229,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+|FuturMix|Unified AI Gateway providing OpenAI-compatible access to 22+ models (OpenAI, Anthropic, Google) through a single API endpoint and key. 10-20% cheaper than official pricing, 20-30% cheaper than OpenRouter. 99.99% SLA with automatic failover.|[URL](https://futurmix.ai/) |Free/Paid|
 
 ### GPU Programming
 | Name | Description | Links | Fees |
