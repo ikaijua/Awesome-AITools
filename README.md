@@ -200,6 +200,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | clipdrop | clipdrop by stability.ai. Has many AI image processing tools, such as stable diffusion XL, uncrop, reimage XL, stable doodle. | [URL](https://clipdrop.co/) | Free/Paid |
 | firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
 | ideogram.ai | Enter text to create pictures. A product developed by a company founded by many ex-Googlers |[URL](https://ideogram.ai/)| Free/Paid |
+| prompt-to-asset | MCP server + CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing across 30+ image models. Zero API key for first run. | [GitHub](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Free |
 | Nero AI | AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/|[URL](https://ai.nero.com/)|Paid/Trial|
 | Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
@@ -260,6 +261,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
+| unslop | Claude Code plugin that removes AI writing patterns (tricolons, em-dash pileups, hedging stacks, sycophancy, stock vocabulary). Five intensity levels. Detection and rewriting are split. MIT licensed. | [GitHub](https://github.com/MohamedAbdallah-14/unslop) | Free |
 
 
 
