@@ -328,6 +328,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
+| Cyber Collector | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. | [Telegram](https://t.me/cybercollectorbot) · [Website](https://cybercollector.hitkey.io) | Free |
 
 ### Academic research
 | Name | Description | Links | Fees |
