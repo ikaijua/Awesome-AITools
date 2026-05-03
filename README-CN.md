@@ -201,7 +201,8 @@
 |VNPy|基于 Python 的全功能开源量化交易框架，支持策略回测、多交易所实盘交易，并集成 AI/大语言模型能力用于金融市场分析和策略开发，是国内量化交易者广泛使用的系统。|[Github](https://github.com/vnpy/vnpy) ![GitHub Repo stars](https://img.shields.io/github/stars/vnpy/vnpy?style=social)|免费|
 |TimesFM|Google Research 开源的预训练时间序列基础模型，专门用于时间序列预测。支持长上下文（16k）和最长 1k 步的长区间预测，广泛应用于金融和量化投资预测场景。|[Github](https://github.com/google-research/timesfm) ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/timesfm?style=social)|免费|
 | Dexter | 自主财务研究智能体，旨在通过思考、计划和迭代学习进行深度分析。专注于财务领域。[入门介绍](docs/dexter/README-CN.md) | [Github](https://github.com/virattt/dexter) ![GitHub Repo stars](https://img.shields.io/github/stars/virattt/dexter?style=social) | 免费 |
-|### AI图像创作|
+
+### AI图像创作
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | ChatGPT Images 2.0 |OpenAI最新的图像生成模型 GPT Image 2.0。先进的AI图像生成和编辑能力。|[URL](https://chatgpt.com/images)|免费/付费|

@@ -188,7 +188,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |VNPy|A comprehensive open-source quantitative trading framework in Python, supports strategy backtesting, live trading across multiple exchanges, and integrates AI/LLM capabilities for financial market analysis and strategy development. Widely used by quant traders in China.|[Github](https://github.com/vnpy/vnpy) ![GitHub Repo stars](https://img.shields.io/github/stars/vnpy/vnpy?style=social)|Free|
 |TimesFM|Google Research's open-source pretrained time-series foundation model for time-series forecasting. Supports long context (16k) and long-horizon forecasting up to 1k steps, which is widely used for financial and quantitative investment predictions.|[Github](https://github.com/google-research/timesfm) ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/timesfm?style=social)|Free|
 | Dexter | Autonomous financial research agent designed to perform deep analysis by thinking, planning, and learning through iteration. Specialized for the financial domain. [Intro](docs/dexter/README.md) | [Github](https://github.com/virattt/dexter) ![GitHub Repo stars](https://img.shields.io/github/stars/virattt/dexter?style=social) | Free |
-|### AI Image Creation|
+
+### AI Image Creation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT Images 2.0 |OpenAI's latest image generation model GPT Image 2.0. Advanced AI image generation and editing capabilities.|[URL](https://chatgpt.com/images)|Free/Paid|
