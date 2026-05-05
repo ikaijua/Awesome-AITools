@@ -48,6 +48,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees |
+- [Gitchat](https://gitchat.sh) - Developer chat built on GitHub identity — no new account, your GitHub followers are your contact list. DMs, group chats, and repo channels inside VS Code, Cursor, or Windsurf. VS Code extension at https://github.com/GitchatSH/gitchat_extension. Free for individuals.
 | --- | --- | --- | --- |
 | Claude| Anthropic's AI chatbot, including Claude Opus 4.7. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
 | Gemini| Google's AI chatbot, including Gemini-3.1 pro. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. Best for: Image processing and web information integration, Deep Research feature performs exceptionally well, seamlessly integrates with Google Drive. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
