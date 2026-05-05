@@ -7,6 +7,8 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
 </div>
 
+> 🇨🇳 **国内直连 ChatGPT/Claude 等 572 个模型？** [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定
+
 English | [中文](README-CN.md)
 
 This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together! Please use the following template as a reference for your recommendations. [issue](https://github.com/ikaijua/Awesome-AITools/issues/233)
