@@ -102,6 +102,7 @@
 | Hermes Agent | NousResearch 开发的开源 AI Agent 框架，基于 Hermes 系列模型构建，在工具调用和推理能力上进行了精细微调，用于构建自主 AI 智能体。 | [Github](https://github.com/NousResearch/hermes-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) | 免费 |
 | Screenpipe | 开源的 24/7 本地屏幕和麦克风录制工具，具备 OCR、音频转录和语义搜索功能。通过 MCP 为 AI 智能体提供您所看、所说、所听内容的长期上下文。支持 Ollama 或任何本地大语言模型，完全离线运行。跨平台（macOS / Windows / Linux）。 | [Github](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | 免费 |
 | CC Switch | 跨平台桌面应用，用于一站式管理 Claude Code, Codex, Gemini CLI, OpenCode 和 OpenClaw。提供可视化界面管理 API 供应商、MCP 服务器和技能，支持双向同步。[入门介绍](docs/cc-switch/README-CN.md) | [Github](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | 免费 |
+| Multica | 开源托管代理平台，将 AI 编码代理（Claude Code, Copilot 等）作为“一等公民”队友集成到开发团队中。支持任务分配、进度跟踪和技能复用。[入门介绍](docs/multica/README-CN.md) | [Github](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 免费/付费 |
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
