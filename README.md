@@ -182,6 +182,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Steel Browser | Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling. | [Github](https://github.com/steel-dev/steel-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) | Free |
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
 | AI-Codereview-Gitlab | GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | Free |
+| Nimbalyst | Visual workspace for building with Claude Code, Codex, Opencode, etc. Manage your agents, sessions, tasks, and files. Visually edit markdown, mockups, diagrams, diffs, and code. Extend. | [URL](https://github.com/nimbalyst/nimbalyst) | Free/Open Source |
 
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |
