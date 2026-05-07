@@ -45,6 +45,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [OCR](#ocr)
   - [Real Estate](#real-estate)
   - [AI Detection](#ai-detection)
+  - [AI Tools Directory](#ai-tools-directory)
 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees |
@@ -359,3 +360,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+
+### AI Tools Directory
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| [GateOnAI](https://www.gateonai.com) | Curated directory of 473+ AI tools across 35 categories, with comparison pages, use-case filters, and detailed profiles. | [🌐](https://www.gateonai.com) | Free |
