@@ -181,6 +181,7 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| mahonzhan/awesome-coding-plan|各厂家 Coding Plan 对比|[Github](https://github.com/mahonzhan/awesome-coding-plan) ![GitHub Repo stars](https://img.shields.io/github/stars/mahonzhan/awesome-coding-plan?style=social) |免费|
 | Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
 | LeetCUDA | 一个开源的 CUDA 编程和深度学习算子优化学习仓库及题库。包含从基础到高级（如 FlashAttention-2）的 200 多个 Kernel 实现，并提供 PyTorch 绑定，是学习 GPU 加速和算子优化的优质资源。 | [Github](https://github.com/xlite-dev/LeetCUDA) ![GitHub Repo stars](https://img.shields.io/github/stars/xlite-dev/LeetCUDA?style=social) | 免费 |
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 付费/免费试用 |
