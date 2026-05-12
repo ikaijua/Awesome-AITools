@@ -130,6 +130,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |LLM Stats|LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily‑updated, open‑source community data on capability, price, speed, and context length.|[URL](https://llm-stats.com/)|Free|
 |Price Per Token|Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more. Includes token counters, cost calculators, and benchmark comparisons.|[URL](https://pricepertoken.com/)|Free|
 |BenchGecko|The data layer of the AI economy. AI model benchmark leaderboard with cross-provider pricing comparison across hundreds of providers. Tracks thousands of models across 128 benchmarks, AI economy indicators, agent leaderboard, and MCP server directory. Free API.|[URL](https://benchgecko.ai/)|Free|
+|llm-prices|Zero-dependency CLI and Python library for looking up and comparing LLM API costs across 185+ models and 25 providers (OpenAI, Anthropic, Google, Mistral, Groq, xAI, DeepSeek, and more). Works fully offline — pricing data is baked in. Supports JSON output, piping, and MCP server mode for use with Claude Code and Cursor.|[Github](https://github.com/benbencodes/llm-prices) ![GitHub Repo stars](https://img.shields.io/github/stars/benbencodes/llm-prices?style=social)|Free|
 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees |
