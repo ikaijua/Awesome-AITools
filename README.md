@@ -259,7 +259,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | World Monitor | AI-powered real-time global intelligence dashboard with 435+ curated feeds, geopolitical monitoring, infrastructure tracking, AI summaries, 21 languages support, local AI runtime and cross-platform native desktop apps | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social), [Official Site](https://worldmonitor.app) | Free |
 
 ### Writing
-| Name | Description | Links | Fees |
+
+
+| [Qonspekt](https://qonspekt.github.io/qonspekt/) | Browser tool: paste any article, get atomic Obsidian notes via Claude AI. BYOK, no backend, MIT. [GitHub](https://github.com/Qonspekt/qonspekt) || Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
