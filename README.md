@@ -134,6 +134,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| AI Soul Meter | AI-powered personality analysis that compares your conversation style to famous AI models (GPT-4, Claude, Gemini, DeepSeek). Like MBTI, but for the AI age. Standardized 60-question assessments with cyberpunk visualizations. | [URL](https://aisoulmeter.com) [Github](https://github.com/zhenyueD/ai-soul-meter) | Free |
 | Google AI Studio|Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts and then get an API key to use in your app development. [Available regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions)|[URL](https://aistudio.google.com/)|Free|
 | NotebookLM |AI Research Assistant developed by Google. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. |[URL](https://notebooklm.google.com/)|Free|
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free/Paid|
