@@ -225,6 +225,7 @@
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://skybox.blockadelabs.com/)| 免费/ 付费|
 | Nero AI | AI图片放大、修复划痕、AI图片上色、AI图片去噪、AI一键抠图换背景、AI神奇擦除笔、AI写真；[介绍](https://github.com/ikaijua/Awesome-AITools/issues/100)。API文档：https://ai.nero.com/ai-api/docs/|[URL]( https://ai.nero.com/)|付费/试用|
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
+| ClipBG | 带有无风险额度机制的专业级批量AI去背引擎。 | [URL](https://clipbg.net) | 免费/付费 |
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |black-forest-labs/flux|FLUX.1 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)|免费|
 
