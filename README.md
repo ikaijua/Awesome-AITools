@@ -258,6 +258,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | World Monitor | AI-powered real-time global intelligence dashboard with 435+ curated feeds, geopolitical monitoring, infrastructure tracking, AI summaries, 21 languages support, local AI runtime and cross-platform native desktop apps | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social), [Official Site](https://worldmonitor.app) | Free |
+| AIHumanLove | Free AI tools directory with 1,500+ tools, weekly AI news, 37 interactive AI experiments, a 175+ prompt library, and free AI courses for beginners. EN/ES/PT. | [URL](https://aihumanlove.com) | Free |
 
 ### Writing
 | Name | Description | Links | Fees |
