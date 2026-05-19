@@ -58,6 +58,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
 
 ### AI Agent
+
+| [StockSense](https://stocksense-interlutyinc-wqs-projects.vercel.app) | AI supply chain agent — analyzes Shopify inventory, reasons through stock levels, sends purchase orders autonomously. [GitHub](https://github.com/interlutyinc-wq/stocksense) |
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |OpenClaw|Open-source self-hosted AI agent that runs locally and autonomously executes tasks. Connects to WhatsApp, Telegram, Slack, Discord and other messaging platforms, with browser control, system access, and persistent memory. Developed by Peter Steinberger, one of the fastest-growing open-source projects. [Intro](docs/openclaw/README.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|Free|
