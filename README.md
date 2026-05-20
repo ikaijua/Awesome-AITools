@@ -108,6 +108,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
+| EVC Team Relay MCP | MCP server for collaborative Obsidian vault access via Team Relay — read, write, and sync notes with real-time CRDT-based conflict resolution. Enables AI agents to work with shared Obsidian knowledge bases. | [Github](https://github.com/entire-vc/evc-team-relay-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/entire-vc/evc-team-relay-mcp?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
