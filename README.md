@@ -47,6 +47,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [AI Detection](#ai-detection)
 
 ### ChatGPT and other AI chatbot
+
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
+
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Claude| Anthropic's AI chatbot, including Claude Opus 4.7. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
