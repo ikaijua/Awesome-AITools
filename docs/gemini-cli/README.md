@@ -14,9 +14,10 @@ Gemini CLI is designed for terminal users:
 
 ### Google AI Capabilities
 Direct access to Google's latest Gemini models:
-- Powerful code understanding and generation (Gemini 3.1 Pro)
-- Multimodal support (text, images, design assets)
+- Powerful code understanding and generation (Gemini 3.5 Flash)
+- Multimodal support (text, images, design assets, audio, video)
 - Ultra-long context processing (1M+ tokens)
+- Optimized for "agentic" workflows and complex multi-step reasoning
 - Real-time web grounding via Google Search integration
 
 ### Open Source and Controllable
