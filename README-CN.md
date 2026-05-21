@@ -63,7 +63,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型是 Claude Opus 4.7 和Claude Sonnet 4.7|[URL](https://claude.ai/)| 免费/付费|
-| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.1 pro模型，Nano Banana 2在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) |免费/付费|
+| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.5 Flash模型，Nano Banana 2在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) <br>体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)<br>[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
 | 通义千问 |阿里的大语言模型。 <br> qwen.ai中可体验最新的模型和不同的模型，最强的 Qwen3.5-Max-Thinking-Preview，有深度研究的选项|[URL](https://www.qianwen.com/)|免费|
 | 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
@@ -81,7 +81,7 @@
 |OpenClaw|开源的自托管 AI 智能体，可以在本地运行并自主执行任务。能够连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器，访问系统，具有持久记忆功能。由 Peter Steinberger 开发，是增长最快的开源项目之一。[入门介绍](docs/openclaw/README-CN.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|免费|
 | Claude Code | Anthropic的AI编程助手，以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。[入门介绍](docs/claude-code/README-CN.md) |[URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [Github](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|免费|
 |Codex|OpenAI推出的基于 Rust 开发的高性能编程智能体，在终端中运行。基于 GPT-5.4 生态，可直接从命令行极速理解和修改代码。[入门介绍](docs/codex/README-CN.md)|[Github](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social)|免费|
-|Gemini CLI|一个开源的基于Gemini 3.1的命令行终端AI智能体，支持 1M+ 超长上下文。[入门介绍](docs/gemini-cli/README-CN.md)|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|免费|
+|Gemini CLI|一个开源的基于Gemini 3.5 Flash的命令行终端AI智能体，支持 1M+ 超长上下文。[入门介绍](docs/gemini-cli/README-CN.md)|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|免费|
 | autoresearch | Karpathy 开源的自动化 AI 研究助手。它能够自主提出假设、修改训练代码并运行实验，通过不断迭代来寻找性能提升方案，是专为机器学习研究设计的自主 Agent。 | [Github](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 免费 |
 | ml-intern | 由 Hugging Face 开发的开源自主 AI Agent，定位为专业机器学习工程师。它能够处理端到端的 ML 生命周期，包括研究论文、编写代码、运行实验以及将模型发布到 Hugging Face Hub。[入门介绍](docs/ml-intern/README-CN.md) | [Github](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | 免费 |
 | musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[Github](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
@@ -152,7 +152,7 @@
 ### GPT-LLMs应用
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Google AI Studio|Google AI Studio 是一个基于 Web 的免费平台，允许开发者使用 Google 的大型语言模型（如 Gemini）进行原型设计和实验。它提供了一个易于使用的界面，你可以快速构建文本生成、代码生成、聊天机器人等应用。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) <br>介绍：B站视频：[一枚卓子/Google AI Studio教程｜体验Gemini 2.0 flash 模型，和它视频聊天，创造提示词机器人](https://www.bilibili.com/video/BV1ejkgYcEi5/)|[URL](https://aistudio.google.com/)|免费|
+| Google AI Studio|Google AI Studio 是一个基于 Web 的免费平台，允许开发者使用 Google 的大型语言模型（如 Gemini 3.5 Flash）进行原型设计和实验。它提供了一个易于使用的界面，你可以快速构建文本生成、代码生成、聊天机器人等应用。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) <br>介绍：B站视频：[一枚卓子/Google AI Studio教程｜体验Gemini 3.5 Flash 模型，和它视频聊天，创造提示词机器人](https://www.bilibili.com/video/BV1ejkgYcEi5/)|[URL](https://aistudio.google.com/)|免费|
 |Cherry Studio|Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等；集成了流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等；支持 Ollama、LM Studio 本地模型部署|[Github](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|免费|
 | NotebookLM |NotebookLM是谷歌推出的一款强大的虚拟研究助手，它可以将各种类型的文件，包括文本、视频、音频甚至数据集，转化成生动有趣的播客节目（播客音频目前只支持英语）。除此之外，NotebookLM 还可以生成常见问题解答、学习指南、目录、时间轴和简报等，并支持用户进行自由对话和事实核查。|[URL](https://notebooklm.google.com/)|免费|
 | Learn about |谷歌开发的人工智能学习助手。它是一个会话式的学习伙伴，能适应您独特的好奇心和学习目标，帮助您掌握新主题并加深理解。|[URL](https://learning.google.com/experiments/learn-about)|免费|
@@ -210,7 +210,7 @@
 | --- | --- | --- | --- |
 | ChatGPT Images 2.0 |OpenAI最新的图像生成模型 GPT Image 2.0。先进的AI图像生成和编辑能力。|[URL](https://chatgpt.com/images)|免费/付费|
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
-| Nano Banana/Nano Banana Pro|谷歌用于图像生成与编辑的先进人工智能模型。在LMArena文本转图像和图像编辑排行榜中位列榜首。<br> [Nano Banana 的用法合集](https://github.com/ikaijua/Awesome-AITools/wiki/Nano-Banana-%E7%9A%84%E7%94%A8%E6%B3%95%E5%90%88%E9%9B%86) <br>在线网站：<br> 1. [aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) <br> 2. [gemini](https://gemini.google.com/app) <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) |免费/付费|
+| Nano Banana/Nano Banana Pro|谷歌用于图像生成与编辑的先进人工智能模型。在LMArena文本转图像和图像编辑排行榜中位列榜首。<br> [Nano Banana 的用法合集](https://github.com/ikaijua/Awesome-AITools/wiki/Nano-Banana-%E7%9A%84%E7%94%A8%E6%B3%95%E5%90%88%E9%9B%86) <br>在线网站：<br> 1. [aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) <br> 2. [gemini](https://gemini.google.com/app) <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) |免费/付费|
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[Github](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
