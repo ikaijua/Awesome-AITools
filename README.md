@@ -348,6 +348,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
+|PDFExcel|AI tool that converts any PDF — including scanned and photographed documents — into clean Excel, CSV, or Google Sheets, with no templates required.|[Website](https://pdfexcel.ai)|Freemium|
 
 
 ### Real Estate
