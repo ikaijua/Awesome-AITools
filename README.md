@@ -218,6 +218,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Dreamina|AI image and video creation tool by ByteDance/CapCut. Powered by Seedance 2.0 model. Supports text-to-image, text-to-video, image-to-video with 2K ultra-clear output|[URL](https://dreamina.capcut.com/)|Free/Paid|
+| Seedance 2.0 Cloud | Hosted access to ByteDance's Seedance 2.0 model — text-to-video, image-to-video, character lip-sync, 1080p output. Pay-as-you-go credits, free tier with no signup required. | [URL](https://seedance2.cloud/) | Free/Paid |
 | Wan2.6 |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. | [URL](https://openai.com/sora) | Paid |
 | KLING AI|AI Video Creation Tool by kuaishou. Support text to video, image to video, start-end frame and motion control |[URL](https://klingai.com/)|Free/Paid|
