@@ -361,5 +361,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
+| Vynly Check | Free AI image detector that is honest about confidence: three explicit tiers (cryptographic C2PA/SynthID, visible watermark, style heuristic), color-coded so you see which signal each verdict came from. No signup. | [URL](https://vynly.co/check) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
