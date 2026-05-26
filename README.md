@@ -362,5 +362,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
 | Vynly Check | Free AI image detector that is honest about confidence: three explicit tiers (cryptographic C2PA/SynthID, visible watermark, style heuristic), color-coded so you see which signal each verdict came from. No signup. | [URL](https://vynly.co/check) | Free |
+| STORYLINER | AI storyboard generator. Turns scripts into production-ready storyboards in 2 minutes with consistent characters across every frame thanks to its Character Memory engine. 6 art styles (sketch, lineart, classic, pen art, realism, simple). Direct Final Draft/Celtx/Fountain import. PDF/PPT/PNG export. Built for film directors, ad agencies, indie filmmakers. Powered by Nano Banana 2. | [URL](https://www.storyliner.online/) | Free/Paid |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
