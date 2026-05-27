@@ -213,6 +213,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
+| Comicory | AI comic generator. Turns a story paragraph into a multi-panel comic strip with consistent characters across every panel, powered by FLUX.1-Kontext for image-to-image conditioning. 8 art styles (manga, western, superhero, watercolor, B&W, cartoon, pixel, ink), per-panel regeneration. | [URL](https://www.comicory.com) | Free/Paid |
 
 ### Video Creation
 
