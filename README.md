@@ -209,6 +209,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
 | ideogram.ai | Enter text to create pictures. A product developed by a company founded by many ex-Googlers |[URL](https://ideogram.ai/)| Free/Paid |
 | Nero AI | AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/|[URL](https://ai.nero.com/)|Paid/Trial|
+| PhotoRestore.ai | AI-powered restoration of old and damaged photos. Automatically repairs scratches, tears, fading, and colorizes black-and-white photos. | [URL](https://photorestore.ai) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts  | [URL](https://skybox.blockadelabs.com/)| Free/Paid|
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
