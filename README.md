@@ -213,6 +213,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
+| FreeAI.help | Free AI tools platform: image generation (Flux) and AI chat (DeepSeek). No sign-up required. | [URL](https://freeai.help) | Free |
 
 ### Video Creation
 
