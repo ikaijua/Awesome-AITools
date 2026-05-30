@@ -304,6 +304,7 @@
 | --- | --- | --- | --- |
 | whisper | 开源，OpenAPI 开源的通过大规模的弱监督进行鲁棒性的语音识别的模型 | [GitHub](https://github.com/openai/whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/whisper?style=social) | 免费 |
 | FunASR | 阿里通义实验室开源的工业级语音识别工具包，GPU上170倍实时（比Whisper快13倍），支持50+语言、说话人分离、情感检测。提供OpenAI兼容API：`funasr-server --device cuda` | [GitHub](https://github.com/modelscope/FunASR) ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) | 免费 |
+| SenseVoice | 超快速非自回归语音识别模型，170倍实时速度，支持50+语种，内置情感和音频事件检测，仅234M参数。 | [GitHub](https://github.com/FunAudioLLM/SenseVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice?style=social) | 免费 |
 | whisper.cpp | OpenAI 的 Whisper 模型在 C/C++ 中的实现|[Github](https://github.com/ggml-org/whisper.cpp) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social)|Free|
 | VideoCaptioner |基于 LLM 的智能字幕助手，无需GPU一键高质量字幕视频合成！支持生成、断句、优化、翻译全流程。让视频字幕制作简单高效！<br>视频介绍：[痕继痕迹/开源免费！一键生成字幕并翻译，中日英多语言支持！- 字幕生成、断句、优化、翻译全流程处理](https://www.bilibili.com/video/BV1giBqYtEqG/)| [Github](https://github.com/WEIFENG2333/VideoCaptioner) ![GitHub Repo stars](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=social)|免费|
 | buzz | 开源，基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件，使用CPU进行处理 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| 免费 |
