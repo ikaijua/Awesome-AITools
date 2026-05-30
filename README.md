@@ -287,6 +287,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | [GitHub](https://github.com/chidiwilliams/buzz) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| Free |
 | WhisperDesktop| Open source, OpenAI-based Whisper, a desktop application for Windows, uses the GPU for processing, which will be faster than on the CPU with good GPU performance.|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|Free|
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
+| FunASR | Industrial-grade speech recognition toolkit supporting 50+ languages, 170x realtime speed, with built-in VAD, punctuation, speaker diarization, and emotion detection. OpenAI-compatible API. | [GitHub](https://github.com/modelscope/FunASR) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) | Free |
+| SenseVoice | Ultra-fast non-autoregressive speech recognition (170x realtime), supporting 50+ languages with built-in emotion and audio event detection. 234M parameters. | [GitHub](https://github.com/FunAudioLLM/SenseVoice) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice?style=social) | Free |
 
 ### Text To Speech
 | Name | Description | Links | Fees |
