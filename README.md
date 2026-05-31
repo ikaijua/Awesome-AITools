@@ -91,6 +91,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ECC | Open-source enhancement framework for AI coding agents. Unified agent/skills/rules/Hooks/MCP configuration across Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot. Ships with 60 sub-agents, 232 skills, persistent memory, AgentShield security scan, and desktop dashboard GUI. | [Github](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | Free |
 | Cua | Open-source infrastructure for Computer-Use Agents (CUA). Provides sandboxes, drivers, and SDKs for macOS, Windows, Linux, and Android, enabling AI to control full desktops just like a human. [Intro](docs/cua/README.md) | [Github](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | Free |
 
+|JARVIS|A local-first holographic AI desktop assistant for Windows. Voice control (Whisper STT + Piper TTS), webcam vision, FLUX local image generation, image-to-3D (TRELLIS/Hunyuan3D), 80+ tools, 9-role agent swarm, React + Three.js holographic HUD, FastAPI backend. Supports Ollama, LM Studio, vLLM, OpenAI, Anthropic. No cloud required.|[Github](https://github.com/Dix01/JARVIS) ![GitHub Repo stars](https://img.shields.io/github/stars/Dix01/JARVIS?style=social)|Free|
+
 ### Agent Skills
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
