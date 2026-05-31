@@ -106,6 +106,7 @@
 | Multica | 开源托管代理平台，将 AI 编码代理（Claude Code, Copilot 等）作为“一等公民”队友集成到开发团队中。支持任务分配、进度跟踪和技能复用。[入门介绍](docs/multica/README-CN.md) | [Github](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 免费/付费 |
 | Understand Anything | 基于 AI 的代码库和知识库分析工具，构建交互式可视化知识图谱。支持多智能体分析、架构引导教程以及针对大型代码库的语义搜索。可作为 Claude Code、Cursor 等工具的插件使用。[入门介绍](docs/understand-anything/README-CN.md) | [Github](https://github.com/Lum1104/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=social) | 免费 |
 | ECC | 面向 AI 编程代理的开源增强框架。为 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等提供统一的 Agent/技能/规则/Hook/MCP 配置体系。内置 60 个子代理、232 个技能、记忆持久化、AgentShield 安全扫描，附带桌面仪表盘 GUI。 | [Github](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | 免费 |
+| Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。[入门介绍](docs/cua/README-CN.md) | [Github](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
@@ -424,6 +425,11 @@
 |H1|宇树科技的人形机器人|[URL](https://www.unitree.com/h1/)|
 |Phoenix|sanctuary.ai公司的人形机器人|[URL](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/)|
 |MenteeBot|以色列人形机器人公司 Meetee Robotics 发布的首款双足人形机器人|[URL](https://www.menteebot.com/)|
+
+### 具身智能与仿真
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| Genesis | 通用机器人和具身智能（Embodied AI）的高性能仿真平台。集成了统一物理引擎、照片级渲染器和跨平台编译器，支持刚体、流体、布料等多种物理模拟，是训练 AI 机器人核心能力的“虚拟世界”。[入门介绍](docs/genesis/README-CN.md) | [Github](https://github.com/Genesis-Embodied-AI/genesis-world) ![GitHub Repo stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social) | 免费 |
 
 ## 精选文章
 ### chatgpt相关文章
