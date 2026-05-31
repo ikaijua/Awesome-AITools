@@ -65,7 +65,7 @@
 | Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude Opus 4.8、Claude Sonnet 4.6 和 Claude Haiku 4.5|[URL](https://claude.ai/)| 免费/付费|
 | Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.5 Flash模型，Nano Banana 2在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) <br>体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)<br>[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
-| 通义千问 |阿里的大语言模型。 <br> qwen.ai中可体验最新的模型和不同的模型，最强的 Qwen3.5-Max-Thinking-Preview，有深度研究的选项|[URL](https://www.qianwen.com/)|免费|
+| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 可体验 Qwen3.6-Plus 等最新模型，并提供深度研究选项。|[URL](https://chat.qwen.ai/)|免费|
 | 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
 | DeepSeek | DeepSeek的AI助手，包含最新的 V4 系列。提供 100 万超长上下文、原生多模态支持，以及极具性价比的旗舰级推理能力（V4-Pro）。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
 | 智谱AI | 最新的GLM-5模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费/付费|
@@ -141,7 +141,7 @@
 | Llama 3 | Llama3是Meta AI开发的开源的大型语言模型， 它是Llama 语言模型v3版本。<br>Llama3在线测试地址：[huggingface.co/Meta-Llama-3-70B-Instruct](https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct)|[GitHub](https://github.com/meta-llama/llama3) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social)| 免费  |
 | Mixtral-8x7B |法国人工智能初创公司 Mistral AI开源的一种具有开放权重的稀疏专家混合模型 (SMoE)，在大多数基准测试中都优于 Llama 2 70B 和 GPT-3.5 <br>论文地址：https://arxiv.org/pdf/2401.04088.pdf <br>论文主页：https://mistral.ai/news/mixtral-of-experts/ |[Github](https://github.com/mistralai/mistral-src) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-src?style=social)|免费|
 |grok-1|马斯克的xAI公司开源的大语言模型|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|免费|
-| Qwen(通义千问)  |阿里研发的通义千问大模型系列 <br>在线Demo地址：<br> [Qwen-7B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-7B-Chat-Demo/summary) <br> [Qwen-72B-Chat-Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary) | [Qwen-7B](https://github.com/QwenLM/Qwen-7B) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-7B?style=social)<br>[Qwen1.5](https://github.com/QwenLM/Qwen1.5)![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen1.5?style=social)| 免费  |
+| Qwen3 |阿里云通义千问团队研发的大语言模型系列。Qwen3-2507 包含 Instruct 和 Thinking 系列，提供 235B-A22B、30B-A3B、4B 等版本，支持 256K 长上下文，部分场景支持 1M 输入。 | [Github](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social)| 免费  |
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
 | Phi-3| Phi-3是微软开发的开放式人工智能模型系列。Phi-3 模型是目前能力最强、最具成本效益的小型语言模型（SLM），在各种语言、推理、编码和数学基准测试中，其性能均优于相同大小和更大的模型。|[Github](https://github.com/microsoft/Phi-3CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-3CookBook?style=social)|免费|
 
