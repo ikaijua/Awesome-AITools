@@ -89,6 +89,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Multica | Open-source managed agents platform to integrate AI coding agents (Claude Code, Copilot, etc.) into dev teams as first-class teammates. Features task assignment, progress tracking, and reusable skills. [Intro](docs/multica/README.md) | [Github](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | Free/Paid |
 | Understand Anything | AI-powered codebase and knowledge base analysis tool that builds interactive visual knowledge graphs. Features multi-agent analysis, architecture guided tours, and semantic search for large codebases. Works as a plugin for Claude Code, Cursor, and more. [Intro](docs/understand-anything/README.md) | [Github](https://github.com/Lum1104/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=social) | Free |
 | ECC | Open-source enhancement framework for AI coding agents. Unified agent/skills/rules/Hooks/MCP configuration across Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot. Ships with 60 sub-agents, 232 skills, persistent memory, AgentShield security scan, and desktop dashboard GUI. | [Github](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | Free |
+| Cua | Open-source infrastructure for Computer-Use Agents (CUA). Provides sandboxes, drivers, and SDKs for macOS, Windows, Linux, and Android, enabling AI to control full desktops just like a human. [Intro](docs/cua/README.md) | [Github](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | Free |
 
 ### Agent Skills
 | Name | Description | Links | Fees |
@@ -353,14 +354,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 
 ### Real Estate
-| Name | Description | Links | Fees |
-| --- | --- | --- | --- |
-|AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
 
-### AI Detection
+### Embodied AI & Simulation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
-| Vynly Check | Free AI image detector that is honest about confidence: three explicit tiers (cryptographic C2PA/SynthID, visible watermark, style heuristic), color-coded so you see which signal each verdict came from. No signup. | [URL](https://vynly.co/check) | Free |
+| Genesis | High-performance simulation platform for general-purpose robotics and embodied AI. Integrates a unified multi-physics engine, photo-realistic renderer, and cross-platform compiler for training AI agents in complex physical worlds. [Intro](docs/genesis/README.md) | [Github](https://github.com/Genesis-Embodied-AI/genesis-world) ![GitHub Repo stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social) | Free |
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
