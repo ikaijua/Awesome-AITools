@@ -45,7 +45,7 @@ It's more cautious than you are:
 - Automated testing and code review
 
 ### 4. Multi-Model Support
-- Support for the latest Claude 4.5/4.6 model family
+- Support for the latest Claude Opus 4.8, Claude Sonnet 4.6, and Claude Haiku 4.5 model family
 - Switch between models based on task requirements
 - Fast mode for quicker responses
 
