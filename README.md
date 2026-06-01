@@ -214,6 +214,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
+| Adstronaut AI | End-to-end AI platform for fashion brands: AI Designer (moodboard to photoreal concept), Tech Pack Generator (factory-ready specs from a single garment photo), AI Photoshoots (on-model imagery without studio), color and fabric swap, garment editor, design variations, product views, master catalog. | [URL](https://adstronaut.net) | Free/Paid 
 
 ### Video Creation
 
