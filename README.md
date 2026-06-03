@@ -14,6 +14,33 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+- [Become Sponsors](#become-sponsors)
+
+## 💎 Sponsor
+
+<p align="center">
+  A huge thank you to our sponsors for their generous support!
+</p>
+
+<table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
+  <tr align="center">
+    <td width="300" valign="middle" align="center">
+      <br>
+      <sub>
+        <a href="https://doloffer.com/zh/" target="_blank">
+          <img src="https://doloffer.com/assets/logo-CxQRGpM5.png" alt="Visit DOLOFFER website">
+        </a>
+        【"Doloffer"--One-stop digital subscription and top-up platform
+        https://doloffer.com, We specialize in offering genuine subscriptions to various AI-powered digital services, including GPT and Claude. Get a 10% discount with code AI8888. Fast shipping and worry-free after-sales service.】
+      </sub>
+    </td>
+  </tr>
+
+  </tr>
+  </tr>
+</table>
+
+
 ## All Categories
 - [All Categories](#all-categories)
   - [ChatGPT and other AI chatbot](#chatgpt-and-other-ai-chatbot)
@@ -353,11 +380,21 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
 
-### Real Estate
-
 ### Embodied AI & Simulation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Genesis | High-performance simulation platform for general-purpose robotics and embodied AI. Integrates a unified multi-physics engine, photo-realistic renderer, and cross-platform compiler for training AI agents in complex physical worlds. [Intro](docs/genesis/README.md) | [Github](https://github.com/Genesis-Embodied-AI/genesis-world) ![GitHub Repo stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social) | Free |
+
+### Become Sponsors
+
+<p align="center">
+Interested in sponsoring this project? Feel free to reach out!
+<br/>
+<a href="xiaoqijiqimao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
+
+</div>
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
