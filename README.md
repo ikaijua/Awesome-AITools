@@ -390,7 +390,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 <p align="center">
 Interested in sponsoring this project? Feel free to reach out!
 <br/>
-<a href="xiaoqijiqimao@gmail.com">
+<a href="mailto:xiaoqijiqimao@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
