@@ -296,6 +296,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
+| AI 工具箱 | AI-powered Chinese content generation. 3s generate Xiaohongshu viral copy, AI resume optimization, and high-conversion marketing copy. Powered by DeepSeek API. Free 3 tries, ¥19.9 lifetime. | [Website](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com), [Github](https://github.com/feimaoqishi/ai-toolkit) ![GitHub Repo stars](https://img.shields.io/github/stars/feimaoqishi/ai-toolkit?style=social) | Free/Paid |
 
 
 
