@@ -24,14 +24,12 @@
 
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
-    <td width="300" valign="middle" align="center">
-      <br>
+    <td width="400" valign="middle" align="center">
       <sub>
         <a href="https://doloffer.com/zh/" target="_blank">
-          <img src="https://doloffer.com/assets/logo-CxQRGpM5.png" alt="Visit DOLOFFER website">
+          <img src="https://github.com/user-attachments/assets/cd93d75f-7cf0-4295-9bf5-a2ae412feefc" alt="Visit DOLOFFER website">
         </a>
-        【“Doloffer”--一站式数字订阅充值平台
-        https://doloffer.com, 主营 GPT、Claude 等 AI多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧】
+        【“Doloffer”--一站式数字订阅充值平台, 主营 GPT、Claude 等 AI多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧】
       </sub>
     </td>
   </tr>
