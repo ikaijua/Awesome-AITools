@@ -24,14 +24,13 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
-    <td width="300" valign="middle" align="center">
-      <br>
+    <td width="400" valign="middle" align="center">
       <sub>
-        <a href="https://doloffer.com/zh/" target="_blank">
-          <img src="https://doloffer.com/assets/logo-CxQRGpM5.png" alt="Visit DOLOFFER website">
+        <a href="https://doloffer.com/" target="_blank">
+          <img alt="Visit DOLOFFER website" src="https://github.com/user-attachments/assets/94c3e24b-c0ce-4b07-8a80-76c21856f74c" />
         </a>
-        【"Doloffer"--One-stop digital subscription and top-up platform
-        https://doloffer.com, We specialize in offering genuine subscriptions to various AI-powered digital services, including GPT and Claude. Get a 10% discount with code AI8888. Fast shipping and worry-free after-sales service.】
+         【"Doloffer"--One-stop digital subscription and top-up platform
+        , We specialize in offering genuine subscriptions to various AI-powered digital services, including GPT and Claude. Get a 10% discount with code AI8888. Fast shipping and worry-free after-sales service.】
       </sub>
     </td>
   </tr>
