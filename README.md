@@ -265,6 +265,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+|CoderPlan|OpenAI-compatible LLM API gateway for Claude Code, Cursor, and AI coding tools. Pay-per-use with free tier.|[URL](https://coderplan.ai) |Free/Paid|
 
 ### GPU Programming
 | Name | Description | Links | Fees |
