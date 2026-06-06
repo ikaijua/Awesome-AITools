@@ -277,6 +277,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[Github](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+|Prompt Evaluator|Free prompt and workflow auditing tool — test, score, and improve AI prompts before deployment. Identify hallucination risks, instruction leakage, and edge-case failures.|[Github](https://github.com/ariangibson/prompt-evaluator) ![GitHub Repo stars](https://img.shields.io/github/stars/ariangibson/prompt-evaluator?style=social), [Official Site](https://promptevaluator.vercel.app)|Free|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
