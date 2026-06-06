@@ -138,6 +138,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
 
+| TWZRD Agent Intel | Trust scoring and receipt verification MCP server for AI agents on Solana. Pre-dispatch trust gating (`preflight_check`, `score_agent`, `resolve_agent`, `verify_trust_receipt` free), plus paid signed V5 trust receipts via x402 USDC micropayments (<1s settlement). Streamable-HTTP: `https://intel.twzrd.xyz/mcp` | [Website](https://intel.twzrd.xyz) | Free + Paid |
 ### Open Source LLMs
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
