@@ -24,7 +24,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
-    <td width="400" valign="middle" align="center">
+    <td width="500" valign="middle" align="center">
       <sub>
         <a href="https://doloffer.com/" target="_blank">
           <img alt="Visit DOLOFFER website" src="https://github.com/user-attachments/assets/94c3e24b-c0ce-4b07-8a80-76c21856f74c" />
