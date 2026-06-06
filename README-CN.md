@@ -24,7 +24,7 @@
 
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
-    <td width="400" valign="middle" align="center">
+    <td width="500" valign="middle" align="center">
       <sub>
         <a href="https://doloffer.com/zh/" target="_blank">
           <img src="https://github.com/user-attachments/assets/cd93d75f-7cf0-4295-9bf5-a2ae412feefc" alt="Visit DOLOFFER website">
