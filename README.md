@@ -245,6 +245,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| cv.cm/v | Queue-free, full-power Seedance 2.0 text-to-video & image-to-video, plus gpt-image-2/Seedream images, real-face support, a short-drama agent, an infinite canvas and an open API |[URL](https://cv.cm/v)|Free/Paid|
 | Dreamina|AI image and video creation tool by ByteDance/CapCut. Powered by Seedance 2.0 model. Supports text-to-image, text-to-video, image-to-video with 2K ultra-clear output|[URL](https://dreamina.capcut.com/)|Free/Paid|
 | Wan2.6 |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
 | Sora | Sora is an AI model published by OpenAI that can create realistic and imaginative scenes from text instructions. | [URL](https://openai.com/sora) | Paid |
