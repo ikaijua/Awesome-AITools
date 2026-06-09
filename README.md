@@ -215,6 +215,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
 | AI-Codereview-Gitlab | GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | Free |
 
+| Lacy Shell | ZSH/Bash plugin that transparently routes natural language to AI coding agents and shell commands. No prefix, no hotkey — pure lexical analysis, sub-millisecond. Works with Claude Code, Gemini CLI, OpenCode. | [URL](https://lacy.sh) [Github](https://github.com/lacymorrow/lacy) ![GitHub Repo stars](https://img.shields.io/github/stars/lacymorrow/lacy?style=social) | Free |
+
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
