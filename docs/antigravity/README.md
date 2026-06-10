@@ -74,6 +74,55 @@ System requirements:
 3. The agent edits files, runs commands in the terminal, and optionally drives the browser to verify
 4. Review the diff and the Artifacts (screenshots, recordings, logs), then accept or iterate
 
+## CLI Usage
+
+While Antigravity is primarily delivered as a desktop IDE with Editor and Manager views, it also inherits and expands on the command-line capabilities of the former `Gemini CLI`. You can interact with the Antigravity agent directly from your terminal using the `gemini` command.
+
+### Installation / Setup
+- **IDE Built-in**: Inside the Antigravity desktop IDE, open the Command Palette (F1 or Cmd/Ctrl+Shift+P) and search for `Shell Command: Install 'gemini' command in PATH`.
+- **Standalone Client** (if you need a standalone command-line client):
+  ```bash
+  npm install -g @google/gemini-cli
+  ```
+
+### Basic Commands
+
+```bash
+# Launch interactive terminal session
+gemini
+
+# Ask a prompt directly and start interactive mode
+gemini "Analyze current project structure"
+
+# Run in non-interactive (headless) mode with a given prompt
+gemini --prompt "Write unit tests for src/auth.js"
+
+# Safely run inside a new Git worktree to avoid contaminating the current branch
+gemini --worktree my-refactor "Refactor login logic"
+```
+
+### Common Options
+
+- `-m, --model <model_name>`: Specify the model to use (e.g. `gemini-3-pro`, `gemini-3-flash`, `claude-3-5-sonnet`)
+- `-y, --yolo`: YOLO mode; automatically approve all agent actions (edits, shell commands) without asking
+- `--approval-mode <mode>`: Set the tool approval mode (`default`, `auto_edit` for auto-approving file changes, `yolo`, or `plan` for read-only plan mode)
+- `-r, --resume <session_id>`: Resume a previous session (e.g. `latest` or a specific index/ID)
+- `-s, --sandbox`: Run the agent within a sandbox environment for command execution security
+
+### Helper Commands
+
+```bash
+# Manage Model Context Protocol (MCP) servers
+gemini mcp list
+gemini mcp add <name> <command>
+
+# Manage agent skills
+gemini skills list
+
+# Manage automation hooks
+gemini hooks list
+```
+
 ## Common Use Cases
 
 ### Long-Horizon Refactoring
