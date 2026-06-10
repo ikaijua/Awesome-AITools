@@ -74,6 +74,55 @@ Antigravity 以桌面 IDE 形式发布（目前为公开预览，预览期免费
 3. 智能体编辑文件、在终端中执行命令，必要时驱动浏览器进行验证
 4. 审阅 diff 与 Artifacts（截图、录屏、日志），接受或继续迭代
 
+## CLI 使用方法
+
+虽然 Antigravity 主打以 IDE 形式提供双视图（Editor 与 Manager），但也支持通过原 `Gemini CLI` 的命令行交互能力来完成终端工作流。您可以在终端中直接使用 `gemini` 命令来与 Antigravity 智能体交互。
+
+### 安装 / 启用
+- **IDE 内置**：在 Antigravity 桌面版 IDE 中，您可以通过命令行面板（F1 / Ctrl+Shift+P）执行 `Shell Command: Install 'gemini' command in PATH`。
+- **独立客户端**（如果需要单独的命令行）：
+  ```bash
+  npm install -g @google/gemini-cli
+  ```
+
+### 基本命令
+
+```bash
+# 启动交互式终端会话
+gemini
+
+# 直接运行一个命令任务并进入交互模式
+gemini "分析当前项目结构"
+
+# 在非交互（无头/脚本）模式下执行并输出结果
+gemini --prompt "为 src/auth.js 编写单元测试"
+
+# 在新的 Git 工作树中安全运行，避免污染当前分支
+gemini --worktree my-refactor "重构登录逻辑"
+```
+
+### 常用选项
+
+- `-m, --model <model_name>`：指定使用的模型，例如 `gemini-3-pro`、`gemini-3-flash` 或 `claude-3-5-sonnet`
+- `-y, --yolo`：YOLO 自动确认模式（谨慎使用），自动接受智能体的所有操作（如编辑、终端命令）
+- `--approval-mode <mode>`：审批模式设定，可选 `default`（提示确认）、`auto_edit`（自动允许文件修改）、`yolo`（自动确认所有操作）、`plan`（只读计划模式）
+- `-r, --resume <session_id>`：恢复之前的某个会话，支持指定 `latest`
+- `-s, --sandbox`：在沙盒环境中运行，确保命令执行的隔离安全性
+
+### 辅助管理命令
+
+```bash
+# 管理 MCP (Model Context Protocol) 服务
+gemini mcp list
+gemini mcp add <name> <command>
+
+# 管理智能体技能（Skills）
+gemini skills list
+
+# 管理自动化钩子（Hooks）
+gemini hooks list
+```
+
 ## 常见场景
 
 ### 长链路重构
