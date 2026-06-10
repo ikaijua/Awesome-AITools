@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## June 2026
+- Added phuryn/pm-skills to Agent Skills section
 - Added AGENTS.md documentation standard to AI Agent section
 - Added Doloffer as a sponsor
 
