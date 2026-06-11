@@ -241,6 +241,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
+| miaoCut | A free, privacy-first online AI image toolkit featuring one-click background removal (BiRefNet), watermark remover, and old photo restoration. No signup required. | [URL](https://miaocut.app) , [Github](https://github.com/midcodehub/miaoCut) [![GitHub Repo stars](https://img.shields.io/github/stars/midcodehub/miaoCut?style=social)](https://github.com/midcodehub/miaoCut) | Free |
 
 ### Video Creation
 
