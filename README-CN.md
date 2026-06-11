@@ -254,6 +254,7 @@
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |black-forest-labs/flux|FLUX.1 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)|免费|
+| miaoCut | 免费、注重隐私的在线 AI 图像处理工具箱。提供基于 BiRefNet 的一键免注册抠图、LaMa 去水印以及老照片修复功能，无水印且不收集用户数据。 | [URL](https://miaocut.app) , [Github](https://github.com/midcodehub/miaoCut) [![GitHub Repo stars](https://img.shields.io/github/stars/midcodehub/miaoCut?style=social)](https://github.com/midcodehub/miaoCut) | 免费 |
 
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
