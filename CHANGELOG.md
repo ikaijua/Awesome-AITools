@@ -1,0 +1,48 @@
+# Changelog
+
+All notable changes to the Awesome AI Tools list will be documented in this file.
+
+## June 2026
+- Replaced Gemini CLI entry with Google Antigravity (Gemini CLI is being deprecated); rewrote docs/antigravity/ and COMPARISON
+- Added phuryn/pm-skills to Agent Skills section
+- Added AGENTS.md documentation standard to AI Agent section
+- Added Doloffer as a sponsor
+
+## May 2026
+- Added Cua and Genesis tools to Embodied AI category
+- Added Trae Solo to AI Agent section
+- Added Vynly Check to AI Detection
+- Added ECC (Enhanced Coding Companion) to AI Agent section
+- Added FunASR to Speech Recognition/TTS section
+- Added Understand-Anything to AI Agent section
+- Added AgentsMesh to AI Agent section
+- Added ml-intern to AI Agent section
+- Added Trae to AI Coding section
+- Added mahonzhan/awesome-coding-plan to AI Coding section
+- Removed MarsCode from AI Agent section
+- Added multica to AI Agent section
+- Added Dexter - autonomous financial research agent
+
+## April 2026
+- Added CC Switch - visual manager for Claude Code, Codex, Gemini CLI and more
+- Added BenchGecko to LLM Leaderboard
+- Added addyosmani/agent-skills for AI coding assistants
+- Added LeetCUDA to GPU Programming section
+- Added Hermes Agent by NousResearch to AI Agent section
+- Added TimesFM by Google Research to AI Finance section
+- Added codesight to AI Agent section
+- Added VibeVoice by Microsoft to Speech Recognition/TTS
+- Added Gemma 4 by Google to Open Source LLMs
+- Added Google Workspace CLI to Office Collaboration section
+- Removed BrowserBase MCP from tools list
+- Added bb-browser MCP to Office Collaboration section
+
+## March 2026
+- Added larksuite/cli - Feishu official CLI tool
+- Added bytedance/deer-flow to AI Agent section
+- Added karpathy/autoresearch to AI Agent section
+- Added x1xhlol/system-prompts-and-models-of-ai-tools to LLM Prompts
+- Removed Taskade from AI Agent section
+- Added garrytan/gstack to Agent Skills section
+- Added Codex to AI Agent section
+- Added skills.sh and JimLiu/baoyu-skills to Agent Skills section

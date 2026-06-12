@@ -16,6 +16,32 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+- [Become Sponsors](#become-sponsors)
+
+## 💎 Sponsor
+
+<p align="center">
+  A huge thank you to our sponsors for their generous support!
+</p>
+
+<table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
+  <tr align="center">
+    <td width="500" valign="middle" align="center">
+      <sub>
+        <a href="https://doloffer.com/" target="_blank">
+          <img alt="Visit DOLOFFER website" src="https://github.com/user-attachments/assets/94c3e24b-c0ce-4b07-8a80-76c21856f74c" />
+        </a>
+         【"Doloffer"--One-stop digital subscription and top-up platform
+        , We specialize in offering genuine subscriptions to various AI-powered digital services, including GPT and Claude. Get a 10% discount with code AI8888. Fast shipping and worry-free after-sales service.】
+      </sub>
+    </td>
+  </tr>
+
+  </tr>
+  </tr>
+</table>
+
+
 ## All Categories
 - [All Categories](#all-categories)
   - [ChatGPT and other AI chatbot](#chatgpt-and-other-ai-chatbot)
@@ -51,21 +77,21 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Claude| Anthropic's AI chatbot, including Claude Opus 4.8 and 4.7. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
+| Claude| Anthropic's AI chatbot, including Claude Opus 4.8, Claude Sonnet 4.6, and Claude Haiku 4.5. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
 | Gemini| Google's AI chatbot, including Gemini 3.5 Flash. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. Best for: Image processing and web information integration, Deep Research feature performs exceptionally well, seamlessly integrates with Google Drive. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
 | ChatGPT | OpenAI's AI chatbot, including GPT-5.5. Best for general purpose, coding, and creative writing. Great for most users. Memory function is currently the best - it remembers what you've said and picks up right where you left off in the next conversation, making it feel most like talking to a real person. | [URL](https://chatgpt.com) | Free/Paid |
 | DeepSeek | DeepSeek's AI chatbot, including DeepSeek-V4. Features 1M context window, native multimodality, and state-of-the-art reasoning (V4-Pro) with extremely high performance-to-cost ratio. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
 | Grok | xAI's AI chatbot, including grok-4.20-beta. Best for real-time internet access and Elon Musk's AI vision. Real-time data and news is its moat - can directly access posts on X as information sources, a differentiation that's hard to replicate. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
-| qwen | Alibaba's AI chatbot. Includes Qwen3.5, Qwen3.5-Code and other Qwen LLMs.|[URL](https://chat.qwen.ai/)|Free|
+| qwen | Alibaba's AI chatbot. Includes Qwen3.6-Plus in Qwen Chat and other Qwen LLMs, with deep research capabilities.|[URL](https://chat.qwen.ai/)|Free|
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
 
 ### AI Agent
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |OpenClaw|Open-source self-hosted AI agent that runs locally and autonomously executes tasks. Connects to WhatsApp, Telegram, Slack, Discord and other messaging platforms, with browser control, system access, and persistent memory. Developed by Peter Steinberger, one of the fastest-growing open-source projects. [Intro](docs/openclaw/README.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|Free|
-| Claude Code | Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities. [Intro](docs/claude-code/README.md)|[Github](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Free|
-|Codex|OpenAI's lightweight coding agent that runs in your terminal. An AI-powered coding assistant that can understand and modify code directly from the command line. [Intro](docs/codex/README.md)|[Github](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social)|Free|
-|Gemini CLI|An open-source AI agent that brings the power of Gemini directly into your terminal. [Intro](docs/gemini-cli/README.md)|[Github](https://github.com/google-gemini/gemini-cli/)![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)|Free|
+| Claude Code | Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities. Available in the terminal CLI, VS Code/Cursor/JetBrains IDE plugins, standalone desktop app, and web app; tasks can also continue from the Claude iOS app or browser. [Intro](docs/claude-code/README.md)|[Github](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Free|
+|Codex|OpenAI's lightweight coding agent. Supports the terminal CLI, VS Code/Cursor/Windsurf IDE extensions, Codex Web, and a Codex App/desktop app experience; it can understand and modify code directly. [Intro](docs/codex/README.md)|[Github](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social)|Free|
+|Antigravity|Google's agent-first AI coding platform built around Gemini 3, the successor to Gemini CLI. Delivered as a heavily modified VS Code-based IDE (Editor and Manager views, built-in browser/terminal) and also supports terminal interaction via the `gemini` CLI. Features autonomous agents with multi-step edit/run/verify capabilities and verifiable Artifacts (plans, screenshots, recordings). Also supports Claude Sonnet 4.6, Claude Opus 4.6, and GPT-OSS-120B. [Intro](docs/antigravity/README.md)|[URL](https://antigravity.google/)|Free during preview|
 | autoresearch | An autonomous AI agent for machine learning research by Karpathy. It can formulate hypotheses, modify training code, run experiments, and evaluate results autonomously to find performance improvements. | [Github](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | Free |
 | ml-intern | An open-source, autonomous AI agent by Hugging Face designed to function as a specialized Machine Learning Engineer. It handles the end-to-end ML lifecycle, including researching papers, writing code, running experiments, and shipping models to the Hugging Face Hub. [Intro](docs/ml-intern/README.md) | [Github](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | Free |
 | musistudio/claude-code-router | A powerful tool to route Claude Code requests to different models and customize any request. Supports multi-provider routing, request/response transformation, dynamic model switching, CLI model management, and GitHub Actions integration. |[Github](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|Free|
@@ -90,6 +116,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | CC Switch | Cross-platform desktop app to manage Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Features visual configuration for API providers, MCP servers, and skills with bidirectional sync. [Intro](docs/cc-switch/README.md) | [Github](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | Free |
 | Multica | Open-source managed agents platform to integrate AI coding agents (Claude Code, Copilot, etc.) into dev teams as first-class teammates. Features task assignment, progress tracking, and reusable skills. [Intro](docs/multica/README.md) | [Github](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | Free/Paid |
 | Understand Anything | AI-powered codebase and knowledge base analysis tool that builds interactive visual knowledge graphs. Features multi-agent analysis, architecture guided tours, and semantic search for large codebases. Works as a plugin for Claude Code, Cursor, and more. [Intro](docs/understand-anything/README.md) | [Github](https://github.com/Lum1104/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=social) | Free |
+| ECC | Open-source enhancement framework for AI coding agents. Unified agent/skills/rules/Hooks/MCP configuration across Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot. Ships with 60 sub-agents, 232 skills, persistent memory, AgentShield security scan, and desktop dashboard GUI. | [Github](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | Free |
+| Cua | Open-source infrastructure for Computer-Use Agents (CUA). Provides sandboxes, drivers, and SDKs for macOS, Windows, Linux, and Android, enabling AI to control full desktops just like a human. [Intro](docs/cua/README.md) | [Github](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | Free |
+| AGENTS.md | An open standard for codebase documentation designed specifically for AI coding agents. Provides structured context, instructions, and constraints to help agents work more effectively and safely. [Intro](docs/agents/README.md) | [Github](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | Free |
 
 ### Agent Skills
 | Name | Description | Links | Fees |
@@ -101,6 +130,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ClawHub | A fast skill registry for AI agents, with vector search capabilities. Provides a centralized platform for managing and discovering agent skills. | [URL](https://clawhub.ai/) | Free/Paid |
 | garrytan/gstack | An opinionated collection of Claude Code skills that transform the AI agent into a specialized team of experts (CEO, PM, QA, DevOps). Adds custom slash commands and automated quality checks. | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | Free |
 | addyosmani/agent-skills | A curated library of 20+ engineering workflow skills for AI coding assistants. Standardizes the software development lifecycle from requirements through shipping, with 7 built-in commands: /spec, /plan, /build, /test, /ship, etc. Built by Google Gemini team lead Addy Osmani. Compatible with Claude Code, Gemini CLI, Codex, and Cursor. | [Github](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | Free |
+| phuryn/pm-skills | Product-management skills marketplace for Claude Code and Claude Cowork, providing PM skills and chained workflows across discovery, strategy, execution, launch, growth, and shipping AI-built code. | [Github](https://github.com/phuryn/pm-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/phuryn/pm-skills?style=social) | Free |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
@@ -118,7 +148,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | DeepSeek-V4 |DeepSeek's 4th generation flagship model. V4-Pro (1.6T MoE) and V4-Flash (284B MoE) featuring 1M context, native multimodality, and Hybrid Attention for extreme efficiency.|[Hugging Face](https://huggingface.co/collections/deepseek-ai/deepseek-v4)|Free|
 | DeepSeek-R1 |DeepSeek's first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning.|[Github](https://github.com/deepseek-ai/DeepSeek-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social)|Free|
 | DeepSeek-V3 |A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.|[Github](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|Free|
-| Qwen3 |Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.|[Github](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social)|Free|
+| Qwen3 |Qwen3 is the large language model series developed by the Qwen team at Alibaba Cloud. Qwen3-2507 includes Instruct and Thinking variants with 235B-A22B, 30B-A3B, and 4B sizes, 256K long context, and 1M-token input support in some scenarios.|[Github](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social)|Free|
 | Gemma 4 |Gemma 4 is Google's latest open source large language model series, built on the Gemini architecture, offering improved performance, longer context windows, and better multilingual support.|[Github](https://github.com/google/gemma.cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/google/gemma.cpp?style=social)|Free|
 | Llama 3 | Llama3 is a large language model developed by Meta AI. It is the successor to Meta's Llama2 language model. <br>Online test address:<br>[huggingface.co/Meta-Llama-3-70B-Instruct](https://huggingface.co/chat/models/meta-llama/Meta-Llama-3-70B-Instruct) |[GitHub](https://github.com/meta-llama/llama3) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social)| Free |
 | Mixtral |Mixtral 8x7B, a high-quality sparse mixture of experts model (SMoE) with open weights. Mixtral outperforms Llama 2 70B on most benchmarks with 6x faster inference. It matches or outperforms GPT3.5 on most standard benchmarks. <br>paper：https://arxiv.org/pdf/2401.04088.pdf <br>news：https://mistral.ai/news/mixtral-of-experts/ |[mistral-inference](https://github.com/mistralai/mistral-inference) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social)<br>[mistral-finetune](https://github.com/mistralai/mistral-finetune) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-finetune?style=social)|Free|
@@ -177,7 +207,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | dbForge AI Assistant | AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts | [URL](https://www.devart.com/dbforge/ai-assistant/) | Paid/Free Trial|
 | LeetCUDA | An open-source educational repository and question bank for CUDA programming and deep learning operator optimization. Includes 200+ kernels ranging from basic to advanced (e.g., FlashAttention-2) with PyTorch bindings. | [Github](https://github.com/xlite-dev/LeetCUDA) ![GitHub Repo stars](https://img.shields.io/github/stars/xlite-dev/LeetCUDA?style=social) | Free |
-| Antigravity | Google AI coding assistant based on Windsurf technology, deeply integrated with Gemini and Google Cloud |[URL](https://antigravity.google/) |Free for Individual Use/Paid|
 | Happy Coder | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | Free |
 | Trae | ByteDance's AI coding IDE. Trae is your helpful coding partner. It offers features like AI Q&A, code auto-completion, and agent-based AI programming capabilities. | [URL](https://www.trae.ai/) | Free|
 | Amazon CodeWhisperer | A code writing assistant developed by Amazon| [URL](https://aws.amazon.com/cn/codewhisperer)| Free for Individual Use|
@@ -188,6 +217,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Steel Browser | Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling. | [Github](https://github.com/steel-dev/steel-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) | Free |
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
 | AI-Codereview-Gitlab | GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | Free |
+| Cate | Open source desktop IDE on an infinite zoomable canvas. You arrange Monaco editors, xterm.js terminals, embedded browsers, and Claude Code agent panels in freeform zoomable space instead of tabs. Panels can float, dock, or detach into separate windows, and layout persists per project. Built with Electron, runs on macOS, Windows, and Linux. | [URL](https://cate.cero-ai.com) [Github](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | Free |
 
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |
@@ -354,14 +384,21 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
 
-### Real Estate
+### Embodied AI & Simulation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-|AI Virtual Staging|Stage empty rooms instantly with realistic furniture using AI. MLS compliant, fast, and affordable virtual staging for real estate listings. With furniture removal, day to dusk, 2D to 3D floor plan features support.|[URL](https://www.aivirtualstaging.net/)||Free/Paid|
+| Genesis | High-performance simulation platform for general-purpose robotics and embodied AI. Integrates a unified multi-physics engine, photo-realistic renderer, and cross-platform compiler for training AI agents in complex physical worlds. [Intro](docs/genesis/README.md) | [Github](https://github.com/Genesis-Embodied-AI/genesis-world) ![GitHub Repo stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social) | Free |
 
-### AI Detection
-| Name | Description | Links | Fees |
-| --- | --- | --- | --- |
-| AI Detect Lab | Professional AI image and deepfake detector specifically optimized for Midjourney v7 and Flux. | [URL](https://www.aidetectlab.com/) | Free |
+### Become Sponsors
+
+<p align="center">
+Interested in sponsoring this project? Feel free to reach out!
+<br/>
+<a href="mailto:xiaoqijiqimao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
+
+</div>
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
