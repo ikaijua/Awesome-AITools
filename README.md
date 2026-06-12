@@ -117,6 +117,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ECC | Open-source enhancement framework for AI coding agents. Unified agent/skills/rules/Hooks/MCP configuration across Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot. Ships with 60 sub-agents, 232 skills, persistent memory, AgentShield security scan, and desktop dashboard GUI. | [Github](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | Free |
 | Cua | Open-source infrastructure for Computer-Use Agents (CUA). Provides sandboxes, drivers, and SDKs for macOS, Windows, Linux, and Android, enabling AI to control full desktops just like a human. [Intro](docs/cua/README.md) | [Github](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | Free |
 | AGENTS.md | An open standard for codebase documentation designed specifically for AI coding agents. Provides structured context, instructions, and constraints to help agents work more effectively and safely. [Intro](docs/agents/README.md) | [Github](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | Free |
+|FlyTrap|Exploratory testing agent for mobile apps. Explores Android and iOS builds like a real tester and reports bugs, crashes, and UX issues. Findings are ready to file in Jira, Linear, and GitHub.|[URL](https://flytrap.dev/)|Paid|
 
 ### Agent Skills
 | Name | Description | Links | Fees |
