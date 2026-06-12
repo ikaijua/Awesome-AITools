@@ -7,6 +7,8 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
 </div>
 
+> 🇨🇳 **国内直连 ChatGPT/Claude 等 572 个模型？** [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定
+
 English | [中文](README-CN.md)
 
 This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together! Please use the following template as a reference for your recommendations. [issue](https://github.com/ikaijua/Awesome-AITools/issues/233)
@@ -196,7 +198,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, Mistral, etc.). Zero markup pricing, 5% commission on inference traffic, supports smart routing/failover |[URL](https://openrouter.ai/)| Free/Paid |
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
-
+| AI Fast Club | AI API gateway supporting Claude 4.7, GPT-5.5, Gemini-3, and 200+ models. Supports domestic Chinese payment (Alipay/WeChat), one-key API key management, and competitive pricing. | [URL](https://www.aifast.club) | Free/Paid |
+|
 ### AI Coding
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
