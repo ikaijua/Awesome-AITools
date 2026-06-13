@@ -139,6 +139,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
+| The Stall | x402 MCP server providing 210 pay-per-call AI capabilities — financial data (US/intl stocks, options chains), crypto intelligence, DeFi yields, blockchain analytics, macro indicators, wallet intelligence, prediction markets, and more. USDC on Base mainnet, $0.001–$1.50/call. No API keys required. Remote MCP: `https://the-stall.intuitek.ai/mcp`. v4.64.0. | [Github](https://github.com/thebrierfox/the-stall) ![GitHub Repo stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=social) | Pay-per-call |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
