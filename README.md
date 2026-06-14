@@ -263,6 +263,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
 |vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
+|VideoOverlayKit|Renders 4-6s animated b-roll overlay mp4s for short-form social (LinkedIn / IG Reels / YouTube Shorts / TikTok). AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie.|[Github](https://github.com/alichherawalla/video-overlay-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/alichherawalla/video-overlay-kit?style=social)|Free|
 
 ### AI Cloud Platform
 | Name | Description | Links | Fees |
