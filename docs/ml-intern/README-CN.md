@@ -70,7 +70,7 @@ ml-intern
 ml-intern "在 CIFAR-10 数据集上微调 ResNet 模型"
 
 # 指定特定模型
-ml-intern --model anthropic/claude-3-5-sonnet-latest "你的提示词"
+ml-intern --model anthropic/claude-5-fable "你的提示词"
 ```
 
 ## 相关资源

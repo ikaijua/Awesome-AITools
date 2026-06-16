@@ -70,7 +70,7 @@ ml-intern
 ml-intern "fine-tune a ResNet model on the CIFAR-10 dataset"
 
 # Specify a specific model
-ml-intern --model anthropic/claude-3-5-sonnet-latest "your prompt"
+ml-intern --model anthropic/claude-5-fable "your prompt"
 ```
 
 ## Related Resources

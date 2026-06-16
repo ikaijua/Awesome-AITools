@@ -9,8 +9,8 @@ This document compares three mainstream AI coding tools: Claude Code, Codex, and
 | Developer | Anthropic | OpenAI | Google |
 | Form Factor | Terminal CLI + IDE plugins + desktop/web | Terminal CLI + IDE extensions + web/desktop | Standalone IDE (VS Code fork) + Manager dashboard |
 | Open Source | No | No | No (proprietary, free during preview) |
-| Default Model | Claude (Sonnet/Opus/Fable family) | OpenAI GPT (Codex family) | Gemini 3 Pro / Flash |
-| Other Models | — | — | Claude Sonnet 4.6, Claude Opus 4.6, GPT-OSS-120B |
+| Default Model | Claude 5 (Fable/Mythos) / Claude 4 (Sonnet/Opus) | OpenAI GPT (Codex family) | Gemini 3 Pro / Flash |
+| Other Models | — | — | Claude 5 (Fable), Claude Sonnet 4.6, Claude Opus 4.6, GPT-OSS-120B |
 | API Required | Anthropic API or Claude account | OpenAI API or ChatGPT account | Google account (no separate API key during preview) |
 | Multimodal | Text + images | Text + images | Text + images + integrated browser |
 | Persistent Memory | ✅ Full (per-project + user memory) | ⚠️ Limited per-session | ✅ Cross-run agent learning + project context |

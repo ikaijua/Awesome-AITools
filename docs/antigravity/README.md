@@ -22,7 +22,7 @@ Antigravity treats the human as a manager of agents:
 Out of the box you can choose between:
 - Gemini 3 Pro (default, with generous preview rate limits)
 - Gemini 3 Flash
-- Anthropic Claude Sonnet 4.6 / Claude Opus 4.6
+- Anthropic Claude 5 (Fable/Mythos) / Claude 4 (Sonnet/Opus)
 - GPT-OSS-120B
 
 ### Verifiable Agent Output
@@ -103,7 +103,7 @@ gemini --worktree my-refactor "Refactor login logic"
 
 ### Common Options
 
-- `-m, --model <model_name>`: Specify the model to use (e.g. `gemini-3-pro`, `gemini-3-flash`, `claude-3-5-sonnet`)
+- `-m, --model <model_name>`: Specify the model to use (e.g. `gemini-3-pro`, `gemini-3-flash`, `claude-5-fable`)
 - `-y, --yolo`: YOLO mode; automatically approve all agent actions (edits, shell commands) without asking
 - `--approval-mode <mode>`: Set the tool approval mode (`default`, `auto_edit` for auto-approving file changes, `yolo`, or `plan` for read-only plan mode)
 - `-r, --resume <session_id>`: Resume a previous session (e.g. `latest` or a specific index/ID)

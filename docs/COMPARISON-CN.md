@@ -9,8 +9,8 @@
 | 开发者 | Anthropic | OpenAI | Google |
 | 形态 | 终端 CLI + IDE 插件 + 桌面/Web | 终端 CLI + IDE 扩展 + Web/桌面 | 独立 IDE（VS Code 衍生）+ Manager 仪表盘 |
 | 开源程度 | 非开源 | 非开源 | 非开源（预览期免费） |
-| 默认模型 | Claude（Sonnet/Opus/Fable 系列） | OpenAI GPT（Codex 系列） | Gemini 3 Pro / Flash |
-| 其他模型 | — | — | Claude Sonnet 4.6、Claude Opus 4.6、GPT-OSS-120B |
+| 默认模型 | Claude 5 (Fable/Mythos) / Claude 4 (Sonnet/Opus) 系列 | OpenAI GPT（Codex 系列） | Gemini 3 Pro / Flash |
+| 其他模型 | — | — | Claude 5 (Fable)、Claude Sonnet 4.6、Claude Opus 4.6、GPT-OSS-120B |
 | API 需求 | Anthropic API 或 Claude 账户 | OpenAI API 或 ChatGPT 账户 | Google 账户（预览期无需单独 API Key） |
 | 多模态 | 文本 + 图片 | 文本 + 图片 | 文本 + 图片 + 内置浏览器 |
 | 持久记忆 | ✅ 完整（项目 + 用户记忆） | ⚠️ 会话内有限 | ✅ 跨运行学习 + 项目上下文 |

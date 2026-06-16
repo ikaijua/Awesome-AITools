@@ -16,7 +16,7 @@ DeepSeek-V4 is the latest flagship series featuring massive scaling and native m
 
 ### DeepSeek-V3: The Strongest MoE Model
 DeepSeek-V3 is a strong Mixture-of-Experts (MoE) language model with 671B total parameters, of which 37B are activated for each token.
-- **Performance**: Matches or exceeds GPT-4o and Claude 3.5 Sonnet on various benchmarks.
+- **Performance**: Matches or exceeds GPT-5.5 and Claude 5 series on various benchmarks.
 - **Efficiency**: Multi-head Latent Attention (MLA) and DeepSeek-V3-FP8 training framework significantly reduce inference and training costs.
 - **Training**: Pre-trained on 14.8 trillion tokens with a focus on code and math.
 

@@ -22,7 +22,7 @@ Antigravity 把开发者定位成"智能体的管理者"：
 开箱即用可选：
 - Gemini 3 Pro（默认，预览期提供宽松速率限制）
 - Gemini 3 Flash
-- Anthropic Claude Sonnet 4.6 / Claude Opus 4.6
+- Anthropic Claude 5 (Fable/Mythos) / Claude 4 (Sonnet/Opus)
 - GPT-OSS-120B
 
 ### 可核验的产出
@@ -103,7 +103,7 @@ gemini --worktree my-refactor "重构登录逻辑"
 
 ### 常用选项
 
-- `-m, --model <model_name>`：指定使用的模型，例如 `gemini-3-pro`、`gemini-3-flash` 或 `claude-3-5-sonnet`
+- `-m, --model <model_name>`：指定使用的模型，例如 `gemini-3-pro`、`gemini-3-flash` 或 `claude-5-fable`
 - `-y, --yolo`：YOLO 自动确认模式（谨慎使用），自动接受智能体的所有操作（如编辑、终端命令）
 - `--approval-mode <mode>`：审批模式设定，可选 `default`（提示确认）、`auto_edit`（自动允许文件修改）、`yolo`（自动确认所有操作）、`plan`（只读计划模式）
 - `-r, --resume <session_id>`：恢复之前的某个会话，支持指定 `latest`
