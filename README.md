@@ -82,7 +82,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | GLM | Z.ai / Zhipu AI's latest GLM-5.2 model. Features 1M context window and dual thinking-effort system (High/Max). Optimized for agentic coding and repository-scale analysis. | 1. [URL](https://chat.z.ai/)<br> 2. [API](https://open.bigmodel.cn/)| Free/Paid|
 | Kimi Chat | Moonshot AI's latest Kimi K2.7-Code and K2.6 models. Features a 1 trillion parameter MoE architecture. Specialized for long-horizon software engineering and agent swarms. |1. [Kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI](https://platform.moonshot.cn/)|Free|
 | Grok | xAI's AI chatbot, including grok-4.20-beta. Best for real-time internet access and Elon Musk's AI vision. Real-time data and news is its moat - can directly access posts on X as information sources, a differentiation that's hard to replicate. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
-| qwen | Alibaba's AI chatbot. Includes Qwen3.6-Plus in Qwen Chat and other Qwen LLMs, with deep research capabilities.|[URL](https://chat.qwen.ai/)|Free|
+| qwen | Alibaba's AI chatbot. Includes Qwen 3.7-Plus/Max in Qwen Chat, supporting 1M context window, native multimodality, and long-horizon agentic reasoning. |[URL](https://chat.qwen.ai/)|Free|
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
 
 ### AI Agent
