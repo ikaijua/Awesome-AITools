@@ -3,10 +3,18 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## June 2026
+- Added alibaba/open-code-review to AI Coding section
+- Added Seedance to Video Creation section
+- Added dexhunter/seedance2-skill to Agent Skills
+- Removed Sora from Video Creation section
+- Added BrowserAct Skills to Agent Skills section
+- Added Future AGI to AI Agent section
+- Added Lightpanda Browser to AI Agent section and related documentation
+- Added Prismix to News Information section
+- Added Cate to AI Coding section
 - Replaced Gemini CLI entry with Google Antigravity (Gemini CLI is being deprecated); rewrote docs/antigravity/ and COMPARISON
 - Added phuryn/pm-skills to Agent Skills section
 - Added AGENTS.md documentation standard to AI Agent section
-- Added Doloffer as a sponsor
 
 ## May 2026
 - Added Cua and Genesis tools to Embodied AI category
