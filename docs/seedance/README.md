@@ -6,20 +6,7 @@ Seedance is **ByteDance Seed**'s video generation model family, designed for hig
 
 Compared to general-purpose multimodal models, Seedance focuses specifically on the video generation domain, with emphasis on multi-shot consistency, motion realism, prompt adherence, and cinematic camera control.
 
-## Core Models
-
-### Seedance 1.0
-
-Released alongside the technical report [*Seedance 1.0: Exploring the Boundaries of Video Generation Models*](https://arxiv.org/abs/2506.09113) (arXiv:2506.09113).
-
-- **Tasks**: Text-to-video (T2V) and image-to-video (I2V), with native multi-shot generation
-- **Multi-shot**: Generates narrative videos with multiple cohesive shots while keeping subject, style, and atmosphere consistent across transitions
-- **Resolution**: 1080p output with smooth motion and cinematic aesthetics
-- **Reference performance**: ~41.4 seconds to generate a 5-second 1080p video on NVIDIA-L20 hardware (≈10× speedup over baseline via multi-stage distillation and system optimization)
-- **Style range**: Photorealistic, cyberpunk, illustration, felt-texture, and other visual styles
-- **Training**: Multi-source video data curation + detailed video captioning; supervised fine-tuning + video-specific RLHF with multi-dimensional rewards
-- **Camera & motion control**: Parses natural-language prompts for multi-agent interactions, complex actions, and camera movement
-- **Variants**: Volcengine exposes **Seedance 1.0 Pro** and **Seedance 1.0 Lite** SKUs (Pro for higher fidelity, Lite for faster / cheaper inference) <!-- TODO: confirm exact spec differences from Volcengine docs -->
+## Core Model
 
 ### Seedance 2.0
 
