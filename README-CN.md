@@ -83,16 +83,16 @@
 ### ChatGPT及类似大语言模型AI助手
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude Opus 4.8、Claude Sonnet 4.6 和 Claude Haiku 4.5|[URL](https://claude.ai/)| 免费/付费|
-| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.5 Flash模型，Nano Banana 2在LMArea文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) |免费/付费|
-| 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) <br>体验测试视频：<br>[B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)<br>[B站视频：百模大战-抖音子公司推出AI聊天机器人豆包](https://www.bilibili.com/video/BV1b84y1o7E4/)|[URL](https://www.doubao.com/)|免费|
-| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 可体验 Qwen3.6-Plus 等最新模型，并提供深度研究选项。|[URL](https://chat.qwen.ai/)|免费|
+| Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude 5 (Fable/Mythos)、Claude Opus 4.8 和 Claude Sonnet 4.6|[URL](https://claude.ai/)| 免费/付费|
+| ChatGPT | openAI的chatgpt，最新模型 GPT-5.5。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
+| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.5 Flash模型，Nano Banana 2在LMArea文本转图像 and 图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
+| 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) |[URL](https://www.doubao.com/)|免费|
+| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 可体验 Qwen3.7-Plus/Max 等最新模型，支持 100 万超长上下文、原生多模态以及长链路 Agent 推理，并提供深度研究选项。|[URL](https://chat.qwen.ai/)|免费|
 | 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
 | DeepSeek | DeepSeek的AI助手，包含最新的 V4 系列。提供 100 万超长上下文、原生多模态支持，以及极具性价比的旗舰级推理能力（V4-Pro）。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
-| 智谱AI | 最新的GLM-5模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费/付费|
+| 智谱AI | 最新的 GLM-5.2 模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费/付费|
 | Minimax| 最新的 Minimax-m2.5模型|[URL](https://www.minimax.io/)|免费/付费|
-| ChatGPT | openAI的chatgpt，最新模型 GPT-5.5。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 <br>应用示例：<br> [B站视频：豆包 vs GPT，语音对决！豆包的魅力女友让人难以招架～](https://www.bilibili.com/video/BV1EgymYmEhB/)<br>[B站视频：这9款工具帮你榨干ChatGPT，解锁隐藏玩法](https://www.bilibili.com/video/BV1qs4y1D7ED)<br> [B站视频：格斗之王！AI写出来的AI竟然这么强！](https://www.bilibili.com/video/BV1DT411H7ph) <br> [可汗学院创始人Khan最新TED演讲：GPT-4作为AI学习私教，可能带来教育史上最大变革](https://www.bilibili.com/video/BV1Xa4y137rR)|[URL](https://chatgpt.com)  | 免费/付费|
-| 月之暗面的Kimi Chat|支持联网，文章总结能力比较强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI开放平台](https://platform.moonshot.cn/)|免费|
+| 月之暗面的Kimi Chat|最新的 Kimi K2.7-Code 和 K2.6 模型，支持联网，文章总结及长链路编程能力极强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI开放平台](https://platform.moonshot.cn/)|免费|
 | Grok | xAI研发的AI助手，結合了x上的內容，最新版本 Grok 4.20-beta。马斯克的AI公司的产品。实时数据和新闻是它的护城河，能直接调用X上的帖子作为信息源，这个差异化很难被复制 |[URL](https://x.com/i/grok)|免费|
 
 
@@ -102,7 +102,7 @@
 |OpenClaw|开源的自托管 AI 智能体，可以在本地运行并自主执行任务。能够连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器，访问系统，具有持久记忆功能。由 Peter Steinberger 开发，是增长最快的开源项目之一。[入门介绍](docs/openclaw/README-CN.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|免费|
 | Claude Code | Anthropic的AI编程助手，以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。支持终端 CLI、VS Code/Cursor/JetBrains IDE 插件、独立桌面 App 和 Web 版，也可从 Claude iOS App 或浏览器继续任务。[入门介绍](docs/claude-code/README-CN.md) |[URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [Github](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|免费|
 |Codex|OpenAI推出的基于 Rust 开发的高性能编程智能体。支持终端 CLI、VS Code/Cursor/Windsurf 等 IDE 扩展、Codex Web，以及 Codex App/桌面体验，可直接理解和修改代码。[入门介绍](docs/codex/README-CN.md)|[Github](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social)|免费|
-|Antigravity|Google 推出的以智能体为先的 AI 编程平台，基于 Gemini 3，用于替代 Gemini CLI。交付为深度改造的、基于 VS Code 的 IDE（提供 Editor 与 Manager 双视图、内置浏览器/终端），并支持通过终端 CLI（`gemini`）进行交互。智能体具备跨文件自主编写/验证能力，并产出可核验的 Artifacts（计划、截图、录屏）。同时支持 Claude Sonnet 4.6、Claude Opus 4.6 与 GPT-OSS-120B。[入门介绍](docs/antigravity/README-CN.md)|[URL](https://antigravity.google/)|预览期免费|
+|Antigravity|Google 推出的以智能体为先的 AI 编程平台，基于 Gemini 3，用于替代 Gemini CLI。交付为深度改造的、基于 VS Code 的 IDE（提供 Editor 与 Manager 双视图、内置浏览器/终端），并支持通过终端 CLI（`gemini`）进行交互。智能体具备跨文件自主编写/验证能力，并产出可核验的 Artifacts（计划、截图、录屏）。同时支持 Claude 5 (Fable)、Claude Sonnet 4.6、Claude Opus 4.6 与 GPT-OSS-120B。[入门介绍](docs/antigravity/README-CN.md)|[URL](https://antigravity.google/)|预览期免费|
 | Trae Solo | 字节跳动推出的 AI Agent 编程助手，用户只需提出任务并检查结果，其余流程由 AI 协助完成，适合自动化完成从需求到代码实现的开发任务。支持独立 App、SOLO Desktop 与 SOLO Web，桌面端和网页端可协同工作。 | [URL](https://www.trae.ai/solo-web) | 免费/付费 |
 | autoresearch | Karpathy 开源的自动化 AI 研究助手。它能够自主提出假设、修改训练代码并运行实验，通过不断迭代来寻找性能提升方案，是专为机器学习研究设计的自主 Agent。 | [Github](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 免费 |
 | ml-intern | 由 Hugging Face 开发的开源自主 AI Agent，定位为专业机器学习工程师。它能够处理端到端的 ML 生命周期，包括研究论文、编写代码、运行实验以及将模型发布到 Hugging Face Hub。[入门介绍](docs/ml-intern/README-CN.md) | [Github](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | 免费 |
@@ -148,6 +148,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
+| Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。[入门介绍](docs/lightpanda/README-CN.md) | [Github](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
 | bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [Github](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Google Workspace CLI | 社区构建的 Google Workspace 非官方命令行工具，统一访问所有 Google Workspace API，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat 等。内置 40+ AI 代理技能，结构化 JSON 输出非常适合 AI 代理使用，支持多种认证方式。 | [Github](https://github.com/googleworkspace/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/googleworkspace/cli?style=social) | 免费 |
 | 飞书 CLI | 飞书官方命令行工具，帮助开发者快速开发和管理飞书应用 | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | 免费 |
@@ -223,6 +224,7 @@
 | Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
 | Termux | Android终端模拟器和Linux环境应用，可直接在移动设备上运行编码工具、AI模型和各类开发环境，内置SSH客户端支持登录远程主机。 | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | 免费 |
 | AI-Codereview-Gitlab | 基于大模型(DeepSeek, OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | 免费 |
+| alibaba/open-code-review | 阿里巴巴开源的 AI 代码评审 CLI/Agent。基于确定性流水线与 LLM Agent 审查 Git diff，支持行级评论、OpenAI/Anthropic 兼容模型端点、自定义规则、JSON CI 输出、WebUI 会话查看，以及 Claude Code/Codex 集成。 | [Github](https://github.com/alibaba/open-code-review) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=social) | 免费 |
 | Cate | 开源桌面 IDE，基于无限缩放画布。可以把 Monaco 编辑器、xterm.js 终端、内嵌浏览器和 Claude Code 智能体面板自由排布在可缩放的空间里，代替传统的窗口和标签页。面板支持浮动、停靠或分离为独立窗口，布局按项目自动保存。基于 Electron 构建，支持 macOS、Windows 和 Linux。 | [URL](https://cate.cero-ai.com) [Github](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | 免费 |
 
 ### AI金融与量化投资
@@ -260,6 +262,7 @@
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| Seedance | 字节跳动的视频生成模型系列。当前 Seedance 2.0 驱动了即梦 / 小云雀等产品，支持文生视频、图生视频、首尾帧条件控制，并通过火山引擎对开发者开放。[介绍](docs/seedance/README-CN.md) / [Skills](docs/seedance/README-CN.md#agent-skills) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用seedance 2.0, [Seedance 2.0专题](https://github.com/ikaijua/Awesome-AITools/discussions/266) |[URL](https://xyq.jianying.com/) |试用积分/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
@@ -269,7 +272,6 @@
 | 快手可灵|支持文生视频和图生视频、首尾帧、动作控制功能|[URL](https://kling.kuaishou.com/)|免费/付费|
 | PixVerse | 利用文本和照片创建令人惊叹的人工智能视频 |[URL](https://app.pixverse.ai/)|付费/试用|
 | 腾讯混元AI视频|文生视频、图生视频功能；对口型和动作驱动功能：可以通过上传照片和音频或选择动作模版生成视频; 需要排队|[URL](https://video.hunyuan.tencent.com/)|免费|
-| Sora | OpenAI的文本生成视频的模型。Sora技术报告：https://github.com/ikaijua/Awesome-AITools/discussions/54| [URL](https://sora.com) | 付费 |
 | Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
 | Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) <br>精选视频：https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | 免费试用/付费|
 | MOKI |美图的AI短片创作工具|[URL](www.moki.cn)| 免费试用/付费|

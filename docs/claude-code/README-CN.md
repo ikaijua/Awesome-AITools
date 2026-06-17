@@ -45,7 +45,7 @@ Claude Code 会主动问你，不会自作主张：
 - 自动化测试和代码审查
 
 ### 4. 多模型支持
-- 支持最新的 Claude Opus 4.8、Claude Sonnet 4.6 和 Claude Haiku 4.5 系列模型
+- 支持最新的 Claude 5 (Fable/Mythos)、Claude Opus 4.8 和 Claude Sonnet 4.6 系列模型
 - 可根据任务需求切换不同模型
 - Fast 模式提供更快速的响应
 
