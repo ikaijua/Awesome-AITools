@@ -28,6 +28,12 @@ Officially launched on **2026-02-12** ([announcement](https://seed.bytedance.com
 | Xiaoyunqe (小云雀) | Creators (free Seedance 2.0 trial) | https://xyq.jianying.com/ |
 | Volcengine Ark | Developers (API) | https://www.volcengine.com/ |
 
+## Agent Skills
+
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| dexhunter/seedance2-skill | Skill to create better prompts for Seedance 2.0 video generation. Covers Jimeng / Seedance 2.0 input constraints, @ reference syntax, camera language, prompt structures, and templates for ads, dramas, MVs, and educational videos. Compatible with Claude Code, Cursor, Cline, and other agent tools. | [Github](https://github.com/dexhunter/seedance2-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/dexhunter/seedance2-skill?style=social) | Free |
+
 ## Benchmarks
 
 Seedance 1.0 reports results on:
