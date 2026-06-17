@@ -260,6 +260,7 @@
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| Seedance | 字节跳动的视频生成模型系列。当前 Seedance 2.0 驱动了即梦 / 小云雀等产品，支持文生视频、图生视频、首尾帧条件控制，并通过火山引擎对开发者开放。[介绍](docs/seedance/README-CN.md) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用seedance 2.0, [Seedance 2.0专题](https://github.com/ikaijua/Awesome-AITools/discussions/266) |[URL](https://xyq.jianying.com/) |试用积分/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
