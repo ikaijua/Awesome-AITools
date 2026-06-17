@@ -284,6 +284,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Together AI |Together AI是一个专为生成式AI设计的云平台，提供了从模型推理、微调到GPU集群部署等多种服务。相比其他传统云平台，Together AI 主要聚焦于高效处理开源生成式模型，并为开发者和企业提供更灵活、定制化的解决方案。Together AI 支持多个开源模型，包括 LLaMA、Falcon、FLUX1 等。这些模型覆盖了从自然语言处理、对话系统到代码生成等多个领域，满足了不同场景下的应用需求。用户可以直接调用这些模型，也可以上传自己的数据进行微调，提升模型在特定任务中的表现。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) |[URL](https://www.together.ai/)|免费/付费|
+| Pinstripes |快速、低价的 OpenAI 兼容推理 API。支持 DeepSeek V4 Flash（$0.10/M）、GLM-4.5-Air（$0.125/M）、Qwen3-35B（$0.14/M）和 MiniMax M2.7（$0.255/M）。|[URL](https://pinstripes.io)|付费|
 
 ### GPU编程
 | 名称 | 说明 | 链接 | 费用 |

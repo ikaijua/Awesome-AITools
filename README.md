@@ -273,6 +273,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+|Pinstripes|Fast, cheap OpenAI-compatible inference API. Serves DeepSeek V4 Flash ($0.10/M), GLM-4.5-Air ($0.125/M), Qwen3-35B ($0.14/M), and MiniMax M2.7 ($0.255/M).|[URL](https://pinstripes.io)|Paid|
 
 ### GPU Programming
 | Name | Description | Links | Fees |
