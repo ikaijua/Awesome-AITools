@@ -40,3 +40,4 @@ There is no build, test, or lint suite beyond the above — CI only runs link ch
 - When linking to a deep-dive doc, use the EN/CN phrasing pair `[Intro](...)` / `[入门介绍](...)` so both READMEs stay parallel.
 - Keep tool descriptions concise and factual; ensure links are valid.
 - Maintain bilingual consistency between English and Chinese READMEs.
+- **CHANGELOG.md**: Only document additions, removals, and renames. Minor description updates (e.g., updating feature lists, fixing typos) do NOT require a changelog entry.
