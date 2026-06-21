@@ -396,6 +396,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | Genesis | High-performance simulation platform for general-purpose robotics and embodied AI. Integrates a unified multi-physics engine, photo-realistic renderer, and cross-platform compiler for training AI agents in complex physical worlds. [Intro](docs/genesis/README.md) | [Github](https://github.com/Genesis-Embodied-AI/genesis-world) ![GitHub Repo stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social) | Free |
 
+### AI Tool Directories
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| Tools-Radar | Discover, compare and review 10,000+ AI tools across 27 categories in 21 languages. | [Website](https://tools-radar.com/) | Free |
+
 ### Become Sponsors
 
 <p align="center">
