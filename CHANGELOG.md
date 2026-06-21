@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## June 2026
+- Removed Fitten Code from AI Coding section in Chinese README
 - Added yfinance and OpenBB to AI Finance & Quant Investment section (both EN/CN)
 - Added AkShare to AI Finance section in Chinese README only (China market focused)
 - Added alibaba/open-code-review to AI Coding section
