@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## June 2026
+- Updated screenshot-to-code description (now supports multiple models including Gemini 3 Flash, GPT-5.5, Claude Opus 4.8)
 - Removed Fitten Code from AI Coding section in Chinese README
 - Added yfinance and OpenBB to AI Finance & Quant Investment section (both EN/CN)
 - Added AkShare to AI Finance section in Chinese README only (China market focused)
