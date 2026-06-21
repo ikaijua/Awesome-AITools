@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## June 2026
+- Added yfinance and OpenBB to AI Finance & Quant Investment section (both EN/CN)
+- Added AkShare to AI Finance section in Chinese README only (China market focused)
 - Added alibaba/open-code-review to AI Coding section
 - Added Seedance to Video Creation section
 - Added dexhunter/seedance2-skill to Agent Skills
