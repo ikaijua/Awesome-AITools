@@ -369,6 +369,8 @@
 ### 变声软件
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+|ElevenLabs|业界领先的AI语音合成和变声工具。提供高度逼真的文本转语音、语音克隆（只需几分钟音频）和变声功能。支持多种语言和情感语音。|[URL](https://elevenlabs.io/)|免费/付费|
+|RVC (Retrieval-Based Voice Conversion)|开源语音转换模型，可以高质量地将任何声音转换为另一种声音。常用于唱歌声音转换和语音克隆。|[GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ![GitHub Repo stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social)|免费|
 |大饼 AI 变声|提供实时的 AI 变声功能|[URL](https://dubbing.tech/)|免费/付费|
 
 ### 声音克隆
