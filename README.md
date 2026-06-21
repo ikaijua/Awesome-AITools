@@ -345,6 +345,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Voice Processing
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+|ElevenLabs|Industry-leading AI voice synthesis and voice conversion tool. Offers highly realistic text-to-speech, voice cloning (with just a few minutes of audio), and voice changing capabilities. Supports multiple languages and emotional speech.|[URL](https://elevenlabs.io/)|Free/Paid|
+|RVC (Retrieval-Based Voice Conversion)|Open-source voice conversion model that can transform any voice into another with high quality. Popular for singing voice conversion and voice cloning.|[GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ![GitHub Repo stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social)|Free|
 |VibeVoice|Open-source voice AI framework from Microsoft that includes both ASR and TTS capabilities. ASR supports 60-minute long-form audio with speaker diarization and 50+ languages; TTS generates natural long-form multi-speaker or real-time streaming speech.|[GitHub](https://github.com/microsoft/VibeVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)|Free|
 |so-vits-svc| SoftVC VITS Singing Voice Conversion.|[GitHub](https://github.com/svc-develop-team/so-vits-svc) ![GitHub Repo stars](https://img.shields.io/github/stars/svc-develop-team/so-vits-svc?style=social)|Free|
 |vocalremover| Extract vocal and music|[URL](https://vocalremover.org/)|Free|
