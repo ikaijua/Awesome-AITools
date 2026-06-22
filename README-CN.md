@@ -145,6 +145,7 @@
 | garrytan/gstack | 一套精心设计的 Claude Code 技能集，可将 AI 智能体转换为由专家组成的专项团队（CEO、产品经理、测试工程师、运维工程师）。增加了自定义斜杠命令和自动化质量检查功能。 | [Github](https://github.com/garrytan/gstack) ![GitHub Repo stars](https://img.shields.io/github/stars/garrytan/gstack?style=social) | 免费 |
 | addyosmani/agent-skills | 由 Google Gemini 团队主管 Addy Osmani 开源的 20+ 标准化工程流程技能库。将资深工程师的开发规范封装成 AI 智能体可执行的技能，覆盖完整软件开发生命周期：从需求定义、规划、构建、验证、评审到发布。内置 7 个命令：/spec、/plan、/build、/test、/ship 等。兼容 Claude Code、Gemini CLI、Codex、Cursor。 | [Github](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | 免费 |
 | phuryn/pm-skills | 面向产品经理的技能市场，适用于 Claude Code 和 Claude Cowork，提供产品发现、战略、执行、发布、增长以及 AI 辅助代码交付等场景的 PM 技能和串联工作流。 | [Github](https://github.com/phuryn/pm-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/phuryn/pm-skills?style=social) | 免费 |
+| Alisa0808/vibe-creating-skill | 中英双语 skill，把粗糙的想法或过度具体的分镜脚本改写成模型友好的文生视频提示词（Seedance 2.0、Kling、Veo、Hailuo、Wan、Vidu）。判断优先；单个 SKILL.md；MIT。 | [Github](https://github.com/Alisa0808/vibe-creating-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/Alisa0808/vibe-creating-skill?style=social) | 免费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
