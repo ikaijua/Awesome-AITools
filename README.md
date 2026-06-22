@@ -75,7 +75,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Claude| Anthropic's AI chatbot, including Claude 5 (Fable/Mythos), Claude Opus 4.8, and Claude Sonnet 4.6. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
 | ChatGPT | OpenAI's AI chatbot, including GPT-5.5. Best for general purpose, coding, and creative writing. Great for most users. Memory function is currently the best - it remembers what you've said and picks up right where you left off in the next conversation, making it feel most like talking to a real person. | [URL](https://chatgpt.com) | Free/Paid |
 | Gemini| Google's AI chatbot, including Gemini 3.5 Flash. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. Best for: Image processing and web information integration, Deep Research feature performs exceptionally well, seamlessly integrates with Google Drive. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
@@ -89,7 +88,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Agent
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |OpenClaw|Open-source self-hosted AI agent that runs locally and autonomously executes tasks. Connects to WhatsApp, Telegram, Slack, Discord and other messaging platforms, with browser control, system access, and persistent memory. Developed by Peter Steinberger, one of the fastest-growing open-source projects. [Intro](docs/openclaw/README.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|Free|
 | Claude Code | Anthropic's AI coding assistant with strong long‑context understanding, complex code refactoring and agent capabilities. Available in the terminal CLI, VS Code/Cursor/JetBrains IDE plugins, standalone desktop app, and web app; tasks can also continue from the Claude iOS app or browser. [Intro](docs/claude-code/README.md)|[Github](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|Free|
 |Codex|OpenAI's lightweight coding agent. Supports the terminal CLI, VS Code/Cursor/Windsurf IDE extensions, Codex Web, and a Codex App/desktop app experience; it can understand and modify code directly. [Intro](docs/codex/README.md)|[Github](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social)|Free|
@@ -127,7 +125,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Agent Skills
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | anthropics/skills | Official skills repository for Claude Code skills, providing reusable tool integrations and extensions for Claude Code AI assistant | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | Free |
 | openai/skills | Official skills repository for OpenAI GPT models, providing reusable tools and extensions for OpenAI's AI assistants | [Github](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | Free |
 | skills.sh | Community-driven skills registry and marketplace for AI assistants, providing a curated collection of reusable skills for various AI platforms including Claude Code, OpenAI GPT, and other LLM assistants, with download usage statistics and trending popularity rankings for all skills | [Website](https://skills.sh/) | Free/Paid |
@@ -141,7 +138,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Chrome DevTools MCP | Official Model Context Protocol server from Chrome DevTools that enables AI coding agents (like Claude Code, Gemini CLI) to control and inspect a live Chrome browser. Supports performance trace analysis, network request debugging, screenshot capture, and console log inspection, helping AI agents better run, test, and debug code. | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | Free |
 | Lightpanda | A lightweight, high-performance headless browser written in Zig, designed for AI agents. Optimized for speed and low memory (~9x faster than Chrome), featuring native MCP support and Markdown output for LLMs. [Intro](docs/lightpanda/README.md) | [Github](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | Free |
 | bb-browser | Enable AI agents to control your real Chrome browser session, accessing sites with your existing login state without APIs. | [Github](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | Free |
@@ -153,7 +149,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | DeepSeek-V4 |DeepSeek's 4th generation flagship model. V4-Pro (1.6T MoE) and V4-Flash (284B MoE) featuring 1M context, native multimodality, and Hybrid Attention for extreme efficiency.|[Hugging Face](https://huggingface.co/collections/deepseek-ai/deepseek-v4)|Free|
 | DeepSeek-R1 |DeepSeek's first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning.|[Github](https://github.com/deepseek-ai/DeepSeek-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social)|Free|
 | DeepSeek-V3 |A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.|[Github](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|Free|
@@ -167,7 +162,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### LLM Leaderboard
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals. Collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. |[URL](https://lmarena.ai/leaderboard) |Free|
 |Artificial Analysis|Artificial Analysis is a platform that provides AI model and service provider comparisons and benchmarks to help users make informed decisions when choosing AI models and service providers. The platform provides comparative data on a wide range of popular AI models, including OpenAI's GPT-4, Meta's Llama 3, and Anthropic's Claude series, covering performance metrics such as response time, latency, and cost.|[URL](https://artificialanalysis.ai/)|Free|
 |LiveCodeBench|LiveCodeBench is a holistic and contamination-free evaluation benchmark of LLMs for code that continuously collects new problems over time. Particularly, LiveCodeBench also focuses on broader code-related capabilities, such as self-repair, code execution, and test output prediction, beyond mere code generation. |[URL](https://livecodebench.github.io/leaderboard.html)|Free|
@@ -214,7 +208,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Coding
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | dbForge AI Assistant | AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts | [URL](https://www.devart.com/dbforge/ai-assistant/) | Paid/Free Trial|
@@ -234,7 +227,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |TradingAgents|A multi-agent LLM financial trading framework that mirrors the dynamics of real-world trading firms. It uses specialized AI agents to collaboratively evaluate market conditions and inform trading decisions through structured debates.|[Github](https://github.com/TauricResearch/TradingAgents) ![GitHub Repo stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social)|Free|
 |VNPy|A comprehensive open-source quantitative trading framework in Python, supports strategy backtesting, live trading across multiple exchanges, and integrates AI/LLM capabilities for financial market analysis and strategy development. Widely used by quant traders in China.|[Github](https://github.com/vnpy/vnpy) ![GitHub Repo stars](https://img.shields.io/github/stars/vnpy/vnpy?style=social)|Free|
 |TimesFM|Google Research's open-source pretrained time-series foundation model for time-series forecasting. Supports long context (16k) and long-horizon forecasting up to 1k steps, which is widely used for financial and quantitative investment predictions.|[Github](https://github.com/google-research/timesfm) ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/timesfm?style=social)|Free|
@@ -245,7 +237,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Image Creation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | ChatGPT Images 2.0 |OpenAI's latest image generation model GPT Image 2.0. Advanced AI image generation and editing capabilities.|[URL](https://chatgpt.com/images)|Free/Paid|
 | Nano Banana 2|Google's advanced AI model for image generation and editing. No. 1 in the LMArena Text to Image and Image Edit leadboard. Online website: <br> 1. [gemini](https://gemini.google.com/app)<br> 2.[aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview)   <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview)|Free/Paid|
 | Z-Image | Z-Image is a high-performance image generation model recently open-sourced by Alibaba's Tongyi Lab. It strikes a balance between "extreme speed" and "high quality," making it highly suitable for scenarios requiring rapid image generation. Z-Image-Turbo Online Demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo | [Github](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social) | Free |
@@ -266,7 +257,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Seedance | ByteDance's video generation model family. Current generation Seedance 2.0 powers Dreamina, supporting text-to-video, image-to-video, and start-end frame conditioning. Available to developers via Volcengine. [Intro](docs/seedance/README.md) / [Skills](docs/seedance/README.md#agent-skills) | [URL](https://dreamina.capcut.com/) | Free/Paid |
 | Dreamina|AI image and video creation tool by ByteDance/CapCut. Powered by Seedance 2.0 model. Supports text-to-image, text-to-video, image-to-video with 2K ultra-clear output|[URL](https://dreamina.capcut.com/)|Free/Paid|
 | Wan2.6 |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
@@ -287,40 +277,34 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Cloud Platform
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
 
 ### GPU Programming
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |LeetGPU|GPU programming platform for learning, practicing, and competing on GPU programming challenges. Similar to LeetCode but for GPU programming, helping developers master GPU acceleration skills essential for AI model training and inference.|[URL](https://www.leetgpu.com/) |Free|
 |LeetCUDA|An open-source educational repository and question bank for CUDA programming and deep learning operator optimization. Includes 200+ kernels ranging from basic to advanced (e.g., FlashAttention-2) with PyTorch bindings.|[Github](https://github.com/xlite-dev/LeetCUDA) ![GitHub Repo stars](https://img.shields.io/github/stars/xlite-dev/LeetCUDA?style=social)|Free|
 
 ### LLM Prompts
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[Github](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | lm-sys/FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
 ### News Information
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | World Monitor | AI-powered real-time global intelligence dashboard with 435+ curated feeds, geopolitical monitoring, infrastructure tracking, AI summaries, 21 languages support, local AI runtime and cross-platform native desktop apps | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social), [Official Site](https://worldmonitor.app) | Free |
 | Prismix | AI hub aggregating real-time status of 75+ AI services (OpenAI, Anthropic, Groq, Cursor, etc.), curated news from 55+ AI sources with a personalized feed, and 500+ MCP server directory with bundles. Email/webhook alerts on outages. | [Official Site](https://prismix.dev) | Free/Paid |
 
 ### Writing
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
@@ -331,7 +315,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Translation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Google Translate|Support text, picture, document and URL|[URL](https://translate.google.com/)|Free|
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | [URL](https://www.deepl.com/translator) | Free/Paid|
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
@@ -341,7 +324,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Speech Recognition
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | whisper | OpenAPI open source robust speech recognition model through large-scale weak supervision | [GitHub](https://github.com/openai/whisper) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/openai/whisper?style=social)| Free |
 | whisper.cpp | Port of OpenAI's Whisper model in C/C++|[Github](https://github.com/ggml-org/whisper.cpp) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social)|Free|
 | buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | [GitHub](https://github.com/chidiwilliams/buzz) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| Free |
@@ -351,7 +333,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Text To Speech
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | index-tts2 |Bilibili's Open-Source Industrial-Grade Controllable High-Efficiency Zero-Sample Text-to-Speech System. <br>Online Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo <br>Paper: https://arxiv.org/abs/2506.21619|[Github](https://github.com/index-tts/index-tts) ![GitHub Repo stars](https://img.shields.io/github/stars/index-tts/index-tts?style=social) |Free|
 | Azure Text to speech| The best and most realistic voice tools currently available| [URL](https://speech.microsoft.com/portal/voicegallery) |Paid / 500,000 characters per month free|
 | Hailuo AI Text to Speech | Offer over 300 voices in 17 languages and multiple accents, covering a wide range of styles and age groups to provide the voice effects you need.|[URL](https://www.hailuo.ai/audio)|Limited-time Free|
@@ -363,13 +344,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Music Recognition
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |shazam| Download the Shazam app for music recognition, which is pretty fast |[URL](https://www.shazam.com/)| Free|
 
 ### Voice Processing
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |ElevenLabs|Industry-leading AI voice synthesis and voice conversion tool. Offers highly realistic text-to-speech, voice cloning (with just a few minutes of audio), and voice changing capabilities. Supports multiple languages and emotional speech.|[URL](https://elevenlabs.io/)|Free/Paid|
 |RVC (Retrieval-Based Voice Conversion)|Open-source voice conversion model that can transform any voice into another with high quality. Popular for singing voice conversion and voice cloning.|[GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ![GitHub Repo stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social)|Free|
 |VibeVoice|Open-source voice AI framework from Microsoft that includes both ASR and TTS capabilities. ASR supports 60-minute long-form audio with speaker diarization and 50+ languages; TTS generates natural long-form multi-speaker or real-time streaming speech.|[GitHub](https://github.com/microsoft/VibeVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)|Free|
@@ -393,20 +372,17 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Speech translation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Seamless |Seamless is a family of AI models that enable more natural and authentic communication across languages.[Online Demo](https://seamless.metademolab.com/expressive?utm_source=metaai&utm_medium=web&utm_campaign=fair10&utm_content=blog)|[Github](https://github.com/facebookresearch/seamless_communication) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social)|Free|
 
 
 ### Video Content Summary
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
 
 ### Academic research
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Lean 4 | An interactive theorem prover and functional programming language, serving as the core infrastructure for formal AI research and automated theorem proving (e.g., AlphaProof, DeepSeek-Prover). | [Github](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | Free |
 | AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
@@ -415,7 +391,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### OCR
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
@@ -423,7 +398,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Embodied AI & Simulation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Genesis | High-performance simulation platform for general-purpose robotics and embodied AI. Integrates a unified multi-physics engine, photo-realistic renderer, and cross-platform compiler for training AI agents in complex physical worlds. [Intro](docs/genesis/README.md) | [Github](https://github.com/Genesis-Embodied-AI/genesis-world) ![GitHub Repo stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social) | Free |
 
 ### Become Sponsors
