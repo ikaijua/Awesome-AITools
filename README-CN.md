@@ -276,6 +276,7 @@
 | 腾讯混元AI视频|文生视频、图生视频功能；对口型和动作驱动功能：可以通过上传照片和音频或选择动作模版生成视频; 需要排队|[URL](https://video.hunyuan.tencent.com/)|免费|
 | Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
 | Runway | Gen-2: 文本/图像 AI生成视频 <br> Gen-1: 根据视频AI生成视频 <br>应用示例：<br> [B站视频：数字生命卡兹克/我用AI做了一部《流浪地球3》的预告片](https://www.bilibili.com/video/BV1hF411f7rg) <br>精选视频：https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | 免费试用/付费|
+| ImagineClip | AI 视频生成工具，可从提示词、图片和效果生成头像短片、风格化场景和适合社交平台分享的视频。 | [URL](https://imagineclip.com) | 免费/付费 |
 | MOKI |美图的AI短片创作工具|[URL](www.moki.cn)| 免费试用/付费|
 | Pika | 文本/图像 AI生成视频| [URL](https://pika.art/home)| 免费试用/付费|
 | krea.ai| 提供文生图/视频、图片放大、模型训练等功能，Krea ai想做视频和图片界的 POE，目前集成了海螺、luma、Runway和可灵四家最好的视频生成模型。|[URL](https://www.krea.ai/)|免费试用/付费|
