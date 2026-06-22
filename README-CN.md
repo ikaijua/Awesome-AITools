@@ -258,6 +258,7 @@
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |black-forest-labs/flux|FLUX.1 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)|免费|
+| Catoon | AI 连载漫画创作工具，可将长篇故事转为可复用角色、分镜、对白气泡、渲染画面和可导出的漫画章节。 | [URL](https://catoon.xyz) | 免费/付费 |
 
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
