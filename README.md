@@ -401,6 +401,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | Genesis | High-performance simulation platform for general-purpose robotics and embodied AI. Integrates a unified multi-physics engine, photo-realistic renderer, and cross-platform compiler for training AI agents in complex physical worlds. [Intro](docs/genesis/README.md) | [Github](https://github.com/Genesis-Embodied-AI/genesis-world) ![GitHub Repo stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social) | Free |
 
+### Community Resources
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| Meccha Chameleon Art | Fan-made browser atlas of 50+ hiding spots for the Steam hide-and-seek game Meccha Chameleon. Built with Next.js 14, bilingual EN/zh, with color and paint analysis. | [Website](https://mecchachameleon.art/) <br> [Github](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot) | Free |
+
 ### Become Sponsors
 
 <p align="center">
