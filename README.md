@@ -145,6 +145,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
+| Seekstone | Filesystem-direct Obsidian MCP server that gives Claude direct read/write access to your Obsidian vault with no Obsidian app or plugin required. Exposes 16 tools over stdio with ~575x smaller search payloads. Install via `npx -y seekstone`. | [Github](https://github.com/shaqmughal/seekstone) ![GitHub Repo stars](https://img.shields.io/github/stars/shaqmughal/seekstone?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
