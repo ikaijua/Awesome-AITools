@@ -412,3 +412,5 @@ Interested in sponsoring this project? Feel free to reach out!
 </div>
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+
+- [Token Diet](https://ranker.co.za/token-diet) - Free open-source prompt token counter and optimizer to cut LLM and AI API costs. Entirely client-side.
