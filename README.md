@@ -58,6 +58,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
   - [News Information](#news-information)
+| AI Weekly | Independent AI news newsletter, 3x/week since 2015, read by 44,000+ professionals. The few AI stories that matter, solo-edited. Proprietary AI Weekly Index, quarterly State-of-AI recap, Who's-Who-of-AI graph (2,335 figures), and an 11-year archive. | [Official Site](https://aiweekly.co) | Free |
   - [Writing](#writing)
   - [Translation](#translation)
   - [Speech Recognition](#speech-recognition)
