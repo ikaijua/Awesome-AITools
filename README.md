@@ -265,6 +265,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
 | Runway | Gen-2: Text/Image to video <br> Gen-1: Video to video. Featured video: https://runwayml.com/staff-picks | [URL](https://runwayml.com/) | Paid/Free trial|
 | pixverse | Create Amazing AI Videos from Text & Photos |[URL](https://app.pixverse.ai/)|Paid/Free trial|
+| One More Shot AI | Professional looking ai music video generator with lipsync | [URL](https://www.onemoreshot.ai) |Paid/Free trial|
 | Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
