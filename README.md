@@ -203,6 +203,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 | Future AGI | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. | [Github](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | Free |
+| dehallucinator | Fact-checking layer for LLM output. Extracts every claim — numbers, dates, quotes, citations — and verifies each against the open web and structured sources (Wikidata, World Bank, Crossref), returning an evidence-backed, per-claim report with a trust grade. Engineered to abstain rather than wrongly accuse. | [URL](https://dehallucinator.io) | Free/Paid |
 
 ### AI Coding
 | Name | Description | Links | Fees |
