@@ -267,6 +267,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | pixverse | Create Amazing AI Videos from Text & Photos |[URL](https://app.pixverse.ai/)|Paid/Free trial|
 | Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
+| ImagineClip | AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects. | [URL](https://imagineclip.com) | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
