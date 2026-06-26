@@ -256,6 +256,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| Sparkiz.ai | Turns any product page into a ready-to-launch AI video ad — a realistic avatar holding your real product, with auto-written script, voiceover and captions — in under 60 seconds. Built for ecommerce. | [URL](https://sparkiz.ai) | Free/Paid |
 | Seedance | ByteDance's video generation model family. Current generation Seedance 2.0 powers Dreamina, supporting text-to-video, image-to-video, and start-end frame conditioning. Available to developers via Volcengine. [Intro](docs/seedance/README.md) / [Skills](docs/seedance/README.md#agent-skills) | [URL](https://dreamina.capcut.com/) | Free/Paid |
 | Dreamina|AI image and video creation tool by ByteDance/CapCut. Powered by Seedance 2.0 model. Supports text-to-image, text-to-video, image-to-video with 2K ultra-clear output|[URL](https://dreamina.capcut.com/)|Free/Paid|
 | Wan2.6 |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
