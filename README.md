@@ -146,6 +146,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Lark CLI | Feishu (Lark) official command-line interface tool, helping developers quickly develop and manage Feishu applications | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | Free |
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
+| BuyWhere MCP | An MCP server from BuyWhere that gives AI agents real-time product search and price comparison across 11M+ products in Shopee, Lazada, Amazon, Walmart, and 20+ retailers in Singapore, SEA, and US. Free API key (no signup), streamable-HTTP at api.buywhere.ai/mcp, stdio via `npx @buywhere/mcp-server`. Published on the official MCP Registry as `io.github.BuyWhere/buywhere-mcp@1.0.5`. | [Github](https://github.com/BuyWhere/buywhere-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/BuyWhere/buywhere-mcp?style=social) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
