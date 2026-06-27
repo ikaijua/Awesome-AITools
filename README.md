@@ -273,6 +273,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | AnimateDiff |  AnimateDiff is a plug-and-play module turning most community models into animation generators, without the need of additional training.| [Github](https://github.com/guoyww/AnimateDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social)|Free|
 |vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
 | Palmier Pro | Open-source macOS video editor built for AI. Combines professional timeline editing with AI-assisted workflows, generative image/video features using models like Seedance, Kling, and Nano Banana Pro, plus MCP integration so agents such as Claude Code, Codex, Cursor, or the in-app agent can control the editing timeline. Apple Silicon Mac only. | [Github](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | Free/Paid |
+| Fableclip | Fableclip turns any idea into a faceless video series on autopilot — AI writes the script, generates lifelike voiceover and illustrations, then auto-publishes to TikTok, YouTube, Instagram and more on your schedule. | [URL](https://fableclip.com) | Free/Paid |
 
 ### AI Cloud Platform
 | Name | Description | Links | Fees |
