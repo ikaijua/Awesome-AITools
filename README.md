@@ -139,6 +139,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| Votura MCP | Remote MCP server for searching AI-powered self-guided audio city tours and points of interest. Returns tours by city with names, durations, stop counts, and deep links. Covers 500+ cities worldwide (walking, cycling, and driving tours). | [URL](https://api.votura.app/functions/v1/app_a0630e492b_mcp) [Website](https://votura.app) | Free |
 | Chrome DevTools MCP | Official Model Context Protocol server from Chrome DevTools that enables AI coding agents (like Claude Code, Gemini CLI) to control and inspect a live Chrome browser. Supports performance trace analysis, network request debugging, screenshot capture, and console log inspection, helping AI agents better run, test, and debug code. | [Github](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | Free |
 | Lightpanda | A lightweight, high-performance headless browser written in Zig, designed for AI agents. Optimized for speed and low memory (~9x faster than Chrome), featuring native MCP support and Markdown output for LLMs. [Intro](docs/lightpanda/README.md) | [Github](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | Free |
 | bb-browser | Enable AI agents to control your real Chrome browser session, accessing sites with your existing login state without APIs. | [Github](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | Free |
@@ -173,6 +174,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### GPT LLMs Applications
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| Votura | Self-guided AI audio city tours. Walk any city with a real-time narrated tour powered by AI — no guide, no schedule. | [URL](https://votura.app) | Free |
 | Google AI Studio|Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts using the latest Gemini 3.5 Flash models and then get an API key to use in your app development. [Available regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions)|[URL](https://aistudio.google.com/)|Free|
 | NotebookLM |AI Research Assistant developed by Google. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and NotebookLM will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. |[URL](https://notebooklm.google.com/)|Free|
 | Poe | AI product built by Quora. Can use ChatGPT, Sage, Dragonfly, Claude bots for free. All you need is an email address to register. GPT-4 can be used once a day for free | [URL](https://poe.com/) | Free/Paid|
