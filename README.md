@@ -414,3 +414,7 @@ Interested in sponsoring this project? Feel free to reach out!
 </div>
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+
+## Directories
+
+- [OpenRuna](https://www.openruna.com/best/open-source-ai-tools) — Graph directory of 900+ open-source AI tools, agents, prompts, workflows, and benchmarks.
