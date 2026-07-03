@@ -223,6 +223,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Termux | Android terminal emulator and Linux environment app that allows you to run coding tools, AI models and development environments directly on your mobile device, with built-in SSH client support for logging into remote hosts. | [Github](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | Free |
 | AI-Codereview-Gitlab | GitLab automatic code review tool based on LLMs (DeepSeek, OpenAI, etc.). Supports DingTalk/WeCom/Feishu notifications and daily reports generation. Docker deployment supported with visual Dashboard. | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | Free |
 | Cate | Open source desktop IDE on an infinite zoomable canvas. You arrange Monaco editors, xterm.js terminals, embedded browsers, and Claude Code agent panels in freeform zoomable space instead of tabs. Panels can float, dock, or detach into separate windows, and layout persists per project. Built with Electron, runs on macOS, Windows, and Linux. | [URL](https://cate.cero-ai.com) [Github](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | Free |
+| AI Coding Tools Guide | Curated guide for comparing AI coding assistants, IDEs, agents, and related developer workflows. | [URL](https://ai-coding-tools-guide.vercel.app/) | Free |
 
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |
@@ -252,6 +253,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
+| Free AI Icon Generator | Browser-based AI icon generator for creating simple app icons, favicons, and product visuals from text prompts. | [URL](https://freeaiicongenerator.com) | Free |
 
 ### Video Creation
 
@@ -290,6 +292,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[Github](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
 |f/awesome-chatgpt-prompts|This repo includes ChatGPT prompt curation to use ChatGPT better.|[Github](https://github.com/f/awesome-chatgpt-prompts) ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |Free|
+| Suno Prompt Lab | Prompt workspace for drafting and refining structured music-generation prompts for Suno-style AI song creation. | [URL](https://suno-prompt-lab.vercel.app/) | Free |
 
 ### LLM training platform
 | Name | Description | Links | Fees |
