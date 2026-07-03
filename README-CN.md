@@ -213,6 +213,7 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| AI Money Stack | 面向独立开发者的本地优先付费工具包：整理收入想法、生成 PR review notes、筛选付费 OSS bounty 候选，无需 API key 或云端上传。 | [URL](https://duct-tape2.github.io/ai-money-stack/) | 付费 |
 | mahonzhan/awesome-coding-plan|各厂家 Coding Plan 对比|[Github](https://github.com/mahonzhan/awesome-coding-plan) ![GitHub Repo stars](https://img.shields.io/github/stars/mahonzhan/awesome-coding-plan?style=social) |免费|
 | Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
 | Cursor | 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 付费/免费试用 |

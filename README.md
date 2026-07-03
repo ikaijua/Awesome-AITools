@@ -208,6 +208,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Coding
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| AI Money Stack | Local-first paid toolkit for indie developers: ranks revenue ideas, generates PR review notes, and filters paid OSS bounty candidates without API keys or cloud upload. | [URL](https://duct-tape2.github.io/ai-money-stack/) | Paid |
 | Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | dbForge AI Assistant | AI-powered tool that generates, optimizes, and troubleshoots SQL code; indispensable for developers, DBAs, and analysts | [URL](https://www.devart.com/dbforge/ai-assistant/) | Paid/Free Trial|
