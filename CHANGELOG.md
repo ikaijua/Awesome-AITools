@@ -2,6 +2,9 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## July 2026
+- Added agent-qa to AI Agent section (both EN/CN)
+
 ## June 2026
 - Added ElevenLabs and RVC to Voice Processing section (both EN/CN)
 - Removed Fitten Code from AI Coding section in Chinese README

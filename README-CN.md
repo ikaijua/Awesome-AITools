@@ -99,6 +99,7 @@
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| agent-qa | 面向 Web 和移动应用的自改进 QA 智能体。支持自然语言测试、运行记忆、适应 UI 变化并在发布前捕获回归。 | [Github](https://github.com/vostride/agent-qa) ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social) | 免费 |
 |OpenClaw|开源的自托管 AI 智能体，可以在本地运行并自主执行任务。能够连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器，访问系统，具有持久记忆功能。由 Peter Steinberger 开发，是增长最快的开源项目之一。[入门介绍](docs/openclaw/README-CN.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|免费|
 | Claude Code | Anthropic的AI编程助手，以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。支持终端 CLI、VS Code/Cursor/JetBrains IDE 插件、独立桌面 App 和 Web 版，也可从 Claude iOS App 或浏览器继续任务。[入门介绍](docs/claude-code/README-CN.md) |[URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [Github](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)|免费|
 |Codex|OpenAI推出的基于 Rust 开发的高性能编程智能体。支持终端 CLI、VS Code/Cursor/Windsurf 等 IDE 扩展、Codex Web，以及 Codex App/桌面体验，可直接理解和修改代码。[入门介绍](docs/codex/README-CN.md)|[Github](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social)|免费|
