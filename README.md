@@ -14,6 +14,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown templates + Claude Code skills for giving AI agents deep personal context. Used in a real 28-agent autonomous system. Open-source, MIT licensed.
 - [Become Sponsors](#become-sponsors)
 
 ## 💎 Sponsor
