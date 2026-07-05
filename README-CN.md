@@ -146,6 +146,7 @@
 | addyosmani/agent-skills | 由 Google Gemini 团队主管 Addy Osmani 开源的 20+ 标准化工程流程技能库。将资深工程师的开发规范封装成 AI 智能体可执行的技能，覆盖完整软件开发生命周期：从需求定义、规划、构建、验证、评审到发布。内置 7 个命令：/spec、/plan、/build、/test、/ship 等。兼容 Claude Code、Gemini CLI、Codex、Cursor。 | [Github](https://github.com/addyosmani/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=social) | 免费 |
 | phuryn/pm-skills | 面向产品经理的技能市场，适用于 Claude Code 和 Claude Cowork，提供产品发现、战略、执行、发布、增长以及 AI 辅助代码交付等场景的 PM 技能和串联工作流。 | [Github](https://github.com/phuryn/pm-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/phuryn/pm-skills?style=social) | 免费 |
 | NVIDIA/SkillSpector | NVIDIA 开源的 AI 代理技能安全扫描工具。可扫描来自 Git 仓库、URL、压缩包或本地目录的技能，检测提示注入、数据泄露、权限提升、恶意代码、供应链问题和 MCP 工具投毒等风险模式。结合静态分析与可选的 LLM 语义审查，可用于 CI/CD 或作为 MCP 服务器。 | [Github](https://github.com/NVIDIA/SkillSpector) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social) | 免费 |
+| Superpowers | 面向编码代理的完整软件开发方法论，基于可组合技能构建。支持跨 Claude Code、Codex、Cursor、Kimi Code、OpenCode、Antigravity、GitHub Copilot CLI 和 Pi 强制执行规格驱动设计、TDD、系统调试、代码审查和子代理驱动开发。 [入门介绍](docs/superpowers/README-CN.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | 免费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
