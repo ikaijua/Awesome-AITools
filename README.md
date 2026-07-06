@@ -1,5 +1,7 @@
 <div align="center">
     <h1>Awesome AI Tools</h1>
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <br>
     <a href="https://github.com/ikaijua/Awesome-AITools/stargazers"><img src="https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=social" alt="Stars"></a>
