@@ -70,8 +70,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Academic research](#academic-research)
   - [OCR](#ocr)
   - [Travel](#Travel)
-  - [Real Estate](#real-estate)
-  - [AI Detection](#ai-detection)
   - [Humanoid Robots](#humanoid-robots)
   - [Embodied AI & Simulation](#embodied-ai--simulation)
 
@@ -432,6 +430,5 @@ Interested in sponsoring this project? Feel free to reach out!
 </a>
 </p>
 
-</div>
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
