@@ -69,6 +69,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
+  - [Travel](#Travel)
   - [Real Estate](#real-estate)
   - [AI Detection](#ai-detection)
   - [Humanoid Robots](#humanoid-robots)
@@ -397,6 +398,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
+### Travel
+| Name | Description | Links   | Fees |
+| --- | --- |---------| --- |
+|MonkeyEatingMango|MonkeyEatingMango uses wikivoyage data to feed its RAG pipeline and AI to generate a comprehensive itineary in minutes. It validates the plan with real world data from Google maps and other sources. It even uses an eval system to score against strict checklists.| [URL](https://monkeyeatingmango.com/) |Free|
 
 ### Humanoid Robots
 | Name | Description | Links | Fees |
