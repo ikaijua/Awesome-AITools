@@ -2,6 +2,9 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## July 2026
+- Added LLMGraph to AI Agent section (both EN/CN)
+
 ## June 2026
 - Added Topaz Photo AI to AI Image Creation section and Topaz Video AI to Video Creation section (both EN/CN)
 - Added ElevenLabs and RVC to Voice Processing section (both EN/CN)
