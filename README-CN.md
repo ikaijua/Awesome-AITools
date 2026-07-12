@@ -228,6 +228,7 @@
 | AI-Codereview-Gitlab | 基于大模型(DeepSeek, OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 | [Github](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | 免费 |
 | alibaba/open-code-review | 阿里巴巴开源的 AI 代码评审 CLI/Agent。基于确定性流水线与 LLM Agent 审查 Git diff，支持行级评论、OpenAI/Anthropic 兼容模型端点、自定义规则、JSON CI 输出、WebUI 会话查看，以及 Claude Code/Codex 集成。 | [Github](https://github.com/alibaba/open-code-review) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=social) | 免费 |
 | Cate | 开源桌面 IDE，基于无限缩放画布。可以把 Monaco 编辑器、xterm.js 终端、内嵌浏览器和 Claude Code 智能体面板自由排布在可缩放的空间里，代替传统的窗口和标签页。面板支持浮动、停靠或分离为独立窗口，布局按项目自动保存。基于 Electron 构建，支持 macOS、Windows 和 Linux。 | [URL](https://cate.cero-ai.com) [Github](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | 免费 |
+| CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [Github](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 
 ### AI金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
