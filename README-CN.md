@@ -288,6 +288,7 @@
 |vivago.ai/video| 文本/图像生成视频; 4K视频增强|[URL](https://vivago.ai/video)| 免费|
 | Palmier Pro | 面向 AI 构建的开源 macOS 视频编辑器。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana Pro 等生成式图像/视频能力；支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [Github](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
+| Vox Director | One topic → a finished Vox-style paper-collage explainer/ad video (script, collage, motion, voice, music, captions); open-source agent skill for Claude Code / Codex, on Atlas Cloud + ffmpeg | [Github](https://github.com/Alisa0808/vox-director) ![GitHub Repo stars](https://img.shields.io/github/stars/Alisa0808/vox-director?style=social)|Free|
 
 ### AI云平台
 | 名称 | 说明 | 链接 | 费用 |
