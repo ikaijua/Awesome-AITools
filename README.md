@@ -391,6 +391,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Lean 4 | An interactive theorem prover and functional programming language, serving as the core infrastructure for formal AI research and automated theorem proving (e.g., AlphaProof, DeepSeek-Prover). | [Github](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | Free |
 | AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
+| OpenPaper | Autonomous AI research-paper writer. Specialized agents draft full structured academic papers and verify every citation against real academic records (OpenAlex, Crossref, Semantic Scholar) so references are not hallucinated. APA/MLA/Chicago/IEEE/Harvard, PDF/Word/LaTeX export, 57+ languages. Open-source engine (OpenDraft, MIT). | [URL](https://openpaper.dev) [Github](https://github.com/federicodeponte/opendraft) ![GitHub Repo stars](https://img.shields.io/github/stars/federicodeponte/opendraft?style=social) | Free/Paid |
 
 
 ### OCR
