@@ -108,6 +108,7 @@
 | ml-intern | 由 Hugging Face 开发的开源自主 AI Agent，定位为专业机器学习工程师。它能够处理端到端的 ML 生命周期，包括研究论文、编写代码、运行实验以及将模型发布到 Hugging Face Hub。[入门介绍](docs/ml-intern/README-CN.md) | [Github](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | 免费 |
 | musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[Github](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
 |AnyGen|AnyGen 是一款真正能帮你”完成工作”的 AI 助手。从写作和分析到规划和报告，它能在几分钟内将你的想法转化为可直接使用的专业成果。[专为工作打造的 AI 助手](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|免费试用/付费|
+|LLMGraph|无代码可视化 LLM 工作流构建平台，拖拽画布或对话式搭建 RAG 聊天机器人与 AI 智能体，一键部署为 REST API 和可嵌入聊天组件。|[URL](https://llmgraph.ai/)|付费（14 天免费试用）|
 |Manus | Manus 是一款行动引擎，它不仅提供答案，还能执行任务、自动化工作流程并扩展您的服务范围 | [URL](https://manus.im/) | 免费试用/付费 |
 | MiniMax Agent|Minimax的 Agent 助手|[URL](https://agent.minimaxi.com/)|免费/付费|
 |agentscope|面向Agent的编程：构建大型语言模型应用程序。阿里开源|[Github](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|免费|
