@@ -83,8 +83,8 @@
 ### ChatGPT及类似大语言模型AI助手
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude 5 (Fable/Mythos)、Claude Opus 4.8 和 Claude Sonnet 4.6|[URL](https://claude.ai/)| 免费/付费|
-| ChatGPT | openAI的chatgpt，最新模型 GPT-5.5。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
+| Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude 5 (Fable/Mythos)、Claude Opus 4.8 和 Claude Sonnet 5|[URL](https://claude.ai/)| 免费/付费|
+| ChatGPT | openAI的chatgpt，最新模型 GPT-5.6 系列（Sol/Terra/Luna）。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
 | Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.5 Flash模型，Nano Banana 2在LMArea文本转图像 and 图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
 | 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) |[URL](https://www.doubao.com/)|免费|
 | 通义千问 |阿里的大语言模型。 <br> Qwen Chat 可体验 Qwen3.7-Plus/Max 等最新模型，支持 100 万超长上下文、原生多模态以及长链路 Agent 推理，并提供深度研究选项。|[URL](https://chat.qwen.ai/)|免费|
@@ -93,7 +93,7 @@
 | 智谱AI | 最新的 GLM-5.2 模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费/付费|
 | Minimax| 最新的 Minimax-m2.5模型|[URL](https://www.minimax.io/)|免费/付费|
 | 月之暗面的Kimi Chat|最新的 Kimi K2.7-Code 和 K2.6 模型，支持联网，文章总结及长链路编程能力极强。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI开放平台](https://platform.moonshot.cn/)|免费|
-| Grok | xAI研发的AI助手，結合了x上的內容，最新版本 Grok 4.20-beta。马斯克的AI公司的产品。实时数据和新闻是它的护城河，能直接调用X上的帖子作为信息源，这个差异化很难被复制 |[URL](https://x.com/i/grok)|免费|
+| Grok | xAI研发的AI助手，結合了x上的內容，最新版本 Grok 4.5。马斯克的AI公司的产品。实时数据和新闻是它的护城河，能直接调用X上的帖子作为信息源，这个差异化很难被复制 |[URL](https://x.com/i/grok)|免费|
 
 
 ### AI Agent
