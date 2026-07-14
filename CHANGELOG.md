@@ -7,6 +7,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Removed so-vits-svc from Voice Processing section (unmaintained; superseded by RVC)
 - Removed AnimateDiff from Video Creation section (unmaintained; superseded by newer video models)
 - Removed suno-ai/bark from AI generated music or sound effects section (unmaintained)
+- Added Humanoid Robots section to English README to match Chinese (10 companies: Figure 03, Atlas, Optimus Gen 2, Apollo, GR-1, Digit, NEO, H1, Phoenix, MenteeBot)
 
 ## June 2026
 - Added Topaz Photo AI to AI Image Creation section and Topaz Video AI to Video Creation section (both EN/CN)
