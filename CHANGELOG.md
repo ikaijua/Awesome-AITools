@@ -2,6 +2,12 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## July 2026
+- Removed coqui-ai/tts and netease-youdao/EmotiVoice from Text To Speech section (unmaintained; active alternatives available)
+- Removed so-vits-svc from Voice Processing section (unmaintained; superseded by RVC)
+- Removed AnimateDiff from Video Creation section (unmaintained; superseded by newer video models)
+- Removed suno-ai/bark from AI generated music or sound effects section (unmaintained)
+
 ## June 2026
 - Added Topaz Photo AI to AI Image Creation section and Topaz Video AI to Video Creation section (both EN/CN)
 - Added ElevenLabs and RVC to Voice Processing section (both EN/CN)
