@@ -71,6 +71,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [OCR](#ocr)
   - [Real Estate](#real-estate)
   - [AI Detection](#ai-detection)
+  - [Humanoid Robots](#humanoid-robots)
+  - [Embodied AI & Simulation](#embodied-ai--simulation)
 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees |
@@ -394,6 +396,20 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |Umi-OCR|Comes with a highly efficient offline OCR engine. As long as the computer performance is sufficient, it can be faster than online OCR services.|[Github](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
+
+### Humanoid Robots
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+|Figure 03|Figure AI's third-generation humanoid robot, powered by the in-house Helix vision-language-action model. The company raised over $1B in Series C funding in 2025 at a $39B valuation; F.03 is ramping into mass production and deployed at BMW factories.|[URL](https://www.figure.ai/)|
+|Atlas|Boston Dynamics' new all-electric humanoid robot|[URL](https://bostondynamics.com/products/atlas/)|
+|Optimus Gen 2|Tesla's humanoid robot|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
+|Apollo|Apptronik's humanoid robot, now iterated to Apollo 2, with partners including Google DeepMind, NVIDIA, Mercedes-Benz, and GXO, focused on logistics and manufacturing.|[URL](https://apptronik.com/apollo/apollo-2)|
+|GR-1|Fourier's humanoid robot|[URL](https://www.fftai.com/)|
+|Digit|Agility Robotics' humanoid robot|[URL](https://agilityrobotics.com/)|
+|NEO|1X's consumer humanoid robot for the home, now open for pre-order ($200 deposit)|[URL](https://www.1x.tech/neo)|
+|H1|Unitree's humanoid robot|[URL](https://www.unitree.com/h1/)|
+|Phoenix|Sanctuary AI's humanoid robot, known for its hydraulic dexterous hands; in 2026 the company shifted its strategy toward providing Physical AI software for other robotics platforms and expanded into industrial robotics.|[URL](https://sanctuary.ai/)|
+|MenteeBot|The first bipedal humanoid robot released by Israeli company Mentee Robotics|[URL](https://www.menteebot.com/)|
 
 ### Embodied AI & Simulation
 | Name | Description | Links | Fees |
