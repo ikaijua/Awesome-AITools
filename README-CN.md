@@ -449,15 +449,15 @@
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-|Figure 03|获得了微软、OpenAI、英伟达和亚马逊等投资方的投资|[URL](https://www.figure.ai/)|
-|Atlas|波士顿动力新的电动人形机器人|[URL](https://bostondynamics.com/atlas/)|
+|Figure 03|Figure AI 的第三代人形机器人，搭载自研 Helix 视觉-语言-动作模型。公司 2025 年完成超 10 亿美元 C 轮融资，估值达 390 亿美元；F.03 已进入量产爬坡阶段并在宝马（BMW）工厂投入使用。|[URL](https://www.figure.ai/)|
+|Atlas|波士顿动力新的电动人形机器人|[URL](https://bostondynamics.com/products/atlas/)|
 |Optimus Gen 2|特斯拉的人形机器人|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
-|Apollo|Apptronik公司的人形机器人|[URL](https://apptronik.com/apollo)|
-|GR-1|傅利叶公司的人形机器人|[URL](https://fourierintelligence.com/gr1/)|
+|Apollo|Apptronik 公司的人形机器人，已迭代至 Apollo 2，合作方包括 Google DeepMind、NVIDIA、奔驰（Mercedes-Benz）、GXO 等，聚焦物流与制造场景。|[URL](https://apptronik.com/apollo/apollo-2)|
+|GR-1|傅利叶公司的人形机器人|[URL](https://www.fftai.com/)|
 |Digit|Agility公司的人形机器人|[URL](https://agilityrobotics.com/)|
-|NEO|1x公司的人形机器人 <br>[Neo Gamma家务机器人视频](https://www.bilibili.com/video/BV1a3PMeGE4s/)|[URL](https://www.1x.tech/androids/neo)|
+|NEO|1X 公司面向家庭场景的消费级人形机器人，已开放预订（200 美元定金） <br>[Neo Gamma家务机器人视频](https://www.bilibili.com/video/BV1a3PMeGE4s/)|[URL](https://www.1x.tech/neo)|
 |H1|宇树科技的人形机器人|[URL](https://www.unitree.com/h1/)|
-|Phoenix|sanctuary.ai公司的人形机器人|[URL](https://sanctuary.ai/resources/news/sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work/)|
+|Phoenix|Sanctuary AI 公司的人形机器人，以液压灵巧手技术见长；2026 年公司战略转向为其他机器人平台提供 Physical AI 软件，并拓展至工业机器人领域。|[URL](https://sanctuary.ai/)|
 |MenteeBot|以色列人形机器人公司 Meetee Robotics 发布的首款双足人形机器人|[URL](https://www.menteebot.com/)|
 
 ### 具身智能与仿真
