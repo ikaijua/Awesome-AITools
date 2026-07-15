@@ -17,6 +17,7 @@ This document compares three mainstream AI coding tools: Claude Code, Codex, and
 | Verifiable Output | Diff + tool transcripts | Diff + sandbox output | **Artifacts**: plans, screenshots, browser recordings |
 | Multi-Agent | Subagents and workflows in CLI | Parallel runs via web/app | Manager view fans out agents across workspaces |
 | Safety Design | Confirmation for dangerous operations | Sandbox-first | Plan-then-act with reviewable Artifacts |
+| Permission Modes | `--permission-mode` (default / plan / auto) | `--full-auto`, `--ask-for-approval`, `--sandbox` (read-only / workspace-write / full-access) | Read Only / Auto / Full Access; approve plan Artifact before execution |
 | Extensibility | MCP, skills, hooks, plugins | MCP, scripts | VS Code extensions, integrated browser/terminal |
 
 ## Detailed Comparison
