@@ -17,6 +17,7 @@
 | 可核验产出 | diff + 工具调用记录 | diff + 沙盒输出 | **Artifacts**：计划、截图、浏览器录屏 |
 | 多智能体 | CLI 内支持子智能体与 workflow | 通过 Web/App 并行运行 | Manager 视图跨工作区分发智能体 |
 | 安全设计 | 危险操作需确认 | 沙盒优先 | 先出计划、人工确认后再执行；运行可审计 |
+| 权限模式 | `--permission-mode`（default / plan / auto） | `--full-auto`、`--ask-for-approval`、`--sandbox`（只读 / 工作区可写 / 完全访问） | Read Only / Auto / Full Access；执行前先确认计划 Artifact |
 | 扩展性 | MCP、技能、钩子、插件 | MCP、脚本 | VS Code 扩展、内置浏览器/终端 |
 
 ## 详细对比
