@@ -85,7 +85,20 @@ claude /path/to/project
 
 # Use Fast mode
 claude --fast
+
+# Auto permission mode: auto-approve routine actions without prompting
+claude --permission-mode auto
 ```
+
+### Permission Modes
+
+Use `--permission-mode` to control how Claude Code handles actions that would normally require confirmation:
+
+- `--permission-mode auto` - **Auto mode**: Claude Code automatically approves routine, low-risk actions (reading files, running safe commands, applying edits) without prompting you each time, while still pausing for genuinely sensitive operations. This keeps you in a smooth flow for everyday tasks and is ideal when you trust Claude to work through a task with minimal interruptions.
+- `--permission-mode plan` - **Plan mode**: Claude explores and proposes a plan without making any changes until you approve.
+- `--permission-mode default` - **Default mode**: Claude asks for confirmation before sensitive or hard-to-reverse actions.
+
+> Tip: Start with `default` or `plan` on unfamiliar projects, and switch to `--permission-mode auto` once you're comfortable letting Claude Code move faster on routine work.
 
 ### Common Commands
 

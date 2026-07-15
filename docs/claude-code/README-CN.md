@@ -85,7 +85,20 @@ claude /path/to/project
 
 # 使用 Fast 模式
 claude --fast
+
+# 自动权限模式：无需逐次确认，自动批准常规操作
+claude --permission-mode auto
 ```
+
+### 权限模式
+
+使用 `--permission-mode` 控制 Claude Code 如何处理那些通常需要确认的操作：
+
+- `--permission-mode auto` - **自动模式**：Claude Code 会自动批准常规、低风险的操作（读取文件、运行安全命令、应用代码修改），无需每次都向你确认，同时对真正敏感的操作仍会暂停询问。这让你在日常任务中保持流畅，适合你信任 Claude 以最少打断完成任务的场景。
+- `--permission-mode plan` - **计划模式**：Claude 只探索并提出方案，在你批准之前不做任何改动。
+- `--permission-mode default` - **默认模式**：Claude 在执行敏感或难以撤销的操作前会请求确认。
+
+> 提示：在不熟悉的项目上建议先用 `default` 或 `plan`，等你放心让 Claude Code 更快处理常规工作后，再切换到 `--permission-mode auto`。
 
 ### 常用命令
 
