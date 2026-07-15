@@ -69,6 +69,46 @@ codex "Help me refactor this function to be more readable"
 codex "Fix the bug in src/utils.js"
 ```
 
+## Approval Modes & Sandbox
+
+Codex CLI controls autonomy along two dimensions: an **approval policy** (when it pauses to ask you) and a **sandbox** (what it's allowed to touch). This is Codex's counterpart to Claude Code's `--permission-mode`.
+
+### `--full-auto` — the low-friction "auto" mode
+
+The closest equivalent to an "auto" mode: Codex runs routine actions on its own and only interrupts you when it really needs to.
+
+```bash
+codex --full-auto
+```
+
+### Approval policy — `--ask-for-approval` (`-a`)
+
+- `untrusted` - Only trusted commands run automatically; everything else needs confirmation
+- `on-failure` - Runs in the sandbox first, asks only when a command fails and needs to escalate
+- `on-request` - The model decides when to ask for approval (default)
+- `never` - Never asks (fully autonomous)
+
+### Sandbox — `--sandbox` (`-s`)
+
+- `read-only` - Can read files but not modify them (good for safe exploration, similar to a plan mode)
+- `workspace-write` - Can read and write within the current workspace
+- `danger-full-access` - No sandbox restrictions
+
+### Handy combinations
+
+```bash
+# Low-friction auto mode
+codex --full-auto
+
+# Read-only exploration (plan-like)
+codex -s read-only
+
+# Fully unrestricted (use with caution)
+codex --dangerously-bypass-approvals-and-sandbox
+```
+
+> Inside the interactive UI these are surfaced as **Read Only / Auto / Full Access** modes, switchable via `/approvals`. Start with a restrictive mode on unfamiliar projects and switch to `--full-auto` once you're comfortable letting Codex move faster.
+
 ## Common Commands
 
 ```bash
