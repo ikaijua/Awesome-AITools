@@ -69,6 +69,46 @@ codex "帮我重构这个函数，让它更易读"
 codex "修复 src/utils.js 中的 bug"
 ```
 
+## 审批模式与沙箱
+
+Codex CLI 从两个维度控制自动化程度：**审批策略**（何时暂停询问你）和**沙箱**（允许它操作什么）。这是 Codex 对应 Claude Code `--permission-mode` 的机制。
+
+### `--full-auto` —— 低摩擦的"自动"模式
+
+最接近"自动"模式的等价物：Codex 会自动执行常规操作，只在真正需要时才打断你。
+
+```bash
+codex --full-auto
+```
+
+### 审批策略 —— `--ask-for-approval`（简写 `-a`）
+
+- `untrusted` - 只有可信命令自动执行，其它都需要确认
+- `on-failure` - 先在沙箱里运行，只有命令失败需要提权时才询问
+- `on-request` - 由模型自己决定何时请求审批（默认）
+- `never` - 从不询问（完全自主）
+
+### 沙箱 —— `--sandbox`（简写 `-s`）
+
+- `read-only` - 只能读文件，不能修改（适合安全探索，类似 plan 模式）
+- `workspace-write` - 可在当前工作目录内读写
+- `danger-full-access` - 无沙箱限制
+
+### 便捷组合
+
+```bash
+# 低摩擦自动模式
+codex --full-auto
+
+# 只读探索（类似 plan）
+codex -s read-only
+
+# 完全放开（谨慎使用）
+codex --dangerously-bypass-approvals-and-sandbox
+```
+
+> 在交互界面中，这些被封装成 **Read Only / Auto / Full Access** 三种模式，可通过 `/approvals` 切换。在不熟悉的项目上建议先用较严格的模式，等你放心让 Codex 更快处理工作后再切换到 `--full-auto`。
+
 ## 常用命令
 
 ```bash
