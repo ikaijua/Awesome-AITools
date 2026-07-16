@@ -399,6 +399,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |VibeVoice|微软开源的语音 AI 框架，同时包含 ASR 和 TTS 功能。ASR 支持 60 分钟长音频处理，自带说话人分离和 50+ 语言支持；TTS 支持生成自然的长格式多说话人语音和实时流式输出。|[Github](https://github.com/microsoft/VibeVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social)|免费|
+|Voicebox|开源、本地优先的 AI 语音工作室（可自托管，替代 ElevenLabs + WisprFlow）。集成声音克隆、语音生成（多个 TTS 引擎，支持 23 种语言）、基于 Whisper 的听写/转录，以及用于文本润色的本地 LLM。内置 MCP 服务器，可让 Claude Code、Cursor 等 AI 智能体用克隆的声音说话。所有模型与语音数据均保留在本地；支持 macOS/Windows/Linux/Docker 并可 GPU 加速。|[Github](https://github.com/jamiepine/voicebox) ![GitHub Repo stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social)|免费|
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|有免费的试用额度/付费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|有免费的试用额度/付费|
 
