@@ -284,7 +284,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Cloud Platform
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-|together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+|together.ai|The AI Acceleration Cloud
+|JiuRelay|Free AI API relay supporting GPT-4o, Claude 3.5, GLM-4, Gemini, DeepSeek +20 models. Zero registration, 1-hour valid key, 100% OpenAI/Anthropic compatible.|[URL](https://jiurelay.com/) |Free|. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
 
 ### GPU Programming
 | Name | Description | Links | Fees |
