@@ -308,6 +308,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### News Information
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| SemiAnalysis | In-depth research and analysis on semiconductors, AI hardware, GPUs, data centers, and the compute supply chain, founded by Dylan Patel. Publishes long-form industry reports with deep coverage of the AI industry (some free, most subscription). | [X](https://x.com/SemiAnalysis_), [Official Site](https://semianalysis.com) | Free/Paid |
 | World Monitor | AI-powered real-time global intelligence dashboard with 435+ curated feeds, geopolitical monitoring, infrastructure tracking, AI summaries, 21 languages support, local AI runtime and cross-platform native desktop apps | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social), [Official Site](https://worldmonitor.app) | Free |
 | Prismix | AI hub aggregating real-time status of 75+ AI services (OpenAI, Anthropic, Groq, Cursor, etc.), curated news from 55+ AI sources with a personalized feed, and 500+ MCP server directory with bundles. Email/webhook alerts on outages. | [Official Site](https://prismix.dev) | Free/Paid |
 | AI Weekly | Independent AI news newsletter, 3x/week since 2015, read by 44,000+ professionals. The few AI stories that matter, solo-edited. Proprietary AI Weekly Index, quarterly State-of-AI recap, Who's-Who-of-AI graph (2,335 figures), and an 11-year archive. | [Official Site](https://aiweekly.co) | Free |
