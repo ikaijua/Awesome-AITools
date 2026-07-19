@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## July 2026
+- Added Markstream to AI Coding section (both EN/CN)
 - Added Kimi K3 to Open Source LLMs section (both EN/CN)
 - Updated Kimi Chat entry to feature Kimi K3 as the latest model and moved it before GLM in AI Chatbots section (both EN/CN)
 - Moved Open Source LLMs section before AI Agent section in both READMEs (both EN/CN)
