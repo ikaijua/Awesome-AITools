@@ -49,6 +49,7 @@
 - [大语言模型排行榜](#大语言模型排行榜)
 - [GPT-LLMs应用](#gpt-llms应用)
 - [AI Coding](#ai-coding)
+- [AI 新闻与资讯](#ai-新闻与资讯)
 - [AI金融与量化投资](#ai金融与量化投资)
 - [AI图像创作](#ai图像创作)
 - [AI视频创作](#ai视频创作)
@@ -56,7 +57,6 @@
 - [GPU编程](#gpu编程)
 - [LLM Prompts](#llm-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
-- [AI 新闻与资讯](#ai-新闻与资讯)
 - [阅读](#阅读)
 - [写作](#写作)
 - [翻译工具](#翻译工具)
@@ -234,6 +234,12 @@
 | Cate | 开源桌面 IDE，基于无限缩放画布。可以把 Monaco 编辑器、xterm.js 终端、内嵌浏览器和 Claude Code 智能体面板自由排布在可缩放的空间里，代替传统的窗口和标签页。面板支持浮动、停靠或分离为独立窗口，布局按项目自动保存。基于 Electron 构建，支持 macOS、Windows 和 Linux。 | [URL](https://cate.cero-ai.com) [Github](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | 免费 |
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [Github](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 
+### AI 新闻与资讯
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| SemiAnalysis | 由 Dylan Patel 创办，专注于半导体、AI 硬件、GPU、数据中心及算力供应链的深度研究与分析。发布对 AI 行业有深入研究的长篇行业研报（部分免费，大部分需订阅）。 | [X](https://x.com/SemiAnalysis_)、[官网](https://semianalysis.com) | 免费/付费 |
+| World Monitor | AI驱动的实时全球情报面板，聚合435+个精选信源，提供地缘政治监控、基础设施追踪、AI摘要、21种语言支持，可本地运行AI模型，支持全平台桌面端应用 | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)、[官网](https://worldmonitor.app) | 免费 |
+
 ### AI金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
@@ -313,12 +319,6 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
-
-### AI 新闻与资讯
-| 名称 | 说明 | 链接 | 费用 |
-| --- | --- | --- | --- |
-| SemiAnalysis | 由 Dylan Patel 创办，专注于半导体、AI 硬件、GPU、数据中心及算力供应链的深度研究与分析。发布对 AI 行业有深入研究的长篇行业研报（部分免费，大部分需订阅）。 | [X](https://x.com/SemiAnalysis_)、[官网](https://semianalysis.com) | 免费/付费 |
-| World Monitor | AI驱动的实时全球情报面板，聚合435+个精选信源，提供地缘政治监控、基础设施追踪、AI摘要、21种语言支持，可本地运行AI模型，支持全平台桌面端应用 | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)、[官网](https://worldmonitor.app) | 免费 |
 
 ### 阅读
 | 名称 | 说明 | 链接 | 费用 |
