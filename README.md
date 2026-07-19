@@ -57,7 +57,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [GPU Programming](#gpu-programming)
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
-  - [News Information](#news-information)
+  - [AI News & Information](#ai-news--information)
   - [Writing](#writing)
   - [Translation](#translation)
   - [Speech Recognition](#speech-recognition)
@@ -305,7 +305,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | lm-sys/FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
 
-### News Information
+### AI News & Information
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | SemiAnalysis | In-depth research and analysis on semiconductors, AI hardware, GPUs, data centers, and the compute supply chain, founded by Dylan Patel. Publishes long-form industry reports with deep coverage of the AI industry (some free, most subscription). | [X](https://x.com/SemiAnalysis_), [Official Site](https://semianalysis.com) | Free/Paid |
