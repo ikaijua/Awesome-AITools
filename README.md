@@ -295,6 +295,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+| AI Router | Independent OpenAI-compatible API service for developers. Use a personal API key with a configurable base URL and review usage per key; query current model availability through `/v1/models`. Not affiliated with OpenAI. | [URL](https://ai-router.dev) | Paid |
 
 ### GPU Programming
 | Name | Description | Links | Fees |
