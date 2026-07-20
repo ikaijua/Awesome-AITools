@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## July 2026
+- Added Orkas to the AI Agent section (both EN/CN)
 - Renamed the News Information section to "AI News & Information" (both EN/CN)
 - Added SemiAnalysis to the top of the News Information section with its X link (both EN/CN)
 - Moved Kimi Code and Grok Build after Codex in AI Agent section (both EN/CN)
