@@ -10,6 +10,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added Kimi K3 to Open Source LLMs section (both EN/CN)
 - Updated Kimi Chat entry to feature Kimi K3 as the latest model and moved it before GLM in AI Chatbots section (both EN/CN)
 - Moved Open Source LLMs section before AI Agent section in both READMEs (both EN/CN)
+- Added code-review-graph to AI Coding section (both EN/CN)
 - Removed coqui-ai/tts and netease-youdao/EmotiVoice from Text To Speech section (unmaintained; active alternatives available)
 - Removed so-vits-svc from Voice Processing section (unmaintained; superseded by RVC)
 - Removed AnimateDiff from Video Creation section (unmaintained; superseded by newer video models)
