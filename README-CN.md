@@ -85,7 +85,7 @@
 | --- | --- | --- | --- |
 | Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude 5 (Fable/Mythos)、Claude Opus 4.8 和 Claude Sonnet 5|[URL](https://claude.ai/)| 免费/付费|
 | ChatGPT | openAI的chatgpt，最新模型 GPT-5.6 系列（Sol/Terra/Luna）。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
-| Gemini| Google 的对话式AI工具和大语言模型，最新的 Gemini 3.5 Flash模型，Nano Banana 2在LMArea文本转图像 and 图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
+| Gemini| Google 的对话式AI工具和大语言模型，Gemini 3 系列最新发布 Gemini 3.6 Flash。Nano Banana 2在LMArena文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
 | 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) |[URL](https://www.doubao.com/)|免费|
 | 通义千问 |阿里的大语言模型。 <br> Qwen Chat 可体验 Qwen3.7-Plus/Max 等最新模型，支持 100 万超长上下文、原生多模态以及长链路 Agent 推理，并提供深度研究选项。|[URL](https://chat.qwen.ai/)|免费|
 | 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
@@ -186,7 +186,7 @@
 ### GPT-LLMs应用
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Google AI Studio|Google AI Studio 是一个基于 Web 的免费平台，允许开发者使用 Google 的大型语言模型（如 Gemini 3.5 Flash）进行原型设计和实验。它提供了一个易于使用的界面，你可以快速构建文本生成、代码生成、聊天机器人等应用。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) <br>介绍：B站视频：[一枚卓子/Google AI Studio教程｜体验Gemini 3.5 Flash 模型，和它视频聊天，创造提示词机器人](https://www.bilibili.com/video/BV1ejkgYcEi5/)|[URL](https://aistudio.google.com/)|免费|
+| Google AI Studio|Google AI Studio 是一个基于 Web 的免费平台，允许开发者使用 Google 的大型语言模型（如 Gemini 3.6 Flash）进行原型设计和实验。它提供了一个易于使用的界面，你可以快速构建文本生成、代码生成、聊天机器人等应用。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) <br>介绍：B站视频：[一枚卓子/Google AI Studio教程｜体验Gemini 3.6 Flash 模型，和它视频聊天，创造提示词机器人](https://www.bilibili.com/video/BV1ejkgYcEi5/)|[URL](https://aistudio.google.com/)|免费|
 |Cherry Studio|Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等；集成了流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等；支持 Ollama、LM Studio 本地模型部署|[Github](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|免费|
 | NotebookLM |NotebookLM是谷歌推出的一款强大的虚拟研究助手，它可以将各种类型的文件，包括文本、视频、音频甚至数据集，转化成生动有趣的播客节目（播客音频目前只支持英语）。除此之外，NotebookLM 还可以生成常见问题解答、学习指南、目录、时间轴和简报等，并支持用户进行自由对话和事实核查。|[URL](https://notebooklm.google.com/)|免费|
 | Learn about |谷歌开发的人工智能学习助手。它是一个会话式的学习伙伴，能适应您独特的好奇心和学习目标，帮助您掌握新主题并加深理解。|[URL](https://learning.google.com/experiments/learn-about)|免费|
