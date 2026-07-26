@@ -240,6 +240,7 @@
 | --- | --- | --- | --- |
 | SemiAnalysis | 由 Dylan Patel 创办，专注于半导体、AI 硬件、GPU、数据中心及算力供应链的深度研究与分析。发布对 AI 行业有深入研究的长篇行业研报（部分免费，大部分需订阅）。 | [X](https://x.com/SemiAnalysis_)、[官网](https://semianalysis.com) | 免费/付费 |
 | World Monitor | AI驱动的实时全球情报面板，聚合435+个精选信源，提供地缘政治监控、基础设施追踪、AI摘要、21种语言支持，可本地运行AI模型，支持全平台桌面端应用 | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)、[官网](https://worldmonitor.app) | 免费 |
+| 免费 AI 目录 | 独立中文目录，每日整理 AI 新闻、热门项目、趋势模型，并收录可核验的免费模型与 Codex/Claude Code 中转站公开信息。无需注册、无广告、不接收 API Key。 | [网站](https://www.qaz5678.xyz/) | 免费 |
 
 ### AI金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
