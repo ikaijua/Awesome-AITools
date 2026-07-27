@@ -69,7 +69,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Video Content Summary](#video-content-summary)
   - [Academic research](#academic-research)
   - [OCR](#ocr)
-  - [Real Estate](#real-estate)
   - [AI Detection](#ai-detection)
   - [Humanoid Robots](#humanoid-robots)
   - [Embodied AI & Simulation](#embodied-ai--simulation)
@@ -77,7 +76,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### ChatGPT and other AI chatbot
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Claude| Anthropic's AI chatbot, including Claude 5 (Fable/Mythos), Claude Opus 4.8, and Claude Sonnet 5. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
+| Claude| Anthropic's AI chatbot, including Claude 5 (Fable/Mythos), Claude Opus 5, and Claude Sonnet 5. Best for coding, long context, safety, and enterprise use. Cowork functionality transforms AI into a true "agent" rather than just a chatbot - can pull financial data, build Excel forecasting models, etc., with high efficiency. |[URL](https://claude.ai/)| Free/Paid|
 | ChatGPT | OpenAI's AI chatbot, including the GPT-5.6 family (Sol/Terra/Luna). Best for general purpose, coding, and creative writing. Great for most users. Memory function is currently the best - it remembers what you've said and picks up right where you left off in the next conversation, making it feel most like talking to a real person. | [URL](https://chatgpt.com) | Free/Paid |
 | Gemini| Google's AI chatbot, including the latest Gemini 3.6 Flash in the Gemini 3 series. Excels in multimodality, high-fidelity image generation/analysis, and deep integration with the Google ecosystem. Best for: Image processing and web information integration, Deep Research feature performs exceptionally well, seamlessly integrates with Google Drive. Nano Banana 2 image generation model ranks first in LMArena Text to Image and Image Edit leaderboards. [ai.google.dev](https://ai.google.dev/)|[URL](https://gemini.google.com/) <br> |Free/Paid|
 | DeepSeek | DeepSeek's AI chatbot, including DeepSeek-V4. Features 1M context window, native multimodality, and state-of-the-art reasoning (V4-Pro) with extremely high performance-to-cost ratio. [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|Free/Paid|
@@ -138,6 +137,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Cua | Open-source infrastructure for Computer-Use Agents (CUA). Provides sandboxes, drivers, and SDKs for macOS, Windows, Linux, and Android, enabling AI to control full desktops just like a human. [Intro](docs/cua/README.md) | [Github](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | Free |
 | AGENTS.md | An open standard for codebase documentation designed specifically for AI coding agents. Provides structured context, instructions, and constraints to help agents work more effectively and safely. [Intro](docs/agents/README.md) | [Github](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | Free |
 | Spec Kit | GitHub's open-source toolkit for Spec-Driven Development (SDD). Provides the `specify` CLI and slash commands (/speckit.specify, /speckit.plan, /speckit.implement, etc.) that integrate with 30+ AI coding agents to turn specifications into executable implementation plans. | [Github](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | Free |
+| FlowGram.AI | An extensible visual AI workflow development framework with built-in canvas, form engine, variable scope chain, and ready-to-use materials (LLM, Condition, Code Editor, etc.) for building AI workflow platforms faster. | [Github](https://github.com/bytedance/flowgram.ai) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/flowgram.ai?style=social) | Free |
+| DeepTutor | An agent-native learning workspace by HKUDS that unifies AI tutoring, problem solving, quiz generation, research, visualization, and mastery practice. Features multi-engine RAG, persistent memory, Partners/My Agents, and live coding CLI integration. [Intro](docs/deeptutor/README.md) | [Github](https://github.com/HKUDS/DeepTutor) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | Free |
 
 ### Agent Skills
 | Name | Description | Links | Fees |
@@ -153,6 +154,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | phuryn/pm-skills | Product-management skills marketplace for Claude Code and Claude Cowork, providing PM skills and chained workflows across discovery, strategy, execution, launch, growth, and shipping AI-built code. | [Github](https://github.com/phuryn/pm-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/phuryn/pm-skills?style=social) | Free |
 | NVIDIA/SkillSpector | Open-source security scanner for AI agent skills from NVIDIA. Scans skills (from Git repos, URLs, zip files, or directories) for risky patterns including prompt injection, data exfiltration, privilege escalation, malicious code, supply-chain issues, and MCP tool poisoning. Uses static analysis plus optional LLM-based semantic review and can be used in CI/CD or as an MCP server. | [Github](https://github.com/NVIDIA/SkillSpector) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social) | Free |
 | Superpowers | A complete software development methodology for coding agents, built on composable skills. Enforces spec-driven design, TDD, systematic debugging, code review, and subagent-driven development across Claude Code, Codex, Cursor, Kimi Code, OpenCode, Antigravity, GitHub Copilot CLI, and Pi. [Intro](docs/superpowers/README.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | Free |
+| last30days-skill | AI agent skill that researches any topic across Reddit, X, YouTube, Hacker News, Polymarket, GitHub, arXiv, and the web, then synthesizes a grounded summary scored by real engagement. Supports Claude Code, Codex, Cursor, Gemini CLI, and 50+ Agent Skills hosts. | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | Free |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
@@ -171,6 +173,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena is a crowdsourced open platform for LLM evals. Collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. |[URL](https://lmarena.ai/leaderboard) |Free|
 |Artificial Analysis|Artificial Analysis is a platform that provides AI model and service provider comparisons and benchmarks to help users make informed decisions when choosing AI models and service providers. The platform provides comparative data on a wide range of popular AI models, including OpenAI's GPT-4, Meta's Llama 3, and Anthropic's Claude series, covering performance metrics such as response time, latency, and cost.|[URL](https://artificialanalysis.ai/)|Free|
 |LiveCodeBench|LiveCodeBench is a holistic and contamination-free evaluation benchmark of LLMs for code that continuously collects new problems over time. Particularly, LiveCodeBench also focuses on broader code-related capabilities, such as self-repair, code execution, and test output prediction, beyond mere code generation. |[URL](https://livecodebench.github.io/leaderboard.html)|Free|
+|StructEval|StructEval is a TMLR 2025 benchmark and public leaderboard for evaluating LLM structured-output generation and conversion across 2,035 examples, 18 text and renderable formats, and format-specific structural and visual checks.|[Leaderboard](https://tiger-ai-lab.github.io/StructEval/) [Paper](https://openreview.net/forum?id=buDwV7LUA7) [Github](https://github.com/TIGER-AI-Lab/StructEval)|Free|
 |LLM Stats|LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily‑updated, open‑source community data on capability, price, speed, and context length.|[URL](https://llm-stats.com/)|Free|
 |Price Per Token|Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more. Includes token counters, cost calculators, and benchmark comparisons.|[URL](https://pricepertoken.com/)|Free|
 |BenchGecko|The data layer of the AI economy. AI model benchmark leaderboard with cross-provider pricing comparison across hundreds of providers. Tracks thousands of models across 128 benchmarks, AI economy indicators, agent leaderboard, and MCP server directory. Free API.|[URL](https://benchgecko.ai/)|Free|
@@ -404,6 +407,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |light-ocr|Fast, offline OCR for Node.js and C++ with bundled PP-OCRv6 models and cross-platform runtimes.|[Github](https://github.com/arcships/light-ocr) ![GitHub Repo stars](https://img.shields.io/github/stars/arcships/light-ocr?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[Github](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
+### AI Detection
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+|AI Detect Lab|Professional AI image and Deepfake detection tool optimized for Midjourney v7 and Flux, offering high-precision identification services.|[URL](https://www.aidetectlab.com/)|Free|
 
 ### Humanoid Robots
 | Name | Description | Links | Fees |

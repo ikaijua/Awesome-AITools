@@ -75,6 +75,7 @@
 - [视频内容总结](#视频内容总结)
 - [AI检测器](#ai检测器)
 - [人形机器人](#人形机器人)
+- [具身智能与仿真](#具身智能与仿真)
 
 
 ## 精选文章
@@ -83,7 +84,7 @@
 ### ChatGPT及类似大语言模型AI助手
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude 5 (Fable/Mythos)、Claude Opus 4.8 和 Claude Sonnet 5|[URL](https://claude.ai/)| 免费/付费|
+| Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude 5 (Fable/Mythos)、Claude Opus 5 和 Claude Sonnet 5|[URL](https://claude.ai/)| 免费/付费|
 | ChatGPT | openAI的chatgpt，最新模型 GPT-5.6 系列（Sol/Terra/Luna）。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
 | Gemini| Google 的对话式AI工具和大语言模型，Gemini 3 系列最新发布 Gemini 3.6 Flash。Nano Banana 2在LMArena文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
 | 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) |[URL](https://www.doubao.com/)|免费|
@@ -148,6 +149,8 @@
 | Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。[入门介绍](docs/cua/README-CN.md) | [Github](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
 | AGENTS.md | 专门为 AI 编程智能体设计的代码库文档开放标准。通过提供结构化的上下文、指令和约束条件，帮助智能体更高效、更安全地工作。[入门介绍](docs/agents/README-CN.md) | [Github](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | 免费 |
 | Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [Github](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
+| FlowGram.AI | 字节跳动开源的可扩展可视化 AI 工作流开发框架，内置画布、表单引擎、变量作用链和现成物料（LLM、Condition、代码编辑器等），帮助开发者更快构建 AI 工作流平台。 | [Github](https://github.com/bytedance/flowgram.ai) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/flowgram.ai?style=social) | 免费 |
+| DeepTutor | 香港大学数据科学研究院（HKUDS）开源的 AI 原生学习/辅导工作区，整合 AI 辅导、解题、测验生成、研究、可视化和掌握式学习路径。支持多引擎 RAG、持久化记忆、Partner/智能体、以及 Claude Code/Codex 等编程 CLI 实时接入。[入门介绍](docs/deeptutor/README-CN.md) | [Github](https://github.com/HKUDS/DeepTutor) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | 免费 |
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
@@ -163,6 +166,7 @@
 | phuryn/pm-skills | 面向产品经理的技能市场，适用于 Claude Code 和 Claude Cowork，提供产品发现、战略、执行、发布、增长以及 AI 辅助代码交付等场景的 PM 技能和串联工作流。 | [Github](https://github.com/phuryn/pm-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/phuryn/pm-skills?style=social) | 免费 |
 | NVIDIA/SkillSpector | NVIDIA 开源的 AI 代理技能安全扫描工具。可扫描来自 Git 仓库、URL、压缩包或本地目录的技能，检测提示注入、数据泄露、权限提升、恶意代码、供应链问题和 MCP 工具投毒等风险模式。结合静态分析与可选的 LLM 语义审查，可用于 CI/CD 或作为 MCP 服务器。 | [Github](https://github.com/NVIDIA/SkillSpector) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social) | 免费 |
 | Superpowers | 面向编码代理的完整软件开发方法论，基于可组合技能构建。支持跨 Claude Code、Codex、Cursor、Kimi Code、OpenCode、Antigravity、GitHub Copilot CLI 和 Pi 强制执行规格驱动设计、TDD、系统调试、代码审查和子代理驱动开发。 [入门介绍](docs/superpowers/README-CN.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | 免费 |
+| last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
@@ -181,6 +185,7 @@
 |LMSYS Chatbot Arena Leaderboard|LMSYS Chatbot Arena 是一个用于大语言模型评估的众包开放平台。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>B站视频：[量子位/1v1单挑90万轮之后，最强大模型是……](https://www.bilibili.com/video/BV1Qs421w7df/) |[URL](https://lmarena.ai/leaderboard) |免费|
 |Artificial Analysis|Artificial Analysis 是一个提供 AI 模型和服务商比较及基准测试的资源平台，帮助用户在选择 AI 模型和服务提供商时做出明智决策。平台提供多种流行 AI 模型的比较数据，包括 OpenAI 的 GPT-4、Meta 的 Llama 3 和 Anthropic 的 Claude 系列，涵盖了响应速度、延迟和成本等性能指标。|[URL](https://artificialanalysis.ai/)|免费|
 |LiveCodeBench|LiveCodeBench 是一个全面且无污染的 LLM 代码评估基准，它会持续收集新的问题。LiveCodeBench 尤其关注更广泛的代码相关功能，例如自我修复、代码执行和测试输出预测，而不仅仅是代码生成。 |[URL](https://livecodebench.github.io/leaderboard.html)|免费|
+|StructEval|StructEval 是发表于 TMLR 2025 的评测基准与公开排行榜，用于评估 LLM 的结构化输出生成和转换，包含 2,035 个样例和 18 种文本及可渲染格式，并采用格式专用的结构与视觉检查。|[排行榜](https://tiger-ai-lab.github.io/StructEval/) [论文](https://openreview.net/forum?id=buDwV7LUA7) [Github](https://github.com/TIGER-AI-Lab/StructEval)|免费|
 |BenchGecko|AI模型基准测试排行榜，跨供应商定价对比，AI经济仪表盘。追踪数千个AI模型、128个评估基准、数百个供应商。提供免费API和开放数据集。|[URL](https://benchgecko.ai/zh/)|免费|
 
 ### GPT-LLMs应用
