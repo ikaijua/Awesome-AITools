@@ -4,6 +4,8 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## July 2026
 - Added StructEval to LLM Leaderboard section (both EN/CN)
+- Added last30days-skill (mvanhorn/last30days-skill) to Agent Skills section (both EN/CN)
+- Added DeepTutor (HKUDS/DeepTutor) to AI Agent section with documentation (both EN/CN)
 - Added FlowGram.AI (bytedance/flowgram.ai) to AI Agent section (both EN/CN)
 - Renamed the News Information section to "AI News & Information" (both EN/CN)
 - Added SemiAnalysis to the top of the News Information section with its X link (both EN/CN)
