@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## July 2026
+- Renamed ChatGPT-Next-Web to NextChat and updated description/links in GPT-LLMs应用 section (both EN/CN)
 - Removed bot.360 from GPT-LLMs应用 section (site no longer functional)
 - Added light-ocr to the OCR section (both EN/CN)
 - Added StructEval to LLM Leaderboard section (both EN/CN)
