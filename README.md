@@ -444,3 +444,4 @@ Interested in sponsoring this project? Feel free to reach out!
 </div>
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+- [STIL.AI](https://tools.gracestack.se/gratis-design.html) — AI Fashion Design. Describe any garment in text → unique AI-generated design. Free, no signup. Powered by GPT Image 2.
