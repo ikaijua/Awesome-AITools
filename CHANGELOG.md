@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## July 2026
+- Removed bot.360 from GPT-LLMs应用 section (site no longer functional)
 - Added light-ocr to the OCR section (both EN/CN)
 - Added StructEval to LLM Leaderboard section (both EN/CN)
 - Added last30days-skill (mvanhorn/last30days-skill) to Agent Skills section (both EN/CN)
