@@ -4,6 +4,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## July 2026
 - Updated black-forest-labs/flux to black-forest-labs/flux2 in AI Image Creation section (CN)
+- Removed easyvideotrans from Video Translation section (archived)
 - Removed 美图的奇想智能 MiracleVision from AI Image Creation section (feature offline)
 - Removed Kagan from AI Coding section (archived)
 - Removed MindSearch from GPT-LLMs应用 section (unmaintained)
