@@ -214,7 +214,6 @@
 | MindMac | 功能丰富、隐私第一的 macOS 原生 ChatGPT 应用程序，可在一个地方使用 OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter，旨在实现最大生产力。 目前有 15 种语言版本。| [URL](https://mindmac.app/) | 免费，有付费升级版 |
 |OpenRouter| 集成了 400 余种 AI 模型（OpenAI、Anthropic、Google、Mistral 等）的统一 API 网关。零加价定价，推理流量仅收取 5% 服务费，支持智能路由 / 故障转移|[URL](https://openrouter.ai/)| 免费/付费 |
 | IMA |IMA是腾讯推出的一款AI智能工作台，它集成了搜索、阅读、写作、知识库管理等多种功能。目前只有Mac和Windows客户端。搜索相比其他搜索能覆盖微信公众号文章，支持知识库管理比如上传本地文件、公众号文章或网页链接，构建个人知识库。支持写作但目前不支持文件夹的功能。|[URL](https://ima.qq.com/) |免费|
-| MindSearch |中科大和上海人工智能实验室联合研发国产开源搜索引擎MindSearch（思・索）,采用分层检索策略，先广泛搜索再精确选择，有效管理互联网上的海量信息。[在线Demo](https://mindsearch.openxlab.org.cn/)|[Github](https://github.com/InternLM/mindsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/mindsearch?style=social)|免费|
 
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
