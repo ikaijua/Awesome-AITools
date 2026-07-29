@@ -167,6 +167,7 @@
 | NVIDIA/SkillSpector | NVIDIA 开源的 AI 代理技能安全扫描工具。可扫描来自 Git 仓库、URL、压缩包或本地目录的技能，检测提示注入、数据泄露、权限提升、恶意代码、供应链问题和 MCP 工具投毒等风险模式。结合静态分析与可选的 LLM 语义审查，可用于 CI/CD 或作为 MCP 服务器。 | [Github](https://github.com/NVIDIA/SkillSpector) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social) | 免费 |
 | Superpowers | 面向编码代理的完整软件开发方法论，基于可组合技能构建。支持跨 Claude Code、Codex、Cursor、Kimi Code、OpenCode、Antigravity、GitHub Copilot CLI 和 Pi 强制执行规格驱动设计、TDD、系统调试、代码审查和子代理驱动开发。 [入门介绍](docs/superpowers/README-CN.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | 免费 |
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
+| Claude Video | 用于 Claude Code 的 Agent Skill，让 AI 能够"观看"视频：提取关键帧、获取字幕/转录文本，并基于画面和音频内容回答问题。支持 YouTube、TikTok、本地文件，以及通过 Agent Skills CLI 接入 50+ 智能体宿主。 | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
@@ -450,6 +451,7 @@
 | --- | --- | --- | --- |
 | ChatGPT for YouTube | Chrome 插件，快速总结 Youtube 视频內容，需要登录chatgpt账号或者apikey | [URL](https://chatgpt4youtube.com/)| 免费 |
 | BibiGPT | 开源项目，音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等| [GitHub](https://github.com/JimmyLv/BibiGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT?style=social)|免费|
+| Claude Video | 开源工具，让 AI 智能体能够"观看"并总结视频：从 YouTube、TikTok 或本地文件中提取关键帧、字幕/转录文本，并基于画面和音频内容回答问题。支持 Claude Code 及 50+ 智能体宿主。 | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
 
 ### AI检测器
 | 名称 | 说明 | 链接 | 费用 |

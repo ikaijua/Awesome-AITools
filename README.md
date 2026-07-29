@@ -155,6 +155,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | NVIDIA/SkillSpector | Open-source security scanner for AI agent skills from NVIDIA. Scans skills (from Git repos, URLs, zip files, or directories) for risky patterns including prompt injection, data exfiltration, privilege escalation, malicious code, supply-chain issues, and MCP tool poisoning. Uses static analysis plus optional LLM-based semantic review and can be used in CI/CD or as an MCP server. | [Github](https://github.com/NVIDIA/SkillSpector) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social) | Free |
 | Superpowers | A complete software development methodology for coding agents, built on composable skills. Enforces spec-driven design, TDD, systematic debugging, code review, and subagent-driven development across Claude Code, Codex, Cursor, Kimi Code, OpenCode, Antigravity, GitHub Copilot CLI, and Pi. [Intro](docs/superpowers/README.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | Free |
 | last30days-skill | AI agent skill that researches any topic across Reddit, X, YouTube, Hacker News, Polymarket, GitHub, arXiv, and the web, then synthesizes a grounded summary scored by real engagement. Supports Claude Code, Codex, Cursor, Gemini CLI, and 50+ Agent Skills hosts. | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | Free |
+| Claude Video | Claude Code skill that lets AI agents "watch" videos: extracts frames, pulls transcripts/captions, and answers questions grounded in what is seen and heard. Supports YouTube, TikTok, local files, and 50+ agent hosts via the Agent Skills CLI. | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
@@ -390,6 +391,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
+| Claude Video | Open-source tool that lets AI agents watch and summarize videos. Extracts frames, transcripts/captions from YouTube, TikTok, or local files and answers questions grounded in both visual and audio content. Works with Claude Code and 50+ agent hosts. | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
 
 ### Academic research
 | Name | Description | Links | Fees |
