@@ -279,6 +279,7 @@
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
+| YingTu | 浏览器中的 AI 图像与视频 API 路由测试平台，支持提示词、参考输入、参数、任务状态和结果下载；打开 Playground 免费，生成需有效 API Key | [URL](https://yingtu.ai/en) | 免费访问 / 生成需 API Key |
 
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
