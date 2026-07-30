@@ -34,9 +34,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
       </sub>
     </td>
   </tr>
-
-  </tr>
-  </tr>
 </table>
 
 
