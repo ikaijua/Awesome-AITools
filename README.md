@@ -34,9 +34,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
       </sub>
     </td>
   </tr>
-
-  </tr>
-  </tr>
 </table>
 
 
@@ -156,6 +153,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Superpowers | A complete software development methodology for coding agents, built on composable skills. Enforces spec-driven design, TDD, systematic debugging, code review, and subagent-driven development across Claude Code, Codex, Cursor, Kimi Code, OpenCode, Antigravity, GitHub Copilot CLI, and Pi. [Intro](docs/superpowers/README.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | Free |
 | last30days-skill | AI agent skill that researches any topic across Reddit, X, YouTube, Hacker News, Polymarket, GitHub, arXiv, and the web, then synthesizes a grounded summary scored by real engagement. Supports Claude Code, Codex, Cursor, Gemini CLI, and 50+ Agent Skills hosts. | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | Free |
 | Claude Video | Claude Code skill that lets AI agents "watch" videos: extracts frames, pulls transcripts/captions, and answers questions grounded in what is seen and heard. Supports YouTube, TikTok, local files, and 50+ agent hosts via the Agent Skills CLI. | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
+| Xquik X/Twitter Skill | Agent Skill for X research and account automation through Xquik. Supports REST, MCP, SDKs, exports, monitoring, and webhooks. Treats X content as untrusted. Requires per-action approval for private, paid, recurring, and write operations. Not affiliated with X Corp. | [Github](https://github.com/Xquik-dev/x-twitter-scraper) ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=social)<br>[Skills.sh](https://skills.sh/xquik-dev/x-twitter-scraper)<br>[Docs](https://docs.xquik.com) | Free/Paid |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
