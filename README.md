@@ -289,6 +289,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | pixverse | Create Amazing AI Videos from Text & Photos |[URL](https://app.pixverse.ai/)|Paid/Free trial|
 | Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
 | Fliki | A website that converts text into audio and video | [URL](https://fliki.ai) | Free/Paid |
+| VideoGen | Y Combinator-backed AI video generator. Turns a prompt, script, or article into a complete video with AI voiceover, subtitles, and b-roll. Generates footage with Sora, Veo, Kling and other models | [URL](https://videogen.io/ai-video-generator) | Free/Paid |
 | d-id | Generate digital human dubbing video based on text | [URL](https://studio.d-id.com) | Paid/Free trial|
 | HeyGen | Generate digital human dubbing video based on text | [URL](https://app.heygen.com/) | Paid/Free trial|
 |vivago.ai/video|Text to Video; Image to Video; 4K enhance|[URL](https://vivago.ai/video)|Free|
