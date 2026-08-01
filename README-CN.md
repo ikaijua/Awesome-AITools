@@ -24,20 +24,32 @@
 
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
-    <td width="50%" valign="middle" align="center">
+    <td width="500" valign="middle" align="center">
       <sub>
         <a href="https://doloffer.com/zh/" target="_blank">
           <img src="https://github.com/user-attachments/assets/cd93d75f-7cf0-4295-9bf5-a2ae412feefc" alt="Visit DOLOFFER website">
         </a>
-        【“Doloffer”--一站式数字订阅充值平台, 主营 GPT、Claude 等 AI多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧】
+        <br><br>
+        【<b>“Doloffer”</b>--一站式数字订阅充值平台, 主营 GPT、Claude 等 AI多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧】
+        <br><br>
+        <a href="https://doloffer.com/zh/" target="_blank">
+          <img src="https://img.shields.io/badge/访问网站-blue?style=flat-square" alt="访问 DOLOFFER 网站">
+        </a>
       </sub>
     </td>
-    <td width="50%" valign="middle" align="center">
+  </tr>
+  <tr align="center">
+    <td width="500" valign="middle" align="center">
       <sub>
         <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img src="https://www.xuanshuapi.com/brand/logo.svg" alt="玄枢 API" width="260">
+          <img src="https://www.xuanshuapi.com/brand/logo.svg" alt="玄枢 API" height="80" style="max-width:260px;">
         </a>
-        【玄枢API是面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude, GPT, Grok等）一站式API 接入。充值享八折，模型2折起，注册送5美金，企业支持开票，点此链接注册额外获赠5美金额度。】
+        <br><br>
+        【<b>玄枢API</b>是面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude, GPT, Grok等）一站式API 接入。充值享八折，模型2折起，注册送5美金，企业支持开票，点<a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">此链接</a>注册额外获赠5美金额度。】
+        <br><br>
+        <a href="https://www.xuanshuapi.com/" target="_blank">
+          <img src="https://img.shields.io/badge/访问网站-blue?style=flat-square" alt="访问玄枢 API 网站">
+        </a>
       </sub>
     </td>
   </tr>
