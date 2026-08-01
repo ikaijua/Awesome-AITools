@@ -35,7 +35,7 @@
     <td width="50%" valign="middle" align="center">
       <sub>
         <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img src="https://www.xuanshuapi.com/brand/logo.svg" alt="玄枢 API">
+          <img src="https://www.xuanshuapi.com/brand/logo.svg" alt="玄枢 API" width="260">
         </a>
         【玄枢API是面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude, GPT, Grok等）一站式API 接入。充值享八折，模型2折起，注册送5美金，企业支持开票，点此链接注册额外获赠5美金额度。】
       </sub>
