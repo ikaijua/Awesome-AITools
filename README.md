@@ -43,7 +43,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
     <td width="500" valign="middle" align="center">
       <sub>
         <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img alt="Xuanshu API" src="https://www.xuanshuapi.com/brand/logo.svg" height="80" style="max-width:260px;" />
+          <img alt="Xuanshu API" src="https://github.com/user-attachments/assets/3c0dba68-0afe-49f5-83bf-49747245b5d2" />
         </a>
         <br><br>
         【<b>Xuanshu API</b> is a next-generation AI model routing gateway for enterprises, technical teams, and individual developers. It provides one-stop API access to world-class top models (Claude, GPT, Grok, etc.) with enterprise-grade stability. Recharge and enjoy 20% off, models starting from 20% of the original price, $5 free upon registration, invoice support for enterprises. Click <a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">this link</a> to register and get an extra $5 credit.】
