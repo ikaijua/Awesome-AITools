@@ -24,21 +24,33 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
-    <td width="50%" valign="middle" align="center">
+    <td width="500" valign="middle" align="center">
       <sub>
         <a href="https://doloffer.com/" target="_blank">
           <img alt="Visit DOLOFFER website" src="https://github.com/user-attachments/assets/94c3e24b-c0ce-4b07-8a80-76c21856f74c" />
         </a>
-         【"Doloffer"--One-stop digital subscription and top-up platform
+        <br><br>
+         【<b>"Doloffer"</b>--One-stop digital subscription and top-up platform
         , We specialize in offering genuine subscriptions to various AI-powered digital services, including GPT and Claude. Get a 10% discount with code AI8888. Fast shipping and worry-free after-sales service.】
+        <br><br>
+        <a href="https://doloffer.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit%20Site-blue?style=flat-square" alt="Visit DOLOFFER website">
+        </a>
       </sub>
     </td>
-    <td width="50%" valign="middle" align="center">
+  </tr>
+  <tr align="center">
+    <td width="500" valign="middle" align="center">
       <sub>
         <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img alt="Xuanshu API" src="https://www.xuanshuapi.com/brand/logo.svg" width="260" />
+          <img alt="Xuanshu API" src="https://www.xuanshuapi.com/brand/logo.svg" height="80" style="max-width:260px;" />
         </a>
-        【Xuanshu API is a next-generation AI model routing gateway for enterprises, technical teams, and individual developers. It provides one-stop API access to world-class top models (Claude, GPT, Grok, etc.) with enterprise-grade stability. Recharge and enjoy 20% off, models starting from 20% of the original price, $5 free upon registration, invoice support for enterprises. Click this link to register and get an extra $5 credit.】
+        <br><br>
+        【<b>Xuanshu API</b> is a next-generation AI model routing gateway for enterprises, technical teams, and individual developers. It provides one-stop API access to world-class top models (Claude, GPT, Grok, etc.) with enterprise-grade stability. Recharge and enjoy 20% off, models starting from 20% of the original price, $5 free upon registration, invoice support for enterprises. Click <a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">this link</a> to register and get an extra $5 credit.】
+        <br><br>
+        <a href="https://www.xuanshuapi.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit%20Site-blue?style=flat-square" alt="Visit Xuanshu API website">
+        </a>
       </sub>
     </td>
   </tr>
