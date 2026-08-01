@@ -24,7 +24,7 @@
 
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
-    <td width="500" valign="middle" align="center">
+    <td width="50%" valign="middle" align="center">
       <sub>
         <a href="https://doloffer.com/zh/" target="_blank">
           <img src="https://github.com/user-attachments/assets/cd93d75f-7cf0-4295-9bf5-a2ae412feefc" alt="Visit DOLOFFER website">
@@ -32,9 +32,14 @@
         【“Doloffer”--一站式数字订阅充值平台, 主营 GPT、Claude 等 AI多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧】
       </sub>
     </td>
-  </tr>
-
-  </tr>
+    <td width="50%" valign="middle" align="center">
+      <sub>
+        <a href="https://www.xuanshuapi.com/" target="_blank">
+          <img src="https://www.xuanshuapi.com/brand/logo.svg" alt="玄枢 API">
+        </a>
+        【玄枢API是面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude, GPT, Grok等）一站式API 接入。充值享八折，模型2折起，注册送5美金，企业支持开票，点此链接注册额外获赠5美金额度。】
+      </sub>
+    </td>
   </tr>
 </table>
 
