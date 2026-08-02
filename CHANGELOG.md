@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## July 2026
+- Added NoteGen to the Writing section (both EN/CN)
 - Updated black-forest-labs/flux to black-forest-labs/flux2 in AI Image Creation section (CN)
 - Removed easyvideotrans from Video Translation section (archived)
 - Added Prismix and AI Weekly to AI News & Information section in Chinese README
