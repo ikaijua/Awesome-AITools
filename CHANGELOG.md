@@ -2,6 +2,9 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## August 2026
+- Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section (both EN/CN)
+
 ## July 2026
 - Added Codex Security (openai/codex-security) to AI Coding section with documentation (both EN/CN)
 - Updated black-forest-labs/flux to black-forest-labs/flux2 in AI Image Creation section (CN)
