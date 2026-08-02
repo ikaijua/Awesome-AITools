@@ -151,7 +151,7 @@
 |microsoft/autogen|AutoGen 是一个开源编程框架， 用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。 |[Github](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
 | Dexter | 自主财务研究智能体，旨在通过思考、计划和迭代学习进行深度分析。专注于财务领域。[入门介绍](docs/dexter/README-CN.md) | [Github](https://github.com/virattt/dexter) ![GitHub Repo stars](https://img.shields.io/github/stars/virattt/dexter?style=social) | 免费 |
 |msitarzewski/agency-agents|开源AI代理工具包，包含70+细分领域的专业代理角色，覆盖工程、设计、营销、销售等领域。提供开箱即用的代理人设、工作流模板，支持Claude Code、Cursor、Aider等多AI开发工具。|[Github](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|免费|
-|deer-flow|字节跳动开源的高性能 AI Agent 框架。它提供了一种灵活高效的方式来编排复杂的 Agent 工作流，内置支持多种大语言模型。|[Github](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|免费|
+|deer-flow|字节跳动开源的长时程 SuperAgent harness，可编排子代理、记忆、沙箱、工具、技能和消息网关，完成研究、编程与内容创作等长时间任务。基于 LangGraph/LangChain 构建，提供 Web UI 并支持多种大语言模型。[入门介绍](docs/deer-flow/README-CN.md)|[Github](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|免费|
 |weixin-agent-sdk|微信 AI Agent 桥接框架，通过简单的 Agent 接口将任意 AI 后端接入微信。支持 ACP 协议接入 Claude Code、Codex 等兼容 Agent，也可自定义 Agent 实现。|[Github](https://github.com/wong2/weixin-agent-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/weixin-agent-sdk?style=social)|免费|
 | codex-plugin-cc | Claude Code 插件，允许用户在 Claude Code 工作流中直接使用 OpenAI Codex 进行代码审查和任务委托。提供 /codex:review、/codex:adversarial-review 等命令 | [Github](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | 免费 |
 |instructkr/claw-code|Anthropic Claude Code 代理框架的重新实现项目，目前正在用 Rust 重写以提升内存安全性。专注于构建更好的 AI 代理工具框架，采用合法合规的方式重新实现 |[Github](https://github.com/instructkr/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/instructkr/claw-code?style=social)|免费|
@@ -197,6 +197,7 @@
 | 飞书 CLI | 飞书官方命令行工具，帮助开发者快速开发和管理飞书应用 | [Github](https://github.com/larksuite/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/cli?style=social) | 免费 |
 | 钉钉 CLI | 钉钉官方命令行工具，帮助开发者快速开发和管理钉钉应用 | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | 免费 |
 | 企业微信 CLI | 企业微信开源命令行工具，帮助开发者快速开发和管理企业微信应用 | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | 免费 |
+| OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1000+ SaaS 服务的统一目录。 | [Github](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
 
 ### 大语言模型排行榜
 | 名称 | 说明 | 链接 | 费用 |
