@@ -254,6 +254,7 @@
 | code-review-graph | 基于 Tree-sitter 构建代码结构图并增量追踪变更，通过 MCP 为 AI 编程助手提供精准的代码审查上下文，减少重复读取整个代码库。 | [Github](https://github.com/tirth8205/code-review-graph) ![GitHub Repo stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=social) | 免费 |
 | Cate | 开源桌面 IDE，基于无限缩放画布。可以把 Monaco 编辑器、xterm.js 终端、内嵌浏览器和 Claude Code 智能体面板自由排布在可缩放的空间里，代替传统的窗口和标签页。面板支持浮动、停靠或分离为独立窗口，布局按项目自动保存。基于 Electron 构建，支持 macOS、Windows 和 Linux。 | [URL](https://cate.cero-ai.com) [Github](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | 免费 |
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [Github](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
+| Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。[入门介绍](docs/codex-security/README-CN.md) | [Github](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
