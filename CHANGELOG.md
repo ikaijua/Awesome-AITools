@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Updated Qwen Chat entry to Qwen3.8-Max in AI Chatbots section (both EN/CN)
 - Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section (both EN/CN)
 
 ## July 2026
