@@ -105,7 +105,7 @@
 | ChatGPT | openAI的chatgpt，最新模型 GPT-5.6 系列（Sol/Terra/Luna）。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
 | Gemini| Google 的对话式AI工具和大语言模型，Gemini 3 系列最新发布 Gemini 3.6 Flash。Nano Banana 2在LMArena文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
 | 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) |[URL](https://www.doubao.com/)|免费|
-| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 可体验 Qwen3.7-Plus/Max 等最新模型，支持 100 万超长上下文、原生多模态以及长链路 Agent 推理，并提供深度研究选项。|[URL](https://chat.qwen.ai/)|免费|
+| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 已升级至 Qwen3.8-Max，2.4T 参数 MoE 架构，支持 100 万超长上下文、原生多模态、长链路 Agent 推理与深度研究。|[URL](https://chat.qwen.ai/)|免费|
 | 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
 | DeepSeek | DeepSeek的AI助手，包含最新的 V4 系列。提供 100 万超长上下文、原生多模态支持，以及极具性价比的旗舰级推理能力（V4-Pro）。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
 | 月之暗面的Kimi Chat|最新的 Kimi K3 模型（同时提供 K2.7-Code 和 K2.6），2.8 万亿参数 MoE 架构，原生支持视觉理解，100 万 token 上下文，面向软件工程、知识工作和深度推理等前沿智能场景。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI开放平台](https://platform.moonshot.cn/)|免费|
