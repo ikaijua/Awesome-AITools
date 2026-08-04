@@ -351,6 +351,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Translation
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| TranslateScan | AI translator for scanned PDFs, photos, and documents preserving original layout | [URL](https://translatescan.com) | Free/Paid |
 | Google Translate|Support text, picture, document and URL|[URL](https://translate.google.com/)|Free|
 | Deep L | Accurate and instant translation tool, currently supporting 31 languages | [URL](https://www.deepl.com/translator) | Free/Paid|
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
