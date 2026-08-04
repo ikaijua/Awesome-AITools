@@ -2,8 +2,27 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## August 2026
+- Updated Qwen Chat entry to Qwen3.8-Max in AI Chatbots section (both EN/CN)
+- Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section (both EN/CN)
+
 ## July 2026
 - Added Orkas to the AI Agent section (both EN/CN)
+- Added Codex Security (openai/codex-security) to AI Coding section with documentation (both EN/CN)
+- Updated black-forest-labs/flux to black-forest-labs/flux2 in AI Image Creation section (CN)
+- Removed easyvideotrans from Video Translation section (archived)
+- Added Prismix and AI Weekly to AI News & Information section in Chinese README
+- Removed 美图的奇想智能 MiracleVision from AI Image Creation section (feature offline)
+- Removed Kagan from AI Coding section (archived)
+- Removed MindSearch from GPT-LLMs应用 section (unmaintained)
+- Removed gpt-crawler from GPT-LLMs应用 section (unmaintained)
+- Renamed ChatGPT-Next-Web to NextChat and updated description/links in GPT-LLMs应用 section (both EN/CN)
+- Removed bot.360 from GPT-LLMs应用 section (site no longer functional)
+- Added light-ocr to the OCR section (both EN/CN)
+- Added StructEval to LLM Leaderboard section (both EN/CN)
+- Added last30days-skill (mvanhorn/last30days-skill) to Agent Skills section (both EN/CN)
+- Added DeepTutor (HKUDS/DeepTutor) to AI Agent section with documentation (both EN/CN)
+- Added FlowGram.AI (bytedance/flowgram.ai) to AI Agent section (both EN/CN)
 - Renamed the News Information section to "AI News & Information" (both EN/CN)
 - Added SemiAnalysis to the top of the News Information section with its X link (both EN/CN)
 - Moved Kimi Code and Grok Build after Codex in AI Agent section (both EN/CN)
@@ -11,11 +30,13 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added Kimi K3 to Open Source LLMs section (both EN/CN)
 - Updated Kimi Chat entry to feature Kimi K3 as the latest model and moved it before GLM in AI Chatbots section (both EN/CN)
 - Moved Open Source LLMs section before AI Agent section in both READMEs (both EN/CN)
+- Added code-review-graph to AI Coding section (both EN/CN)
 - Removed coqui-ai/tts and netease-youdao/EmotiVoice from Text To Speech section (unmaintained; active alternatives available)
 - Removed so-vits-svc from Voice Processing section (unmaintained; superseded by RVC)
 - Removed AnimateDiff from Video Creation section (unmaintained; superseded by newer video models)
 - Removed suno-ai/bark from AI generated music or sound effects section (unmaintained)
 - Added Humanoid Robots section to English README to match Chinese (10 companies: Figure 03, Atlas, Optimus Gen 2, Apollo, GR-1, Digit, NEO, H1, Phoenix, MenteeBot)
+- Added OpenWorker (andrewyng/openworker) to AI Agent section with documentation (both EN/CN)
 
 ## June 2026
 - Added Topaz Photo AI to AI Image Creation section and Topaz Video AI to Video Creation section (both EN/CN)
