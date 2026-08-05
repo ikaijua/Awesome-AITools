@@ -74,6 +74,7 @@
 - [GPU编程](#gpu编程)
 - [LLM Prompts](#llm-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
+- [LLM 推理与部署](#llm-推理与部署)
 - [阅读](#阅读)
 - [写作](#写作)
 - [翻译工具](#翻译工具)
@@ -105,7 +106,7 @@
 | ChatGPT | openAI的chatgpt，最新模型 GPT-5.6 系列（Sol/Terra/Luna）。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
 | Gemini| Google 的对话式AI工具和大语言模型，Gemini 3 系列最新发布 Gemini 3.6 Flash。Nano Banana 2在LMArena文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
 | 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) |[URL](https://www.doubao.com/)|免费|
-| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 可体验 Qwen3.7-Plus/Max 等最新模型，支持 100 万超长上下文、原生多模态以及长链路 Agent 推理，并提供深度研究选项。|[URL](https://chat.qwen.ai/)|免费|
+| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 已升级至 Qwen3.8-Max，2.4T 参数 MoE 架构，支持 100 万超长上下文、原生多模态、长链路 Agent 推理与深度研究。|[URL](https://chat.qwen.ai/)|免费|
 | 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
 | DeepSeek | DeepSeek的AI助手，包含最新的 V4 系列。提供 100 万超长上下文、原生多模态支持，以及极具性价比的旗舰级推理能力（V4-Pro）。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
 | 月之暗面的Kimi Chat|最新的 Kimi K3 模型（同时提供 K2.7-Code 和 K2.6），2.8 万亿参数 MoE 架构，原生支持视觉理解，100 万 token 上下文，面向软件工程、知识工作和深度推理等前沿智能场景。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI开放平台](https://platform.moonshot.cn/)|免费|
@@ -158,6 +159,7 @@
 |CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。|[Github](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
 |MemPalace|开源AI记忆系统，将完整对话和项目数据本地存储，无需依赖云端。采用"记忆宫殿"分层结构组织记忆，在 LongMemEval 基准测试中达到 96.6% 召回率（目前得分最高），支持 MCP 集成，可以配合本地大语言模型离线使用。|[Github](https://github.com/milla-jovovich/mempalace) ![GitHub Repo stars](https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social)|免费|
 | codesight | CLI 令牌（token）优化器和 AI 上下文生成器，内置 MCP 服务器。扫描代码库以提取路由、架构、组件和依赖项，将 AI 上下文令牌减少 9 倍至 13 倍。支持 Claude Code、Cursor、Copilot、Codex 和 Windsurf。零运行时依赖。 | [Github](https://github.com/Houseofmvps/codesight) ![GitHub Repo stars](https://img.shields.io/github/stars/Houseofmvps/codesight?style=social) | 免费 |
+| Orkas | 开源、本地优先的多智能体 AI 桌面客户端。Commander 会拆解目标，并协调拥有独立技能和记忆的专职 Agent 并行或串行工作。支持自带模型服务和本地模型端点，也可调用 Claude Code、Codex、OpenClaw、OpenCode 和 Hermes。跨平台支持 macOS、Windows 和 Linux。 | [官网](https://orkas.ai?source=github_awesome_aitools) [Github](https://github.com/Orkas-AI/Orkas) ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social) | 免费 |
 | Hermes Agent | NousResearch 开发的开源 AI Agent 框架，基于 Hermes 系列模型构建，在工具调用和推理能力上进行了精细微调，用于构建自主 AI 智能体。 | [Github](https://github.com/NousResearch/hermes-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) | 免费 |
 | Screenpipe | 开源的 24/7 本地屏幕和麦克风录制工具，具备 OCR、音频转录和语义搜索功能。通过 MCP 为 AI 智能体提供您所看、所说、所听内容的长期上下文。支持 Ollama 或任何本地大语言模型，完全离线运行。跨平台（macOS / Windows / Linux）。 | [Github](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | 免费 |
 | CC Switch | 跨平台桌面应用，用于一站式管理 Claude Code, Codex, Gemini CLI, OpenCode 和 OpenClaw。提供可视化界面管理 API 供应商、MCP 服务器和技能，支持双向同步。[入门介绍](docs/cc-switch/README-CN.md) | [Github](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | 免费 |
@@ -346,6 +348,11 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
+### LLM 推理与部署
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| AirLLM | 通过逐层加载大幅降低大语言模型推理显存占用的 Python 库，可在 4GB 显存上运行 70B 模型、8GB 上运行 405B 模型、约 12GB 上运行 671B 的 DeepSeek-V3。支持 4 位/8 位量化，并通过统一的 AutoModel 接口支持众多开源模型。 | [Github](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | 免费 |
 
 ### 阅读
 | 名称 | 说明 | 链接 | 费用 |

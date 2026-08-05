@@ -75,6 +75,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [GPU Programming](#gpu-programming)
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
+  - [LLM Inference & Deployment](#llm-inference--deployment)
   - [Writing](#writing)
   - [Translation](#translation)
   - [Speech Recognition](#speech-recognition)
@@ -100,7 +101,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Kimi Chat | Moonshot AI's latest Kimi K3 model (plus K2.7-Code and K2.6). Features a 2.8 trillion parameter MoE architecture, native vision understanding, and a 1M-token context window. Specialized for software engineering, knowledge work, and deep reasoning. |1. [Kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI](https://platform.moonshot.cn/)|Free|
 | GLM | Z.ai / Zhipu AI's latest GLM-5.2 model. Features 1M context window and dual thinking-effort system (High/Max). Optimized for agentic coding and repository-scale analysis. | 1. [URL](https://chat.z.ai/)<br> 2. [API](https://open.bigmodel.cn/)| Free/Paid|
 | Grok | xAI's AI chatbot, including Grok 4.5. Best for real-time internet access and Elon Musk's AI vision. Real-time data and news is its moat - can directly access posts on X as information sources, a differentiation that's hard to replicate. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
-| qwen | Alibaba's AI chatbot. Includes Qwen 3.7-Plus/Max in Qwen Chat, supporting 1M context window, native multimodality, and long-horizon agentic reasoning. |[URL](https://chat.qwen.ai/)|Free|
+| qwen | Alibaba's AI chatbot. Qwen Chat now runs on Qwen3.8-Max, a 2.4T-parameter MoE model with native multimodality, 1M-token context window, and long-horizon agentic reasoning. |[URL](https://chat.qwen.ai/)|Free|
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
 
 ### Open Source LLMs
@@ -146,6 +147,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |MemPalace|Open-source AI memory system that stores full conversations and project data locally without cloud dependencies. Organizes memories into a hierarchical "palace" structure, achieves 96.6% recall on LongMemEval benchmarks (highest scoring), supports MCP integration and works offline with local LLMs.|[Github](https://github.com/milla-jovovich/mempalace) ![GitHub Repo stars](https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social)|Free|
 | codesight | CLI token optimizer and AI context generator with built-in MCP server. Scans codebases to extract routes, schema, components, and dependencies, reducing AI context tokens by 9x–13x. Profiles for Claude Code, Cursor, Copilot, Codex, and Windsurf. Zero runtime dependencies. | [Github](https://github.com/Houseofmvps/codesight) ![GitHub Repo stars](https://img.shields.io/github/stars/Houseofmvps/codesight?style=social) | Free |
 | AgentsMesh | The AI Agent Workforce Platform. Self-hostable remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. | [Github](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | Free (BSL-1.1) |
+| Orkas | Open-source, local-first multi-agent AI desktop client. A Commander decomposes goals and coordinates specialist agents in parallel or sequence, with private skills and memory. Supports BYO model providers and local model endpoints, and can drive Claude Code, Codex, OpenClaw, OpenCode, and Hermes. Cross-platform (macOS / Windows / Linux). | [Website](https://orkas.ai?source=github_awesome_aitools) [Github](https://github.com/Orkas-AI/Orkas) ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social) | Free |
 | Hermes Agent | Open-source agentic framework built by NousResearch, fine-tuned on Hermes models with strong tool calling and reasoning capabilities for building autonomous AI agents. | [Github](https://github.com/NousResearch/hermes-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) | Free |
 | Screenpipe | Open-source 24/7 local screen + microphone recorder with OCR, audio transcription, and semantic search. Provides AI agents with long-term context of everything you've seen, said, or heard via MCP. Fully offline with Ollama or any local LLM. Cross-platform (macOS / Windows / Linux). | [Github](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | Free |
 | CC Switch | Cross-platform desktop app to manage Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Features visual configuration for API providers, MCP servers, and skills with bidirectional sync. [Intro](docs/cc-switch/README.md) | [Github](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | Free |
@@ -338,6 +340,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | lm-sys/FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
+### LLM Inference & Deployment
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| AirLLM | A Python library that reduces LLM inference memory usage by loading one layer at a time, enabling 70B models on 4GB GPUs, 405B on 8GB, and 671B DeepSeek-V3 on ~12GB. Supports 4-bit/8-bit quantization and a wide range of open models via a single AutoModel interface. | [Github](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | Free |
 
 ### Writing
 | Name | Description | Links | Fees |
