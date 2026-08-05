@@ -478,3 +478,4 @@ Interested in sponsoring this project? Feel free to reach out!
 </div>
 
 [![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+- [flow-chart.io](https://flow-chart.io/?utm_source=awesome-aitools&utm_medium=referral&utm_campaign=first_customer&utm_content=directory) — AI diagram generator that outputs a fully editable scene graph from plain-English prompts. Every node and connector is a real object — not a locked image. Supports C4, BPMN, cloud architecture, ERD, DevOps pipelines, Mermaid export, and an MCP endpoint for AI agent use. Freemium.
