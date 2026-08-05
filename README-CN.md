@@ -74,6 +74,7 @@
 - [GPU编程](#gpu编程)
 - [LLM Prompts](#llm-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
+- [LLM 推理与部署](#llm-推理与部署)
 - [阅读](#阅读)
 - [写作](#写作)
 - [翻译工具](#翻译工具)
@@ -345,6 +346,11 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | FastChat | 用于训练、服务和评估大型语言模型的开放平台。Vicuna 和 Chatbot Arena 的发布仓库。| [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
+### LLM 推理与部署
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| AirLLM | 通过逐层加载大幅降低大语言模型推理显存占用的 Python 库，可在 4GB 显存上运行 70B 模型、8GB 上运行 405B 模型、约 12GB 上运行 671B 的 DeepSeek-V3。支持 4 位/8 位量化，并通过统一的 AutoModel 接口支持众多开源模型。 | [Github](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | 免费 |
 
 ### 阅读
 | 名称 | 说明 | 链接 | 费用 |

@@ -75,6 +75,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [GPU Programming](#gpu-programming)
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
+  - [LLM Inference & Deployment](#llm-inference--deployment)
   - [Writing](#writing)
   - [Translation](#translation)
   - [Speech Recognition](#speech-recognition)
@@ -337,6 +338,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | lm-sys/FastChat | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | [Github](https://github.com/lm-sys/FastChat) ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)| Free |
+
+### LLM Inference & Deployment
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| AirLLM | A Python library that reduces LLM inference memory usage by loading one layer at a time, enabling 70B models on 4GB GPUs, 405B on 8GB, and 671B DeepSeek-V3 on ~12GB. Supports 4-bit/8-bit quantization and a wide range of open models via a single AutoModel interface. | [Github](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | Free |
 
 ### Writing
 | Name | Description | Links | Fees |
