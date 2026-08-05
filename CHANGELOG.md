@@ -8,6 +8,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added AirLLM (lyogavin/airllm) to new LLM Inference & Deployment section (both EN/CN)
 
 ## July 2026
+- Added Orkas to the AI Agent section (both EN/CN)
 - Added Codex Security (openai/codex-security) to AI Coding section with documentation (both EN/CN)
 - Updated black-forest-labs/flux to black-forest-labs/flux2 in AI Image Creation section (CN)
 - Removed easyvideotrans from Video Translation section (archived)
