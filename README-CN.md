@@ -68,7 +68,7 @@
 - [AI Coding](#ai-coding)
 - [AI 新闻与资讯](#ai-新闻与资讯)
 - [AI金融与量化投资](#ai金融与量化投资)
-- [AI图像创作](#ai图像创作)
+- [AI图像创作与UI设计](#ai图像创作与ui设计)
 - [AI视频创作](#ai视频创作)
 - [AI云平台](#ai云平台)
 - [GPU编程](#gpu编程)
@@ -171,6 +171,8 @@
 | Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [Github](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
 | FlowGram.AI | 字节跳动开源的可扩展可视化 AI 工作流开发框架，内置画布、表单引擎、变量作用链和现成物料（LLM、Condition、代码编辑器等），帮助开发者更快构建 AI 工作流平台。 | [Github](https://github.com/bytedance/flowgram.ai) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/flowgram.ai?style=social) | 免费 |
 | DeepTutor | 香港大学数据科学研究院（HKUDS）开源的 AI 原生学习/辅导工作区，整合 AI 辅导、解题、测验生成、研究、可视化和掌握式学习路径。支持多引擎 RAG、持久化记忆、Partner/智能体、以及 Claude Code/Codex 等编程 CLI 实时接入。[入门介绍](docs/deeptutor/README-CN.md) | [Github](https://github.com/HKUDS/DeepTutor) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | 免费 |
+| Symphony | OpenAI 开源的项目需求到交付的 harness。将项目需求转化为隔离、自主的实施运行；代理可监听 Linear 等看板，自动提交 PR、合并代码，并提供 CI 状态、审查反馈、演示视频等工作证明。目前处于工程预览阶段。[入门介绍](docs/symphony/README-CN.md) | [Github](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | 免费 |
+| QM | YC 开源的面向企业组织的 multi-agent harness，运行在 Slack 和 Web 上。以 scope（作用域）为每个员工、项目、频道隔离记忆、文件、凭据与权限；核心为 headless 架构，模型和 harness 可替换，支持 Docker/Fly/AWS 自托管。[入门介绍](docs/qm/README-CN.md) | [Github](https://github.com/yc-software/qm) ![GitHub Repo stars](https://img.shields.io/github/stars/yc-software/qm?style=social) | 免费 |
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
@@ -280,12 +282,13 @@
 | OpenBB | 开源投资研究平台，整合多个金融数据源（Yahoo Finance、Alpha Vantage 等）提供统一 API。内置 MCP 服务器支持 AI 智能体集成，让 Claude 等大语言模型可直接查询金融数据。 | [Github](https://github.com/OpenBB-finance/OpenBB) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social) | 免费 |
 | AkShare | 开源的 Python 金融数据库，提供股票、期货、期权等金融数据接口。主要覆盖中国市场，是 AI 量化交易和金融分析的重要数据源。 | [Github](https://github.com/akfamily/akshare) ![GitHub Repo stars](https://img.shields.io/github/stars/akfamily/akshare?style=social) | 免费 |
 
-### AI图像创作
+### AI图像创作与UI设计
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | ChatGPT Images 2.0 |OpenAI最新的图像生成模型 GPT Image 2.0。先进的AI图像生成和编辑能力。|[URL](https://chatgpt.com/images)|免费/付费|
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Nano Banana/Nano Banana Pro|谷歌用于图像生成与编辑的先进人工智能模型。在LMArena文本转图像和图像编辑排行榜中位列榜首。<br> [Nano Banana 的用法合集](https://github.com/ikaijua/Awesome-AITools/wiki/Nano-Banana-%E7%9A%84%E7%94%A8%E6%B3%95%E5%90%88%E9%9B%86) <br>在线网站：<br> 1. [aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) <br> 2. [gemini](https://gemini.google.com/app) <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) |免费/付费|
+| Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。[入门介绍](docs/stitch/README-CN.md) | [官网](https://stitch.withgoogle.com/) | 免费 |
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[Github](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | Midjourney | 输入文字或图片进行图片创作。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
