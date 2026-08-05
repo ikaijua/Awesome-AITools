@@ -69,7 +69,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [AI Coding](#ai-coding)
   - [AI News & Information](#ai-news--information)
   - [AI Finance & Quant Investment](#ai-finance--quant-investment)
-  - [AI Image Creation](#ai-image-creation)
+  - [AI Image Creation and UI Design](#ai-image-creation-and-ui-design)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
   - [GPU Programming](#gpu-programming)
@@ -159,6 +159,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Spec Kit | GitHub's open-source toolkit for Spec-Driven Development (SDD). Provides the `specify` CLI and slash commands (/speckit.specify, /speckit.plan, /speckit.implement, etc.) that integrate with 30+ AI coding agents to turn specifications into executable implementation plans. | [Github](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | Free |
 | FlowGram.AI | An extensible visual AI workflow development framework with built-in canvas, form engine, variable scope chain, and ready-to-use materials (LLM, Condition, Code Editor, etc.) for building AI workflow platforms faster. | [Github](https://github.com/bytedance/flowgram.ai) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/flowgram.ai?style=social) | Free |
 | DeepTutor | An agent-native learning workspace by HKUDS that unifies AI tutoring, problem solving, quiz generation, research, visualization, and mastery practice. Features multi-engine RAG, persistent memory, Partners/My Agents, and live coding CLI integration. [Intro](docs/deeptutor/README.md) | [Github](https://github.com/HKUDS/DeepTutor) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | Free |
+| Symphony | OpenAI's open-source project-to-delivery harness. Turns project requirements into isolated, autonomous implementation runs; agents monitor boards like Linear, open PRs, and merge code with proof-of-work (CI status, review feedback, demo videos). Currently in engineering preview. [Intro](docs/symphony/README.md) | [Github](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | Free |
+| QM | YC open-source multi-agent harness for organizations. Runs on Slack and Web with scoped workspaces (memory, files, credentials, permissions) per employee/project/channel; headless core with replaceable models/harnesses and self-hostable via Docker/Fly/AWS. [Intro](docs/qm/README.md) | [Github](https://github.com/yc-software/qm) ![GitHub Repo stars](https://img.shields.io/github/stars/yc-software/qm?style=social) | Free |
 
 ### Agent Skills
 | Name | Description | Links | Fees |
@@ -277,11 +279,12 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | yfinance | Open-source Python library for accessing Yahoo Finance data. Provides stock, ETF, and crypto historical prices without API key. Essential data source for AI-powered quantitative trading and financial analysis. | [Github](https://github.com/ranaroussi/yfinance) ![GitHub Repo stars](https://img.shields.io/github/stars/ranaroussi/yfinance?style=social) | Free |
 | OpenBB | Open-source investment research platform that integrates multiple financial data sources (Yahoo Finance, Alpha Vantage, etc.) with unified API. Features built-in MCP server for AI agent integration, enabling Claude and other LLMs to query financial data directly. | [Github](https://github.com/OpenBB-finance/OpenBB) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social) | Free |
 
-### AI Image Creation
+### AI Image Creation and UI Design
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT Images 2.0 |OpenAI's latest image generation model GPT Image 2.0. Advanced AI image generation and editing capabilities.|[URL](https://chatgpt.com/images)|Free/Paid|
 | Nano Banana 2|Google's advanced AI model for image generation and editing. No. 1 in the LMArena Text to Image and Image Edit leadboard. Online website: <br> 1. [gemini](https://gemini.google.com/app)<br> 2.[aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview)   <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview)|Free/Paid|
+| Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. [Intro](docs/stitch/README.md) | [URL](https://stitch.withgoogle.com/) | Free |
 | Z-Image | Z-Image is a high-performance image generation model recently open-sourced by Alibaba's Tongyi Lab. It strikes a balance between "extreme speed" and "high quality," making it highly suitable for scenarios requiring rapid image generation. Z-Image-Turbo Online Demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo | [Github](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social) | Free |
 | Midjourney | Enter text or pictures to create pictures | [URL](https://www.midjourney.com) | Paid |
 | Photoshop AI| Adobe Photoshop generative-fill| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |Paid|
