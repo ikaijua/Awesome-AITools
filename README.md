@@ -69,7 +69,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [AI Coding](#ai-coding)
   - [AI News & Information](#ai-news--information)
   - [AI Finance & Quant Investment](#ai-finance--quant-investment)
-  - [AI Image Creation](#ai-image-creation)
+  - [AI Image Creation and UI Design](#ai-image-creation-and-ui-design)
   - [Video Creation](#video-creation)
   - [AI Cloud Platform](#ai-cloud-platform)
   - [GPU Programming](#gpu-programming)
@@ -279,7 +279,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | yfinance | Open-source Python library for accessing Yahoo Finance data. Provides stock, ETF, and crypto historical prices without API key. Essential data source for AI-powered quantitative trading and financial analysis. | [Github](https://github.com/ranaroussi/yfinance) ![GitHub Repo stars](https://img.shields.io/github/stars/ranaroussi/yfinance?style=social) | Free |
 | OpenBB | Open-source investment research platform that integrates multiple financial data sources (Yahoo Finance, Alpha Vantage, etc.) with unified API. Features built-in MCP server for AI agent integration, enabling Claude and other LLMs to query financial data directly. | [Github](https://github.com/OpenBB-finance/OpenBB) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social) | Free |
 
-### AI Image Creation
+### AI Image Creation and UI Design
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT Images 2.0 |OpenAI's latest image generation model GPT Image 2.0. Advanced AI image generation and editing capabilities.|[URL](https://chatgpt.com/images)|Free/Paid|
