@@ -7,6 +7,8 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section (both EN/CN)
 - Added AirLLM (lyogavin/airllm) to new LLM Inference & Deployment section (both EN/CN)
 - Added Fincept Terminal to AI Finance & Quant Investment section (both EN/CN)
+- Added Symphony (openai/symphony) and QM (yc-software/qm) to AI Agent section with documentation (both EN/CN)
+- Added Stitch to AI Image Creation section with documentation (both EN/CN)
 
 ## July 2026
 - Added Markstream to AI Coding section (both EN/CN)
