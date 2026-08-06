@@ -103,6 +103,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Grok | xAI's AI chatbot, including Grok 4.5. Best for real-time internet access and Elon Musk's AI vision. Real-time data and news is its moat - can directly access posts on X as information sources, a differentiation that's hard to replicate. [x.com/grok](https://x.com/i/grok) |[URL](https://grok.com/)|Free/Paid|
 | qwen | Alibaba's AI chatbot. Qwen Chat now runs on Qwen3.8-Max, a 2.4T-parameter MoE model with native multimodality, 1M-token context window, and long-horizon agentic reasoning. |[URL](https://chat.qwen.ai/)|Free|
 | Dola | Bytedance's AI chatbot. Intuitive interface and good general capabilities.|[URL](https://www.dola.com/)|Free|
+| Zicisi AI | All-in-one AI toolkit — multi-model chat (DeepSeek/GPT/Claude/Doubao/Gemini), image generation (Seedream/DALL·E), writing assistant, data analysis & video generation. 50 free credits + $1 trial. | [URL](https://zicisi.fun) | Freemium |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
