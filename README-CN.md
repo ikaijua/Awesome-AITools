@@ -331,7 +331,7 @@
 | Palmier Pro | 面向 AI 构建的开源 macOS 视频编辑器。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana Pro 等生成式图像/视频能力；支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [Github](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [Github](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
-| LiveFaceSwap AI换脸 | 提供网页体验和 Windows 客户端，支持实时换脸、变装与风格重绘；可输出虚拟摄像头，供 OBS 等兼容的直播、会议或视频通话软件选择。 | [URL](https://livefaceswap.ai/zh) | |
+| LiveFaceSwap AI换脸 | 提供网页体验和 Windows 客户端，支持实时换脸、变装与风格重绘；可输出虚拟摄像头，供 OBS 等兼容的直播、会议或视频通话软件选择。 | [URL](https://livefaceswap.ai/zh) | 免费/付费 |
 
 ### AI云平台
 | 名称 | 说明 | 链接 | 费用 |
