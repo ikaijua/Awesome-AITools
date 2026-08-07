@@ -358,6 +358,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
 | grammarly | Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.| [URL](https://app.grammarly.com/) | Free/Paid|
+| Humanize-Text | Open-source Python toolkit and web app for rewriting AI-assisted drafts with multilingual, multi-stage pipelines. | [URL](https://lynote.ai/) | Free trial / open-source toolkit; API costs may apply |
 
 
 
