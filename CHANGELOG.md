@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added Conductor (conductor-oss/conductor) to AI Agent section with documentation (both EN/CN)
 - Added Buzz (block/buzz) to AI Agent section with documentation (both EN/CN)
 - Updated Qwen Chat entry to Qwen3.8-Max in AI Chatbots section (both EN/CN)
 - Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section (both EN/CN)
