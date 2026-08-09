@@ -3,7 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
-- Removed CodeGeeX and Amazon CodeWhisperer from AI Coding section
+- Removed CodeGeeX, Amazon CodeWhisperer, and 腾讯云AI代码助手 from AI Coding section
 - Renamed 通义灵码 to Qoder CN in AI Coding section and updated URL (CN)
 - Added current flagship model info to each AI Chatbot entry (both EN/CN)
 - Removed Chatbox, NextChat, MindMac, ChatGPT Sidebar, ChatGPT-Shortcut, chathub, openai-python, go-openai, and gemini-fullstack-langgraph-quickstart from GPT LLMs Applications section
