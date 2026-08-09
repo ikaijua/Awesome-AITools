@@ -8,7 +8,6 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Updated MiniMax flagship model from MiniMax-M2.5 to MiniMax-M3 (CN)
 - Added unified Trae entry (Trae Code / Trae IDE / Trae Work) to AI Agent section (CN)
 - Added Trae documentation in `docs/trae/` (CN)
-- Added Trae to AI Agent Tools comparison doc (`docs/COMPARISON-CN.md`)
 - Removed weixin-agent-sdk from AI Agent section (both EN/CN)
 - Removed Qoder from AI Coding section (now only listed in AI Agent section) (CN)
 - Added Qoder to AI Agent section (CN)
