@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Renamed 通义灵码 to Qoder CN in AI Coding section and updated URL (CN)
 - Added current flagship model info to each AI Chatbot entry (both EN/CN)
 - Removed Chatbox, NextChat, MindMac, ChatGPT Sidebar, ChatGPT-Shortcut, chathub, openai-python, go-openai, and gemini-fullstack-langgraph-quickstart from GPT LLMs Applications section
 - Removed monica and AIPRM for ChatGPT from GPT LLMs Applications section (both EN/CN)
