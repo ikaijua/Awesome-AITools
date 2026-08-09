@@ -102,18 +102,17 @@
 ### ChatGPT及类似大语言模型AI助手
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Claude|Anthropic研发的AI助手Claude。以编程能力强著称。最佳用于：编程、长上下文、安全性、企业使用。Cowork功能让AI真正变成了"代理"而不是聊天机器人，可以用来拉财务数据、做Excel预测模型等，效率很高。最新模型包括 Claude 5 (Fable/Mythos)、Claude Opus 5 和 Claude Sonnet 5|[URL](https://claude.ai/)| 免费/付费|
-| ChatGPT | openAI的chatgpt，最新模型 GPT-5.6 系列（Sol/Terra/Luna）。最佳用于：通用目的、编程、创意写作，适合大多数用户。记忆功能是目前最好的，它会记住你说过的事，下次对话直接接上，聊起来最像真人。 |[URL](https://chatgpt.com)  | 免费/付费|
-| Gemini| Google 的对话式AI工具和大语言模型，Gemini 3 系列最新发布 Gemini 3.6 Flash。Nano Banana 2在LMArena文本转图像和图像编辑排行榜中位列榜首，人物一致性实现了突破性的进步。最佳用于：图像处理和网络信息整合最强，Deep Research功能表现优异，配合Google Drive几乎无缝集成。 [aistudio](https://aistudio.google.com)|[URL](https://gemini.google.com/) | 免费/付费|
-| 豆包 | 字节跳动旗下的AI聊天软件。最佳用于：界面直观、综合能力好。 [豆包chrome插件](https://chromewebstore.google.com/detail/dbjibobgilijgolhjdcbdebjhejelffo) |[URL](https://www.doubao.com/)|免费|
-| 通义千问 |阿里的大语言模型。 <br> Qwen Chat 已升级至 Qwen3.8-Max，2.4T 参数 MoE 架构，支持 100 万超长上下文、原生多模态、长链路 Agent 推理与深度研究。|[URL](https://chat.qwen.ai/)|免费|
-| 腾讯元宝 |腾讯元宝提供了DeepSeek R1和腾讯自家的混元模型可使用；腾讯混元 AI Studio 提供了各种 AI 工具，包括 AI 对话助手、文生图、文/图生视频等各种模型和工具|1.[腾讯元宝智能助手](https://hunyuan.tencent.com/bot) <br> 2. [混元 AI Studio](https://hunyuan.tencent.com/)|免费|
-| DeepSeek | DeepSeek的AI助手，包含最新的 V4 系列。提供 100 万超长上下文、原生多模态支持，以及极具性价比的旗舰级推理能力（V4-Pro）。 [API](https://platform.deepseek.com/api_keys)|[URL](https://chat.deepseek.com/)|免费/付费|
-| 月之暗面的Kimi Chat|最新的 Kimi K3 模型（同时提供 K2.7-Code 和 K2.6），2.8 万亿参数 MoE 架构，原生支持视觉理解，100 万 token 上下文，面向软件工程、知识工作和深度推理等前沿智能场景。[chrome插件：Kimi浏览器助手](https://chromewebstore.google.com/detail/icmdpfpmbfijfllafmfogmdabhijlehn) <br>[张鹏对谈月之暗面杨植麟：大模型创业需要新的组织范式](https://www.xiaoyuzhoufm.com/episode/659d17352e26fb9934b8dceb)|1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI开放平台](https://platform.moonshot.cn/)|免费|
-| 智谱AI | 最新的 GLM-5.2 模型 | 1. [URL](https://chat.z.ai/)<br> 2. [API开发者网站](https://open.bigmodel.cn/)| 免费/付费|
-| Minimax| 最新的 Minimax-m2.5模型|[URL](https://www.minimax.io/)|免费/付费|
-| Grok | xAI研发的AI助手，結合了x上的內容，最新版本 Grok 4.5。马斯克的AI公司的产品。实时数据和新闻是它的护城河，能直接调用X上的帖子作为信息源，这个差异化很难被复制 |[URL](https://x.com/i/grok)|免费|
-
+| Claude | Anthropic 研发的 AI 助手。**核心差异：** Cowork 模式把 AI 从“聊天机器人”变成可拉取数据、生成 Excel 预测模型并执行工作流的代理；在编程、长上下文、安全性和企业场景上最强。模型：Claude 5 系列。 | [URL](https://claude.ai/) | 免费/付费 |
+| ChatGPT | OpenAI 的 AI 助手。**核心差异：** 持久记忆和用户画像 —— 跨会话记住你的偏好，续聊最自然；通用能力最均衡，适合日常、编程和创意写作。模型：GPT-5.6 系列。 | [URL](https://chatgpt.com) | 免费/付费 |
+| Gemini | Google 的 AI 助手。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。模型：Gemini 3.6 Flash。 | [URL](https://gemini.google.com/) | 免费/付费 |
+| 豆包 | 字节跳动的 AI 助手。**核心差异：** 字节生态入口 + 多模态交互 —— 集成搜索、语音、音乐等能力，界面直观，适合日常通用问答。 | [URL](https://www.doubao.com/) | 免费 |
+| 通义千问 | 阿里云的 AI 助手。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | [URL](https://chat.qwen.ai/) | 免费 |
+| 腾讯元宝 | 腾讯的 AI 助手。**核心差异：** 混元 + DeepSeek 双模型 —— 可切换腾讯自研混元模型和 DeepSeek R1；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
+| DeepSeek | DeepSeek 的 AI 助手。**核心差异：** 推理性价比 —— V4-Pro 提供顶尖推理能力且成本极低；支持 100 万上下文和原生多模态。 | [URL](https://chat.deepseek.com/) | 免费/付费 |
+| 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
+| 智谱AI | 智谱 AI 的 AI 助手。**核心差异：** High/Max 双档思考深度 —— 可在快速回答和深度推理之间切换；专注 Agentic 编程和仓库级分析。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
+| Minimax | MiniMax 的 AI 助手。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | [URL](https://www.minimax.io/) | 免费/付费 |
+| Grok | xAI 的 AI 助手。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。 | [URL](https://x.com/i/grok) | 免费/付费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
