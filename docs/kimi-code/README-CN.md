@@ -244,6 +244,56 @@ kimi doctor tui
 kimi upgrade
 ```
 
+## 目标模式（Goal Mode）
+
+当任务有明确的完成标准，且下一步取决于 Agent 在执行中学到的信息时，使用 `/goal` 让 Kimi Code 自主推进：
+
+```text
+/goal 修复所有标记为 checkout-regression 的 bug，为每个修复添加或更新测试，并运行 checkout 测试套件
+```
+
+常用命令：
+
+| 命令 | 作用 |
+| --- | --- |
+| `/goal` 或 `/goal status` | 查看当前目标及进展 |
+| `/goal pause` | 暂停当前目标 |
+| `/goal resume` | 恢复暂停或阻塞的目标 |
+| `/goal cancel` | 取消当前目标 |
+| `/goal replace <目标描述>` | 用新目标替换当前目标 |
+| `/goal next <目标描述>` | 在当前目标完成后排队执行下一个目标 |
+
+目标会在三种状态间流转：
+- **complete**：目标完成，Agent 会总结完成方式
+- **paused**：用户暂停、回合中断、恢复带有活跃目标的会话，或遇到运行时错误
+- **blocked**：需要用户输入、无法按描述完成，或达到预算限制
+
+Web UI 中也会显示当前目标状态条，支持展开查看详情、暂停、恢复和取消。
+
+## 会话恢复与导出
+
+Kimi Code 会自动持久化每个会话。关闭终端后，可随时回到上次状态：
+
+```bash
+# 恢复当前目录最近一次会话
+kimi --continue
+kimi -C
+
+# 从历史会话中选择，或恢复指定 session ID
+kimi --session
+kimi --session <session-id>
+```
+
+导出会话：
+
+```bash
+# 将会话打包为 ZIP（含诊断日志）
+kimi export <session-id>
+
+# 导出为 Markdown 文件
+kimi -p "/export" --session <session-id>
+```
+
 ## Server、Web UI 与 ACP
 
 ```bash

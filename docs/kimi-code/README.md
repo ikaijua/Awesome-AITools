@@ -244,6 +244,56 @@ kimi doctor tui
 kimi upgrade
 ```
 
+## Goal Mode
+
+Use `/goal` when a task has a clear finish line and the next useful step depends on what the agent learns while working:
+
+```text
+/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite
+```
+
+Common commands:
+
+| Command | Action |
+| --- | --- |
+| `/goal` or `/goal status` | Show the current goal and its progress |
+| `/goal pause` | Pause the active goal |
+| `/goal resume` | Resume a paused or blocked goal |
+| `/goal cancel` | Cancel the current goal |
+| `/goal replace <objective>` | Replace the current goal with a new one |
+| `/goal next <objective>` | Queue a goal to run after the current one |
+
+A goal can end in three states:
+- **complete**: the objective is done
+- **paused**: you paused it, interrupted the turn, resumed a session with an active goal, or hit a runtime error
+- **blocked**: Kimi Code needs input, cannot complete the goal as stated, or reached a budget limit
+
+The Web UI also shows the current goal in a status strip where you can expand details, pause, resume, or cancel.
+
+## Session Resume and Export
+
+Kimi Code persists every conversation as a session. You can close the terminal and pick up where you left off:
+
+```bash
+# Resume the most recent session in the current directory
+kimi --continue
+kimi -C
+
+# Browse history or resume a specific session ID
+kimi --session
+kimi --session <session-id>
+```
+
+Export sessions:
+
+```bash
+# Package a session as a ZIP (includes diagnostic logs)
+kimi export <session-id>
+
+# Export as a Markdown file
+kimi -p "/export" --session <session-id>
+```
+
 ## Server, Web UI, and ACP
 
 ```bash
