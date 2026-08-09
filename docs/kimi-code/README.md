@@ -310,6 +310,32 @@ kimi server run --foreground
 kimi acp
 ```
 
+### Web UI Login
+
+The Web UI uses the same Kimi account authentication as the CLI. There are two login methods:
+
+1. **OAuth device-code flow (recommended)**
+   - Run `kimi login` in the CLI and choose **Kimi Code OAuth**
+   - The terminal prints an authorization URL and an 8-digit device code
+   - Open the URL on your phone or computer browser, sign in to your Kimi account, and enter the device code
+   - Once authorized, the Web UI on the same machine is automatically logged in
+
+2. **Moonshot AI API Key**
+   - Create an API Key at `platform.kimi.com` or `platform.kimi.ai`
+   - Choose API Key login when the CLI or Web UI first starts and paste the key
+
+> Note: If you run `kimi server run --foreground` on a remote server, access the Web UI through a local browser on the server or via an SSH tunnel, and complete OAuth/API Key login once.
+
+### Checking Goal Status in the Web UI
+
+After logging in, open the Web UI:
+
+- The current goal appears in a strip below the conversation
+- Select the strip to expand or collapse its details
+- Goals with a token budget show a progress bar in the header; goals without a budget do not
+- The strip provides **Pause / Resume / Cancel** actions
+- Selecting **Resume** starts the next goal turn
+
 For Zed or JetBrains ACP integration, configure the editor to run `kimi acp` over stdio after logging in once from the CLI.
 
 ## Best Practices

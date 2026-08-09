@@ -310,6 +310,32 @@ kimi server run --foreground
 kimi acp
 ```
 
+### Web UI 登录
+
+Web UI 需要先用同一个 Kimi 账号完成认证，认证方式与 CLI 一致：
+
+1. **OAuth 设备码授权（推荐）**
+   - 在 CLI 中运行 `kimi login`，选择 **Kimi Code OAuth**
+   - 终端会输出一个授权链接和 8 位设备码
+   - 在手机或电脑浏览器中打开链接，登录 Kimi 账号后输入设备码
+   - 授权成功后，同一台机器上的 Web UI 自动处于登录状态
+
+2. **Moonshot AI API Key**
+   - 在 `platform.kimi.com` 或 `platform.kimi.ai` 创建 API Key
+   - 在 CLI 或 Web UI 首次启动时选择 API Key 登录并粘贴
+
+> 注意：如果你是在远程服务器上运行 `kimi server run --foreground`，需要在服务器本地浏览器或通过 SSH 隧道访问 Web UI，并同样完成一次 OAuth/API Key 登录。
+
+### 在 Web UI 中查看 Goal 状态
+
+登录后打开 Web UI：
+
+- 当前 goal 会显示在对话下方的状态条中
+- 点击状态条可展开/折叠详情
+- 配置了 token 预算的 goal 会显示进度条；未配置预算的 goal 不显示进度条
+- 状态条提供 **Pause / Resume / Cancel** 操作
+- 点击 **Resume** 会继续执行下一个 goal 回合
+
 如果要接入 Zed 或 JetBrains 等 ACP 编辑器，先在 CLI 中登录一次，然后在编辑器中配置通过 stdio 运行 `kimi acp`。
 
 ## 最佳实践
