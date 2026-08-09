@@ -325,6 +325,28 @@ The Web UI uses the same Kimi account authentication as the CLI. There are two l
 
 > Note: If you run `kimi web` on a remote server, access the Web UI through a local browser on the server or via an SSH tunnel, and complete OAuth/API Key login once.
 
+### Running in the Background: tmux Example
+
+`kimi web` runs in the foreground by default and exits on `Ctrl+C`. To keep it running on a remote server, use `tmux`:
+
+```bash
+# Create a new session
+ tmux new -s kimi-web
+
+# Start the server inside the session (listen on all interfaces, don't open browser)
+kimi web --host --no-open
+
+# Detach with Ctrl+B then D; the process keeps running in the background
+```
+
+Re-attach later to view logs:
+
+```bash
+tmux attach -t kimi-web
+```
+
+To stop: re-attach, press `Ctrl+C`, then exit tmux.
+
 ### Checking Goal Status in the Web UI
 
 After logging in, open the Web UI:

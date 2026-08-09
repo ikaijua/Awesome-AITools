@@ -325,6 +325,28 @@ Web UI 需要先用同一个 Kimi 账号完成认证，认证方式与 CLI 一�
 
 > 注意：如果你是在远程服务器上运行 `kimi web`，需要在服务器本地浏览器或通过 SSH 隧道访问 Web UI，并同样完成一次 OAuth/API Key 登录。
 
+### 后台运行：tmux 示例
+
+`kimi web` 默认在前台运行，按 `Ctrl+C` 会退出。如果要在远程服务器上长期保持运行，可用 `tmux`：
+
+```bash
+# 新建会话
+ tmux new -s kimi-web
+
+# 在会话中启动（监听所有网卡，不自动打开浏览器）
+kimi web --host --no-open
+
+# 按 Ctrl+B，再按 D 分离会话，进程继续在后台运行
+```
+
+之后重新连入查看日志：
+
+```bash
+tmux attach -t kimi-web
+```
+
+停止服务：在 tmux 会话中按 `Ctrl+C`，然后退出 tmux 即可。
+
 ### 在 Web UI 中查看 Goal 状态
 
 登录后打开 Web UI：
