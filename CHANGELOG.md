@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Removed Qoder from AI Coding section (now only listed in AI Agent section) (CN)
 - Added Qoder to AI Agent section (CN)
 - Added WorkBuddy to AI Agent section (CN)
 - Updated IMA description to mention supported models: DeepSeek-V4-Flash, GLM-5.2, and 混元 Hy3 (CN)
