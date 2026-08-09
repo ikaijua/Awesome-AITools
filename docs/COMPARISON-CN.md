@@ -1,24 +1,24 @@
 # AI Agent Tools 对比：Claude Code vs Codex vs Kimi Code vs Grok Build vs Qoder vs Antigravity
 
-本文档对比六款主流的 AI Agent 编程工具：Claude Code、Codex、Kimi Code、Grok Build、Qoder，以及 Google 推出的智能体优先 IDE —— Antigravity。
+本文档对比六款主流的 AI Agent 编程工具：Claude Code、Codex、Kimi Code、Grok Build、Qoder，以及 Google 推出的智能体优先开发平台 —— Antigravity。
 
 ## 快速对比
 
 | 方面 | Claude Code | Codex | Kimi Code | Grok Build | Qoder | Antigravity |
 |------|-------------|-------|-----------|------------|-------|-------------|
 | 开发者 | Anthropic | OpenAI | Moonshot AI | xAI | 阿里云 | Google |
-| 形态 | 终端 CLI + IDE 插件 + 桌面/Web/App | 终端 CLI + IDE 扩展 + 桌面 App + Codex Web | 终端 CLI + ACP 编辑器 + 本地 Web UI | 终端 TUI/CLI + ACP 嵌入 + 无头模式 | 桌面 IDE + CLI + Work + Wake + Cloud Agents | 独立 IDE（VS Code 衍生）+ Manager 仪表盘 |
+| 形态 | 终端 CLI + IDE 插件 + 桌面/Web/App | 终端 CLI + IDE 扩展 + 桌面 App + Codex Web | 终端 CLI + ACP 编辑器 + 本地 Web UI | 终端 TUI/CLI + ACP 嵌入 + 无头模式 | 桌面 IDE + CLI + Work + Wake + Cloud Agents | 桌面 App + IDE + CLI (`agy`) + SDK |
 | 开源 | ❌ | ✅ Apache-2.0 | ⚠️ CLI 使用 MIT，核心服务不开源 | ✅ Apache-2.0（不接受外部贡献） | ❌ | ❌（预览期免费） |
-| 默认模型 | Claude 系列（Opus / Sonnet / Haiku） | GPT-5.x / Codex 系列 | Kimi Code / Moonshot 模型 | Grok 系列 | 通义 / 百炼模型 | Gemini 3 Pro / Flash |
-| 其他模型 | — | — | 可配置兼容供应商 | — | 可配置阿里云百炼等 | Claude 5、Claude Sonnet 4.6、Claude Opus 4.6、GPT-OSS-120B |
+| 默认模型 | Claude 系列（Opus / Sonnet / Haiku） | GPT-5.x / Codex 系列 | Kimi Code / Moonshot 模型 | Grok 系列 | 通义 / 百炼模型 | Gemini 3.5 / 3.6 Flash |
+| 其他模型 | — | — | 可配置兼容供应商 | — | 可配置阿里云百炼等 | Gemini 3 Pro、Claude、GPT-OSS 等 |
 | 账号要求 | Anthropic API 或 Claude 账户 | OpenAI API 或 ChatGPT 账户 | Kimi 账户或 API Key | xAI / X 账户 | 阿里云账号 | Google 账户 |
 | 多模态 | 文本 + 图片 | 文本 + 图片 | 文本 + 图片/视频 | 文本 + 图片 | 文本 + 图片 | 文本 + 图片 + 内置浏览器 |
 | 持久记忆 | ✅ 项目级 + 用户级记忆 | ⚠️ 会话内 + 跨端 relay 同步 | ✅ 会话/Goal 记忆 | ⚠️ 会话 + checkpoints | ✅ 知识引擎 + 自适应记忆 | ✅ 跨运行学习 + 项目上下文 |
 | 多智能体 | ✅ 子代理 + workflows | ✅ 子代理 | ✅ 子代理 | ✅ 子代理 | ✅ 多智能体协同 | ✅ Manager 视图跨工作区分发 |
-| 本地/云端 | 本地优先，`--cloud` 可选 | 本地 + Codex Cloud | 本地优先，`kimi web` 本地 server | 本地 | 本地 Desktop/CLI/Work + Cloud Agents | 本地 IDE |
+| 本地/云端 | 本地优先，`--cloud` 可选 | 本地 + Codex Cloud | 本地优先，`kimi web` 本地 server | 本地 | 本地 Desktop/CLI/Work + Cloud Agents | 本地桌面 App/IDE/CLI + 托管 Agent 服务 |
 | 跨端继续 | ✅ Remote Control + 手机/Web | ✅ ChatGPT relay（手机/桌面/Web） | ✅ `kimi web` 同 server 多端访问 | ❌ | ✅ 远程控制 + Mobile 同步 | ⚠️ 弱 |
 | 权限模式 | `--permission-mode` default/plan/auto | `--approval-mode` suggest/auto-edit/full-auto + sandbox | Manual / YOLO / Auto / Plan | 交互确认 / 无头模式 | 确认 / Agent 模式 | Read Only / Auto / Full Access；先审计划 Artifact |
-| 扩展性 | MCP、Skills、Hooks、Plugins | MCP、Skills、Plugins、Hooks | MCP、Skills、Hooks、ACP | MCP、Skills、Plugins、Hooks、沙箱 | MCP、内置工具、IDE 插件 | VS Code 扩展、内置浏览器/终端 |
+| 扩展性 | MCP、Skills、Hooks、Plugins | MCP、Skills、Plugins、Hooks | MCP、Skills、Hooks、ACP | MCP、Skills、Plugins、Hooks、沙箱 | MCP、内置工具、IDE 插件 | VS Code 扩展、SDK、内置浏览器/终端 |
 
 ## 详细对比
 
@@ -51,7 +51,8 @@
 
 **Antigravity**
 - 智能体优先：规划 → 编辑 → 运行 → 验证，上下文随步骤传递
-- 智能体会从历史运行（包括你的修正）中学习
+- 桌面 App、IDE、CLI（`agy`）、SDK 四种形态共享同一套智能体引擎
+- 支持 Projects、多工作区、子代理、Hooks 与定时任务
 - 项目上下文以工作区为锚；内置浏览器把运行期信息回灌给智能体
 
 ### 安全与可控性
@@ -84,7 +85,8 @@
 **Antigravity**
 - 智能体先生成**计划 Artifact**，人工批准后再执行
 - 浏览器录屏与截图让事后审计成为可能
-- 在 IDE 中运行，访问范围限定在工作区
+- Read Only / Auto / Full Access 模式，Full Access 下仍先审计划 Artifact
+- 访问范围限定在工作区，桌面 App / IDE / CLI 均可使用
 
 ### 扩展与集成
 
@@ -114,9 +116,11 @@
 - 远程控制与 Mobile App 同步
 
 **Antigravity**
-- 基于 VS Code，可直接复用其扩展生态
+- 桌面 App / IDE 基于 VS Code，可直接复用其扩展生态
 - 内置浏览器，智能体可自行点击、跳转、截图
-- 在同一 IDE 内可切换 Gemini / Claude / GPT-OSS 多模型
+- CLI（`agy`）支持 Skills、Plugins、Hooks、MCP
+- SDK 可用 Python 脚本自定义智能体
+- 在模型选择器中可切换 Gemini / Claude / GPT-OSS 多模型
 
 ### 跨端与协作
 
@@ -145,8 +149,9 @@
 - Cloud Agents 支持关闭电脑后继续运行
 
 **Antigravity**
-- 主要作为本地 IDE 使用
-- 跨端能力较弱，暂不支持手机继续会话
+- 桌面 App / IDE / CLI 主要本地运行
+- 提供托管 Agent 服务（Gemini Enterprise Agent Platform）
+- 跨端继续会话能力较弱，暂不支持手机直接继续本地会话
 
 ## 选择建议
 
@@ -178,10 +183,12 @@
 - 阿里云生态和国内合规部署
 
 ### 选 Antigravity 如果你需要：
-- 一个智能体优先的 IDE，而非纯终端工具
+- 一个智能体优先的开发平台，横跨桌面 App、IDE、CLI（`agy`）和 SDK
+- 用 **Manager 视图**并行展开、监控多个智能体
 - 通过 Artifacts（计划、截图、录屏）让智能体运行**可核验**
 - 让智能体自己驱动浏览器去验证它写出的功能
-- 在 Gemini / Claude / GPT-OSS 之间灵活切换
+- 灵活切换模型，默认使用 Gemini 3.5 / 3.6 Flash
+- 项目上下文、多工作区编排、子智能体、Hooks 与定时任务
 
 ## 组合使用
 

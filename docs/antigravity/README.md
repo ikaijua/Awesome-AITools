@@ -2,9 +2,14 @@
 
 ## What is Antigravity?
 
-Antigravity is Google's agent-first AI coding platform built around the Gemini 3 family of models. Announced alongside Gemini 3, it is delivered as a heavily modified VS Code–based IDE (often regarded as a successor to / derivative of Windsurf) that lets developers delegate end-to-end software tasks to autonomous agents instead of just accepting inline code completions.
+Antigravity (currently Antigravity 2.0) is Google's agent-first AI coding platform and the successor to the deprecated Gemini CLI. It is no longer just an IDE plugin, but a product family with four surfaces:
 
-> ℹ️ Antigravity replaces Gemini CLI as Google's primary recommendation for agentic coding workflows. Gemini CLI is being deprecated in favor of the agent-oriented experience offered by Antigravity.
+- **Antigravity Desktop App**: a standalone agentic development workbench
+- **Antigravity IDE**: an agent-first IDE with Agent Manager, Artifacts, and deep codebase understanding
+- **Antigravity CLI (`agy`)**: a lightweight, fast, terminal-native agent
+- **Antigravity SDK**: a Python toolkit for prototyping custom agents and evaluations
+
+Antigravity defaults to Gemini 3.5 / 3.6 Flash models and also supports switching to Claude, GPT-OSS, and other models via a model picker.
 
 ## Core Philosophy
 
@@ -12,29 +17,40 @@ Antigravity is Google's agent-first AI coding platform built around the Gemini 3
 Antigravity treats the human as a manager of agents:
 - The unit of work is a task or a plan, not a keystroke
 - Agents have direct access to the editor, terminal, and an integrated browser
-- Every agent run produces **Artifacts** — task lists, plans, screenshots, browser recordings — so the human can verify what was done before accepting it
+- Every run produces **Artifacts** — task lists, plans, screenshots, browser recordings — so the human can verify what was done before accepting it
 
-### Two Built-in Surfaces
-- **Editor view**: a VS Code–like IDE with an agent sidebar for in-context collaboration
-- **Manager view**: a dashboard for fanning out work across multiple agents and workspaces in parallel
+### Multiple Surfaces, Same Agent Engine
+Whether you use the desktop app, IDE, terminal CLI, or SDK, the same Antigravity agent engine powers Projects, multi-workspace orchestration, subagents, and scheduled tasks.
 
 ### Multi-Model, Gemini-Centered
-Out of the box you can choose between:
-- Gemini 3 Pro (default, with generous preview rate limits)
-- Gemini 3 Flash
-- Anthropic Claude 5 (Fable/Mythos) / Claude 4 (Sonnet/Opus)
-- GPT-OSS-120B
+- Default models: Gemini 3.5 Flash / 3.6 Flash
+- Optional models: Gemini 3 Pro, Claude family, GPT-OSS-120B
+- Switch quickly with `/model` or configuration
 
 ### Verifiable Agent Output
-- Artifacts (plans, screenshots, browser recordings) make agent runs auditable
+- Artifacts make agent runs auditable
 - Agents accumulate learnings across sessions instead of starting cold every time
 
-## Core Features
+## Product Surfaces
+
+| Surface | Positioning | Best For |
+| --- | --- | --- |
+| **Desktop App** | Standalone agentic workbench | Daily development, multi-project management |
+| **IDE** | Agent-first IDE with Agent Manager | Deep code editing and parallel agents |
+| **CLI (`agy`)** | Terminal-native agent | Command-line users, scripting / CI |
+| **SDK** | Python programmable interface | Custom agents and evaluations |
+
+## Core Capabilities
 
 ### Autonomous Coding Agents
 - Multi-step task execution: plan → edit → run → verify
 - Parallel agents working across files and even repositories
 - Long-horizon refactors and migrations rather than single-snippet edits
+
+### Multi-Agent Management
+- **Agent Manager**: fan out and orchestrate tasks across multiple agents and workspaces
+- **Projects**: group related conversations and tasks
+- **Subagents**: delegate focused work to specialized agents
 
 ### Integrated Browser Control
 - Agents can drive a real browser to test the changes they wrote
@@ -43,16 +59,13 @@ Out of the box you can choose between:
 ### Project Memory and Learning
 - Carries project context across agent runs
 - Learns from prior interactions, including corrections you apply
-
-### IDE Integration
-- VS Code–style editor experience that most developers already know
-- Terminal, source control, and extensions work as expected
+- Supports Hooks and scheduled tasks
 
 ## Quick Start
 
 ### Download
 
-Antigravity is distributed as a desktop IDE (public preview, free during the preview period). Get it from the official site:
+Antigravity is currently in public preview and free for individual users. Download the desktop app or IDE for your system from:
 
 - <https://antigravity.google/>
 
@@ -64,8 +77,8 @@ System requirements:
 ### Sign In and Pick a Model
 
 1. Launch Antigravity and sign in with your Google account
-2. Pick a default model — Gemini 3 Pro is a good baseline
-3. Open a folder/workspace and start in **Editor view**, or jump to **Manager view** to plan a multi-agent run
+2. Pick a default model — Gemini 3.5 Flash is a good baseline
+3. Open a folder/workspace and start in **Editor/IDE** view, or jump to **Manager** view to plan a multi-agent run
 
 ### Typical Workflow
 
@@ -76,52 +89,41 @@ System requirements:
 
 ## CLI Usage
 
-While Antigravity is primarily delivered as a desktop IDE with Editor and Manager views, it also inherits and expands on the command-line capabilities of the former `Gemini CLI`. You can interact with the Antigravity agent directly from your terminal using the `gemini` command.
+Antigravity 2.0's terminal entry point is `agy` (Antigravity CLI), the successor to Gemini CLI.
 
-### Installation / Setup
-- **IDE Built-in**: Inside the Antigravity desktop IDE, open the Command Palette (F1 or Cmd/Ctrl+Shift+P) and search for `Shell Command: Install 'gemini' command in PATH`.
-- **Standalone Client** (if you need a standalone command-line client):
+### Installation
+
+- **Via IDE / Desktop App**: open the Command Palette (F1 / Ctrl+Shift+P) and run `Shell Command: Install 'agy' command in PATH`
+- **Standalone install** (see official docs):
   ```bash
-  npm install -g @google/gemini-cli
+  # Follow the official Antigravity documentation for the latest command
   ```
 
 ### Basic Commands
 
 ```bash
 # Launch interactive terminal session
-gemini
+agy
 
-# Ask a prompt directly and start interactive mode
-gemini "Analyze current project structure"
+# Ask a prompt directly
+agy "Analyze current project structure"
 
-# Run in non-interactive (headless) mode with a given prompt
-gemini --prompt "Write unit tests for src/auth.js"
+# Non-interactive (headless / script) mode
+agy -p "Write unit tests for src/auth.js"
 
-# Safely run inside a new Git worktree to avoid contaminating the current branch
-gemini --worktree my-refactor "Refactor login logic"
+# Migrate plugins from Gemini CLI
+agy plugin import gemini
 ```
 
 ### Common Options
 
-- `-m, --model <model_name>`: Specify the model to use (e.g. `gemini-3-pro`, `gemini-3-flash`, `claude-5-fable`)
-- `-y, --yolo`: YOLO mode; automatically approve all agent actions (edits, shell commands) without asking
-- `--approval-mode <mode>`: Set the tool approval mode (`default`, `auto_edit` for auto-approving file changes, `yolo`, or `plan` for read-only plan mode)
-- `-r, --resume <session_id>`: Resume a previous session (e.g. `latest` or a specific index/ID)
-- `-s, --sandbox`: Run the agent within a sandbox environment for command execution security
+- `-m, --model <model>`: specify model, e.g. `gemini-3.5-flash`
+- `-p, --prompt <prompt>`: run in non-interactive mode
+- `--approval-mode <mode>`: approval mode (`default`, `auto_edit`, `yolo`, `plan`)
+- `-s, --sandbox`: run inside a sandbox
+- `agy mcp list` / `agy skills list` / `agy hooks list`: manage MCP, Skills, Hooks
 
-### Helper Commands
-
-```bash
-# Manage Model Context Protocol (MCP) servers
-gemini mcp list
-gemini mcp add <name> <command>
-
-# Manage agent skills
-gemini skills list
-
-# Manage automation hooks
-gemini hooks list
-```
+> Note: the `gemini` command stopped serving individual users on June 18, 2026. Migrate scripts to `agy`.
 
 ## Common Use Cases
 
@@ -134,19 +136,22 @@ Spec → implementation → tests → browser-verified UI changes, all driven by
 ### Parallel Workstreams
 Use Manager view to run several agents on different tasks/branches at once and inspect their Artifacts as they finish.
 
+### Custom Agents (SDK)
+Use the Antigravity SDK to quickly prototype custom agents in Python and run evaluations.
+
 ## Best Practices
 
 1. **Start from a clear task statement** — the better the prompt, the better the plan
 2. **Review the Artifact, not just the diff** — screenshots and recordings catch behavior the diff hides
 3. **Let the agent verify** — give it permission to run tests and drive the browser; the goal is verifiable output
 4. **Bring corrections back as context** — Antigravity learns across runs, so explicit feedback compounds
+5. **Start with the desktop app or IDE** — move to the `agy` CLI for scripting once you're comfortable
 
 ## Related Resources
 
 - [Official Site](https://antigravity.google/)
-- [Wikipedia: Google Antigravity](https://en.wikipedia.org/wiki/Google_Antigravity)
-- [Comparison with Other Tools](../COMPARISON.md)
+- [Google Antigravity 2.0 Announcement](https://blog.google/products/antigravity/)
 
 ## License
 
-Antigravity is a proprietary Google product. It is free of charge during the public preview, with generous rate limits for the included Gemini 3 Pro usage. Subject to Google's terms of service.
+Antigravity is a proprietary Google product. It is free for individual users during the public preview; some advanced features or higher quotas may require a Google AI subscription. Subject to Google's terms of service.

@@ -1,24 +1,24 @@
 # AI Agent Tools Comparison: Claude Code vs Codex vs Kimi Code vs Grok Build vs Qoder vs Antigravity
 
-This document compares six mainstream AI agent coding tools: Claude Code, Codex, Kimi Code, Grok Build, Qoder, and Google's agent-first IDE Antigravity.
+This document compares six mainstream AI agent coding tools: Claude Code, Codex, Kimi Code, Grok Build, Qoder, and Google's agent-first development platform Antigravity.
 
 ## Quick Comparison
 
 | Aspect | Claude Code | Codex | Kimi Code | Grok Build | Qoder | Antigravity |
 |--------|-------------|-------|-----------|------------|-------|-------------|
 | Developer | Anthropic | OpenAI | Moonshot AI | xAI | Alibaba Cloud | Google |
-| Form Factor | Terminal CLI + IDE plugins + desktop/web/app | Terminal CLI + IDE extensions + desktop app + Codex Web | Terminal CLI + ACP editors + local Web UI | Terminal TUI/CLI + ACP embed + headless mode | Desktop IDE + CLI + Work + Wake + Cloud Agents | Standalone IDE (VS Code fork) + Manager dashboard |
+| Form Factor | Terminal CLI + IDE plugins + desktop/web/app | Terminal CLI + IDE extensions + desktop app + Codex Web | Terminal CLI + ACP editors + local Web UI | Terminal TUI/CLI + ACP embed + headless mode | Desktop IDE + CLI + Work + Wake + Cloud Agents | Desktop app + IDE + CLI (`agy`) + SDK |
 | Open Source | No | Yes (Apache-2.0) | CLI under MIT; core services not open | Yes (Apache-2.0, no external contributions) | No | No (proprietary, free during preview) |
-| Default Model | Claude family (Opus / Sonnet / Haiku) | GPT-5.x / Codex family | Kimi Code / Moonshot models | Grok family | Qwen / Bailian models | Gemini 3 Pro / Flash |
-| Other Models | — | — | Configurable compatible providers | — | Configurable Bailian models | Claude 5, Claude Sonnet 4.6, Claude Opus 4.6, GPT-OSS-120B |
+| Default Model | Claude family (Opus / Sonnet / Haiku) | GPT-5.x / Codex family | Kimi Code / Moonshot models | Grok family | Qwen / Bailian models | Gemini 3.5 / 3.6 Flash |
+| Other Models | — | — | Configurable compatible providers | — | Configurable Bailian models | Gemini 3 Pro, Claude, GPT-OSS, etc. |
 | Account Required | Anthropic API or Claude account | OpenAI API or ChatGPT account | Kimi account or API key | xAI / X account | Alibaba Cloud account | Google account |
 | Multimodal | Text + images | Text + images | Text + images/video | Text + images | Text + images | Text + images + integrated browser |
 | Persistent Memory | ✅ Project + user memory | ⚠️ Per-session + cross-device relay sync | ✅ Session / Goal memory | ⚠️ Sessions + checkpoints | ✅ Knowledge engine + adaptive memory | ✅ Cross-run agent learning + project context |
 | Multi-Agent | ✅ Subagents + workflows | ✅ Subagents | ✅ Subagents | ✅ Subagents | ✅ Multi-agent collaboration | ✅ Manager view fans out agents |
-| Local / Cloud | Local first, `--cloud` optional | Local + Codex Cloud | Local first, `kimi web` local server | Local | Local Desktop/CLI/Work + Cloud Agents | Local IDE |
+| Local / Cloud | Local first, `--cloud` optional | Local + Codex Cloud | Local first, `kimi web` local server | Local | Local Desktop/CLI/Work + Cloud Agents | Local desktop app/IDE/CLI + managed agent service |
 | Cross-Device | ✅ Remote Control + mobile/web | ✅ ChatGPT relay (mobile/desktop/web) | ✅ `kimi web` same-server access | ❌ | ✅ Remote control + mobile sync | ⚠️ Weak |
 | Permission Modes | `--permission-mode` default/plan/auto | `--approval-mode` suggest/auto-edit/full-auto + sandbox | Manual / YOLO / Auto / Plan | Interactive confirm / headless | Confirm / Agent mode | Read Only / Auto / Full Access; plan Artifact approval |
-| Extensibility | MCP, Skills, Hooks, Plugins | MCP, Skills, Plugins, Hooks | MCP, Skills, Hooks, ACP | MCP, Skills, Plugins, Hooks, sandbox | MCP, built-in tools, IDE plugins | VS Code extensions, integrated browser/terminal |
+| Extensibility | MCP, Skills, Hooks, Plugins | MCP, Skills, Plugins, Hooks | MCP, Skills, Hooks, ACP | MCP, Skills, Plugins, Hooks, sandbox | MCP, built-in tools, IDE plugins | VS Code extensions, SDK, integrated browser/terminal |
 
 ## Detailed Comparison
 
@@ -51,6 +51,8 @@ This document compares six mainstream AI agent coding tools: Claude Code, Codex,
 
 **Antigravity**
 - Agent-first workflow: plan → edit → run → verify carries context across steps
+- Desktop app, IDE, CLI (`agy`), and SDK share the same agent engine
+- Supports Projects, multi-workspace orchestration, subagents, hooks, and scheduled tasks
 - Agents learn from prior runs, including corrections you apply
 - Project context anchored inside the workspace; integrated browser feeds runtime context back to the agent
 
@@ -84,7 +86,8 @@ This document compares six mainstream AI agent coding tools: Claude Code, Codex,
 **Antigravity**
 - Agents draft a **plan Artifact** before acting; you approve before execution
 - Browser recordings and screenshots make agent behavior auditable after the fact
-- Runs inside the IDE with workspace-scoped access
+- Read Only / Auto / Full Access modes; Full Access still requires plan Artifact review
+- Workspace-scoped access across desktop app, IDE, and CLI
 
 ### Extension and Integration
 
@@ -114,9 +117,11 @@ This document compares six mainstream AI agent coding tools: Claude Code, Codex,
 - Remote control and mobile app sync
 
 **Antigravity**
-- Built on VS Code, so the existing extension ecosystem applies
+- Desktop app and IDE are built on VS Code, so the existing extension ecosystem applies
 - Built-in browser the agent can drive (clicks, navigation, screenshots)
-- Multi-model selector (Gemini, Claude, GPT-OSS) inside one IDE
+- CLI (`agy`) supports Skills, Plugins, Hooks, and MCP
+- SDK lets you prototype custom agents in Python
+- Multi-model selector (Gemini, Claude, GPT-OSS) across surfaces
 
 ### Cross-Device and Collaboration
 
@@ -145,8 +150,9 @@ This document compares six mainstream AI agent coding tools: Claude Code, Codex,
 - Cloud Agents keep running after you close your computer
 
 **Antigravity**
-- Primarily a local IDE experience
-- Cross-device continuity is limited; no mobile session continuation
+- Desktop app, IDE, and CLI run primarily on the local machine
+- Managed agent service available through Gemini Enterprise Agent Platform
+- Cross-device session continuation is limited; no mobile continuation of local sessions
 
 ## Recommendations
 
@@ -178,10 +184,12 @@ This document compares six mainstream AI agent coding tools: Claude Code, Codex,
 - Alibaba Cloud ecosystem and domestic compliance deployment
 
 ### Choose Antigravity if you need:
-- An agent-first IDE rather than a pure terminal tool
+- An agent-first development platform spanning desktop app, IDE, CLI (`agy`), and SDK
+- A **Manager view** to fan out and monitor multiple agents across tasks
 - **Verifiable** agent runs via Artifacts (plans, screenshots, recordings)
 - An integrated browser the agent can drive to test what it built
-- Flexible model switching between Gemini / Claude / GPT-OSS
+- Flexible model switching, with Gemini 3.5 / 3.6 Flash as the default
+- Project context, multi-workspace orchestration, subagents, hooks, and scheduled tasks
 
 ## Combined Usage
 
