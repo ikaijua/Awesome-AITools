@@ -202,7 +202,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Coding
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Cursor | A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
+| Cursor | 🌟 A collaborative code editor using GPT | [URL](https://www.cursor.so) | Paid/Free Trial |
 | GitHub Copilot | A code writing assistant developed by GitHub and OpenAI | [URL](https://github.com/features/copilot) | Paid|
 | OpenCode | Open-source terminal-native AI coding agent. Provider-agnostic (Anthropic, OpenAI, Google, local models), with a TUI client/server architecture, LSP integration, and support for custom agents and MCP servers. [Intro](docs/opencode/README.md) | [URL](https://opencode.ai) [Github](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | Free |
 | OpenChamber | Desktop and web GUI for the OpenCode AI agent. Provides session management, diffs, and workspace control on top of OpenCode. [Intro](docs/openchamber/README.md) | [URL](https://openchamber.dev) [Github](https://github.com/openchamber/openchamber) ![GitHub Repo stars](https://img.shields.io/github/stars/openchamber/openchamber?style=social) | Free |
