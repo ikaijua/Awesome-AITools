@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Updated 腾讯元宝 flagship model from 混元 T1 to 混元 Hy3 (CN)
 - Renamed NotebookLM to Gemini Notebook and updated URL (both EN/CN)
 - Removed CodeGeeX, Amazon CodeWhisperer, and 腾讯云AI代码助手 from AI Coding section
 - Renamed 通义灵码 to Qoder CN in AI Coding section and updated URL (CN)
