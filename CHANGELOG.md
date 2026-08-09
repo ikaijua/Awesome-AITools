@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Removed Chatbox, NextChat, MindMac, ChatGPT Sidebar, ChatGPT-Shortcut, chathub, openai-python, go-openai, and gemini-fullstack-langgraph-quickstart from GPT LLMs Applications section
 - Removed monica and AIPRM for ChatGPT from GPT LLMs Applications section (both EN/CN)
 - Rewrote AI Chatbot section descriptions to highlight each product's differentiation (both EN/CN)
 - Removed 大饼 AI 变声 from Voice Changing Software section (CN only)
