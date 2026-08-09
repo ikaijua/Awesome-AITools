@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Removed weixin-agent-sdk from AI Agent section (both EN/CN)
 - Removed Qoder from AI Coding section (now only listed in AI Agent section) (CN)
 - Added Qoder to AI Agent section (CN)
 - Added Qoder documentation in `docs/qoder/` (CN)
