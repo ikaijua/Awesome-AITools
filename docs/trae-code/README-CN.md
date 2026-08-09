@@ -1,6 +1,6 @@
-# Trae Agent
+# Trae Code
 
-Trae Agent 是字节跳动开源的面向通用软件工程任务的 LLM 智能体，提供终端 CLI 界面，能够理解自然语言指令并使用多种工具和 LLM 提供商执行复杂的软件工程工作流。
+Trae Code（原名 Trae Agent）是字节跳动开源的面向通用软件工程任务的 LLM 智能体，提供终端 CLI 界面，能够理解自然语言指令并使用多种工具和 LLM 提供商执行复杂的软件工程工作流。
 
 ## 核心特点
 
@@ -41,8 +41,8 @@ trae-cli run "Debug authentication" --trajectory-file debug_session.json
 
 ## 与 Claude Code / Codex / Kimi Code 的对比
 
-| 方面 | Trae Agent | Claude Code | Codex | Kimi Code |
-|------|------------|-------------|-------|-----------|
+| 方面 | Trae Code | Claude Code | Codex | Kimi Code |
+|------|-----------|-------------|-------|-----------|
 | 开发者 | 字节跳动 | Anthropic | OpenAI | Moonshot AI |
 | 形态 | 终端 CLI | 终端 CLI + IDE 插件 + 桌面/Web/App | 终端 CLI + IDE 扩展 + 桌面 App + Codex Web | 终端 CLI + ACP 编辑器 + 本地 Web UI |
 | 开源 | ✅ MIT | ❌ | ✅ Apache-2.0 | ⚠️ CLI MIT，核心不开源 |
@@ -51,5 +51,6 @@ trae-cli run "Debug authentication" --trajectory-file debug_session.json
 
 ## 相关链接
 
+- 官网: [trae.ai](https://www.trae.ai/)
 - GitHub: [bytedance/trae-agent](https://github.com/bytedance/trae-agent)
 - 技术报告: [arXiv:2507.23370](https://arxiv.org/abs/2507.23370)
