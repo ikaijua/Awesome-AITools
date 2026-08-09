@@ -1,144 +1,152 @@
-# AI 编程工具对比：Claude Code vs Codex vs Antigravity
+# AI Agent Tools 对比：Claude Code vs Codex vs Kimi Code vs Qoder
 
-本文档对比三款主流的 AI 编程工具：Claude Code、Codex，以及 Google 推出的、用于替代已废弃 Gemini CLI 的智能体优先 IDE —— Antigravity。
+本文档对比四款主流的 AI Agent 编程工具：Claude Code、Codex、Kimi Code 和 Qoder。
 
 ## 快速对比
 
-| 方面 | Claude Code | Codex CLI | Antigravity |
-|------|-------------|-----------|-------------|
-| 开发者 | Anthropic | OpenAI | Google |
-| 形态 | 终端 CLI + IDE 插件 + 桌面/Web | 终端 CLI + IDE 扩展 + Web/桌面 | 独立 IDE（VS Code 衍生）+ Manager 仪表盘 |
-| 开源程度 | 非开源 | 非开源 | 非开源（预览期免费） |
-| 默认模型 | Claude 5 (Fable/Mythos) / Claude 4 (Sonnet/Opus) 系列 | OpenAI GPT（Codex 系列） | Gemini 3 Pro / Flash |
-| 其他模型 | — | — | Claude 5 (Fable)、Claude Sonnet 4.6、Claude Opus 4.6、GPT-OSS-120B |
-| API 需求 | Anthropic API 或 Claude 账户 | OpenAI API 或 ChatGPT 账户 | Google 账户（预览期无需单独 API Key） |
-| 多模态 | 文本 + 图片 | 文本 + 图片 | 文本 + 图片 + 内置浏览器 |
-| 持久记忆 | ✅ 完整（项目 + 用户记忆） | ⚠️ 会话内有限 | ✅ 跨运行学习 + 项目上下文 |
-| 可核验产出 | diff + 工具调用记录 | diff + 沙盒输出 | **Artifacts**：计划、截图、浏览器录屏 |
-| 多智能体 | CLI 内支持子智能体与 workflow | 通过 Web/App 并行运行 | Manager 视图跨工作区分发智能体 |
-| 安全设计 | 危险操作需确认 | 沙盒优先 | 先出计划、人工确认后再执行；运行可审计 |
-| 权限模式 | `--permission-mode`（default / plan / auto） | `--full-auto`、`--ask-for-approval`、`--sandbox`（只读 / 工作区可写 / 完全访问） | Read Only / Auto / Full Access；执行前先确认计划 Artifact |
-| 扩展性 | MCP、技能、钩子、插件 | MCP、脚本 | VS Code 扩展、内置浏览器/终端 |
+| 方面 | Claude Code | Codex | Kimi Code | Qoder |
+|------|-------------|-------|-----------|-------|
+| 开发者 | Anthropic | OpenAI | Moonshot AI | 阿里云 |
+| 形态 | 终端 CLI + IDE 插件 + 桌面/Web/App | 终端 CLI + IDE 扩展 + 桌面 App + Codex Web | 终端 CLI + ACP 编辑器 + 本地 Web UI | 桌面 IDE + CLI + Work + Wake + Cloud Agents |
+| 开源 | ❌ | ✅ Apache-2.0 | ⚠️ CLI 使用 MIT，核心服务不开源 | ❌ |
+| 默认模型 | Claude 系列（Opus / Sonnet / Haiku） | GPT-5.x / Codex 系列 | Kimi Code / Moonshot 模型 | 通义 / 百炼模型 |
+| 其他模型 | — | — | 可配置兼容供应商 | 可配置阿里云百炼等 |
+| 账号要求 | Anthropic API 或 Claude 账户 | OpenAI API 或 ChatGPT 账户 | Kimi 账户或 API Key | 阿里云账号 |
+| 多模态 | 文本 + 图片 | 文本 + 图片 | 文本 + 图片/视频 | 文本 + 图片 |
+| 持久记忆 | ✅ 项目级 + 用户级记忆 | ⚠️ 会话内 + 跨端 relay 同步 | ✅ 会话/Goal 记忆 | ✅ 知识引擎 + 自适应记忆 |
+| 多智能体 | ✅ 子代理 + workflows | ✅ 子代理 | ✅ 子代理 | ✅ 多智能体协同 |
+| 本地/云端 | 本地优先，`--cloud` 可选 | 本地 + Codex Cloud | 本地优先，`kimi web` 本地 server | 本地 Desktop/CLI/Work + Cloud Agents |
+| 跨端继续 | ✅ Remote Control + 手机/Web | ✅ ChatGPT relay（手机/桌面/Web） | ✅ `kimi web` 同 server 多端访问 | ✅ 远程控制 + Mobile 同步 |
+| 权限模式 | `--permission-mode` default/plan/auto | `--approval-mode` suggest/auto-edit/full-auto + sandbox | Manual / YOLO / Auto / Plan | 确认 / Agent 模式 |
+| 扩展性 | MCP、Skills、Hooks、Plugins | MCP、Skills、Plugins、Hooks | MCP、Skills、Hooks、ACP | MCP、内置工具、IDE 插件 |
 
 ## 详细对比
 
-### 上下文与记忆能力
+### 代码理解与上下文记忆
 
 **Claude Code**
 - 长上下文，能跨多文件深度理解
 - 跨会话持久记忆（用户级 + 项目级）
 - 通过 `CLAUDE.md` / `AGENTS.md` 定义项目规则
 
-**Codex CLI**
-- 侧重快速的单文件或函数级编辑
-- 轻量级的会话内状态，为低延迟循环而设计
-- 没有一等公民的持久记忆，依赖 prompt 与 `AGENTS.md`
+**Codex**
+- 本地仓库级代码理解，可执行多步骤任务
+- 会话状态跨设备通过 ChatGPT relay 同步
+- 依赖 `AGENTS.md` 和项目 prompt 提供长期上下文
 
-**Antigravity**
-- 智能体优先：规划 → 编辑 → 运行 → 验证，上下文随步骤传递
-- 智能体会从历史运行（包括你的修正）中学习
-- 项目上下文以工作区为锚；内置浏览器把运行期信息（DOM、截图）回灌给智能体
+**Kimi Code**
+- 终端内分析项目结构、依赖和实现细节
+- 支持 Goal 模式，长任务可跨多轮推进
+- 通过 `AGENTS.md` 与项目本地记忆保持一致
+
+**Qoder**
+- 深度代码库分析 + 自适应记忆与知识引擎
+- 多智能体协同，角色分工（规划、编码、测试、审查）
+- 目标导向的“规划 → 执行 → 验证 → 迭代”闭环
 
 ### 安全与可控性
 
 **Claude Code**
-- 危险操作（删除文件、强制推送等）需用户确认
-- 通过记忆和设置维护项目级安全规则
-- 完善的工具权限模型（白名单、hooks）便于精细控制
+- 危险操作（删除文件、强制推送等）默认需确认
+- `--permission-mode` 提供 default / plan / auto 三档
+- 支持 `--dangerously-skip-permissions` 用于可信场景
 
-**Codex CLI**
-- 沙盒优先的执行环境
-- 文件系统与网络隔离默认配置友好
-- 简单、快速，面向终端使用的安全模型
+**Codex**
+- 审批模式 `suggest` / `auto-edit` / `full-auto` 控制自动程度
+- 沙箱 `read-only` / `workspace-write` / `danger-full-access` 控制访问范围
+- 内核级沙箱 + ChatGPT relay，不暴露本地端口
 
-**Antigravity**
-- 智能体先生成**计划 Artifact**，人工批准后再执行
-- 浏览器录屏与截图让事后审计成为可能
-- 在 IDE 中运行，访问范围限定在工作区
+**Kimi Code**
+- Manual / YOLO / Auto / Plan 四种权限模式
+- `kimi web` 在本地启动 server，文件不离开本机
+- 敏感操作默认需要确认
 
-### 权限模式
-
-三款工具都支持调节自动化程度，从谨慎的逐步确认到完全放手执行。
-
-**Claude Code**
-- 单一 `--permission-mode` 参数：`default`（敏感操作需确认）、`plan`（只探索并提出方案，不做改动）、`auto`（自动批准常规操作，仅对真正敏感的操作暂停）
-- 之上还可叠加细粒度的工具白名单和 hooks 进行精确控制
-- 建议：不熟悉的代码先用 `default`/`plan`，信任后再切换到 `auto`
-
-**Codex CLI**
-- 两个维度：审批策略 `--ask-for-approval`（`untrusted` / `on-failure` / `on-request` / `never`）和沙箱 `--sandbox`（`read-only` / `workspace-write` / `danger-full-access`）
-- `--full-auto` 是低摩擦快捷方式（执行常规工作，仅在需要时打断）
-- `--dangerously-bypass-approvals-and-sandbox` 移除所有防护；`-s read-only` 是类似 plan 的安全探索模式
-- 在交互界面中封装为 **Read Only / Auto / Full Access**，可通过 `/approvals` 切换
-
-**Antigravity**
-- 模式对应 **Read Only / Auto / Full Access**
-- 先计划后执行：智能体生成可审阅的计划 Artifact，批准后才执行
-- 访问范围限定在工作区，并有浏览器录屏用于事后审计
+**Qoder**
+- Agent 模式前需要用户确认关键操作
+- 本地 Desktop/CLI/Work 与云端 Cloud Agents 分离
+- 企业版支持私有化/云端合规部署
 
 ### 扩展与集成
 
 **Claude Code**
-- 支持 MCP（Model Context Protocol）服务器
-- 可自定义技能系统、自动化钩子
-- 与 Git/GitHub/GitLab 深度集成
+- MCP 服务器连接数据库、浏览器、外部 API
+- Skills / Hooks / Plugins 实现可复用工作流
+- 深度 Git / GitHub / GitLab / CI/CD 集成
 
-**Codex CLI**
-- 轻量级、"Unix 原生"的工作流，适合与 shell 管道组合
-- 支持 MCP，与终端融合紧密
-- 易于与既有脚本搭配
+**Codex**
+- MCP、Skills、Plugins、Hooks
+- `codex exec` 适合脚本和 CI
+- 与 ChatGPT 生态共享账号和会话
 
-**Antigravity**
-- 基于 VS Code，可直接复用其扩展生态
-- 内置浏览器，智能体可自行点击、跳转、截图
-- 在同一 IDE 内可切换 Gemini / Claude / GPT-OSS 多模型
+**Kimi Code**
+- MCP、Skills、Hooks
+- ACP 编辑器集成（Zed、JetBrains 等）
+- `kimi web` 提供本地浏览器 UI
 
-### 使用门槛
+**Qoder**
+- MCP、内置编程工具、IDE 插件
+- Desktop / CLI / Work / Wake / Cloud Agents 产品族
+- 远程控制与 Mobile App 同步
+
+### 跨端与协作
 
 **Claude Code**
-- 需要 Anthropic API Key 或 Claude 账户
-- 功能强大，掌握 agentic / 记忆 / hooks 后收益更大
+- `claude remote-control` / `/remote-control` 让手机/浏览器继续本地会话
+- `claude --cloud` 可在移动端继续
+- 文件、凭证保留在本地机器
 
-**Codex CLI**
-- 需要 OpenAI API Key 或 ChatGPT 账户
-- 配置极简，反馈循环非常快
+**Codex**
+- ChatGPT mobile app 可连接本地/远程 Codex 会话
+- ChatGPT relay 在手机、桌面、Web 之间同步活跃会话
+- Remote SSH 连接远程环境
 
-**Antigravity**
-- 预览期免费，使用 Google 账户登录即可
-- 提供 Windows / macOS / Linux 桌面安装包；默认 Gemini 模型无需自己管 API Key
+**Kimi Code**
+- `kimi web` 启动本地 server，局域网内多端访问
+- 同一 server 下手机/浏览器可查看任务进展
+- 支持 Goal 状态在 Web UI 中查看
+
+**Qoder**
+- Qoder 网页版可远程控制本地任务
+- Mobile App 与 Desktop/CLI 实时同步
+- Cloud Agents 支持关闭电脑后继续运行
 
 ## 选择建议
 
 ### 选 Claude Code 如果你需要：
-- 深入理解并重构大型、成熟的代码库
-- 配合记忆与 hooks 的长链路 agentic 工作流
-- 与终端 + IDE + GitHub 的深度集成
-- 成熟的权限模型来支持自主执行
+- 深入理解并重构大型、成熟代码库
+- 强大的项目记忆 + Skills/Hooks 长链路工作流
+- 从手机或 Web 继续本地会话的 Remote Control
+- 成熟的权限模型和广泛的工具集成
 
-### 选 Codex CLI 如果你需要：
-- 单文件 / 单函数的极速、低延迟编辑
-- 与 shell 管道组合的 "Unix 原生" 体验
-- 沙盒优先、配置最简的安全模型
-- 一个日常贴身用的终端编程助手
+### 选 Codex 如果你需要：
+- 开源（Apache-2.0）终端智能体，可自由审查和定制
+- 与 ChatGPT 账号/移动端紧密集成的跨端体验
+- 内核级沙箱 + 审批模式，兼顾安全与自动化
+- 云端任务（Codex Cloud）和 Remote SSH 支持
 
-### 选 Antigravity 如果你需要：
-- 一个智能体优先的 IDE，而非补全或纯终端工具
-- 通过 Artifacts（计划、截图、录屏）让智能体运行**可核验**
-- 让智能体自己驱动浏览器去验证它写出的功能
-- 通过 Manager 视图做多智能体分发，并在 Gemini / Claude / GPT-OSS 之间灵活切换
-- 在公开预览期免费试用、无需 API Key
+### 选 Kimi Code 如果你需要：
+- 终端原生 + 本地 Web UI（`kimi web`）的轻量组合
+- Goal 模式自主推进长任务
+- ACP 编辑器集成和国内模型/网络环境
+
+### 选 Qoder 如果你需要：
+- 覆盖 Desktop / CLI / Work / Wake / Cloud Agents 的全产品族
+- 多智能体协同 + 知识引擎 + 远程控制
+- 阿里云生态和国内合规部署
 
 ## 组合使用
 
-这三款工具并不互斥，常见分工：
+这些工具并不互斥，常见分工：
 
-- **日常编辑 / 终端工作流**：Claude Code 或 Codex
-- **由智能体驱动的大变更并需要浏览器验证**：Antigravity
-- **快速单文件修改**：Codex
-- **强记忆的长链路多文件重构**：Claude Code 或 Antigravity
+- **日常终端开发**：Claude Code、Codex、Kimi Code
+- **国内环境与全产品族**：Qoder
+- **快速单文件修改**：Codex、Claude Code
+- **长链路多文件重构**：Claude Code、Kimi Code、Qoder
+- **跨端继续任务**：Claude Code（Remote Control）、Codex（ChatGPT relay）、Kimi Code（`kimi web`）、Qoder（远程控制）
 
 ## 相关链接
 
 - [Claude Code 入门介绍](claude-code/README-CN.md)
 - [Codex 入门介绍](codex/README-CN.md)
-- [Antigravity 入门介绍](antigravity/README-CN.md)
+- [Kimi Code 入门介绍](kimi-code/README-CN.md)
+- [Qoder 入门介绍](qoder/README-CN.md)

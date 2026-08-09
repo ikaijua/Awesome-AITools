@@ -2,140 +2,158 @@
 
 ## 什么是 Codex？
 
-Codex CLI 是 OpenAI 推出的基于 Rust 开发的高性能编程智能体，专门在终端中运行。它是一个 AI 驱动的编程助手，能够直接从命令行极速理解和修改代码。基于 GPT-5.4 生态，Codex CLI 为开发者提供了一种更简洁、更接近原生工作流的代码交互方式。
+Codex 是 OpenAI 推出的 AI 编程智能体，核心是一个使用 Rust 编写的开源（Apache-2.0）终端 CLI。它支持在本地仓库中直接理解、编辑和运行代码，并提供 VS Code / Cursor / Windsurf / JetBrains IDE 扩展、Codex App（桌面应用）以及 Codex Web（云端任务）等多种使用方式。通过同一个 ChatGPT 账号，活跃会话可以在手机、桌面和 Web 之间同步。
 
 ## 核心思想
 
-### 终端优先与高性能
-Codex CLI 采用 Rust 构建，旨在提供极致的响应速度：
-- 由 GPT-5.4 mini 驱动的超低延迟响应
-- 无需离开终端即可使用 AI 辅助编程
-- 与现有 shell 脚本和管道无缝集成
+### 终端原生
+Codex CLI 围绕终端工作流设计，让你在熟悉的 shell 环境中完成探索、编辑、运行、审查等整个开发循环。
 
-### 理解与修改
-不只是生成代码片段，Codex CLI 能够：
-- 理解你的项目结构
-- 直接修改文件中的代码
-- 极速执行多步骤的编程任务
+### 本地优先 + 云端可选
+默认在本地机器上运行，代码和凭证不出本机；也可以把任务提交到 Codex Cloud，在云端沙箱中异步完成。
 
-### 简洁高效
-- 最小化配置，开箱即用
-- 专注于核心编程任务
-- 不打扰你的工作流
+### 可控的自动化
+通过审批模式（approval mode）和沙箱（sandbox）组合，控制 Codex 何时可以读写文件、运行命令、访问网络。
 
-## 核心功能
+### 可扩展
+支持 Skills（可复用指令）、Plugins（团队工具连接）、MCP 服务器、子代理以及 Hooks 等扩展机制。
 
-### 代码理解
-- 分析项目结构和依赖
-- 理解函数和类的用途
-- 追踪代码调用关系
+## 可用界面
 
-### 代码修改
-- 自动修复 bug
-- 重构代码
-- 添加新功能
+| 界面 | 说明 |
+| --- | --- |
+| 终端 CLI | 开源 Rust 客户端，功能最完整 |
+| IDE 扩展 | VS Code / Cursor / Windsurf / JetBrains |
+| 桌面 App | `codex app`，可视化管理与多会话 |
+| Codex Web | chatgpt.com/codex，云端任务与协作 |
+| 手机 App | ChatGPT App 可连接并继续活跃会话 |
 
-### 命令行集成
-- 直接在终端提问
-- 支持管道和重定向
-- 与 shell 脚本配合使用
+## 核心能力
+
+### 代码理解与修改
+- 分析项目结构、依赖和调用关系
+- 自动修复 bug、重构、添加功能
+- 多步骤任务执行与迭代
+
+### 命令行与 CI 集成
+- 交互式 TUI 和一次性 prompt 模式
+- `codex exec` 用于脚本和流水线
+- 管道与 shell 脚本集成
+
+### 代码审查
+- `codex review` 对未提交改动、commit 或分支进行审查
+- 不修改工作树，只输出风险与建议
+
+### 扩展体系
+- **Skills / Plugins**：可复用指令和团队工具连接
+- **MCP 服务器**：连接外部工具和数据源
+- **子代理**：把复杂调查拆给专业化代理
+- **Hooks**：自定义生命周期行为
+
+### 跨端与远程
+- **ChatGPT relay**：活跃会话在手机、桌面、Web 之间同步
+- **Remote SSH**：直接连接到远程开发环境
+- **Codex Cloud**：把任务提交到云端环境，关闭电脑也能继续
 
 ## 快速开始
 
 ### 安装
 
+官方推荐安装脚本：
+
+```bash
+# macOS / Linux
+curl -fsSL https://chatgpt.com/codex/install.sh | sh
+
+# Windows PowerShell
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
+```
+
+Homebrew：
+
+```bash
+brew install --cask codex
+```
+
+npm（备选）：
+
 ```bash
 npm install -g @openai/codex
 ```
 
-### 配置
-
-设置你的 OpenAI API 密钥：
+验证安装：
 
 ```bash
-export OPENAI_API_KEY="your-api-key"
+codex --version
 ```
 
-### 基本使用
+### 登录
 
 ```bash
-# 提问
-codex "这个函数是做什么的？"
+codex
+```
 
-# 让它修改代码
-codex "帮我重构这个函数，让它更易读"
+选择 **Sign in with ChatGPT**（推荐）或使用 OpenAI API key。
 
-# 指定文件
-codex "修复 src/utils.js 中的 bug"
+### 常用命令
+
+```bash
+codex                                      # 启动交互会话
+codex "分析这个项目的结构"                 # 单次 prompt
+codex exec "运行测试套件"                  # 非交互 / CI 模式
+codex review                               # 审查未提交改动
+codex resume                               # 恢复最近会话
+codex cloud                                # 管理云端任务
+codex mcp list                             # 查看已配置 MCP 服务器
+codex --image error.png "这个报错怎么修"   # 传入图片上下文
 ```
 
 ## 审批模式与沙箱
 
-Codex CLI 从两个维度控制自动化程度：**审批策略**（何时暂停询问你）和**沙箱**（允许它操作什么）。这是 Codex 对应 Claude Code `--permission-mode` 的机制。
+Codex 通过 **approval mode** 控制何时暂停询问，通过 **sandbox** 控制文件/网络访问范围。
 
-### `--full-auto` —— 低摩擦的"自动"模式
+### 审批模式
 
-最接近"自动"模式的等价物：Codex 会自动执行常规操作，只在真正需要时才打断你。
+| 模式 | 说明 |
+| --- | --- |
+| `suggest`（默认） | 每次改动前询问 |
+| `auto-edit` | 自动编辑文件，执行命令前询问 |
+| `full-auto` | 自动执行编辑和命令（谨慎使用） |
 
 ```bash
-codex --full-auto
+codex --approval-mode auto-edit
+codex --approval-mode full-auto
 ```
 
-### 审批策略 —— `--ask-for-approval`（简写 `-a`）
+### 沙箱模式
 
-- `untrusted` - 只有可信命令自动执行，其它都需要确认
-- `on-failure` - 先在沙箱里运行，只有命令失败需要提权时才询问
-- `on-request` - 由模型自己决定何时请求审批（默认）
-- `never` - 从不询问（完全自主）
-
-### 沙箱 —— `--sandbox`（简写 `-s`）
-
-- `read-only` - 只能读文件，不能修改（适合安全探索，类似 plan 模式）
-- `workspace-write` - 可在当前工作目录内读写
-- `danger-full-access` - 无沙箱限制
-
-### 便捷组合
+| 模式 | 说明 |
+| --- | --- |
+| `read-only` | 只读，不修改文件（类似 plan 模式） |
+| `workspace-write` | 可在当前工作目录读写 |
+| `danger-full-access` | 无沙箱限制 |
 
 ```bash
-# 低摩擦自动模式
-codex --full-auto
-
-# 只读探索（类似 plan）
 codex -s read-only
-
-# 完全放开（谨慎使用）
-codex --dangerously-bypass-approvals-and-sandbox
+codex --sandbox workspace-write
 ```
 
-> 在交互界面中，这些被封装成 **Read Only / Auto / Full Access** 三种模式，可通过 `/approvals` 切换。在不熟悉的项目上建议先用较严格的模式，等你放心让 Codex 更快处理工作后再切换到 `--full-auto`。
-
-## 常用命令
-
-```bash
-# 启动交互模式
-codex
-
-# 分析当前目录的代码
-codex "分析这个项目的结构"
-
-# 生成测试
-codex "为 src/api.js 生成单元测试"
-```
+> 在交互界面中可通过 `/permissions` 快速切换。不熟悉的项目建议先用 `suggest` + `read-only/workspace-write`。
 
 ## 最佳实践
 
-1. **提供上下文** - 告诉它你在做什么，它会给出更好的建议
-2. **逐步细化** - 从大方向开始，逐步深入细节
-3. **验证结果** - AI 生成的代码要自己检查和测试
-4. **善用交互** - 可以追问和让它修改方案
+1. **从 suggest 模式开始**：熟悉项目后再提高自动化。
+2. **明确任务范围**：说明目标文件、期望行为和要运行的测试。
+3. **审查 diff 并运行测试**：AI 改动仍需人工检查。
+4. **用 Skills 沉淀重复工作流**：减少每次重复提示。
+5. **敏感代码使用严格沙箱**：避免意外文件或网络访问。
 
 ## 相关资源
 
 - [GitHub 仓库](https://github.com/openai/codex)
-- [OpenAI 文档](https://platform.openai.com/docs)
-- [API 密钥获取](https://platform.openai.com/api-keys)
-- [与其他工具对比](../COMPARISON-CN.md)
+- [Codex CLI 文档](https://developers.openai.com/codex/cli)
+- [OpenAI 官方公告：随时随地使用 Codex](https://openai.com/index/work-with-codex-from-anywhere/)
 
 ## 许可证
 
-Codex 由 OpenAI 开发，使用需要 OpenAI API 密钥。请遵循 OpenAI 的服务条款。
+Codex CLI 采用 Apache-2.0 许可证发布。使用 OpenAI 模型服务时请遵循对应服务条款。
