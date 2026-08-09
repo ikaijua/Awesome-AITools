@@ -102,7 +102,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | GLM | Zhipu AI's AI assistant. Current flagship: **GLM-5.2**. **Differentiation:** dual thinking-effort system (High/Max) — switch between fast answers and deep reasoning; focused on agentic coding and repo-scale analysis. | 1. [URL](https://chat.z.ai/)<br>2. [API](https://open.bigmodel.cn/) | Free/Paid |
 | Grok | xAI's AI assistant. Current flagship: **Grok 4.5**. **Differentiation:** real-time X data access — its moat is live internet/X posts as an information source; best for real-time news and events. | [URL](https://grok.com/) | Free/Paid |
 | Qwen | Alibaba's AI assistant. Current flagship: **Qwen3.8-Max**. **Differentiation:** open-weight 2.4T MoE + long-horizon agentic reasoning — strong coding/deep research with 1M context and native multimodality. | [URL](https://chat.qwen.ai/) | Free |
-| Dola | ByteDance's AI assistant. Current flagship: **Doubao-1.5-pro**. **Differentiation:** clean, intuitive UI with strong general capabilities — straightforward chat experience for everyday tasks. | [URL](https://www.dola.com/) | Free |
+| Dola | ByteDance's AI assistant. Current flagship: **Doubao-Seed-2.1 Pro**. **Differentiation:** clean, intuitive UI with strong general capabilities — straightforward chat experience for everyday tasks. | [URL](https://www.dola.com/) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
@@ -294,8 +294,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| Seedance | 🌟 ByteDance's video generation model family. Current generation Seedance 2.0 powers Dreamina, supporting text-to-video, image-to-video, and start-end frame conditioning. Available to developers via Volcengine. [Intro](docs/seedance/README.md) / [Skills](docs/seedance/README.md#agent-skills) | [URL](https://dreamina.capcut.com/) | Free/Paid |
-| Dreamina|AI image and video creation tool by ByteDance/CapCut. Powered by Seedance 2.0 model. Supports text-to-image, text-to-video, image-to-video with 2K ultra-clear output|[URL](https://dreamina.capcut.com/)|Free/Paid|
+| Seedance | 🌟 ByteDance's video generation model family. Current generation Seedance 2.5 powers Dreamina, supporting up to 30-second single-pass generation, native 4K output, up to 50 multimodal references, text-to-video, image-to-video, start-end frame conditioning, and region-level editing. Available to developers via Volcengine. [Intro](docs/seedance/README.md) / [Skills](docs/seedance/README.md#agent-skills) | [URL](https://dreamina.capcut.com/) | Free/Paid |
+| Dreamina|AI image and video creation tool by ByteDance/CapCut. Powered by Seedance 2.5 model. Supports text-to-image, text-to-video, image-to-video with up to 4K ultra-clear output|[URL](https://dreamina.capcut.com/)|Free/Paid|
 | Wan2.6 |AI Video Creation Tool by Alibaba  | [URL](https://create.wan.video/) | Paid/Free trial |
 | KLING AI|AI Video Creation Tool by kuaishou. Support text to video, image to video, start-end frame and motion control |[URL](https://klingai.com/)|Free/Paid|
 | hailuoai|AI Video Creation Tool by Minimax|[URL](https://hailuoai.com/video)|Free/Paid|
