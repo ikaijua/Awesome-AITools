@@ -40,4 +40,4 @@ There is no build, test, or lint suite beyond the above — CI only runs link ch
 - When linking to a deep-dive doc, use the EN/CN phrasing pair `[Intro](...)` / `[入门介绍](...)` so both READMEs stay parallel.
 - Keep tool descriptions concise and factual; ensure links are valid.
 - Maintain bilingual consistency between English and Chinese READMEs.
-- **CHANGELOG.md**: Document additions, removals, renames, and notable model updates (e.g., when a chatbot or model entry is refreshed to a new flagship version). Minor description updates (e.g., fixing typos, small feature list tweaks) do NOT require a changelog entry.
+- **CHANGELOG.md**: Document additions, removals, renames, and notable model updates (e.g., when a chatbot or model entry is refreshed to a new flagship version). Minor description updates (e.g., fixing typos, small feature list tweaks), section reordering, and moving tools within a section do NOT require a changelog entry.
