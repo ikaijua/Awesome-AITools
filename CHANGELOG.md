@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Rewrote AI Chatbot section descriptions to highlight each product's differentiation (both EN/CN)
 - Removed 大饼 AI 变声 from Voice Changing Software section (CN only)
 - Removed Grammarly from Writing section (both EN/CN)
 - Added speech-to-speech (huggingface/speech-to-speech) to Voice Processing section (both EN/CN)
