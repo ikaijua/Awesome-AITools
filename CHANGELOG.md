@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Removed 大饼 AI 变声 from Voice Changing Software section (CN only)
 - Removed Grammarly from Writing section (both EN/CN)
 - Added speech-to-speech (huggingface/speech-to-speech) to Voice Processing section (both EN/CN)
 - Added Conductor (conductor-oss/conductor) to AI Agent section with documentation (both EN/CN)
