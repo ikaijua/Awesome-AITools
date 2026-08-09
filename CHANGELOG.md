@@ -9,7 +9,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added Trae Code and Trae Work to AI Agent section (CN)
 - Added Trae Code documentation in `docs/trae-code/` (CN)
 - Added Trae Work documentation in `docs/trae-work/` (CN)
-- Marked Trae Code, Trae Solo, and Trae Work with 🌟 in AI Agent section (CN)
+- Marked Trae Code, Trae Solo, and Trae Work with 🌱 in AI Agent section (CN)
 - Removed weixin-agent-sdk from AI Agent section (both EN/CN)
 - Removed Qoder from AI Coding section (now only listed in AI Agent section) (CN)
 - Added Qoder to AI Agent section (CN)
