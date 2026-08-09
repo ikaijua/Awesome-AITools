@@ -107,7 +107,7 @@
 | Gemini | Google 的 AI 助手，当前最强模型：**Gemini 3.6 Flash**。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。 | [URL](https://gemini.google.com/) | 免费/付费 |
 | 豆包 | 字节跳动的 AI 助手，当前最强模型：**Doubao-1.5-pro**。**核心差异：** 字节生态入口 + 多模态交互 —— 集成搜索、语音、音乐等能力，界面直观，适合日常通用问答。 | [URL](https://www.doubao.com/) | 免费 |
 | 通义千问 | 阿里云的 AI 助手，当前最强模型：**Qwen3.8-Max**。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | [URL](https://chat.qwen.ai/) | 免费 |
-| 腾讯元宝 | 腾讯的 AI 助手，当前最强模型：**混元 T1**。**核心差异：** 混元 + DeepSeek 双模型 —— 可切换腾讯自研混元模型和 DeepSeek R1；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
+| 腾讯元宝 | 腾讯的 AI 助手，当前最强模型：**混元 Hy3**。**核心差异：** 混元 + DeepSeek 双模型 —— 可切换腾讯自研混元 Hy3 和 DeepSeek R1；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
 | DeepSeek | DeepSeek 的 AI 助手，当前最强模型：**DeepSeek-V4-Pro**。**核心差异：** 推理性价比 —— V4-Pro 提供顶尖推理能力且成本极低；支持 100 万上下文和原生多模态。 | [URL](https://chat.deepseek.com/) | 免费/付费 |
 | 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3**。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.2**。**核心差异：** High/Max 双档思考深度 —— 可在快速回答和深度推理之间切换；专注 Agentic 编程和仓库级分析。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
