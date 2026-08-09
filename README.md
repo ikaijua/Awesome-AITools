@@ -464,5 +464,3 @@ Interested in sponsoring this project? Feel free to reach out!
 </p>
 
 </div>
-
-[![Star History](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)

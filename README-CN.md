@@ -525,7 +525,3 @@ Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论�
 
 <img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="30%" height="30%" />
 
-
-### Star 历史记录
-
-[![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
