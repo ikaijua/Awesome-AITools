@@ -294,21 +294,20 @@ kimi export <session-id>
 kimi -p "/export" --session <session-id>
 ```
 
-## Server、Web UI 与 ACP
+## Web UI 与 ACP
 
 ```bash
-# 启动或复用本地后台 server
-kimi server run
-
-# 打开浏览器 Web UI
+# 在前台启动本地 server 并自动打开浏览器 Web UI
 kimi web
 
-# 前台运行 server
-kimi server run --foreground
+# 只启动 server，不自动打开浏览器
+kimi web --no-open
 
 # ACP 兼容编辑器使用的入口
 kimi acp
 ```
+
+> 注意：`kimi server run` 在 0.28.0 之后已弃用，请使用 `kimi web`。如果之前版本启动的 server 仍在运行，可用 `kimi server kill` 停止。
 
 ### Web UI 登录
 
@@ -324,7 +323,7 @@ Web UI 需要先用同一个 Kimi 账号完成认证，认证方式与 CLI 一�
    - 在 `platform.kimi.com` 或 `platform.kimi.ai` 创建 API Key
    - 在 CLI 或 Web UI 首次启动时选择 API Key 登录并粘贴
 
-> 注意：如果你是在远程服务器上运行 `kimi server run --foreground`，需要在服务器本地浏览器或通过 SSH 隧道访问 Web UI，并同样完成一次 OAuth/API Key 登录。
+> 注意：如果你是在远程服务器上运行 `kimi web`，需要在服务器本地浏览器或通过 SSH 隧道访问 Web UI，并同样完成一次 OAuth/API Key 登录。
 
 ### 在 Web UI 中查看 Goal 状态
 

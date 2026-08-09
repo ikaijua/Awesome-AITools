@@ -294,21 +294,20 @@ kimi export <session-id>
 kimi -p "/export" --session <session-id>
 ```
 
-## Server, Web UI, and ACP
+## Web UI and ACP
 
 ```bash
-# Start or reuse the local background server
-kimi server run
-
-# Open the browser UI
+# Start the local server in the foreground and open the browser Web UI
 kimi web
 
-# Run the server in the foreground
-kimi server run --foreground
+# Start the server without automatically opening the browser
+kimi web --no-open
 
 # Entry point used by ACP-compatible editors
 kimi acp
 ```
+
+> Note: `kimi server run` is deprecated after version 0.28.0; use `kimi web` instead. If a server started by an older version is still running, stop it with `kimi server kill`.
 
 ### Web UI Login
 
@@ -324,7 +323,7 @@ The Web UI uses the same Kimi account authentication as the CLI. There are two l
    - Create an API Key at `platform.kimi.com` or `platform.kimi.ai`
    - Choose API Key login when the CLI or Web UI first starts and paste the key
 
-> Note: If you run `kimi server run --foreground` on a remote server, access the Web UI through a local browser on the server or via an SSH tunnel, and complete OAuth/API Key login once.
+> Note: If you run `kimi web` on a remote server, access the Web UI through a local browser on the server or via an SSH tunnel, and complete OAuth/API Key login once.
 
 ### Checking Goal Status in the Web UI
 

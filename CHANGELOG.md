@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Updated docs/kimi-code Web UI section: replaced deprecated `kimi server run` with `kimi web` (both EN/CN)
 - Expanded docs/kimi-code with Web UI login and goal-status sections (both EN/CN)
 - Expanded docs/kimi-code with Goal Mode and session resume/export sections (both EN/CN)
 - Added WorkBuddy to AI Agent section (CN)
