@@ -6,7 +6,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Removed Qoder from AI Coding section (now only listed in AI Agent section) (CN)
 - Added Qoder to AI Agent section (CN)
 - Added Qoder documentation in `docs/qoder/` (CN)
-- Updated AI Agent Tools comparison docs (`docs/COMPARISON-CN.md` and `docs/COMPARISON.md`) to include Kimi Code, Grok Build, Qoder and latest capabilities (both EN/CN)
+- Updated AI Agent Tools comparison docs: EN now compares Claude Code, Codex, and Kimi Code; CN adds Qoder
 - Added WorkBuddy to AI Agent section (CN)
 - Updated IMA description to mention supported models: DeepSeek-V4-Flash, GLM-5.2, and 混元 Hy3 (CN)
 - Updated 腾讯元宝 flagship model from 混元 T1 to 混元 Hy3 (CN)
