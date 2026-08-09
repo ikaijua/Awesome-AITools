@@ -244,21 +244,118 @@ kimi doctor tui
 kimi upgrade
 ```
 
-## Server, Web UI, and ACP
+## Goal Mode
+
+Use `/goal` when a task has a clear finish line and the next useful step depends on what the agent learns while working:
+
+```text
+/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite
+```
+
+Common commands:
+
+| Command | Action |
+| --- | --- |
+| `/goal` or `/goal status` | Show the current goal and its progress |
+| `/goal pause` | Pause the active goal |
+| `/goal resume` | Resume a paused or blocked goal |
+| `/goal cancel` | Cancel the current goal |
+| `/goal replace <objective>` | Replace the current goal with a new one |
+| `/goal next <objective>` | Queue a goal to run after the current one |
+
+A goal can end in three states:
+- **complete**: the objective is done
+- **paused**: you paused it, interrupted the turn, resumed a session with an active goal, or hit a runtime error
+- **blocked**: Kimi Code needs input, cannot complete the goal as stated, or reached a budget limit
+
+The Web UI also shows the current goal in a status strip where you can expand details, pause, resume, or cancel.
+
+## Session Resume and Export
+
+Kimi Code persists every conversation as a session. You can close the terminal and pick up where you left off:
 
 ```bash
-# Start or reuse the local background server
-kimi server run
+# Resume the most recent session in the current directory
+kimi --continue
+kimi -C
 
-# Open the browser UI
+# Browse history or resume a specific session ID
+kimi --session
+kimi --session <session-id>
+```
+
+Export sessions:
+
+```bash
+# Package a session as a ZIP (includes diagnostic logs)
+kimi export <session-id>
+
+# Export as a Markdown file
+kimi -p "/export" --session <session-id>
+```
+
+## Web UI and ACP
+
+```bash
+# Start the local server in the foreground and open the browser Web UI
 kimi web
 
-# Run the server in the foreground
-kimi server run --foreground
+# Start the server without automatically opening the browser
+kimi web --no-open
 
 # Entry point used by ACP-compatible editors
 kimi acp
 ```
+
+> Note: `kimi server run` is deprecated after version 0.28.0; use `kimi web` instead. If a server started by an older version is still running, stop it with `kimi server kill`.
+
+### Web UI Login
+
+The Web UI uses the same Kimi account authentication as the CLI. There are two login methods:
+
+1. **OAuth device-code flow (recommended)**
+   - Run `kimi login` in the CLI and choose **Kimi Code OAuth**
+   - The terminal prints an authorization URL and an 8-digit device code
+   - Open the URL on your phone or computer browser, sign in to your Kimi account, and enter the device code
+   - Once authorized, the Web UI on the same machine is automatically logged in
+
+2. **Moonshot AI API Key**
+   - Create an API Key at `platform.kimi.com` or `platform.kimi.ai`
+   - Choose API Key login when the CLI or Web UI first starts and paste the key
+
+> Note: If you run `kimi web` on a remote server, access the Web UI through a local browser on the server or via an SSH tunnel, and complete OAuth/API Key login once.
+
+### Running in the Background: tmux Example
+
+`kimi web` runs in the foreground by default and exits on `Ctrl+C`. To keep it running on a remote server, use `tmux`:
+
+```bash
+# Create a new session
+ tmux new -s kimi-web
+
+# Start the server inside the session (listen on all interfaces, don't open browser)
+kimi web --host --no-open
+
+# Detach with Ctrl+B then D; the process keeps running in the background
+```
+
+Re-attach later to view logs:
+
+```bash
+tmux attach -t kimi-web
+```
+
+To stop: re-attach, press `Ctrl+C`, then exit tmux.
+
+### Checking Goal Status in the Web UI
+
+After logging in, open the Web UI:
+
+- The current goal appears in a strip below the conversation
+- Select the strip to expand or collapse its details
+- Goals with a token budget show a progress bar in the header; goals without a budget do not
+- The strip provides **Pause / Resume / Cancel** actions
+- Selecting **Resume** starts the next goal turn
 
 For Zed or JetBrains ACP integration, configure the editor to run `kimi acp` over stdio after logging in once from the CLI.
 
