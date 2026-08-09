@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Renamed NotebookLM to Gemini Notebook and updated URL (both EN/CN)
 - Removed CodeGeeX, Amazon CodeWhisperer, and 腾讯云AI代码助手 from AI Coding section
 - Renamed 通义灵码 to Qoder CN in AI Coding section and updated URL (CN)
 - Added current flagship model info to each AI Chatbot entry (both EN/CN)
