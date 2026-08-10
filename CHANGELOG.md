@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added Agent Island to AI Coding section (both EN/CN)
 - Added Grok Image to AI Image Creation section (both EN/CN)
 - Updated Seedance from 2.0 to 2.5 in READMEs and docs (both EN/CN)
 - Updated 豆包 / Dola flagship model from Doubao-1.5-pro to Doubao-Seed-2.1 Pro (both EN/CN)
