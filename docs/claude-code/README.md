@@ -2,140 +2,139 @@
 
 ## What is Claude Code?
 
-Claude Code is Anthropic's official command-line tool that brings Claude's powerful capabilities directly into your development workflow. It's an interactive AI assistant specifically designed to help developers with various software engineering tasks.
+Claude Code is Anthropic's official AI coding agent. In addition to the terminal CLI, it is available as a VS Code / Cursor / JetBrains IDE plugin, a standalone desktop app, a web interface at claude.ai/code, and—via Remote Control—the Claude iOS / Android mobile app. All surfaces share the same underlying engine, so CLAUDE.md files, MCP servers, Skills, Hooks, and memory stay consistent across devices.
 
 ## Core Philosophy
 
-### More Than Just "Code Completion"
-Most AI coding assistants just complete a few lines of code. But Claude Code is more like a real partner who understands your project—you tell it "fix the login page bug," and it will read the code, find the issue, fix it, and even commit the change for you.
+### Agent-First, Not Just Completion
+Claude Code understands your entire codebase. It can plan across multiple files, edit code, run commands, check test results, and iterate based on feedback until the task you described is done.
 
-### Remembers Your Project
-Ever had this awkward moment: you explain your project structure to an AI, close the conversation, and next time you have to start all over? Claude Code is different—it remembers:
-- Knows your project's modules and how they connect
-- Picks up where you left off in the next conversation
-- You can use CLAUDE.md to tell it your project's "rules"
+### Project-Level Memory
+Through the `CLAUDE.md` project instruction file and automatic memory, Claude Code remembers project structure, conventions, and common commands so you don't have to restate the context every time.
 
-### You're in Charge
-Claude Code asks you first, never acts on its own:
-- Big decisions like deleting files or pushing code need your approval
-- It tells you what it's about to do and waits for your confirmation
-- If something goes wrong, you can always ask it to fix it
+### Controllable Autonomy
+From strict plan mode to automatic mode to a fully permission-skipping YOLO mode, you can choose how autonomous Claude should be based on task risk and trust.
 
-### Safety First
-It's more cautious than you are:
-- Proactively warns you when it spots potential issues
-- Never quietly executes dangerous operations
-- You can specify what's absolutely off-limits in CLAUDE.md
+### Unified Surfaces
+Whether you work in the terminal, IDE, desktop app, web, or phone, you connect to the same Claude Code engine, and sessions and settings can carry across devices.
 
-## Core Features
+## Available Surfaces
 
-### 1. Code Understanding & Navigation
-- Automatically explore and understand codebase structure
-- Intelligent file and code content search
-- Quickly locate function, class, and variable definitions
+| Surface | Description |
+| --- | --- |
+| Terminal CLI | Full feature set, best for deep development |
+| VS Code / Cursor | Plugin with inline diffs and chat panel |
+| JetBrains | Plugin for IDEA, PyCharm, WebStorm, etc. |
+| Desktop App | Visual diffs, side-by-side sessions, scheduled tasks |
+| Web | claude.ai/code, no local setup required |
+| Mobile App | Claude iOS / Android app connects to local sessions via Remote Control |
 
-### 2. Code Editing & Refactoring
-- Automatically fix code defects
-- Intelligent refactoring and code optimization
-- Add new features and functionality
+## Core Capabilities
 
-### 3. Development Workflow Integration
-- Native Git operations support
-- Integration with GitHub/GitLab and other CI/CD platforms
-- Automated testing and code review
+### Code Understanding & Editing
+- Automatically explores codebase structure, dependencies, and call relationships
+- Refactors across files, adds features, and fixes bugs
+- Inline diffs and visual review
 
-### 4. Multi-Model Support
-- Support for the latest Claude 5 (Fable/Mythos), Claude Opus 5, and Claude Sonnet 4.6 model family
-- Switch between models based on task requirements
-- Fast mode for quicker responses
+### Terminal & Toolchain Integration
+- Runs shell commands, tests, and build scripts
+- Native Git operations and GitHub / GitLab integration
+- Extensible to CI/CD, Slack, Chrome, and more
 
-## Key Characteristics
+### Extensibility
+- **MCP servers**: connect to databases, browsers, external APIs
+- **Skills**: reusable project-level workflows (invoke with `/skill`)
+- **Hooks**: scripts triggered at lifecycle points such as file writes or command execution
+- **Subagents**: split complex work among specialized agents that run in parallel
 
-### Safe & Reliable
-- Built-in safety guards to avoid dangerous operations
-- Automatic detection of potential security vulnerabilities
-- User confirmation required for sensitive operations
-
-### Intelligent Context
-- Automatic conversation history compression for long sessions
-- Persistent memory system preserving context across sessions
-- Project-level configuration and memory support
-
-### Flexible & Extensible
-- Support for MCP (Model Context Protocol) servers
-- Customizable skills and tools
-- Configurable automation hooks
+### Cross-Device Collaboration
+- **Remote Control**: continue a local Claude Code session from your phone or browser
+- **Cloud sessions**: `claude --cloud` starts a task you can continue from mobile
+- Files, credentials, and the local environment stay on the machine running Claude Code
 
 ## Quick Start
 
 ### Installation
 
+Official install script (macOS / Linux):
+
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+Homebrew:
+
+```bash
+brew install claude-code
+```
+
+npm (alternative):
+
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
 
-### Basic Usage
+On Windows, use WinGet or the PowerShell install script. See the [official docs](https://docs.anthropic.com/en/docs/claude-code/overview) for details.
+
+First run:
 
 ```bash
-# Start Claude Code
 claude
+```
 
-# Start in a specific directory
-claude /path/to/project
+Log in with your Anthropic account, or set `ANTHROPIC_API_KEY` beforehand.
 
-# Use Fast mode
-claude --fast
+### Common Commands
 
-# Auto permission mode: auto-approve routine actions without prompting
-claude --permission-mode auto
+```bash
+claude                          # Start an interactive session
+claude /path/to/project         # Start in a specific directory
+claude "fix the login bug"      # Ask directly
+claude --permission-mode plan   # Plan before making changes
+claude --permission-mode auto   # Auto-approve routine actions
+claude --cloud                  # Start a cloud session resumable on mobile
 ```
 
 ### Permission Modes
 
-Use `--permission-mode` to control how Claude Code handles actions that would normally require confirmation:
+| Mode | Description |
+| --- | --- |
+| `default` | Asks before sensitive actions (recommended for daily use) |
+| `plan` | Explores and plans only, waits for confirmation before changes |
+| `auto` | Auto-approves low-risk routine actions, still asks for sensitive ones |
+| `--dangerously-skip-permissions` | Skips all confirmations (use only in trusted repos / CI) |
 
-- `--permission-mode auto` - **Auto mode**: Claude Code automatically approves routine, low-risk actions (reading files, running safe commands, applying edits) without prompting you each time, while still pausing for genuinely sensitive operations. This keeps you in a smooth flow for everyday tasks and is ideal when you trust Claude to work through a task with minimal interruptions.
-- `--permission-mode plan` - **Plan mode**: Claude explores and proposes a plan without making any changes until you approve.
-- `--permission-mode default` - **Default mode**: Claude asks for confirmation before sensitive or hard-to-reverse actions.
+> Start with `default` or `plan` on unfamiliar projects, then move to `auto` once you trust the workflow.
 
-> Tip: Start with `default` or `plan` on unfamiliar projects, and switch to `--permission-mode auto` once you're comfortable letting Claude Code move faster on routine work.
+## Common Slash Commands
 
-### Common Commands
-
-- `claude` - Start interactive session
-- `claude "your question"` - Ask a direct question
-- `/help` - Get help
-- `/clear` - Clear conversation history
+- `/help` - Show help
+- `/clear` - Clear the current session
 - `/commit` - Create a Git commit
 - `/review-pr` - Review a Pull Request
+- `/remote-control` - Enable cross-device Remote Control
+- `/mcp` - View MCP server status
+- `/settings` or `/config` - Open settings
 
 ## Configuration Files
 
-### settings.json
-Main configuration file controlling Claude Code behavior:
-- Permission settings
-- Environment variables
-- Automation hooks
-
-### CLAUDE.md
-Project-level instruction file defining project-specific rules and context.
-
-### keybindings.json
-Custom keyboard shortcuts configuration.
+- `~/.claude/settings.json`: user-level settings (permissions, model, hooks, environment variables)
+- `CLAUDE.md`: project-level instructions and rules
+- `.claude/`: project-local memory and configuration
 
 ## Best Practices
 
-1. **Provide Clear Task Descriptions** - More specific questions yield better answers
-2. **Leverage CLAUDE.md** - Add context descriptions for your project
-3. **Use the Skills System** - Execute common tasks quickly via `/skill-name`
-4. **Configure Automation Hooks** - Improve development efficiency
+1. **Write clear task goals**: describe expected behavior, relevant files, and tests to run.
+2. **Use CLAUDE.md**: document conventions, safety guardrails, and common commands.
+3. **Start with plan/default**: increase automation only after you know the project.
+4. **Review diffs and run tests**: treat Claude's output like a colleague's PR.
+5. **Use Skills and Hooks**: encapsulate repetitive workflows into reusable capabilities.
 
 ## Related Resources
 
-- [Official Documentation](https://docs.anthropic.com/claude-code)
+- [Official Documentation](https://docs.anthropic.com/en/docs/claude-code/overview)
 - [GitHub Repository](https://github.com/anthropics/claude-code)
-- [Issue Tracker](https://github.com/anthropics/claude-code/issues)
-- [Comparison with Other Tools](../COMPARISON.md)
+- [Claude Code Remote Control](https://docs.anthropic.com/en/docs/claude-code/remote-control)
 
 ## License
 

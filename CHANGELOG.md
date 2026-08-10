@@ -4,6 +4,31 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## August 2026
 - Added BitFun to AI Coding section (both EN/CN)
+- Updated Seedance from 2.0 to 2.5 in READMEs and docs (both EN/CN)
+- Updated 豆包 / Dola flagship model from Doubao-1.5-pro to Doubao-Seed-2.1 Pro (both EN/CN)
+- Updated MiniMax flagship model from MiniMax-M2.5 to MiniMax-M3 (CN)
+- Added unified Trae entry (Trae Code / Trae IDE / Trae Work) to AI Agent section (CN)
+- Added Trae documentation in `docs/trae/` (CN)
+- Removed weixin-agent-sdk from AI Agent section (both EN/CN)
+- Removed Qoder from AI Coding section (now only listed in AI Agent section) (CN)
+- Added Qoder to AI Agent section (CN)
+- Added Qoder documentation in `docs/qoder/` (CN)
+- Updated AI Agent Tools comparison docs: EN now compares Claude Code, Codex, and Kimi Code; CN adds Qoder
+- Added WorkBuddy to AI Agent section (CN)
+- Updated IMA description to mention supported models: DeepSeek-V4-Flash, GLM-5.2, and 混元 Hy3 (CN)
+- Updated 腾讯元宝 flagship model from 混元 T1 to 混元 Hy3 (CN)
+- Renamed NotebookLM to Gemini Notebook and updated URL (both EN/CN)
+- Removed CodeGeeX, Amazon CodeWhisperer, and 腾讯云AI代码助手 from AI Coding section
+- Renamed 通义灵码 to Qoder in AI Coding section and updated URL (CN)
+- Added current flagship model info to each AI Chatbot entry (both EN/CN)
+- Removed Chatbox, NextChat, MindMac, ChatGPT Sidebar, ChatGPT-Shortcut, chathub, openai-python, go-openai, and gemini-fullstack-langgraph-quickstart from GPT LLMs Applications section
+- Removed monica and AIPRM for ChatGPT from GPT LLMs Applications section (both EN/CN)
+- Rewrote AI Chatbot section descriptions to highlight each product's differentiation (both EN/CN)
+- Removed 大饼 AI 变声 from Voice Changing Software section (CN only)
+- Removed Grammarly from Writing section (both EN/CN)
+- Added speech-to-speech (huggingface/speech-to-speech) to Voice Processing section (both EN/CN)
+- Added Conductor (conductor-oss/conductor) to AI Agent section with documentation (both EN/CN)
+- Added Buzz (block/buzz) to AI Agent section with documentation (both EN/CN)
 - Updated Qwen Chat entry to Qwen3.8-Max in AI Chatbots section (both EN/CN)
 - Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section (both EN/CN)
 - Added AirLLM (lyogavin/airllm) to new LLM Inference & Deployment section (both EN/CN)
