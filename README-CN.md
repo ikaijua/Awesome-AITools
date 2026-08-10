@@ -137,6 +137,7 @@
 |LiveCodeBench|LiveCodeBench 是一个全面且无污染的 LLM 代码评估基准，它会持续收集新的问题。LiveCodeBench 尤其关注更广泛的代码相关功能，例如自我修复、代码执行和测试输出预测，而不仅仅是代码生成。 |[URL](https://livecodebench.github.io/leaderboard.html)|免费|
 |StructEval|StructEval 是发表于 TMLR 2025 的评测基准与公开排行榜，用于评估 LLM 的结构化输出生成和转换，包含 2,035 个样例和 18 种文本及可渲染格式，并采用格式专用的结构与视觉检查。|[排行榜](https://tiger-ai-lab.github.io/StructEval/) [论文](https://openreview.net/forum?id=buDwV7LUA7) [Github](https://github.com/TIGER-AI-Lab/StructEval)|免费|
 |BenchGecko|AI模型基准测试排行榜，跨供应商定价对比，AI经济仪表盘。追踪数千个AI模型、128个评估基准、数百个供应商。提供免费API和开放数据集。|[URL](https://benchgecko.ai/zh/)|免费|
+|PromptSpend|对比LLM API定价，每条价格均标注来源和确认日期，并提供免费、无需密钥的API。|[URL](https://promptspend.com/)|免费|
 
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
