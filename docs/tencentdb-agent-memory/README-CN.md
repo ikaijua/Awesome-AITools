@@ -38,6 +38,22 @@ Memory Hub 覆盖智能体经验的全生命周期：
 - **本地优先部署**：可自托管 memory-core、memory-hub 和 proxy 服务。
 - **IDE/Agent 集成**：通过 proxy 与 Claude Code、CodeBuddy 等 Agent 协同工作。
 
+## 系统要求
+
+上游仓库没有公布明确的 CPU/内存/GPU 配置要求。根据默认本地部署方式，整体资源占用较轻：
+
+- **操作系统**：Linux、macOS 或 Windows（Windows 建议用 WSL2）
+- **CPU**：任意现代 x86_64 或 ARM64 CPU，无需 GPU
+- **内存**：最低 4 GB；如果与 Agent 框架（如 OpenClaw 或 Hermes）同机运行，建议 8 GB
+- **磁盘**：取决于会话量，建议预留数 GB 可用空间
+- **运行环境依赖**
+  - Node.js >= 22.16.0 和 npm
+  - Python 3.x
+  - Docker 和 Docker Compose（推荐一键部署时使用）
+- **外部依赖**
+  - LLM API key：用于记忆提取和 proxy 推理，支持 OpenAI 兼容接口
+  - 默认本地后端使用 SQLite + sqlite-vec，无需单独部署向量数据库
+
 ## 快速开始
 
 ### 前置要求

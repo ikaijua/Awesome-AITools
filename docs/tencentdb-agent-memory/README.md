@@ -38,6 +38,22 @@ Memory Hub closes the loop across the agent experience lifecycle:
 - **Local-first deployment** — self-host memory-core, memory-hub, and proxy services.
 - **IDE/Agent integration** — works with Claude Code, CodeBuddy, and other agents via the proxy.
 
+## System Requirements
+
+The upstream repository does not publish explicit CPU/RAM/GPU requirements. Based on the default local deployment, the stack is lightweight:
+
+- **OS**: Linux, macOS, or Windows (WSL2 recommended for Windows)
+- **CPU**: any modern x86_64 or ARM64 CPU (no GPU required)
+- **RAM**: 4 GB minimum; 8 GB recommended if you run the Agent framework (e.g., OpenClaw or Hermes) on the same machine
+- **Disk**: depends on conversation volume; start with a few GB of free space
+- **Runtime dependencies**
+  - Node.js >= 22.16.0 and npm
+  - Python 3.x
+  - Docker and Docker Compose (recommended for the one-command deployment)
+- **External dependencies**
+  - LLM API key(s) for memory extraction and proxy inference (OpenAI-compatible endpoints are supported)
+  - Default local backend uses SQLite + sqlite-vec, so no separate vector database is required
+
 ## Quick Start
 
 ### Prerequisites
