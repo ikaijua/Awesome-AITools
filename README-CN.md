@@ -63,6 +63,7 @@
 - [大语言模型排行榜](#大语言模型排行榜)
 - [AI Agent](#ai-agent)
 - [Agent Skills](#agent-skills)
+- [MCP 生态](#mcp-生态)
 - [AI 新闻与资讯](#ai-新闻与资讯)
 - [AI Coding](#ai-coding)
 - [通用 LLM 应用](#通用-llm-应用)
@@ -202,6 +203,17 @@
 | Superpowers | 面向编码代理的完整软件开发方法论，基于可组合技能构建。支持跨 Claude Code、Codex、Cursor、Kimi Code、OpenCode、Antigravity、GitHub Copilot CLI 和 Pi 强制执行规格驱动设计、TDD、系统调试、代码审查和子代理驱动开发。 [入门介绍](docs/superpowers/README-CN.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | 免费 |
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | Claude Video | 用于 Claude Code 的 Agent Skill，让 AI 能够"观看"视频：提取关键帧、获取字幕/转录文本，并基于画面和音频内容回答问题。支持 YouTube、TikTok、本地文件，以及通过 Agent Skills CLI 接入 50+ 智能体宿主。 | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
+
+### MCP 生态
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| MCP Servers（官方） | Anthropic 官方维护的 Model Context Protocol 参考服务器集合，包含文件系统、GitHub、PostgreSQL、Slack 等。是构建和接入 MCP 服务器的权威起点。 | [Github](https://github.com/modelcontextprotocol/servers) ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social) | 免费 |
+| FastMCP | 事实上的 Python MCP 应用框架，用于构建 Model Context Protocol 服务器、客户端和交互式 App。支持将 Python 函数自动暴露为 MCP 工具并生成 schema。 | [Github](https://github.com/PrefectHQ/fastmcp) ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=social) | 免费 |
+| MCP Python SDK | Model Context Protocol 官方 Python SDK。提供类型安全的工具、资源、Prompt 和 Sampling 原语，用于构建 MCP 服务器与客户端。 | [Github](https://github.com/modelcontextprotocol/python-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=social) | 免费 |
+| MCP TypeScript SDK | Model Context Protocol 官方 TypeScript SDK。支持在 Node.js、浏览器和边缘运行环境中构建 MCP 服务器与客户端。 | [Github](https://github.com/modelcontextprotocol/typescript-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=social) | 免费 |
+| mcp-go | Model Context Protocol 的 Go 语言实现。可用简洁地道的 Go API 构建轻量、高性能的 MCP 服务器和客户端。 | [Github](https://github.com/mark3labs/mcp-go) ![GitHub Repo stars](https://img.shields.io/github/stars/mark3labs/mcp-go?style=social) | 免费 |
+| Chroma MCP | Chroma 向量数据库的 MCP 服务器与集成。让 AI 智能体通过 MCP 存储、查询和检索 Embedding，用于 RAG 和长时记忆场景。 | [Github](https://github.com/chroma-core/chroma) ![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social) | 免费 |
+| Browserbase MCP | Browserbase 提供的 MCP 服务器，让 AI 智能体通过 Model Context Protocol 控制无头浏览器、截图、页面导航和数据提取。 | [Github](https://github.com/browserbase/mcp-server-browserbase) ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social) | 免费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |

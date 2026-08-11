@@ -64,6 +64,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [LLM Leaderboard](#llm-leaderboard)
   - [AI Agent](#ai-agent)
   - [Agent Skills](#agent-skills)
+  - [MCP Ecosystem](#mcp-ecosystem)
   - [AI News & Information](#ai-news--information)
   - [AI Coding](#ai-coding)
   - [General LLM Applications](#general-llm-applications)
@@ -191,6 +192,17 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Superpowers | A complete software development methodology for coding agents, built on composable skills. Enforces spec-driven design, TDD, systematic debugging, code review, and subagent-driven development across Claude Code, Codex, Cursor, Kimi Code, OpenCode, Antigravity, GitHub Copilot CLI, and Pi. [Intro](docs/superpowers/README.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | Free |
 | last30days-skill | AI agent skill that researches any topic across Reddit, X, YouTube, Hacker News, Polymarket, GitHub, arXiv, and the web, then synthesizes a grounded summary scored by real engagement. Supports Claude Code, Codex, Cursor, Gemini CLI, and 50+ Agent Skills hosts. | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | Free |
 | Claude Video | Claude Code skill that lets AI agents "watch" videos: extracts frames, pulls transcripts/captions, and answers questions grounded in what is seen and heard. Supports YouTube, TikTok, local files, and 50+ agent hosts via the Agent Skills CLI. | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
+
+### MCP Ecosystem
+| Name | Description | Links | Fees |
+| --- | --- | --- | --- |
+| MCP Servers (official) | Anthropic's official reference servers for the Model Context Protocol, including filesystem, GitHub, PostgreSQL, Slack, and more. Serves as the canonical starting point for building and connecting MCP servers. | [Github](https://github.com/modelcontextprotocol/servers) ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social) | Free |
+| FastMCP | The de-facto Python framework for building Model Context Protocol servers, clients, and apps. Exposes Python functions as MCP tools with automatic schema generation, supports clients, and interactive in-conversation apps. | [Github](https://github.com/PrefectHQ/fastmcp) ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=social) | Free |
+| MCP Python SDK | Official Python SDK for the Model Context Protocol. Build MCP servers and clients with type-safe primitives for tools, resources, prompts, and sampling. | [Github](https://github.com/modelcontextprotocol/python-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=social) | Free |
+| MCP TypeScript SDK | Official TypeScript SDK for the Model Context Protocol. Build MCP servers and clients in Node.js, browsers, and edge runtimes. | [Github](https://github.com/modelcontextprotocol/typescript-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=social) | Free |
+| mcp-go | Go implementation of the Model Context Protocol. Build lightweight, high-performance MCP servers and clients in Go with clean idiomatic APIs. | [Github](https://github.com/mark3labs/mcp-go) ![GitHub Repo stars](https://img.shields.io/github/stars/mark3labs/mcp-go?style=social) | Free |
+| Chroma MCP | Chroma vector database MCP server and integration. Lets AI agents store, query, and retrieve embeddings via MCP for RAG and long-term memory use cases. | [Github](https://github.com/chroma-core/chroma) ![GitHub Repo stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social) | Free |
+| Browserbase MCP | MCP server for Browserbase, enabling AI agents to control headless browsers, capture screenshots, navigate pages, and extract data via the Model Context Protocol. | [Github](https://github.com/browserbase/mcp-server-browserbase) ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social) | Free |
 
 ### AI News & Information
 | Name | Description | Links | Fees |
