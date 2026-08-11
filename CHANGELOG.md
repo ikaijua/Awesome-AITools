@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added Paperclip (paperclipai/paperclip) to AI Agent section with documentation in `docs/paperclip/` (both EN/CN)
+- Updated Multica description to mention support for 21 coding agents and local daemon auto-detection (both EN/CN)
 - Added TencentDB Agent Memory to AI Agent section with documentation in `docs/tencentdb-agent-memory/` (both EN/CN)
 - Added Grok Image to AI Image Creation section (both EN/CN)
 - Updated Seedance from 2.0 to 2.5 in READMEs and docs (both EN/CN)
