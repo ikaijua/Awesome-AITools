@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added Muse Glimmer (meta-models/Muse-Glimmer-30B) to Open Source LLMs section (both EN/CN)
+- Added Muse Code to AI Agent section (both EN/CN)
 - Added Paperclip (paperclipai/paperclip) to AI Agent section with documentation in `docs/paperclip/` (both EN/CN)
 - Updated Multica description to mention support for 21 coding agents and local daemon auto-detection (both EN/CN)
 - Added TencentDB Agent Memory to AI Agent section with documentation in `docs/tencentdb-agent-memory/` (both EN/CN)
