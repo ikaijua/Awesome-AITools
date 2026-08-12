@@ -2,140 +2,139 @@
 
 ## 什么是 Claude Code？
 
-Claude Code 是 Anthropic 推出的官方命令行工具，将 Claude 的强大能力直接带入您的开发工作流程。它是一个交互式 AI 助手，专门设计用于帮助开发者完成各种软件工程任务。
+Claude Code 是 Anthropic 推出的官方 AI 编程智能体。它不仅提供终端 CLI，也提供 VS Code / Cursor / JetBrains IDE 插件、独立桌面 App、Web 版（claude.ai/code），以及通过 Remote Control 与 iOS / Android 移动端 App 联动的能力。所有界面共享同一套底层引擎，因此 CLAUDE.md、MCP 服务器、Skills、Hooks 和记忆可以在不同表面之间保持一致。
 
 ## 核心思想
 
-### 不只是"补全代码"
-普通的 AI 编程助手只会给你补全几行代码。但 Claude Code 更像是一个真正懂你项目的搭档——你告诉它"帮我修一下登录页面的 bug"，它会自己去看代码、找到问题、修好它，甚至帮你提交。
+### 以 Agent 为中心，而不只是补全
+Claude Code 能够理解整个代码库，跨文件规划、编辑、运行命令、检查测试结果，并根据反馈迭代，直到完成你描述的任务。
 
-### 记得住你的项目
-你有没有遇到过这种尴尬：跟 AI 解释完项目结构，关掉对话后再来一次，又得从头解释？Claude Code 不一样，它能记住：
-- 知道你项目里有哪些模块，谁调用谁
-- 下次对话还能接着上次的话题聊
-- 你可以用 CLAUDE.md 告诉它项目的"规矩"
+### 项目级记忆
+通过 `CLAUDE.md` 项目指令文件和自动记忆，Claude Code 能记住项目结构、规范、常用命令，减少每次重复交代背景。
 
-### 你说了算
-Claude Code 会主动问你，不会自作主张：
-- 删文件、推代码这种大事，必须你点头
-- 它会告诉你它要做什么，让你确认
-- 出错了可以随时让它改
+### 可控的自主性
+从严格的计划模式到自动模式，再到完全跳过权限确认的 YOLO 模式，你可以根据任务风险和信任程度选择让 Claude 自主到什么程度。
 
-### 安全第一
-它比你更谨慎：
-- 看到可能有问题的地方会主动提醒你
-- 不会悄悄执行危险操作
-- 你可以在 CLAUDE.md 里写清楚哪些事绝对不能做
+### 多面统一
+无论你在终端、IDE、桌面 App、Web 还是手机上操作，底层都连接到同一个 Claude Code 引擎，会话和配置可以跨设备延续。
 
-## 核心功能
+## 可用界面
 
-### 1. 代码理解与导航
-- 自动探索和理解代码库结构
-- 智能搜索文件和代码内容
-- 快速定位函数、类和变量定义
+| 界面 | 说明 |
+| --- | --- |
+| 终端 CLI | 完整功能，最适合深度开发 |
+| VS Code / Cursor | 插件形式，提供内联 diff 和对话面板 |
+| JetBrains | IDEA / PyCharm / WebStorm 等插件 |
+| 桌面 App | 可视化 diff、多会话并排、定时任务 |
+| Web | claude.ai/code，无需本地安装 |
+| 手机 App | Claude iOS / Android App，通过 Remote Control 连接本地会话 |
 
-### 2. 代码编辑与重构
-- 自动修复代码缺陷
-- 智能重构和代码优化
-- 添加新功能和特性
+## 核心能力
 
-### 3. 开发工作流集成
-- 原生 Git 操作支持
-- 与 GitHub/GitLab 等 CI/CD 平台集成
-- 自动化测试和代码审查
+### 代码理解与编辑
+- 自动探索代码库结构、依赖和调用关系
+- 多文件重构、添加功能、修复 bug
+- 内联 diff 和视觉化审阅
 
-### 4. 多模型支持
-- 支持最新的 Claude 5 (Fable/Mythos)、Claude Opus 5 和 Claude Sonnet 4.6 系列模型
-- 可根据任务需求切换不同模型
-- Fast 模式提供更快速的响应
+### 终端与工具链集成
+- 运行 shell 命令、测试、构建脚本
+- 原生 Git 操作与 GitHub / GitLab 集成
+- 支持 CI/CD、Slack、Chrome 等扩展场景
 
-## 主要特点
+### 扩展体系
+- **MCP 服务器**：连接数据库、浏览器、外部 API
+- **Skills**：可复用的项目级工作流（通过 `/skill` 调用）
+- **Hooks**：在文件写入、命令执行等生命周期点触发脚本
+- **子代理（Subagents）**：把复杂任务拆给多个专业化代理并行处理
 
-### 安全可靠
-- 内置安全防护，避免危险操作
-- 自动检测潜在的安全漏洞
-- 敏感操作需要用户确认
-
-### 智能上下文
-- 自动压缩对话历史，支持长会话
-- 持久化记忆系统，跨会话保留上下文
-- 支持项目级别的配置和记忆
-
-### 灵活扩展
-- 支持 MCP (Model Context Protocol) 服务器
-- 可自定义技能和工具
-- 可配置自动化钩子 (hooks)
+### 跨端协作
+- **Remote Control**：从手机或浏览器继续本地 Claude Code 会话
+- **Cloud 会话**：`claude --cloud` 启动可在移动端继续的任务
+- 文件、凭证和本地环境始终保留在运行 Claude Code 的机器上
 
 ## 快速开始
 
 ### 安装
 
+官方推荐安装脚本（macOS / Linux）：
+
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+Homebrew：
+
+```bash
+brew install claude-code
+```
+
+npm（备选）：
+
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
 
-### 基本使用
+Windows 可用 WinGet 或 PowerShell 安装脚本，详见 [官方文档](https://docs.anthropic.com/en/docs/claude-code/overview)。
+
+首次运行：
 
 ```bash
-# 启动 Claude Code
 claude
+```
 
-# 在特定目录启动
-claude /path/to/project
+按提示登录 Anthropic 账号，或提前设置 `ANTHROPIC_API_KEY`。
 
-# 使用 Fast 模式
-claude --fast
+### 常用命令
 
-# 自动权限模式：无需逐次确认，自动批准常规操作
-claude --permission-mode auto
+```bash
+claude                          # 启动交互会话
+claude /path/to/project         # 在指定目录启动
+claude "修复登录 bug"           # 直接提问
+claude --permission-mode plan   # 先规划再执行
+claude --permission-mode auto   # 自动批准常规操作
+claude --cloud                  # 启动可在手机继续的 cloud 会话
 ```
 
 ### 权限模式
 
-使用 `--permission-mode` 控制 Claude Code 如何处理那些通常需要确认的操作：
+| 模式 | 说明 |
+| --- | --- |
+| `default` | 敏感操作前询问（推荐日常使用） |
+| `plan` | 只探索和规划，改动前等待确认 |
+| `auto` | 自动批准低风险常规操作，敏感操作仍询问 |
+| `--dangerously-skip-permissions` | 跳过所有确认（仅建议可信仓库 / CI 使用） |
 
-- `--permission-mode auto` - **自动模式**：Claude Code 会自动批准常规、低风险的操作（读取文件、运行安全命令、应用代码修改），无需每次都向你确认，同时对真正敏感的操作仍会暂停询问。这让你在日常任务中保持流畅，适合你信任 Claude 以最少打断完成任务的场景。
-- `--permission-mode plan` - **计划模式**：Claude 只探索并提出方案，在你批准之前不做任何改动。
-- `--permission-mode default` - **默认模式**：Claude 在执行敏感或难以撤销的操作前会请求确认。
+> 在不熟悉的项目上建议先用 `default` 或 `plan`，信任后再切换到 `auto`。
 
-> 提示：在不熟悉的项目上建议先用 `default` 或 `plan`，等你放心让 Claude Code 更快处理常规工作后，再切换到 `--permission-mode auto`。
+## 常用 Slash 命令
 
-### 常用命令
-
-- `claude` - 启动交互式会话
-- `claude "你的问题"` - 直接提问
-- `/help` - 获取帮助
-- `/clear` - 清除对话历史
+- `/help` - 查看帮助
+- `/clear` - 清空当前会话
 - `/commit` - 创建 Git 提交
 - `/review-pr` - 审查 Pull Request
+- `/remote-control` - 开启跨设备 Remote Control
+- `/mcp` - 查看 MCP 服务器状态
+- `/settings` 或 `/config` - 打开设置
 
 ## 配置文件
 
-### settings.json
-主配置文件，控制 Claude Code 的行为：
-- 权限设置
-- 环境变量
-- 自动化钩子
-
-### CLAUDE.md
-项目级指令文件，定义项目特定的规则和上下文。
-
-### keybindings.json
-自定义键盘快捷键配置。
+- `~/.claude/settings.json`：用户级配置（权限、模型、hooks、环境变量）
+- `CLAUDE.md`：项目级指令与规则
+- `.claude/`：项目本地记忆和配置
 
 ## 最佳实践
 
-1. **提供清晰的任务描述** - 越具体的问题会得到越好的回答
-2. **利用 CLAUDE.md** - 为项目添加上下文说明
-3. **善用技能系统** - 通过 `/技能名` 快速执行常见任务
-4. **配置自动化钩子** - 提高开发效率
+1. **写清楚任务目标**：描述期望行为、相关文件、要运行的测试。
+2. **使用 CLAUDE.md**：把项目规范、安全红线和常用命令写进去。
+3. **从 plan/default 开始**：熟悉项目后再提高自动化程度。
+4. **审阅 diff 并运行测试**：把 Claude 的输出当作同事的 PR 来 review。
+5. **善用 Skills 和 Hooks**：把重复工作流封装成可复用能力。
 
 ## 相关资源
 
-- [官方文档](https://docs.anthropic.com/claude-code)
+- [官方文档](https://docs.anthropic.com/en/docs/claude-code/overview)
 - [GitHub 仓库](https://github.com/anthropics/claude-code)
-- [问题反馈](https://github.com/anthropics/claude-code/issues)
-- [与其他工具对比](../COMPARISON-CN.md)
+- [Claude Code Remote Control](https://docs.anthropic.com/en/docs/claude-code/remote-control)
 
 ## 许可证
 

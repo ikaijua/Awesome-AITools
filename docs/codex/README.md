@@ -2,140 +2,158 @@
 
 ## What is Codex?
 
-Codex CLI is a high-performance, Rust-based coding agent from OpenAI that runs in your terminal. It's an AI-powered coding assistant that can understand and modify code directly from the command line. Powered by the GPT-5.4 ecosystem, Codex CLI provides developers with a ultra-low latency, workflow-integrated way to interact with code.
+Codex is OpenAI's AI coding agent. Its core is an open-source (Apache-2.0) terminal CLI written in Rust. It can understand, edit, and run code directly in your local repository, and is also available through VS Code / Cursor / Windsurf / JetBrains IDE extensions, the Codex App (desktop), and Codex Web (cloud tasks). Active sessions can sync across phone, desktop, and web through the same ChatGPT account.
 
 ## Core Philosophy
 
-### Terminal First & High Performance
-Codex CLI is built in Rust for the fastest possible terminal interaction:
-- Ultra-low latency responses powered by GPT-5.4 mini
-- Use AI assistance without leaving your terminal
-- Seamlessly integrates with existing shell scripts and pipes
+### Terminal-Native
+Codex CLI is built around the terminal workflow, letting you complete the full development loop—explore, edit, run, and review—inside your familiar shell environment.
 
-### Understand and Modify
-Not just generating code snippets, Codex CLI can:
-- Understand your project structure
-- Directly modify code in files
-- Execute multi-step programming tasks with high speed
+### Local-First with Optional Cloud
+By default Codex runs on your local machine, keeping code and credentials local. You can also hand work off to Codex Cloud and let it finish asynchronously in a cloud sandbox.
 
-### Simple and Efficient
-- Minimal configuration, works out of the box
-- Focused on core programming tasks
-- Doesn't disrupt your workflow
+### Controllable Automation
+Approval modes and sandbox settings let you control when Codex can read or write files, run commands, and access the network.
 
-## Core Features
+### Extensible
+Codex supports Skills (reusable instructions), Plugins (team tool integrations), MCP servers, subagents, and Hooks.
 
-### Code Understanding
-- Analyze project structure and dependencies
-- Understand function and class purposes
-- Trace code call relationships
+## Available Surfaces
 
-### Code Modification
-- Automatically fix bugs
-- Refactor code
-- Add new features
+| Surface | Description |
+| --- | --- |
+| Terminal CLI | Open-source Rust client with the full feature set |
+| IDE Extensions | VS Code / Cursor / Windsurf / JetBrains |
+| Desktop App | `codex app` for visual management and multiple sessions |
+| Codex Web | chatgpt.com/codex for cloud tasks and collaboration |
+| Mobile App | ChatGPT app can connect to and continue active sessions |
 
-### Command Line Integration
-- Ask questions directly in terminal
-- Support pipes and redirections
-- Works with shell scripts
+## Core Capabilities
+
+### Code Understanding & Modification
+- Analyze project structure, dependencies, and call relationships
+- Automatically fix bugs, refactor, and add features
+- Execute and iterate on multi-step tasks
+
+### Command-Line & CI Integration
+- Interactive TUI and one-shot prompt mode
+- `codex exec` for scripts and pipelines
+- Pipe and shell-script integration
+
+### Code Review
+- `codex review` examines uncommitted changes, commits, or branches
+- Does not modify the working tree; only reports risks and suggestions
+
+### Extensibility
+- **Skills / Plugins**: reusable instructions and team tool integrations
+- **MCP servers**: connect to external tools and data sources
+- **Subagents**: delegate complex investigations to specialized agents
+- **Hooks**: customize lifecycle behavior
+
+### Cross-Device & Remote
+- **ChatGPT relay**: active sessions sync across phone, desktop, and web
+- **Remote SSH**: connect directly to remote development environments
+- **Codex Cloud**: submit tasks to a cloud environment that keeps running after you close your laptop
 
 ## Quick Start
 
 ### Installation
 
+Official install script:
+
+```bash
+# macOS / Linux
+curl -fsSL https://chatgpt.com/codex/install.sh | sh
+
+# Windows PowerShell
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
+```
+
+Homebrew:
+
+```bash
+brew install --cask codex
+```
+
+npm (alternative):
+
 ```bash
 npm install -g @openai/codex
 ```
 
-### Configuration
-
-Set your OpenAI API key:
+Verify installation:
 
 ```bash
-export OPENAI_API_KEY="your-api-key"
+codex --version
 ```
 
-### Basic Usage
+### Log In
 
 ```bash
-# Ask a question
-codex "What does this function do?"
+codex
+```
 
-# Ask it to modify code
-codex "Help me refactor this function to be more readable"
+Choose **Sign in with ChatGPT** (recommended) or use an OpenAI API key.
 
-# Specify a file
-codex "Fix the bug in src/utils.js"
+### Common Commands
+
+```bash
+codex                                      # Start an interactive session
+codex "analyze the structure of this project"  # One-shot prompt
+codex exec "run the test suite"            # Non-interactive / CI mode
+codex review                               # Review uncommitted changes
+codex resume                               # Resume the most recent session
+codex cloud                                # Manage cloud tasks
+codex mcp list                             # List configured MCP servers
+codex --image error.png "how do I fix this error"  # Pass image context
 ```
 
 ## Approval Modes & Sandbox
 
-Codex CLI controls autonomy along two dimensions: an **approval policy** (when it pauses to ask you) and a **sandbox** (what it's allowed to touch). This is Codex's counterpart to Claude Code's `--permission-mode`.
+Codex uses an **approval mode** to decide when to pause for confirmation and a **sandbox** to define file and network access.
 
-### `--full-auto` — the low-friction "auto" mode
+### Approval Modes
 
-The closest equivalent to an "auto" mode: Codex runs routine actions on its own and only interrupts you when it really needs to.
+| Mode | Description |
+| --- | --- |
+| `suggest` (default) | Ask before every change |
+| `auto-edit` | Auto-edit files, ask before running commands |
+| `full-auto` | Auto-edit and run commands (use with caution) |
 
 ```bash
-codex --full-auto
+codex --approval-mode auto-edit
+codex --approval-mode full-auto
 ```
 
-### Approval policy — `--ask-for-approval` (`-a`)
+### Sandbox Modes
 
-- `untrusted` - Only trusted commands run automatically; everything else needs confirmation
-- `on-failure` - Runs in the sandbox first, asks only when a command fails and needs to escalate
-- `on-request` - The model decides when to ask for approval (default)
-- `never` - Never asks (fully autonomous)
-
-### Sandbox — `--sandbox` (`-s`)
-
-- `read-only` - Can read files but not modify them (good for safe exploration, similar to a plan mode)
-- `workspace-write` - Can read and write within the current workspace
-- `danger-full-access` - No sandbox restrictions
-
-### Handy combinations
+| Mode | Description |
+| --- | --- |
+| `read-only` | Read-only, no file modifications (similar to plan mode) |
+| `workspace-write` | Read/write within the current working directory |
+| `danger-full-access` | No sandbox restrictions |
 
 ```bash
-# Low-friction auto mode
-codex --full-auto
-
-# Read-only exploration (plan-like)
 codex -s read-only
-
-# Fully unrestricted (use with caution)
-codex --dangerously-bypass-approvals-and-sandbox
+codex --sandbox workspace-write
 ```
 
-> Inside the interactive UI these are surfaced as **Read Only / Auto / Full Access** modes, switchable via `/approvals`. Start with a restrictive mode on unfamiliar projects and switch to `--full-auto` once you're comfortable letting Codex move faster.
-
-## Common Commands
-
-```bash
-# Start interactive mode
-codex
-
-# Analyze current directory's code
-codex "Analyze this project's structure"
-
-# Generate tests
-codex "Generate unit tests for src/api.js"
-```
+> Use `/permissions` in the interactive UI to switch quickly. On unfamiliar projects, start with `suggest` plus `read-only` or `workspace-write`.
 
 ## Best Practices
 
-1. **Provide Context** - Tell it what you're doing, and it will give better suggestions
-2. **Iterate Gradually** - Start with the big picture, then dive into details
-3. **Verify Results** - Always check and test AI-generated code yourself
-4. **Use Interactively** - Ask follow-up questions and have it refine solutions
+1. **Start with `suggest` mode**: increase automation only after you know the project.
+2. **Scope tasks clearly**: mention target files, expected behavior, and tests to run.
+3. **Review diffs and run tests**: AI-generated changes still need human review.
+4. **Use Skills for repetitive workflows**: reduce repeated prompting.
+5. **Use a strict sandbox for sensitive code**: avoid accidental file or network access.
 
 ## Related Resources
 
 - [GitHub Repository](https://github.com/openai/codex)
-- [OpenAI Documentation](https://platform.openai.com/docs)
-- [Get API Key](https://platform.openai.com/api-keys)
-- [Comparison with Other Tools](../COMPARISON.md)
+- [Codex CLI Documentation](https://developers.openai.com/codex/cli)
+- [OpenAI: Work with Codex from Anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
 
 ## License
 
-Codex is developed by OpenAI and requires an OpenAI API key to use. Please follow OpenAI's terms of service.
+Codex CLI is released under the Apache-2.0 license. Use of OpenAI model services is subject to the corresponding terms of service.

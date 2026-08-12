@@ -8,16 +8,19 @@ Compared to general-purpose multimodal models, Seedance focuses specifically on 
 
 ## Core Model
 
+### Seedance 2.5
+
+Announced at the **Volcano Engine FORCE conference on 2026-06-23** and launched globally on **Dreamina on 2026-07-31**. Key upgrades over 2.0:
+
+- **30-second single-pass generation** (with long-video extension mode up to ~3 minutes)
+- **Native 4K output** (3840×2160) with 10-bit color depth
+- **Up to 50 multimodal references** per request, including images, videos, audio, style references, 3D whitebox models, and greenscreen plates
+- **Region-level editing** for localized modifications without regenerating the entire clip
+- **Maya / Blender plugins** for production pipelines
+
 ### Seedance 2.0
 
-Officially launched on **2026-02-12** ([announcement](https://seed.bytedance.com/en/blog)). Currently in production behind Dreamina with 2K output support.
-
-<!-- TODO: Fill in once ByteDance Seed publishes the 2.0 technical report:
-     - Max resolution / max duration
-     - Audio generation support (if any)
-     - Multi-shot / camera control improvements over 1.0
-     - Architecture changes
--->
+Officially launched on **2026-02-12** ([announcement](https://seed.bytedance.com/en/blog)). Previously in production behind Dreamina with 2K output support.
 
 ## Access
 
@@ -25,14 +28,14 @@ Officially launched on **2026-02-12** ([announcement](https://seed.bytedance.com
 | --- | --- | --- |
 | Dreamina (CapCut / 即梦) | End users / creators | https://dreamina.capcut.com/ |
 | Doubao | End users (chat surface) | https://www.doubao.com/ |
-| Xiaoyunqe (小云雀) | Creators (free Seedance 2.0 trial) | https://xyq.jianying.com/ |
+| Xiaoyunqe (小云雀) | Creators (free Seedance 2.5 trial) | https://xyq.jianying.com/ |
 | Volcengine Ark | Developers (API) | https://www.volcengine.com/ |
 
 ## Agent Skills
 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| dexhunter/seedance2-skill | Skill to create better prompts for Seedance 2.0 video generation. Covers Jimeng / Seedance 2.0 input constraints, @ reference syntax, camera language, prompt structures, and templates for ads, dramas, MVs, and educational videos. Compatible with Claude Code, Cursor, Cline, and other agent tools. | [Github](https://github.com/dexhunter/seedance2-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/dexhunter/seedance2-skill?style=social) | Free |
+| dexhunter/seedance2-skill | Skill to create better prompts for Seedance video generation. Covers Jimeng / Seedance input constraints, @ reference syntax, camera language, prompt structures, and templates for ads, dramas, MVs, and educational videos. Compatible with Claude Code, Cursor, Cline, and other agent tools. | [Github](https://github.com/dexhunter/seedance2-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/dexhunter/seedance2-skill?style=social) | Free |
 
 ## Benchmarks
 
@@ -67,5 +70,6 @@ Seedance's competitive positioning centers on **native multi-shot narrative gene
 - ByteDance Seed — Seedance product page: https://seed.bytedance.com/en/seedance
 - Technical report (Seedance 1.0): https://arxiv.org/abs/2506.09113
 - ByteDance Seed blog (Seedance 2.0 launch announcement, 2026-02-12): https://seed.bytedance.com/en/blog
+- Volcano Engine FORCE conference 2026 (Seedance 2.5 announcement, 2026-06-23): https://www.volcengine.com/
 - Volcengine: https://www.volcengine.com/
 - Dreamina: https://dreamina.capcut.com/

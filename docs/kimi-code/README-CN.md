@@ -244,21 +244,118 @@ kimi doctor tui
 kimi upgrade
 ```
 
-## Server、Web UI 与 ACP
+## 目标模式（Goal Mode）
+
+当任务有明确的完成标准，且下一步取决于 Agent 在执行中学到的信息时，使用 `/goal` 让 Kimi Code 自主推进：
+
+```text
+/goal 修复所有标记为 checkout-regression 的 bug，为每个修复添加或更新测试，并运行 checkout 测试套件
+```
+
+常用命令：
+
+| 命令 | 作用 |
+| --- | --- |
+| `/goal` 或 `/goal status` | 查看当前目标及进展 |
+| `/goal pause` | 暂停当前目标 |
+| `/goal resume` | 恢复暂停或阻塞的目标 |
+| `/goal cancel` | 取消当前目标 |
+| `/goal replace <目标描述>` | 用新目标替换当前目标 |
+| `/goal next <目标描述>` | 在当前目标完成后排队执行下一个目标 |
+
+目标会在三种状态间流转：
+- **complete**：目标完成，Agent 会总结完成方式
+- **paused**：用户暂停、回合中断、恢复带有活跃目标的会话，或遇到运行时错误
+- **blocked**：需要用户输入、无法按描述完成，或达到预算限制
+
+Web UI 中也会显示当前目标状态条，支持展开查看详情、暂停、恢复和取消。
+
+## 会话恢复与导出
+
+Kimi Code 会自动持久化每个会话。关闭终端后，可随时回到上次状态：
 
 ```bash
-# 启动或复用本地后台 server
-kimi server run
+# 恢复当前目录最近一次会话
+kimi --continue
+kimi -C
 
-# 打开浏览器 Web UI
+# 从历史会话中选择，或恢复指定 session ID
+kimi --session
+kimi --session <session-id>
+```
+
+导出会话：
+
+```bash
+# 将会话打包为 ZIP（含诊断日志）
+kimi export <session-id>
+
+# 导出为 Markdown 文件
+kimi -p "/export" --session <session-id>
+```
+
+## Web UI 与 ACP
+
+```bash
+# 在前台启动本地 server 并自动打开浏览器 Web UI
 kimi web
 
-# 前台运行 server
-kimi server run --foreground
+# 只启动 server，不自动打开浏览器
+kimi web --no-open
 
 # ACP 兼容编辑器使用的入口
 kimi acp
 ```
+
+> 注意：`kimi server run` 在 0.28.0 之后已弃用，请使用 `kimi web`。如果之前版本启动的 server 仍在运行，可用 `kimi server kill` 停止。
+
+### Web UI 登录
+
+Web UI 需要先用同一个 Kimi 账号完成认证，认证方式与 CLI 一致：
+
+1. **OAuth 设备码授权（推荐）**
+   - 在 CLI 中运行 `kimi login`，选择 **Kimi Code OAuth**
+   - 终端会输出一个授权链接和 8 位设备码
+   - 在手机或电脑浏览器中打开链接，登录 Kimi 账号后输入设备码
+   - 授权成功后，同一台机器上的 Web UI 自动处于登录状态
+
+2. **Moonshot AI API Key**
+   - 在 `platform.kimi.com` 或 `platform.kimi.ai` 创建 API Key
+   - 在 CLI 或 Web UI 首次启动时选择 API Key 登录并粘贴
+
+> 注意：如果你是在远程服务器上运行 `kimi web`，需要在服务器本地浏览器或通过 SSH 隧道访问 Web UI，并同样完成一次 OAuth/API Key 登录。
+
+### 后台运行：tmux 示例
+
+`kimi web` 默认在前台运行，按 `Ctrl+C` 会退出。如果要在远程服务器上长期保持运行，可用 `tmux`：
+
+```bash
+# 新建会话
+ tmux new -s kimi-web
+
+# 在会话中启动（监听所有网卡，不自动打开浏览器）
+kimi web --host --no-open
+
+# 按 Ctrl+B，再按 D 分离会话，进程继续在后台运行
+```
+
+之后重新连入查看日志：
+
+```bash
+tmux attach -t kimi-web
+```
+
+停止服务：在 tmux 会话中按 `Ctrl+C`，然后退出 tmux 即可。
+
+### 在 Web UI 中查看 Goal 状态
+
+登录后打开 Web UI：
+
+- 当前 goal 会显示在对话下方的状态条中
+- 点击状态条可展开/折叠详情
+- 配置了 token 预算的 goal 会显示进度条；未配置预算的 goal 不显示进度条
+- 状态条提供 **Pause / Resume / Cancel** 操作
+- 点击 **Resume** 会继续执行下一个 goal 回合
 
 如果要接入 Zed 或 JetBrains 等 ACP 编辑器，先在 CLI 中登录一次，然后在编辑器中配置通过 stdio 运行 `kimi acp`。
 
