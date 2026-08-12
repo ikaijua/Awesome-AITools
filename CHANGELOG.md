@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Reordered AI Agent section by practical value: Coding Agents first, then Autonomous Agents, Agent Workspaces, Enhancements, and Infrastructure (both EN/CN)
 - Added Muse Glimmer (meta-models/Muse-Glimmer-30B) to Open Source LLMs section with documentation in `docs/muse-glimmer/` (both EN/CN)
 - Added VibeVoice documentation in `docs/vibevoice/` (both EN/CN)
 - Added Paperclip (paperclipai/paperclip) to AI Agent section with documentation in `docs/paperclip/` (both EN/CN)
