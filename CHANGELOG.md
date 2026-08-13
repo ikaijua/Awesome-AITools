@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Updated DeepSeek V4 Open Source LLM entry to mention MIT license, Hybrid Attention (CSA+HCA), mHC, Muon optimizer, three reasoning effort modes (Non-think / Think High / Think Max), and that Pro-Max is the current top open-source model on coding/agentic benchmarks (both EN/CN)
+- Updated DeepSeek chatbot row to mention V4-Pro-Max reasoning mode (both EN/CN)
 - Updated Grok flagship model from Grok 4.5 to Grok 4.6 (both EN/CN)
 - Added Grok documentation in `docs/grok/` and linked from AI Chatbot entry (both EN/CN)
 - Added DeepSeek Harness (deepseek-ai/deepseek-harness) to AI Agent section, marked with 🌱 "freshly released" indicator (both EN/CN)
