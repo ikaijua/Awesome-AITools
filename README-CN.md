@@ -108,7 +108,7 @@
 | Gemini | Google 的 AI 助手，当前最强模型：**Gemini 3.6 Flash**。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。 | [URL](https://gemini.google.com/) | 免费/付费 |
 | 通义千问 | 阿里云的 AI 助手，当前最强模型：**Qwen3.8-Max**。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | [URL](https://chat.qwen.ai/) | 免费 |
 | 腾讯元宝 | 腾讯的 AI 助手，当前最强模型：**混元 Hy3**。**核心差异：** 混元 + DeepSeek 双模型 —— 可切换腾讯自研混元 Hy3 和 DeepSeek R1；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
-| DeepSeek | DeepSeek 的 AI 助手，当前最强模型：**DeepSeek-V4-Pro**。**核心差异：** 推理性价比 —— V4-Pro 提供顶尖推理能力且成本极低；支持 100 万上下文和原生多模态。 | [URL](https://chat.deepseek.com/) | 免费/付费 |
+| DeepSeek | DeepSeek 的 AI 助手，当前最强模型：**DeepSeek-V4-Pro**（含 V4-Pro-Max 推理模式）。**核心差异：** 推理性价比 —— Pro-Max 是当前开源模型中编码与智能体能力最强；V4-Pro 提供 1M 上下文与原生多模态，API 价格极低。 | [URL](https://chat.deepseek.com/) | 免费/付费 |
 | 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3**。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.2**。**核心差异：** High/Max 双档思考深度 —— 可在快速回答和深度推理之间切换；专注 Agentic 编程和仓库级分析。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | [URL](https://www.minimax.io/) | 免费/付费 |
@@ -118,7 +118,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Kimi K3 | 🌟 月之暗面（Moonshot AI）2.8 万亿参数旗舰开源权重模型，原生支持视觉理解，100 万 token 上下文，基于 Kimi Delta Attention（KDA）架构。全球首个 3 万亿参数级开源模型，完整权重已于 2026 年 7 月 27 日在 Hugging Face 发布，采用 Modified MIT 许可。 | [技术博客](https://www.kimi.com/blog/kimi-k3) [Hugging Face](https://huggingface.co/moonshotai/Kimi-K3) | 免费 |
-| DeepSeek-V4 | 🌟 DeepSeek 第四代旗舰模型。包含 V4-Pro (1.6T MoE) 和 V4-Flash (284B MoE)，支持 1M 上下文、原生多模态，采用混合注意力机制（Hybrid Attention）实现极高推理效率。 |[Hugging Face](https://huggingface.co/collections/deepseek-ai/deepseek-v4)|免费|
+| DeepSeek-V4 | 🌟 DeepSeek 第四代旗舰模型，MIT 许可、Hugging Face 开源权重。V4-Pro (1.6T MoE，激活 49B) 与 V4-Flash (284B MoE，激活 13B) 均支持 1M token 上下文与原生多模态。架构升级：混合注意力机制（CSA + HCA）将长上下文推理 FLOPs 降至 V3.2 的约 27%、KV 缓存降至约 10%；Manifold-Constrained Hyper-Connections（mHC）增强残差连接稳定性；Muon 优化器带来更快收敛。在 32T+ tokens 上预训练。两款模型均内置三档推理努力度——**Non-think**（快速）、**Think High**、**Think Max**，其中 **Pro-Max** 模式目前是开源模型中编码与智能体能力最强。 |[Hugging Face](https://huggingface.co/collections/deepseek-ai/deepseek-v4)|免费|
 | DeepSeek-R1 |DeepSeek 的第一代推理模型 DeepSeek-R1-Zero 和 DeepSeek-R1。DeepSeek-R1-Zero 是一种通过大规模强化学习（RL）训练的模型，没有监督微调（SFT）作为初步步骤，在推理性能表现卓越。|[Github](https://github.com/deepseek-ai/DeepSeek-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social)|免费|
 | DeepSeek-V3 |DeepSeek推出的大语言模型，MoE 模型，671B 参数，激活 37B，在 14.8T token 上进行了预训练。|[Github](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|免费|
 | Gemma 4 |Gemma 4 是 Google 最新发布的开源大语言模型系列，基于 Gemini 架构构建，提供更强的性能、更长的上下文窗口和更好的多语言支持。|[Github](https://github.com/google/gemma.cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/google/gemma.cpp?style=social)|免费|
