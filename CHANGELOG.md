@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Updated Grok flagship model from Grok 4.5 to Grok 4.6 (both EN/CN)
 - Added DeepSeek Harness (deepseek-ai/deepseek-harness) to AI Agent section, marked with 🌱 "freshly released" indicator (both EN/CN)
 - Reordered AI Agent section by practical value: Coding Agents first, then Autonomous Agents, Agent Workspaces, Enhancements, and Infrastructure (both EN/CN)
 - Added Muse Glimmer (meta-models/Muse-Glimmer-30B) to Open Source LLMs section with documentation in `docs/muse-glimmer/` (both EN/CN)

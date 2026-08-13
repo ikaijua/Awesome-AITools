@@ -112,7 +112,7 @@
 | 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3**。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.2**。**核心差异：** High/Max 双档思考深度 —— 可在快速回答和深度推理之间切换；专注 Agentic 编程和仓库级分析。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | [URL](https://www.minimax.io/) | 免费/付费 |
-| Grok | xAI 的 AI 助手，当前最强模型：**Grok 4.5**。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。 | [URL](https://x.com/i/grok) | 免费/付费 |
+| Grok | xAI 的 AI 助手，当前最强模型：**Grok 4.6**。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。 | [URL](https://x.com/i/grok) | 免费/付费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
