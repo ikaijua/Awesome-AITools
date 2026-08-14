@@ -216,6 +216,7 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| Ouroboros | 规约优先的 AI 编码 Agent OS。先跑苏格拉底式访谈，模糊度高于 0.2 会挡住 Seed 生成（显式传入 force 才能通过），然后驱动执行、分层评估关卡（Mechanical -> Semantic -> 多模型共识；三层齐跑只在直接评估路径上成立，演化循环只跑 Semantic 一层）和有预算上限的演化循环。当一条验收标准定义了自己的 `verify_command` 或输出断言时，那些值不会进 worker 的契约块，避免卡住的 agent 去糊弄断言字符串而不是实现验收标准。适配 Claude Code、Codex CLI、Gemini CLI、OpenCode 等 13 个运行时，并提供含 30+ 工具的 MCP server。 | [Github](https://github.com/Q00/ouroboros) ![GitHub Repo stars](https://img.shields.io/github/stars/Q00/ouroboros?style=social) | 免费 |
 | mahonzhan/awesome-coding-plan|各厂家 Coding Plan 对比|[Github](https://github.com/mahonzhan/awesome-coding-plan) ![GitHub Repo stars](https://img.shields.io/github/stars/mahonzhan/awesome-coding-plan?style=social) |免费|
 | Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
 | Cursor | 🌟 使用 GPT进行协作的代码编辑器 | [URL](https://www.cursor.so) | 付费/免费试用 |
