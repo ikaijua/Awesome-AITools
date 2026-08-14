@@ -437,6 +437,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |AI Detect Lab|Professional AI image and Deepfake detection tool optimized for Midjourney v7 and Flux, offering high-precision identification services.|[URL](https://www.aidetectlab.com/)|Free|
+|Mydentify AI Watermark and Claude Checker|Checks text from Claude and other AI tools for hidden Unicode characters and AI writing signals; it does not prove authorship or private statistical watermarks.|[URL](https://mydentify.com/tools/ai-watermark-detector)|Free|
 
 ### Humanoid Robots
 | Name | Description | Links | Fees |
