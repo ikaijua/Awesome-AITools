@@ -249,6 +249,7 @@
 | screenshot-to-code | 将截图、设计稿、Figma 设计和屏幕录制转换为干净的功能代码。支持多种 AI 模型（Gemini 3 Flash、GPT-5.5、Claude Opus 4.8）和输出框架（HTML+Tailwind、React、Vue、Bootstrap 等）。还支持 URL 克隆和视频转代码功能。 | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| 免费，需要 API 密钥（推荐 OpenAI/Anthropic/Gemini）|
 |together.ai chat|与 HuggingChat 类似，可选择不同的开源模型，支持 DeepSeek R1、LLaMA、QWen 和 Flux Schnell。每天 60 条免费信息。|[URL](https://chat.together.ai/)|免费/付费|
 |OpenRouter| 集成了 400 余种 AI 模型（OpenAI、Anthropic、Google、Mistral 等）的统一 API 网关。零加价定价，推理流量仅收取 5% 服务费，支持智能路由 / 故障转移|[URL](https://openrouter.ai/)| 免费/付费 |
+| SandBase CLI | 开源、面向 AI 智能体的 CLI 与 MCP 桥接工具，可通过一个账户发现并调用 2,000+ AI 模型和 API。支持多模态生成、沙箱执行、结构化 JSON 输出、OAuth 以及 17+ MCP 客户端。 | [Github](https://github.com/sandbaseai/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social) | 免费，API 调用需要额度 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.2 和混元 Hy3。|[URL](https://ima.qq.com/) |免费|
 
 ### 办公协作CLI/MCP
