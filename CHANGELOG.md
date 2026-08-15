@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added DeepSeek Harness Desktop (fendouai/deepseek-harness-desktop) to AI Agent section, a Tauri 2 desktop distribution of DeepSeek Harness (both EN/CN)
 - Updated DeepSeek V4 Open Source LLM entry to mention MIT license, Hybrid Attention (CSA+HCA), mHC, Muon optimizer, three reasoning effort modes (Non-think / Think High / Think Max), and that Pro-Max is the current top open-source model on coding/agentic benchmarks (both EN/CN)
 - Updated DeepSeek chatbot row to mention V4-Pro-Max reasoning mode (both EN/CN)
 - Updated Grok flagship model from Grok 4.5 to Grok 4.6 (both EN/CN)
