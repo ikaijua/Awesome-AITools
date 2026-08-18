@@ -249,6 +249,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 | Future AGI | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. | [Github](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | Free |
+| Daily AI Intel Free Tools | A collection of 24 free, no-signup AI tools that run entirely in the browser, including an AI cost calculator, a model comparison table, a system prompt builder, and a prompt template library. | [URL](https://dailyaiintel.com/tools) | Free |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
