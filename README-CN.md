@@ -251,6 +251,7 @@
 |together.ai chat|与 HuggingChat 类似，可选择不同的开源模型，支持 DeepSeek R1、LLaMA、QWen 和 Flux Schnell。每天 60 条免费信息。|[URL](https://chat.together.ai/)|免费/付费|
 |OpenRouter| 集成了 400 余种 AI 模型（OpenAI、Anthropic、Google、Mistral 等）的统一 API 网关。零加价定价，推理流量仅收取 5% 服务费，支持智能路由 / 故障转移|[URL](https://openrouter.ai/)| 免费/付费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.2 和混元 Hy3。|[URL](https://ima.qq.com/) |免费|
+| Daily AI Intel 免费工具集 | 一个包含24款免费、无需注册的AI工具集合，完全在浏览器中运行，包括AI成本计算器、模型对比表、系统提示词生成器和提示词模板库。 | [URL](https://dailyaiintel.com/tools) | 免费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
