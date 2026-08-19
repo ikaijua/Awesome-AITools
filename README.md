@@ -407,6 +407,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |Stable Audio|AI music and sound effect generation application by stability.ai|[URL](https://www.stableaudio.com/)|Free/Paid|
 |OptimizerAI|Sound effect generation <br>[Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243)|[URL](https://www.optimizerai.xyz/) |Free/Paid|
 |SFX Engine|AI Sound effect generation |[URL](https://sfxengine.com/) |Free/Paid|
+|HookGenius|Writes release-ready song lyrics plus a tuned style prompt you paste into Suno. A pre-production writing tool for AI music — it does not generate audio itself.|[URL](https://hookgenius.app/)|Free/Paid|
 
 ### Speech translation
 | Name | Description | Links | Fees |
