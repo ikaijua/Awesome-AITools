@@ -322,6 +322,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+| AI Fast Club | OpenAI-compatible AI API gateway with access to 500+ global and Chinese models, including Claude, GPT, Gemini, DeepSeek, and Qwen. | [Website](https://www.aifast.hk) | Free/Paid |
 
 ### GPU Programming
 | Name | Description | Links | Fees |
