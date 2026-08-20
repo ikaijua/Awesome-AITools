@@ -90,6 +90,7 @@ pnpm dsh web
 ## 相关资源
 
 - [GitHub 仓库](https://github.com/deepseek-ai/deepseek-harness)
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) — 原生集成到 Settings 的社区插件市场，支持搜索、筛选、安装与已加载插件查看，并提供可复现的预览版和 Agent 目录工具。
 - [架构文档（上游）](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/architecture.md)
 - [Cordis 入门（上游）](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/cordis-primer.md)
 - [Agent 生命周期（上游）](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/agent-lifecycle.md)

@@ -90,6 +90,7 @@ See `docs/architecture.md` in the upstream repo for the canonical subsystem diag
 ## Related Resources
 
 - [GitHub Repository](https://github.com/deepseek-ai/deepseek-harness)
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) — Native Settings marketplace for searching, filtering, installing, and inspecting community plugins; includes a reproducible preview release and agent-facing catalog tools.
 - [Architecture documentation (upstream)](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/architecture.md)
 - [Cordis primer (upstream)](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/cordis-primer.md)
 - [Agent lifecycle (upstream)](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/agent-lifecycle.md)
