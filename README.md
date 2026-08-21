@@ -103,6 +103,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Grok | xAI's AI assistant. Current flagship: **Grok 4.6**. **Differentiation:** real-time X data access — its moat is live internet/X posts as an information source; best for real-time news and events. [Intro](docs/grok/README.md) | [URL](https://grok.com/) | Free/Paid |
 | Qwen | Alibaba's AI assistant. Current flagship: **Qwen3.8-Max**. **Differentiation:** open-weight 2.4T MoE + long-horizon agentic reasoning — strong coding/deep research with 1M context and native multimodality. | [URL](https://chat.qwen.ai/) | Free |
 | Dola | ByteDance's AI assistant. Current flagship: **Doubao-Seed-2.1 Pro**. **Differentiation:** clean, intuitive UI with strong general capabilities — straightforward chat experience for everyday tasks. | [URL](https://www.dola.com/) | Free |
+| CheapAI | KRW-credit AI workspace for web chat, CLI, and API. 10,000 KRW top-up → 100,000 credits; API billed at official list price. Not cheapai.io. | [URL](https://cheapai.im) | Free/Paid |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
