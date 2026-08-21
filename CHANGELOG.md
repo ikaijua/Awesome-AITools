@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added Find Image Prompt (findimageprompt.com) to AI Image Creation section (both EN/CN)
 - Updated Grok Image URL to https://grok.com/imagine (both EN/CN)
 - Added Pi (earendil-works/pi) to AI Agent section with documentation in `docs/pi/` (both EN/CN)
 - Updated DeepSeek V4 Open Source LLM entry to mention MIT license, Hybrid Attention (CSA+HCA), mHC, Muon optimizer, three reasoning effort modes (Non-think / Think High / Think Max), and that Pro-Max is the current top open-source model on coding/agentic benchmarks (both EN/CN)
