@@ -439,6 +439,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |AI Detect Lab|Professional AI image and Deepfake detection tool optimized for Midjourney v7 and Flux, offering high-precision identification services.|[URL](https://www.aidetectlab.com/)|Free|
+|FCaptcha|Open source, self-hosted CAPTCHA that detects AI *agents* rather than AI-generated content — vision agents that screenshot-and-click, and computer-use agents driving a real browser over the Chrome DevTools Protocol. Drop-in for the reCAPTCHA/Turnstile/hCaptcha siteverify API, with no image puzzle to solve. Go, Python and Node servers; MIT.|[GitHub](https://github.com/WebDecoy/FCaptcha) [Demo](https://webdecoy.com/product/fcaptcha-demo/)|Free|
 
 ### Humanoid Robots
 | Name | Description | Links | Fees |
