@@ -1,144 +1,125 @@
-# AI Coding Tools Comparison: Claude Code vs Codex vs Antigravity
+# AI Agent Tools Comparison: Claude Code vs Codex vs Kimi Code
 
-This document compares three mainstream AI coding tools: Claude Code, Codex, and Google's Antigravity (the agent-first IDE that replaces the now-deprecated Gemini CLI).
+This document compares three mainstream AI agent coding tools: Claude Code, Codex, and Kimi Code.
 
 ## Quick Comparison
 
-| Aspect | Claude Code | Codex CLI | Antigravity |
-|--------|-------------|-----------|-------------|
-| Developer | Anthropic | OpenAI | Google |
-| Form Factor | Terminal CLI + IDE plugins + desktop/web | Terminal CLI + IDE extensions + web/desktop | Standalone IDE (VS Code fork) + Manager dashboard |
-| Open Source | No | No | No (proprietary, free during preview) |
-| Default Model | Claude 5 (Fable/Mythos) / Claude 4 (Sonnet/Opus) | OpenAI GPT (Codex family) | Gemini 3 Pro / Flash |
-| Other Models | — | — | Claude 5 (Fable), Claude Sonnet 4.6, Claude Opus 4.6, GPT-OSS-120B |
-| API Required | Anthropic API or Claude account | OpenAI API or ChatGPT account | Google account (no separate API key during preview) |
-| Multimodal | Text + images | Text + images | Text + images + integrated browser |
-| Persistent Memory | ✅ Full (per-project + user memory) | ⚠️ Limited per-session | ✅ Cross-run agent learning + project context |
-| Verifiable Output | Diff + tool transcripts | Diff + sandbox output | **Artifacts**: plans, screenshots, browser recordings |
-| Multi-Agent | Subagents and workflows in CLI | Parallel runs via web/app | Manager view fans out agents across workspaces |
-| Safety Design | Confirmation for dangerous operations | Sandbox-first | Plan-then-act with reviewable Artifacts |
-| Permission Modes | `--permission-mode` (default / plan / auto) | `--full-auto`, `--ask-for-approval`, `--sandbox` (read-only / workspace-write / full-access) | Read Only / Auto / Full Access; approve plan Artifact before execution |
-| Extensibility | MCP, skills, hooks, plugins | MCP, scripts | VS Code extensions, integrated browser/terminal |
+| Aspect | Claude Code | Codex | Kimi Code |
+|--------|-------------|-------|-----------|
+| Developer | Anthropic | OpenAI | Moonshot AI |
+| Form Factor | Terminal CLI + IDE plugins + desktop/web/app | Terminal CLI + IDE extensions + desktop app + Codex Web | Terminal CLI + ACP editors + local Web UI |
+| Open Source | No | Yes (Apache-2.0) | CLI under MIT; core services not open |
+| Default Model | Claude family (Opus / Sonnet / Haiku) | GPT-5.x / Codex family | Kimi Code / Moonshot models |
+| Other Models | — | — | Configurable compatible providers |
+| Account Required | Anthropic API or Claude account | OpenAI API or ChatGPT account | Kimi account or API key |
+| Multimodal | Text + images | Text + images | Text + images/video |
+| Persistent Memory | ✅ Project + user memory | ⚠️ Per-session + cross-device relay sync | ✅ Session / Goal memory |
+| Multi-Agent | ✅ Subagents + workflows | ✅ Subagents | ✅ Subagents |
+| Local / Cloud | Local first, `--cloud` optional | Local + Codex Cloud | Local first, `kimi web` local server |
+| Cross-Device | ✅ Remote Control + mobile/web | ✅ ChatGPT relay (mobile/desktop/web) | ✅ `kimi web` same-server access |
+| Permission Modes | `--permission-mode` default/plan/auto | `--approval-mode` suggest/auto-edit/full-auto + sandbox | Manual / YOLO / Auto / Plan |
+| Extensibility | MCP, Skills, Hooks, Plugins | MCP, Skills, Plugins, Hooks | MCP, Skills, Hooks, ACP |
 
 ## Detailed Comparison
 
-### Context and Memory Capabilities
+### Code Understanding & Context Memory
 
 **Claude Code**
 - Long context with deep multi-file understanding
-- Persistent memory across sessions (user + project memory)
+- Persistent memory across sessions (user + project)
 - Project rules via `CLAUDE.md` / `AGENTS.md`
 
-**Codex CLI**
-- Focuses on fast single-file or function-level edits
-- Lightweight per-session state, designed for low-latency loops
-- No first-class persistent memory; rely on prompts and `AGENTS.md`
+**Codex**
+- Local repository-level understanding and multi-step execution
+- Session state syncs across devices via the ChatGPT relay
+- Relies on `AGENTS.md` and project prompts for long-term context
 
-**Antigravity**
-- Agent-first workflow: plan → edit → run → verify carries context across steps
-- Agents learn from prior runs, including the corrections you apply
-- Project context is anchored inside the workspace; the integrated browser feeds runtime context (DOM, screenshots) back to the agent
+**Kimi Code**
+- Analyzes project structure, dependencies, and implementation details in the terminal
+- Goal mode lets long tasks progress across multiple turns
+- Uses `AGENTS.md` and project-local memory for consistency
 
 ### Safety and Control
 
 **Claude Code**
-- Dangerous operations (deleting files, force pushing, etc.) require user confirmation
-- Per-project safety rules via memory and settings
-- Tool permission model (allowlists, hooks) for tight control
+- Dangerous operations (deleting files, force pushing, etc.) require confirmation by default
+- `--permission-mode` offers default / plan / auto
+- `--dangerously-skip-permissions` for trusted scenarios
 
-**Codex CLI**
-- Sandbox-first execution environment
-- Strong defaults for filesystem and network isolation
-- Simple, fast safety model focused on terminal use
+**Codex**
+- Approval modes `suggest` / `auto-edit` / `full-auto` control automation
+- Sandbox modes `read-only` / `workspace-write` / `danger-full-access` control access scope
+- Kernel-level sandbox + ChatGPT relay; no inbound ports exposed
 
-**Antigravity**
-- Agents draft a **plan Artifact** before acting; you approve before execution
-- Browser recordings and screenshots make agent behavior auditable after the fact
-- Runs inside the IDE with workspace-scoped access
-
-### Permission Modes
-
-All three tools let you dial autonomy up or down, from cautious step-by-step approval to fully hands-off execution.
-
-**Claude Code**
-- Single `--permission-mode` flag: `default` (confirm sensitive actions), `plan` (explore and propose without changes), `auto` (auto-approve routine actions, pause only for genuinely sensitive ones)
-- Fine-grained tool allowlists and hooks layer on top for precise control
-- Recommendation: start with `default`/`plan` on unfamiliar code, switch to `auto` once trusted
-
-**Codex CLI**
-- Two dimensions: approval policy `--ask-for-approval` (`untrusted` / `on-failure` / `on-request` / `never`) and sandbox `--sandbox` (`read-only` / `workspace-write` / `danger-full-access`)
-- `--full-auto` is the low-friction shortcut (runs routine work, interrupts only when needed)
-- `--dangerously-bypass-approvals-and-sandbox` removes all guardrails; `-s read-only` is a plan-like safe-exploration mode
-- Surfaced in the interactive UI as **Read Only / Auto / Full Access**, switchable via `/approvals`
-
-**Antigravity**
-- Modes map to **Read Only / Auto / Full Access**
-- Plan-then-act: the agent produces a reviewable plan Artifact you approve before execution
-- Access is workspace-scoped, with browser recordings for after-the-fact auditing
+**Kimi Code**
+- Manual / YOLO / Auto / Plan permission modes
+- `kimi web` starts a local server; files stay on the machine
+- Sensitive operations require confirmation by default
 
 ### Extension and Integration
 
 **Claude Code**
-- MCP (Model Context Protocol) servers
-- Customizable skills system, hooks for automation
-- Deep Git/GitHub/GitLab integration
+- MCP servers connect databases, browsers, external APIs
+- Skills / Hooks / Plugins for reusable workflows
+- Deep Git / GitHub / GitLab / CI/CD integration
 
-**Codex CLI**
-- Lightweight, "Unix-native" workflow optimized for shell pipelines
-- MCP support and tight terminal integration
-- Easy to compose with existing scripts
+**Codex**
+- MCP, Skills, Plugins, Hooks
+- `codex exec` fits scripts and CI
+- Shared account and sessions with ChatGPT ecosystem
 
-**Antigravity**
-- Built on VS Code, so the existing extension ecosystem applies
-- Built-in browser the agent can drive (clicks, navigation, screenshot capture)
-- Multi-model selector (Gemini, Claude, GPT-OSS) inside one IDE
+**Kimi Code**
+- MCP, Skills, Hooks
+- ACP editor integration (Zed, JetBrains, etc.)
+- `kimi web` provides a local browser UI
 
-### Entry Barrier
+### Cross-Device and Collaboration
 
 **Claude Code**
-- Requires an Anthropic API key or Claude account
-- Powerful but rewards learning the agentic / memory / hooks model
+- `claude remote-control` / `/remote-control` lets you continue local sessions from phone or browser
+- `claude --cloud` starts tasks resumable on mobile
+- Files and credentials stay on the local machine
 
-**Codex CLI**
-- Requires an OpenAI API key or ChatGPT account
-- Minimal configuration, very fast feedback loop
+**Codex**
+- ChatGPT mobile app connects to local/remote Codex sessions
+- ChatGPT relay syncs active sessions across phone, desktop, and web
+- Remote SSH connects to remote environments
 
-**Antigravity**
-- Free during the public preview; sign in with a Google account
-- IDE download for Windows / macOS / Linux; no API key juggling for the default Gemini models
+**Kimi Code**
+- `kimi web` starts a local server accessible on the local network
+- Multiple devices can follow task progress under the same server
+- Goal status visible in the Web UI
 
 ## Recommendations
 
 ### Choose Claude Code if you need:
-- Deep understanding and refactoring of large, established codebases
-- Long-running agentic workflows with strong memory and hooks
-- Tight terminal + IDE + GitHub integration
-- A mature permission model for autonomous execution
+- Deep understanding and refactoring of large, mature codebases
+- Strong project memory plus Skills/Hooks for long-running workflows
+- Remote Control to continue local sessions from phone or web
+- A mature permission model and broad tool integrations
 
-### Choose Codex CLI if you need:
-- Ultra-fast, low-latency single-file or single-function edits
-- A "Unix-native" experience that composes with shell scripts
-- Sandbox-first safety with minimal configuration
-- A lightweight day-to-day terminal companion
+### Choose Codex if you need:
+- An open-source (Apache-2.0) terminal agent you can inspect and customize
+- Tight cross-device integration with ChatGPT account/mobile app
+- Kernel-level sandbox + approval modes balancing safety and automation
+- Cloud tasks (Codex Cloud) and Remote SSH support
 
-### Choose Antigravity if you need:
-- An agent-first IDE rather than an autocomplete or terminal tool
-- **Verifiable** agent runs via Artifacts (plans, screenshots, recordings)
-- An integrated browser the agent can drive to test what it built
-- Multi-agent fan-out via Manager view, with multi-model choice (Gemini / Claude / GPT-OSS)
-- Free access during the public preview, no API key required
+### Choose Kimi Code if you need:
+- A terminal-native agent plus a local Web UI (`kimi web`)
+- Goal mode for autonomous long-horizon tasks
+- ACP editor integration and a domestic model/network environment
 
 ## Combined Usage
 
-These tools are not mutually exclusive. A common split:
+These tools are not mutually exclusive. Common splits:
 
-- **Daily code editing / terminal flows**: Claude Code or Codex
-- **Big agent-driven changes with browser verification**: Antigravity
-- **Quick single-file edits**: Codex
-- **Long-horizon multi-file refactors with strong memory**: Claude Code or Antigravity
+- **Daily terminal development**: Claude Code, Codex, Kimi Code
+- **Quick single-file edits**: Codex, Claude Code
+- **Long-horizon multi-file refactors**: Claude Code, Kimi Code
+- **Continue tasks across devices**: Claude Code (Remote Control), Codex (ChatGPT relay), Kimi Code (`kimi web`)
 
 ## Related Links
 
 - [Claude Code Introduction](claude-code/README.md)
 - [Codex Introduction](codex/README.md)
-- [Antigravity Introduction](antigravity/README.md)
+- [Kimi Code Introduction](kimi-code/README.md)
