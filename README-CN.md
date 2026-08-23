@@ -280,7 +280,7 @@
 ### AI图像创作与UI设计
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| ChatGPT Images 2.0 |OpenAI最新的图像生成模型 GPT Image 2.0。先进的AI图像生成和编辑能力。|[URL](https://chatgpt.com/images)|免费/付费|
+| ChatGPT Images 2.0 |🌟 OpenAI最新的图像生成模型 GPT Image 2.0。先进的AI图像生成和编辑能力。|[URL](https://chatgpt.com/images)|免费/付费|
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Nano Banana/Nano Banana Pro|谷歌用于图像生成与编辑的先进人工智能模型。在LMArena文本转图像和图像编辑排行榜中位列榜首。<br> [Nano Banana 的用法合集](https://github.com/ikaijua/Awesome-AITools/wiki/Nano-Banana-%E7%9A%84%E7%94%A8%E6%B3%95%E5%90%88%E9%9B%86) <br>在线网站：<br> 1. [aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) <br> 2. [gemini](https://gemini.google.com/app) <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image)|[URL](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) |免费/付费|
 | Grok Image | xAI 的图像生成模型（Aurora），集成在 Grok 和 X 中，以写实风格和 meme 图像见长。 | [URL](https://grok.com/imagine) | 免费/付费 |
