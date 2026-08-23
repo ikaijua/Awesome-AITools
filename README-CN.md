@@ -151,10 +151,6 @@
 | Qoder | 阿里云推出的 AI 智能编程助手与智能体产品族，主打“自主编程新范式”。通过多智能体协同、长时委派执行、记忆与知识引擎，与代码库和工具链深度连接，围绕真实任务持续完成理解、规划、执行、验证与迭代。产品包括 Qoder Desktop（自主开发工作台）、QoderWork（本地 AI 工作搭子）、QoderWake（数字员工）、Qoder CLI（终端原生编程搭档/智能体引擎）以及面向企业的 Cloud Agents 云端托管平台。[入门介绍](docs/qoder/README-CN.md) [对比](docs/COMPARISON-CN.md) | [URL](https://qoder.com.cn/) | 免费/付费 |
 |Antigravity|Google 推出的以智能体为先的 AI 编程平台 Antigravity 2.0，提供独立桌面 App、IDE、终端 CLI（`agy`）和 SDK 四种形态，用于替代 Gemini CLI。围绕 Gemini 3.5/3.6 Flash 等模型，支持在 Editor / Manager 双视图中编排多个自主智能体，具备内置浏览器/终端、可核验 Artifacts（计划、截图、录屏）、子代理、Hooks 与定时任务。同时支持 Claude、GPT-OSS 等第三方模型。[入门介绍](docs/antigravity/README-CN.md)|[URL](https://antigravity.google/)|预览期免费|
 | Grok build | xAI 推出的基于终端的 AI 编程智能体，开源且使用 Rust 编写。以全屏、支持鼠标交互的 TUI 形式运行，能理解代码库、编辑文件、执行 shell 命令、搜索网络并管理长时间运行的任务。支持交互式、无头（脚本/CI）以及嵌入 ACP 编辑器等模式，内置 MCP 服务器、技能、插件、钩子和沙箱。[入门介绍](docs/grok-build/README-CN.md) | [Github](https://github.com/xai-org/grok-build) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-build?style=social) | 免费 |
-
-#### 浏览器 / 计算机使用智能体
-| 名称 | 说明 | 链接 | 费用 |
-| --- | --- | --- | --- |
 | browser-use | 开源 Python 库，使 AI 智能体能够控制网页浏览器。支持自然语言任务执行、DOM 提取、表单填写、多步导航，并通过简单 API 与任意大模型集成。适用于构建网页智能体、自动化测试和数据提取工作流。[入门介绍](docs/browser-use/README-CN.md) | [GitHub](https://github.com/browser-use/browser-use) ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) | 免费 |
 | Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。[入门介绍](docs/cua/README-CN.md) | [GitHub](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
 |OpenClaw|开源的自托管 AI 智能体，可以在本地运行并自主执行任务。能够连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器，访问系统，具有持久记忆功能。由 Peter Steinberger 开发，是增长最快的开源项目之一。[入门介绍](docs/openclaw/README-CN.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|免费|
