@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added MiniMax H3 to Video Creation section with documentation in `docs/minimax-h3/` (both EN/CN)
 - Added browser-use (browser-use/browser-use) to AI Agent section with documentation in `docs/browser-use/` (both EN/CN)
 - Updated Grok Image URL to https://grok.com/imagine (both EN/CN)
 - Added Pi (earendil-works/pi) to AI Agent section with documentation in `docs/pi/` (both EN/CN)
