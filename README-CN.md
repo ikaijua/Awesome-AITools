@@ -306,6 +306,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Seedance | 🌟 字节跳动的视频生成模型系列。当前 Seedance 2.5 驱动了即梦 / 小云雀等产品，支持 30 秒单次生成、最高 4K 输出、最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑，并通过火山引擎对开发者开放。[介绍](docs/seedance/README-CN.md) / [Skills](docs/seedance/README-CN.md#agent-skills) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
+| MiniMax H3 | 🌱 MiniMax 开源的通用多模态生成系统，支持文生视频、图生视频、首尾帧生视频、文生音视频等，可通过 SGLang、vLLM、diffusers、ComfyUI 本地部署。[介绍](docs/minimax-h3/README-CN.md) | [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-H3?style=social), [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-H3) | 免费 |
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [Seedance 2.5专题](https://github.com/ikaijua/Awesome-AITools/discussions/266) |[URL](https://xyq.jianying.com/) |试用积分/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
