@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Removed DeepSeek-V3 from Open Source LLMs; updated Llama 3 to Llama 4, Phi-3 to Phi-4, Runway description to Gen-4/Gen-4.5, and related DeepSeek-V3/Llama 3 references in AirLLM and Artificial Analysis entries (both EN/CN)
 - Updated Wan entry from Wan2.6 to Wan 3.0 in Video Creation section, reflecting all-in-one reference video generation, up to 30-second output, and multimodal document/web inputs (both EN/CN)
 - Added MiniMax H3 to Video Creation section with documentation in `docs/minimax-h3/` (both EN/CN)
 - Added browser-use (browser-use/browser-use) to AI Agent section with documentation in `docs/browser-use/` (both EN/CN)
