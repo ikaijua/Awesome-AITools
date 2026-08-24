@@ -234,6 +234,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### General LLM Applications
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| SocialEcho | AI-powered social media workspace for global teams. Supports content creation and publishing, engagement inbox, social listening, analytics, and AI automation across 11 major social platforms. | [URL](https://www.socialecho.cn/) | Free/Paid |
 | Google AI Studio|Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts using the latest Gemini 3.6 Flash models and then get an API key to use in your app development. [Available regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions)|[URL](https://aistudio.google.com/)|Free|
 | Gemini Notebook (formerly NotebookLM) |Google's AI research assistant, formerly NotebookLM. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and Gemini Notebook will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. |[URL](https://notebook.google.com/)|Free|
 | Poe | Quora's multi-model AI chat platform. Access GPT, Claude, Gemini, Grok, Kimi, DeepSeek, and many other chat/image/video models through a single interface with a points-based subscription. Supports custom bots, group chats, side-by-side model comparison, and an OpenAI-compatible API. | [URL](https://poe.com/) | Free/Paid |
