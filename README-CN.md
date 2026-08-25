@@ -104,13 +104,13 @@
 | --- | --- | --- | --- |
 | ChatGPT | 🌟 OpenAI 的 AI 助手，当前最强模型：**GPT-5.6 Sol**。**核心差异：** 持久记忆和用户画像 —— 跨会话记住你的偏好，续聊最自然；通用能力最均衡，适合日常、编程和创意写作。[入门介绍](docs/chatgpt/README-CN.md) | [URL](https://chatgpt.com) | 免费/付费 |
 | 豆包 | 🌟 字节跳动的 AI 助手，当前最强模型：**Doubao-Seed-2.1 Pro**。**核心差异：** 字节生态入口 + 多模态交互 —— 集成搜索、语音、音乐等能力，界面直观，适合日常通用问答。[入门介绍](docs/doubao/README-CN.md) | [URL](https://www.doubao.com/) | 免费 |
-| Gemini | 🌟 Google 的 AI 助手，当前最强模型：**Gemini 3.6 Flash**。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。[入门介绍](docs/gemini/README-CN.md) | [URL](https://gemini.google.com/) | 免费/付费 |
+| Gemini | 🌟 Google 的 AI 助手，当前最强模型：**Gemini 3.7 Flash**。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。[入门介绍](docs/gemini/README-CN.md) | [URL](https://gemini.google.com/) | 免费/付费 |
 | Claude | 🌟 Anthropic 研发的 AI 助手，当前最强模型：**Claude Opus 5**。**核心差异：** Cowork 模式把 AI 从“聊天机器人”变成可拉取数据、生成 Excel 预测模型并执行工作流的代理；在编程、长上下文、安全性和企业场景上最强。[入门介绍](docs/claude/README-CN.md) | [URL](https://claude.ai/) | 免费/付费 |
 | 通义千问 | 阿里云的 AI 助手，当前最强模型：**Qwen3.8-Max**。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | [URL](https://chat.qwen.ai/) | 免费 |
 | 腾讯元宝 | 腾讯的 AI 助手，当前最强模型：**混元 Hy3**。**核心差异：** 混元 + DeepSeek 双模型 —— 可切换腾讯自研混元 Hy3 和 DeepSeek R1；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
 | DeepSeek | DeepSeek 的 AI 助手，当前最强模型：**DeepSeek-V4-Pro**（含 V4-Pro-Max 推理模式）。**核心差异：** 推理性价比 —— Pro-Max 是当前开源模型中编码与智能体能力最强；V4-Pro 提供 1M 上下文与原生多模态，API 价格极低。 | [URL](https://chat.deepseek.com/) | 免费/付费 |
 | 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3**。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
-| 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.2**。**核心差异：** High/Max 双档思考深度 —— 可在快速回答和深度推理之间切换；专注 Agentic 编程和仓库级分析。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
+| 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.3**。**核心差异：** 743B 参数 MoE（40B 激活），专为编码与网络安全任务构建 —— Agentic 编程、仓库级分析与长上下文推理，支持 100 万 token 上下文和最高 128K 输出。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | [URL](https://www.minimax.io/) | 免费/付费 |
 | Grok | xAI 的 AI 助手，当前最强模型：**Grok 4.6**。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。[入门介绍](docs/grok/README-CN.md) | [URL](https://x.com/i/grok) | 免费/付费 |
 
@@ -150,7 +150,7 @@
 | Trae | 🌱 字节跳动推出的 AI 编程与工作智能体产品族。包含 Trae Code（终端 CLI Agent）、Trae IDE（含 IDE Mode 与 SOLO Mode）、Trae Work（Web/桌面/移动工作空间，支持 Code Mode 与 Work Mode 及云端任务）。覆盖从终端到 IDE 再到云端工作区的完整链路，支持自定义 Agent、MCP、规则与多模型。[入门介绍](docs/trae/README-CN.md) | [URL](https://www.trae.ai/) [Github](https://github.com/bytedance/trae-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social) | 免费/付费 |
 | Pi | earendil-works 开源（MIT）的自扩展 AI 编程智能体。采用 Monorepo 架构，包含 `pi-coding-agent`（交互式 CLI）、`pi-agent-core`（工具调用与状态管理）、`pi-ai`（统一多厂商 LLM API）、`pi-tui` 与遥测模块。内置插件化架构、供应链安全加固（精确锁定依赖、shrinkwrap、审计）以及沙箱方案（Gondolin、Docker、OpenShell）。[入门介绍](docs/pi/README-CN.md) | [Github](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | 免费 |
 | Qoder | 阿里云推出的 AI 智能编程助手与智能体产品族，主打“自主编程新范式”。通过多智能体协同、长时委派执行、记忆与知识引擎，与代码库和工具链深度连接，围绕真实任务持续完成理解、规划、执行、验证与迭代。产品包括 Qoder Desktop（自主开发工作台）、QoderWork（本地 AI 工作搭子）、QoderWake（数字员工）、Qoder CLI（终端原生编程搭档/智能体引擎）以及面向企业的 Cloud Agents 云端托管平台。[入门介绍](docs/qoder/README-CN.md) [对比](docs/COMPARISON-CN.md) | [URL](https://qoder.com.cn/) | 免费/付费 |
-|Antigravity|Google 推出的以智能体为先的 AI 编程平台 Antigravity 2.0，提供独立桌面 App、IDE、终端 CLI（`agy`）和 SDK 四种形态，用于替代 Gemini CLI。围绕 Gemini 3.5/3.6 Flash 等模型，支持在 Editor / Manager 双视图中编排多个自主智能体，具备内置浏览器/终端、可核验 Artifacts（计划、截图、录屏）、子代理、Hooks 与定时任务。同时支持 Claude、GPT-OSS 等第三方模型。[入门介绍](docs/antigravity/README-CN.md)|[URL](https://antigravity.google/)|预览期免费|
+|Antigravity|Google 推出的以智能体为先的 AI 编程平台 Antigravity 2.0，提供独立桌面 App、IDE、终端 CLI（`agy`）和 SDK 四种形态，用于替代 Gemini CLI。围绕 Gemini 3.5/3.6/3.7 Flash 等模型，支持在 Editor / Manager 双视图中编排多个自主智能体，具备内置浏览器/终端、可核验 Artifacts（计划、截图、录屏）、子代理、Hooks 与定时任务。同时支持 Claude、GPT-OSS 等第三方模型。[入门介绍](docs/antigravity/README-CN.md)|[URL](https://antigravity.google/)|预览期免费|
 | Grok build | xAI 推出的基于终端的 AI 编程智能体，开源且使用 Rust 编写。以全屏、支持鼠标交互的 TUI 形式运行，能理解代码库、编辑文件、执行 shell 命令、搜索网络并管理长时间运行的任务。支持交互式、无头（脚本/CI）以及嵌入 ACP 编辑器等模式，内置 MCP 服务器、技能、插件、钩子和沙箱。[入门介绍](docs/grok-build/README-CN.md) | [Github](https://github.com/xai-org/grok-build) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-build?style=social) | 免费 |
 | browser-use | 开源 Python 库，使 AI 智能体能够控制网页浏览器。支持自然语言任务执行、DOM 提取、表单填写、多步导航，并通过简单 API 与任意大模型集成。适用于构建网页智能体、自动化测试和数据提取工作流。[入门介绍](docs/browser-use/README-CN.md) | [GitHub](https://github.com/browser-use/browser-use) ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) | 免费 |
 | Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。[入门介绍](docs/cua/README-CN.md) | [GitHub](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
@@ -238,7 +238,7 @@
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Google AI Studio|Google AI Studio 是一个基于 Web 的免费平台，允许开发者使用 Google 的大型语言模型（如 Gemini 3.6 Flash）进行原型设计和实验。它提供了一个易于使用的界面，你可以快速构建文本生成、代码生成、聊天机器人等应用。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) <br>介绍：B站视频：[一枚卓子/Google AI Studio教程｜体验Gemini 3.6 Flash 模型，和它视频聊天，创造提示词机器人](https://www.bilibili.com/video/BV1ejkgYcEi5/)|[URL](https://aistudio.google.com/)|免费|
+| Google AI Studio|Google AI Studio 是一个基于 Web 的免费平台，允许开发者使用 Google 的大型语言模型（如 Gemini 3.7 Flash）进行原型设计和实验。它提供了一个易于使用的界面，你可以快速构建文本生成、代码生成、聊天机器人等应用。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) <br>介绍：B站视频：[一枚卓子/Google AI Studio教程｜体验Gemini 3.7 Flash 模型，和它视频聊天，创造提示词机器人](https://www.bilibili.com/video/BV1ejkgYcEi5/)|[URL](https://aistudio.google.com/)|免费|
 |Cherry Studio|Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等；集成了流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等；支持 Ollama、LM Studio 本地模型部署|[Github](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|免费|
 | Gemini Notebook（原 NotebookLM）|Google 推出的 AI 研究助手，原 NotebookLM。可将文本、视频、音频、数据集等文件转化为播客节目（Audio Overview），并生成常见问题解答、学习指南、目录、时间轴和简报等，支持基于来源的自由对话与事实核查。|[URL](https://notebook.google.com/)|免费|
 | Learn about |谷歌开发的人工智能学习助手。它是一个会话式的学习伙伴，能适应您独特的好奇心和学习目标，帮助您掌握新主题并加深理解。|[URL](https://learning.google.com/experiments/learn-about)|免费|
@@ -251,7 +251,7 @@
 | screenshot-to-code | 将截图、设计稿、Figma 设计和屏幕录制转换为干净的功能代码。支持多种 AI 模型（Gemini 3 Flash、GPT-5.5、Claude Opus 4.8）和输出框架（HTML+Tailwind、React、Vue、Bootstrap 等）。还支持 URL 克隆和视频转代码功能。 | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| 免费，需要 API 密钥（推荐 OpenAI/Anthropic/Gemini）|
 |together.ai chat|与 HuggingChat 类似，可选择不同的开源模型，支持 DeepSeek R1、LLaMA、QWen 和 Flux Schnell。每天 60 条免费信息。|[URL](https://chat.together.ai/)|免费/付费|
 |OpenRouter| 集成了 400 余种 AI 模型（OpenAI、Anthropic、Google、Mistral 等）的统一 API 网关。零加价定价，推理流量仅收取 5% 服务费，支持智能路由 / 故障转移|[URL](https://openrouter.ai/)| 免费/付费 |
-| IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.2 和混元 Hy3。|[URL](https://ima.qq.com/) |免费|
+| IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy3。|[URL](https://ima.qq.com/) |免费|
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
@@ -391,7 +391,7 @@
 | --- | --- | --- | --- |
 | 海螺 AI 语音转文字 | 提供 17 种语言、多种口音的 300 多种声音，涵盖多种风格和年龄段|[URL](https://www.hailuo.ai/audio)|限时免费|
 | 剪映 |文本朗读有很多的音色选择|[URL](https://www.capcut.cn/)|免费/vip|
-| index-tts2 |B站开源的一个工业级可控且高效的零样本文本到语音系统。在线 Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo <br>论文: https://arxiv.org/abs/2506.21619|[Github](https://github.com/index-tts/index-tts) ![GitHub Repo stars](https://img.shields.io/github/stars/index-tts/index-tts?style=social) |免费|
+| IndexTTS | B站开源的工业级可控零样本文本到语音系统。当前旗舰版本 **IndexTTS-2.5** 支持中、英、日、西、阿五种语言，具备情感控制、语速控制、拼音/CMU音标/日语假名发音控制，推理速度优于 2.0，并支持通过 vLLM 部署。在线 Demo: https://huggingface.co/spaces/IndexTeam/IndexTTS-2.5-Demo <br>论文: https://arxiv.org/abs/2601.03888 | [Github](https://github.com/index-tts/index-tts) ![GitHub Repo stars](https://img.shields.io/github/stars/index-tts/index-tts?style=social) | 免费 |
 | 微软Azure 文本转语音| 目前最好用最真实的语音工具，包括自媒体配音最常见的云希和晓晓的声音；<br>效果演示：[痕继痕迹:啊？这是AI合成的？- 盘点那些超逼真的AI语音！](https://www.bilibili.com/video/BV1DC411G7Av/)| [URL](https://speech.microsoft.com/portal/voicegallery) |付费/每个月有50万字符的免费额度|
 | FireRedTTS‑2 |FireRedTTS‑2 是一种用于多说话人对话生成的长格式流式 TTS 系统，可提供稳定、自然的语音，具有可靠的说话人切换和上下文感知的韵律。小红书开源的。|[URL](https://github.com/FireRedTeam/FireRedTTS2)|免费|
 | TTS-Online | 提供超过160种声音选项 美真人配音选择，包含主流的小帅 小美 微软的一些语音，如果你是二次元游戏迷之类网站还提供超过1000+的动漫游戏角色的声音。网站可以提供api。分享者：[issue](https://github.com/ikaijua/Awesome-AITools/issues/31) | [URL](https://www.ttson.cn/)|免费 |

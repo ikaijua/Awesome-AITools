@@ -9,7 +9,7 @@ Antigravity (currently Antigravity 2.0) is Google's agent-first AI coding platfo
 - **Antigravity CLI (`agy`)**: a lightweight, fast, terminal-native agent
 - **Antigravity SDK**: a Python toolkit for prototyping custom agents and evaluations
 
-Antigravity defaults to Gemini 3.5 / 3.6 Flash models and also supports switching to Claude, GPT-OSS, and other models via a model picker.
+Antigravity defaults to Gemini 3.5 / 3.6 / 3.7 Flash models and also supports switching to Claude, GPT-OSS, and other models via a model picker.
 
 ## Core Philosophy
 
@@ -23,7 +23,7 @@ Antigravity treats the human as a manager of agents:
 Whether you use the desktop app, IDE, terminal CLI, or SDK, the same Antigravity agent engine powers Projects, multi-workspace orchestration, subagents, and scheduled tasks.
 
 ### Multi-Model, Gemini-Centered
-- Default models: Gemini 3.5 Flash / 3.6 Flash
+- Default models: Gemini 3.5 Flash / 3.6 Flash / 3.7 Flash
 - Optional models: Gemini 3 Pro, Claude family, GPT-OSS-120B
 - Switch quickly with `/model` or configuration
 

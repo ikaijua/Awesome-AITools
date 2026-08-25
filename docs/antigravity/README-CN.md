@@ -9,7 +9,7 @@ Antigravity（当前版本为 Antigravity 2.0）是 Google 推出的以智能体
 - **Antigravity CLI (`agy`)**：轻量、快速的终端原生智能体
 - **Antigravity SDK**：用 Python 脚本快速构建自定义智能体的开发套件
 
-Antigravity 默认围绕 Gemini 3.5 / 3.6 Flash 等模型运行，同时也支持通过模型选择器切换 Claude、GPT-OSS 等第三方模型。
+Antigravity 默认围绕 Gemini 3.5 / 3.6 / 3.7 Flash 等模型运行，同时也支持通过模型选择器切换 Claude、GPT-OSS 等第三方模型。
 
 ## 核心思想
 
@@ -23,7 +23,7 @@ Antigravity 把开发者定位成“智能体的管理者”：
 无论你用桌面 App、IDE、终端 CLI 还是 SDK，底层都是同一套 Antigravity 智能体引擎，支持 Projects、多工作区、子代理和定时任务。
 
 ### 多模型，以 Gemini 为中心
-- 默认模型：Gemini 3.5 Flash / 3.6 Flash
+- 默认模型：Gemini 3.5 Flash / 3.6 Flash / 3.7 Flash
 - 可选模型：Gemini 3 Pro、Claude 系列、GPT-OSS-120B 等
 - 通过 `/model` 或配置快速切换
 
