@@ -243,7 +243,6 @@
 | Gemini Notebook（原 NotebookLM）|Google 推出的 AI 研究助手，原 NotebookLM。可将文本、视频、音频、数据集等文件转化为播客节目（Audio Overview），并生成常见问题解答、学习指南、目录、时间轴和简报等，支持基于来源的自由对话与事实核查。|[URL](https://notebook.google.com/)|免费|
 | Learn about |谷歌开发的人工智能学习助手。它是一个会话式的学习伙伴，能适应您独特的好奇心和学习目标，帮助您掌握新主题并加深理解。|[URL](https://learning.google.com/experiments/learn-about)|免费|
 | Poe | Quora 推出的多模型 AI 聊天平台。可通过单一界面和积分制订阅使用 GPT、Claude、Gemini、Grok、Kimi、DeepSeek 等众多文本/图像/视频模型。支持自定义 Bot、群聊、多模型对比和 OpenAI 兼容 API。 | [URL](https://poe.com/) | 免费/付费 |
-| NoteGPT|NoteGPT 是一款智能笔记工具，它可以记录、转录并总结各种内容，比如会议、讲座、播客、YouTube 视频、B站视频、新闻简报和文章等。|[URL](https://notegpt.io/)|免费/付费|
 | HuggingChat|Hugging Face 的开源聊天应用程序 Hugging Chat. [URL](https://huggingface.co/chat/)|[Github](https://github.com/huggingface/chat-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|免费|
 | ollama | 在本地环境中轻松运行和管理大型语言模型，如Llama 、Mistral、Gemma2等|[Github](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social) |免费|
 |langchain|是一个强大的框架，旨在帮助开发人员使用语言模型构建端到端的应用程序。它提供了一套工具、组件和接口，可简化创建由大型语言模型 (LLM) 和聊天模型提供支持的应用程序的过程。LangChain 可以轻松管理与语言模型的交互，将多个组件链接在一起，并集成额外的资源，例如 API 和数据库。|[Github](https://github.com/langchain-ai/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)|免费|
@@ -316,10 +315,8 @@
 | 海螺AI| Minimax的AI视频生成平台|[URL](https://hailuoai.com/video)|免费/付费|
 | 快手可灵|支持文生视频和图生视频、首尾帧、动作控制功能|[URL](https://kling.kuaishou.com/)|免费/付费|
 | PixVerse | 利用文本和照片创建令人惊叹的人工智能视频 |[URL](https://app.pixverse.ai/)|付费/试用|
-| 腾讯混元AI视频|文生视频、图生视频功能；对口型和动作驱动功能：可以通过上传照片和音频或选择动作模版生成视频; 需要排队|[URL](https://video.hunyuan.tencent.com/)|免费|
 | Dream Machine|由 Luma AI 提供。Dream Machine 是一个人工智能模型，能根据文本和图像快速制作出高质量、逼真的视频。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|免费/付费|
 | Runway | AI 视频生成与编辑平台，当前 Gen-4/Gen-4.5 模型支持文生视频、图生视频、视频生视频、运动笔刷及高级电影级镜头控制 | [URL](https://runwayml.com/) | 免费试用/付费|
-| MOKI |美图的AI短片创作工具|[URL](https://www.moki.cn)| 免费试用/付费|
 | Pika | 文本/图像 AI生成视频| [URL](https://pika.art/home)| 免费试用/付费|
 | krea.ai| 提供文生图/视频、图片放大、模型训练等功能，Krea ai想做视频和图片界的 POE，目前集成了海螺、luma、Runway和可灵四家最好的视频生成模型。|[URL](https://www.krea.ai/)|免费试用/付费|
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 免费试用/付费 |
@@ -463,7 +460,6 @@
 | --- | --- | --- | --- |
 | Lean 4 | 交互式定理证明器 and 函数式编程语言，是 AI 形式化数学研究和自动定理证明的核心基础设施（如 DeepMind 的 AlphaProof 和 DeepSeek-Prover 均基于此）。 | [Github](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | 免费 |
 | AMiner | AI赋能科技情报挖掘，提供学术搜索、论文检索、专利、文献追踪、学者画像等功能 |[URL](https://www.aminer.cn/)|免费|
-|gpt_academic|为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容llama,rwkv,盘古大模型等。|[GitHub](https://github.com/binary-husky/gpt_academic) ![GitHub Repo stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social)|免费|
 |alphaxiv|一个基于arXiv平台的开放学术讨论社区，允许用户通过替换论文链接域名（arxiv.org替换为alphaxiv.org）直接在论文页面上进行逐行评论、提问和实时互动。并提供了 Ask AI 和 AI 生成文章博客等 AI 功能|[URL](https://www.alphaxiv.org/)|免费|
 
 ### OCR图像识别文字
