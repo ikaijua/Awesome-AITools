@@ -3,6 +3,9 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Updated IndexTTS entry to IndexTTS-2.5 with 5-language support, emotion/speed/pronunciation control, and vLLM deployment notes (both EN/CN)
+- Updated Gemini flagship from Gemini 3.6 Flash to Gemini 3.7 Flash across AI Chatbot, Google AI Studio, and Antigravity entries/docs (both EN/CN)
+- Updated GLM flagship from GLM-5.2 to GLM-5.3 across AI Chatbot and IMA entries (both EN/CN where applicable)
 - Removed 腾讯混元AI视频 from Video Creation section (CN only)
 - Removed MOKI (https://www.moki.cn) from Video Creation section (CN only)
 - Removed NoteGPT from General LLM Applications section (both EN/CN)
