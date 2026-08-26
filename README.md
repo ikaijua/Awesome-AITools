@@ -311,6 +311,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | hailuoai|AI Video Creation Tool by Minimax|[URL](https://hailuoai.com/video)|Free/Paid|
 | Dream Machine|By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images.[Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE)|[URL](https://lumalabs.ai/dream-machine)|Free/Paid|
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
+| Cadre | AI-directed screen recorder and timeline video editor for Apple Silicon Macs. Records or imports footage, applies cuts, cinematic zooms and on-device captions, and exposes the editor over a local MCP server for agents such as Codex and Claude Code. | [URL](https://cadre.cam/) | Free/Paid |
 | Runway | AI video generation and editing platform. Current Gen-4/Gen-4.5 models support text-to-video, image-to-video, video-to-video, motion brush, and advanced cinematic controls. | [URL](https://runwayml.com/) | Paid/Free trial|
 | pixverse | Create Amazing AI Videos from Text & Photos |[URL](https://app.pixverse.ai/)|Paid/Free trial|
 | Pika | Text/Image to video |[URL](https://pika.art/home)|Paid/Free trial|
