@@ -70,7 +70,7 @@
 - [AI金融与量化投资](#ai金融与量化投资)
 - [AI图像创作与UI设计](#ai图像创作与ui设计)
 - [AI视频创作](#ai视频创作)
-- [AI云平台](#ai云平台)
+- [AI基础设施平台](#ai基础设施平台)
 - [GPU编程](#gpu编程)
 - [LLM Prompts](#llm-prompts)
 - [大语言模型训练-评估平台](#大语言模型训练-评估平台)
@@ -126,7 +126,7 @@
 | Llama 4 | Meta 最新开源的多模态大语言模型系列，采用混合专家（MoE）架构，包含 Scout（1000 万 token 上下文）和 Maverick（总参 400B/激活 17B）等版本，支持文本与图像输入。|[GitHub](https://github.com/meta-llama/llama-models) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social)| 免费 |
 | Mixtral-8x7B |法国人工智能初创公司 Mistral AI开源的一种具有开放权重的稀疏专家混合模型 (SMoE)，在大多数基准测试中都优于 Llama 2 70B 和 GPT-3.5 <br>论文地址：https://arxiv.org/pdf/2401.04088.pdf <br>论文主页：https://mistral.ai/news/mixtral-of-experts/ |[Github](https://github.com/mistralai/mistral-src) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-src?style=social)|免费|
 |grok-1|马斯克的xAI公司开源的大语言模型|[Github](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|免费|
-| Qwen3 |阿里云通义千问团队研发的大语言模型系列。Qwen3-2507 包含 Instruct 和 Thinking 系列，提供 235B-A22B、30B-A3B、4B 等版本，支持 256K 长上下文，部分场景支持 1M 输入。 | [Github](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social)| 免费  |
+| Qwen3 / Qwen3.8 | 阿里云通义千问开源 LLM/VLM 系列。Qwen3-2507 提供 Instruct 和 Thinking 变体（235B-A22B、30B-A3B、4B 等），支持 256K 长上下文，部分场景可达 1M 输入；Qwen3.8 新增 27B 稠密视觉语言模型，支持图像/视频输入、262K 上下文，在 Agentic 编码等基准上表现突出。 | [Github](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) [Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B) | 免费 |
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/THUDM/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM2-6B?style=social)| 免费|
 | Phi-4 | 微软开源的小型语言模型（SLM）系列，包含通用、推理和视觉版本（如 Phi-4-mini、Phi-4、Phi-4-reasoning-vision），面向端侧与云端高效部署。|[Github](https://github.com/microsoft/Phi-4CookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Phi-4CookBook?style=social)|免费|
 
@@ -325,9 +325,10 @@
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [Github](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 
-### AI云平台
+### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| 🌟 Hugging Face | 领先的开源 AI 平台与社区。托管 100 万+ 模型、20 万+ 数据集和 50 万+ Spaces 演示；通过 Hub、Transformers、Diffusers、Accelerate 等生态支持模型发现、推理、微调和部署。[入门介绍](docs/huggingface/README-CN.md) | [官网](https://huggingface.co/) [Github](https://github.com/huggingface) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 免费/付费 |
 | Together AI |Together AI是一个专为生成式AI设计的云平台，提供了从模型推理、微调到GPU集群部署等多种服务。相比其他传统云平台，Together AI 主要聚焦于高效处理开源生成式模型，并为开发者和企业提供更灵活、定制化的解决方案。Together AI 支持多个开源模型，包括 LLaMA、Falcon、FLUX1 等。这些模型覆盖了从自然语言处理、对话系统到代码生成等多个领域，满足了不同场景下的应用需求。用户可以直接调用这些模型，也可以上传自己的数据进行微调，提升模型在特定任务中的表现。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) |[URL](https://www.together.ai/)|免费/付费|
 
 ### GPU编程
