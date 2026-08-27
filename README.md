@@ -325,7 +325,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| 🌟 Hugging Face | The leading open AI platform and community. Hosts 1M+ models, 200K+ datasets, and 500K+ demo Spaces; powers model discovery, inference, fine-tuning, and deployment via the Hub, Transformers, Diffusers, and Accelerate ecosystems. | [URL](https://huggingface.co/) [Github](https://github.com/huggingface) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | Free/Paid |
+| 🌟 Hugging Face | The leading open AI platform and community. Hosts 1M+ models, 200K+ datasets, and 500K+ demo Spaces; powers model discovery, inference, fine-tuning, and deployment via the Hub, Transformers, Diffusers, and Accelerate ecosystems. [Intro](docs/huggingface/README.md) | [URL](https://huggingface.co/) [Github](https://github.com/huggingface) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | Free/Paid |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
 
 ### GPU Programming
