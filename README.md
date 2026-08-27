@@ -72,7 +72,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [AI Finance & Quant Investment](#ai-finance--quant-investment)
   - [AI Image Creation and UI Design](#ai-image-creation-and-ui-design)
   - [Video Creation](#video-creation)
-  - [AI Cloud Platform](#ai-cloud-platform)
+  - [AI Infrastructure Platform](#ai-infrastructure-platform)
   - [GPU Programming](#gpu-programming)
   - [LLM Prompts](#llm-prompts)
   - [LLM training platform](#llm-training-platform)
@@ -322,11 +322,11 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Topaz Video AI | AI-powered video enhancement, upscaling, deinterlacing, stabilization, frame interpolation, and motion deblur for professional video restoration. Runs locally on desktop. | [URL](https://www.topazlabs.com/topaz-video-ai) | Paid/Trial |
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [Github](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 
-### AI Cloud Platform
+### AI Infrastructure Platform
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-|together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
 | 🌟 Hugging Face | The leading open AI platform and community. Hosts 1M+ models, 200K+ datasets, and 500K+ demo Spaces; powers model discovery, inference, fine-tuning, and deployment via the Hub, Transformers, Diffusers, and Accelerate ecosystems. | [URL](https://huggingface.co/) [Github](https://github.com/huggingface) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | Free/Paid |
+|together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
 
 ### GPU Programming
 | Name | Description | Links | Fees |
