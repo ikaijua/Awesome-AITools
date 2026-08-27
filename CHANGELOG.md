@@ -3,7 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
-- Removed low-influence tools from Video Creation section: Fliki, d-id (EN only); vivago.ai/video, OpenMontage (both EN/CN); kept Palmier Pro as a representative open-source video editor
+- Removed low-influence tools from Video Creation section: Fliki, d-id (EN only); vivago.ai/video (both EN/CN); kept Palmier Pro and OpenMontage as representative open-source video tools
 - Added Hugging Face to AI Infrastructure Platform section (formerly AI Cloud Platform), marked with 🌟, and added documentation in `docs/huggingface/` (both EN/CN)
 - Renamed section from AI Cloud Platform to AI Infrastructure Platform (both EN/CN)
 - Updated Qwen3 Open Source LLMs entry to Qwen3 / Qwen3.8, adding Qwen3.8-27B dense vision-language model details (both EN/CN)
