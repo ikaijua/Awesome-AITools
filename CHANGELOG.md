@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## August 2026
+- Added Hugging Face to AI Cloud Platform section (both EN/CN)
+- Updated Qwen3 Open Source LLMs entry to Qwen3 / Qwen3.8, adding Qwen3.8-27B dense vision-language model details (both EN/CN)
 - Updated IndexTTS entry to IndexTTS-2.5 with 5-language support, emotion/speed/pronunciation control, and vLLM deployment notes (both EN/CN)
 - Updated Gemini flagship from Gemini 3.6 Flash to Gemini 3.7 Flash across AI Chatbot, Google AI Studio, and Antigravity entries/docs (both EN/CN)
 - Updated GLM flagship from GLM-5.2 to GLM-5.3 across AI Chatbot and IMA entries (both EN/CN where applicable)
