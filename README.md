@@ -229,6 +229,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### General LLM Applications
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| DeepSeek酱语录 (DeepSeek-chan Meme Gallery) | Web gallery of 128 curated DeepSeek whale-girl ("big blue fish") memes with quote-level captions. 瀑布流浏览的 DeepSeek 娘化表情包图库：标签筛选、深色模式、一键生成分享卡片。 | [URL](https://ai-meme.cdqyfdbymn.me/) | Free |
 | Google AI Studio|Google AI Studio is a free, web-based developer tool that enables you to quickly develop prompts using the latest Gemini 3.6 Flash models and then get an API key to use in your app development. [Available regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions)|[URL](https://aistudio.google.com/)|Free|
 | Gemini Notebook (formerly NotebookLM) |Google's AI research assistant, formerly NotebookLM. Upload PDFs, websites, YouTube videos, audio files, Google Docs, or Google Slides, and Gemini Notebook will summarize them and make interesting connections between topics. Audio Overview feature can turn your sources into engaging “Deep Dive” discussions with one click. |[URL](https://notebook.google.com/)|Free|
 | Poe | Quora's multi-model AI chat platform. Access GPT, Claude, Gemini, Grok, Kimi, DeepSeek, and many other chat/image/video models through a single interface with a points-based subscription. Supports custom bots, group chats, side-by-side model comparison, and an OpenAI-compatible API. | [URL](https://poe.com/) | Free/Paid |
