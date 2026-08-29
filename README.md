@@ -346,7 +346,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | AirLLM | A Python library that reduces LLM inference memory usage by loading one layer at a time, enabling 70B models on 4GB GPUs, 405B on 8GB, and 671B DeepSeek-V3 on ~12GB. Supports 4-bit/8-bit quantization and a wide range of open models via a single AutoModel interface. | [Github](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | Free |
-| qwen3.8-27b-in-c | Native C inference engine for running Qwen3.8-27B locally on a single laptop CPU. Directly loads GGUF weights, requires no GPU or Python, and provides a tested 8 GB memory path with reproducible performance and fidelity data. | [Github](https://github.com/shyringo/qwen3.8-27b-in-c) ![GitHub Repo stars](https://img.shields.io/github/stars/shyringo/qwen3.8-27b-in-c?style=social) | Free |
+| qwen3.8-27b-in-c | Native C inference engine for Qwen3.8-27B on one laptop CPU. Directly loads GGUF weights, has a tested 8 GB path, reaches up to 2.52 token/s on the documented x86 laptop, and provides a resident OpenAI-compatible API with function tools. No GPU or Python runtime. | [Github](https://github.com/shyringo/qwen3.8-27b-in-c) ![GitHub Repo stars](https://img.shields.io/github/stars/shyringo/qwen3.8-27b-in-c?style=social) | Free |
 
 ### Writing
 | Name | Description | Links | Fees |
