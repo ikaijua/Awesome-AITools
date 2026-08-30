@@ -481,6 +481,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | AI Detect Lab | 针对 Midjourney v7 和 Flux 优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
+| FCaptcha | 开源自托管验证码，检测的是 AI 智能体而非 AI 生成内容——包括截图点击的视觉智能体，以及通过 Chrome DevTools Protocol 驱动真实浏览器的计算机操作智能体。兼容 reCAPTCHA/Turnstile/hCaptcha 的 siteverify 接口，无需识别图片。提供 Go、Python、Node 三种服务端实现；MIT 协议。 | [GitHub](https://github.com/WebDecoy/FCaptcha) [演示](https://webdecoy.com/product/fcaptcha-demo/) | 免费 |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
