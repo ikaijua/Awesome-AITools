@@ -253,6 +253,7 @@
 |OpenRouter| 集成了 400 余种 AI 模型（OpenAI、Anthropic、Google、Mistral 等）的统一 API 网关。零加价定价，推理流量仅收取 5% 服务费，支持智能路由 / 故障转移|[URL](https://openrouter.ai/)| 免费/付费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy3。|[URL](https://ima.qq.com/) |免费|
 
+| AiMovieFinder | 免费的 AI 找电影工具，可根据截图、场景、台词、剧情、演员、歌曲、海报或视频片段识别电影。 | [URL](https://www.aimoviefinder.com/) | 免费 |
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
