@@ -234,6 +234,7 @@
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [Github](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [Github](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。[入门介绍](docs/codex-security/README-CN.md) | [Github](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
+| Repo Agent Kit | 免费的浏览器端仓库指令文件工具集，可生成、审查并转换 AGENTS.md、CLAUDE.md 等文件。支持公开仓库分析和可复制模板；粘贴的文本仅在浏览器中处理。 | [网站](https://repoagentkit.com) [Starter Kit](https://github.com/sunxiayi/agents-md-starter-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/sunxiayi/agents-md-starter-kit?style=social) | 免费 |
 
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
