@@ -255,6 +255,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 | Future AGI | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. | [Github](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | Free |
 
+| AiMovieFinder | Free AI-powered movie finder that identifies films from screenshots, scenes, quotes, plots, actors, songs, posters, or video clips. | [URL](https://www.aimoviefinder.com/) | Free |
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
