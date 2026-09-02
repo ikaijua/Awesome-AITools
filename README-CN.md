@@ -402,6 +402,7 @@
 | ChatTTS |ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。官网：https://chattts.com/|[Github](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|免费|
 |FunAudioLLM/CosyVoice|阿里开源的TTS模型|[Github](https://github.com/FunAudioLLM/CosyVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social)|免费|
 |fish-speech|输入 10 到 30 秒的声音样本即可生成高质量的 TTS 输出|[Github](https://github.com/fishaudio/fish-speech) ![GitHub Repo stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social)|免费|
+| PressPlayed | 基于浏览器的 RSS 阅读器，使用神经网络语音合成朗读各来源所提供的文章正文，并在连续播放队列中自动切换到下一篇。每天新生成的语音时长上限约为 2 小时；重播已缓存的音频不计入额度。在受支持的手机上可锁屏继续播放。 | [URL](https://pressplayed.com/) | 免费 |
 
 ### 音乐识别
 | 名称 | 说明 | 链接 | 费用 |

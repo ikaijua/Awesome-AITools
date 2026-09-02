@@ -382,6 +382,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Hailuo AI Text to Speech | Offer over 300 voices in 17 languages and multiple accents, covering a wide range of styles and age groups to provide the voice effects you need.|[URL](https://www.hailuo.ai/audio)|Limited-time Free|
 | elevenlabs | Intelligent AI Text to Speech. Current flagship **Eleven v3** (generally available). | [URL](https://elevenlabs.io/) | Free/Paid |
 | ChatTTS |ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages. Our model is trained with 100,000+ hours composed of chinese and english. Website：https://chattts.com/|[Github](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|Free|
+| PressPlayed | Browser-based RSS reader that uses neural TTS to narrate the article text each source makes available, automatically advancing through a continuous queue. New narration is limited to about 2 hours per day; replaying cached audio is unmetered. Lock-screen playback works on supported phones. | [URL](https://pressplayed.com/) | Free |
 
 ### Music Recognition
 | Name | Description | Links | Fees |
