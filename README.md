@@ -265,6 +265,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
 | OpenConnector | Open-source connector gateway for AI agents. Connect user app accounts once, then expose a shared catalog of 1000+ SaaS providers to agents via SDK, CLI, MCP, HTTP, and OpenAPI. | [Github](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | Free |
+| Stellary | AI-native project piloting and project management SaaS (open beta, Paris/France). Hosted MCP for AI agents; official registry id io.github.Anymfah/stellary-project-management. | [Website](https://stellary.co) [Github](https://github.com/Anymfah/stellary-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/Anymfah/stellary-mcp?style=social) [Docs](https://stellary.co/docs/mcp/) | Open beta |
 
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |

@@ -264,6 +264,7 @@
 | 钉钉 CLI | 钉钉官方命令行工具，帮助开发者快速开发和管理钉钉应用 | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | 免费 |
 | 企业微信 CLI | 企业微信开源命令行工具，帮助开发者快速开发和管理企业微信应用 | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | 免费 |
 | OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1000+ SaaS 服务的统一目录。 | [Github](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
+| Stellary | AI 原生项目试点与项目管理 SaaS（公开测试，总部巴黎/法国）。提供托管 MCP 供 AI 智能体接入；官方注册名 io.github.Anymfah/stellary-project-management。 | [官网](https://stellary.co) [Github](https://github.com/Anymfah/stellary-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/Anymfah/stellary-mcp?style=social) [文档](https://stellary.co/docs/mcp/) | 公开测试 |
 
 ### AI金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
