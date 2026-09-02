@@ -2,6 +2,9 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## September 2026
+- Added Stellary (Anymfah/stellary-mcp) to Office Collaboration CLI/MCP section (both EN/CN)
+
 ## August 2026
 - Refreshed model/generation versions across AI Chatbot, Open Source LLMs, Video Creation, AI Image Creation, Text-to-Speech, Voice Processing, and AI-generated Music sections: DeepSeek-V4-Pro 0813 GA + V4-Flash-Vision-Exp, Qwen3.8-Max GA + Qwen3.8-27B open-weight release, GLM-5.3 release date, Gemma 4 size variants, Muse Glimmer release date, Phi-4-multimodal, Kling 3.0, MiniMax H3 / Hailuo 3, Luma Ray 3.2, Pika 2.2, Midjourney V8.2, Nano Banana Pro / Nano Banana 2, Grok Imagine Image 2.0, Stable Diffusion 3.5 / Stable Image Ultra, Ideogram 3.0, Eleven v3, Suno v5.5, Stable Audio 3.0, Mureka V9 (both EN/CN)
 - Removed low-influence tools from Video Creation section: Fliki, d-id (EN only); vivago.ai/video (both EN/CN); kept Palmier Pro and OpenMontage as representative open-source video tools
