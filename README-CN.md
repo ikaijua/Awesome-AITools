@@ -22,6 +22,9 @@
   非常感谢赞助商的慷慨支持！
 </p>
 
+<details open>
+<summary>点击折叠</summary>
+
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
     <td width="500" valign="middle" align="center">
@@ -54,6 +57,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 
 
