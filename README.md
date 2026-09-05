@@ -23,6 +23,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   A huge thank you to our sponsors for their generous support!
 </p>
 
+<details open>
+<summary>Click to collapse</summary>
+
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
     <td width="500" valign="middle" align="center">
@@ -56,6 +59,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
     </td>
   </tr>
 </table>
+
+</details>
 
 
 ## All Categories
