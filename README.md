@@ -131,6 +131,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |ModelCap|ModelCap publishes live AI model rankings (the ModelCap Index) compiled only from named public sources — benchmark boards such as SWE-bench, ARC-AGI and BFCL, Arena ratings and provider prices — with an evidence tier and score interval per model, per-benchmark leaderboards, head-to-head model comparisons, provider pricing pages and a CC BY 4.0 JSON/CSV dataset.|[URL](https://modelcap.ai/)|Free|
 |Price Per Token|Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more. Includes token counters, cost calculators, and benchmark comparisons.|[URL](https://pricepertoken.com/)|Free|
 |BenchGecko|The data layer of the AI economy. AI model benchmark leaderboard with cross-provider pricing comparison across hundreds of providers. Tracks thousands of models across 128 benchmarks, AI economy indicators, agent leaderboard, and MCP server directory. Free API.|[URL](https://benchgecko.ai/)|Free|
+|APICostCalc|Compare pricing across 387+ LLM models from every major provider and estimate real monthly costs for chatbots, RAG pipelines, and AI agents. Free, no signup, runs client-side in the browser.|[URL](https://apicostcalc.com/)|Free|
 
 ### AI Agent
 | Name | Description | Links | Fees |
