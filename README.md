@@ -109,6 +109,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Grok | xAI's AI assistant. Current flagship: **Grok 4.6**. **Differentiation:** real-time X data access — its moat is live internet/X posts as an information source; best for real-time news and events. [Intro](docs/grok/README.md) | [URL](https://grok.com/) | Free/Paid |
 | Qwen | Alibaba's AI assistant. Current flagship: **Qwen3.8-Max** (GA Aug 3, 2026; open weights for Qwen3.8-27B released Aug 14). **Differentiation:** open-weight 2.4T MoE + long-horizon agentic reasoning — strong coding/deep research with 1M context and native multimodality. | [URL](https://chat.qwen.ai/) | Free |
 | Dola | ByteDance's AI assistant. Current flagship: **Doubao-Seed-2.1 Pro**. **Differentiation:** clean, intuitive UI with strong general capabilities — straightforward chat experience for everyday tasks. | [URL](https://www.dola.com/) | Free |
+| WSUP AI | Free AI character chat in the browser with no sign up. | [URL](https://wsupai.app/) | Free |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |

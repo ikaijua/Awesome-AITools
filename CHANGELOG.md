@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added WSUP AI to ChatGPT and other AI chatbot / ChatGPT及类似大语言模型AI助手 section (both EN/CN)
 - Updated Claude flagship model from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section (both EN/CN)
 - Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/` (both EN/CN)
 
