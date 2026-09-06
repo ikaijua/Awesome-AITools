@@ -487,6 +487,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | AI Detect Lab | 针对 Midjourney v7 和 Flux 优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
+| isthisaigenerated.app | 免费的警示型 AI 检测工具，支持图像、文本、抽样视频、PDF 和 DOCX；公开测量限制，并将结果明确标为信号而非证据。 | [URL](https://isthisaigenerated.app/site/) | 免费 |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |

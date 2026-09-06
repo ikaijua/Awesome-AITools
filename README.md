@@ -447,6 +447,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |AI Detect Lab|Professional AI image and Deepfake detection tool optimized for Midjourney v7 and Flux, offering high-precision identification services.|[URL](https://www.aidetectlab.com/)|Free|
+|isthisaigenerated.app|Free warning-only AI detection for images, text, sampled video, PDF and DOCX; publishes measured limitations and keeps results framed as signals rather than proof.|[URL](https://isthisaigenerated.app/site/)|Free|
 
 ### Humanoid Robots
 | Name | Description | Links | Fees |
