@@ -2,7 +2,7 @@
 
 ## Claude 是什么？
 
-Claude 是 Anthropic 推出的 AI 助手，以编程、长上下文推理、安全性和企业场景见长。当前旗舰模型为 Claude Opus 5，并提供 Sonnet 与 Haiku 等变体，以平衡速度与成本。
+Claude 是 Anthropic 推出的 AI 助手，以编程、长上下文推理、安全性和企业场景见长。当前旗舰模型为 Claude Fable 5.1，并提供 Sonnet 与 Haiku 等变体，以平衡速度与成本。
 
 ## 核心能力
 

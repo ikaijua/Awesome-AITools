@@ -3,7 +3,13 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
-- Updated Claude flagship model from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section (both EN/CN)
+- Updated ChatGPT flagship from GPT-5.6 Sol to GPT-6 Astra (both EN/CN)
+- Updated Gemini flagship from Gemini 3.7 Flash to Gemini 3.8 Flash (incl. 3.8 Flash Cyber) across AI Chatbot, Google AI Studio, and Antigravity entries (both EN/CN)
+- Updated Claude flagship from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section (both EN/CN), and updated `docs/claude/` flagship mention (both EN/CN)
+- Updated 腾讯元宝 flagship from 混元 Hy3 to 混元 Hy4 preview, and IMA supported models to include 混元 Hy4 preview (CN)
+- Added GLM-5.3-Flash (zai-org/GLM-5.3-Flash) to Open Source LLMs section (both EN/CN)
+- Updated Qwen3 / Qwen3.8 entry to include Qwen3.8-Flash-Next (125B-A6B, Qwen4 architecture preview) (both EN/CN)
+- Noted Muse Spark 1.3 as the latest Muse Spark version in the Muse Glimmer entry (both EN/CN)
 - Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/` (both EN/CN)
 
 ## August 2026
