@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added Obscura (h4ckf0r0day/obscura) to AI Agent section: an open-source Rust headless browser engine for AI agents and web scraping, CDP-compatible drop-in replacement for headless Chrome (both EN/CN)
 - Updated ChatGPT flagship from GPT-5.6 Sol to GPT-6 Astra (both EN/CN)
 - Updated Gemini flagship from Gemini 3.7 Flash to Gemini 3.8 Flash (incl. 3.8 Flash Cyber) across AI Chatbot, Google AI Studio, and Antigravity entries (both EN/CN)
 - Updated Claude flagship from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section (both EN/CN), and updated `docs/claude/` flagship mention (both EN/CN)
