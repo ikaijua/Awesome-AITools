@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Updated the Doubao CN doc with the new **豆包工作** office agent (virtual desktop, Feishu integration, skill store & connectors, work-buddy squads, multi-agent execution), added a getting-started section based on the [DoubaoWorkGuide](https://github.com/AlephAITech/DoubaoWorkGuide) community guide, added product images under `assets/docs/doubao/`, and refreshed the chatbot entry description (CN)
 - Updated ChatGPT flagship from GPT-5.6 Sol to GPT-6 Astra (both EN/CN)
 - Updated Gemini flagship from Gemini 3.7 Flash to Gemini 3.8 Flash (incl. 3.8 Flash Cyber) across AI Chatbot, Google AI Studio, and Antigravity entries (both EN/CN)
 - Updated Claude flagship from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section (both EN/CN), and updated `docs/claude/` flagship mention (both EN/CN)
