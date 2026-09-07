@@ -24,7 +24,6 @@
 
 <details open>
 <summary>点击折叠</summary>
-
 <table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
   <tr align="center">
     <td width="500" valign="middle" align="center">
@@ -32,9 +31,9 @@
         <a href="https://www.xuanshuapi.com/" target="_blank">
           <img src="assets/sponsors/xuanshuapi-cn.jpg" />
         </a>
-        <br><br>
+        <br>
         【<b>玄枢API</b>是面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude, GPT, Grok等）一站式API 接入。充值享八折，模型2折起，注册送5美金，企业支持开票，点<a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">此链接</a>注册额外获赠5美金额度。】
-        <br><br>
+        <br>
         <a href="https://www.xuanshuapi.com/" target="_blank">
           <img src="https://img.shields.io/badge/访问网站-blue?style=flat-square" alt="访问玄枢 API 网站">
         </a>
@@ -42,10 +41,7 @@
     </td>
   </tr>
 </table>
-
 </details>
-
-
 
 ## 全部分类
 - [ChatGPT及类似大语言模型AI助手](#chatgpt及类似大语言模型ai助手)
