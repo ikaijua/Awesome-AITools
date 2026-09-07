@@ -29,21 +29,6 @@
   <tr align="center">
     <td width="500" valign="middle" align="center">
       <sub>
-        <a href="https://doloffer.com/zh/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/cd93d75f-7cf0-4295-9bf5-a2ae412feefc" alt="Visit DOLOFFER website">
-        </a>
-        <br><br>
-        【<b>“Doloffer”</b>--一站式数字订阅充值平台, 主营 GPT、Claude 等 AI多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧】
-        <br><br>
-        <a href="https://doloffer.com/zh/" target="_blank">
-          <img src="https://img.shields.io/badge/访问网站-blue?style=flat-square" alt="访问 DOLOFFER 网站">
-        </a>
-      </sub>
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="500" valign="middle" align="center">
-      <sub>
         <a href="https://www.xuanshuapi.com/" target="_blank">
           <img src="assets/sponsors/xuanshuapi-cn.jpg" />
         </a>
