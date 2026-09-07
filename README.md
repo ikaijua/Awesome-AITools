@@ -30,22 +30,6 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   <tr align="center">
     <td width="500" valign="middle" align="center">
       <sub>
-        <a href="https://doloffer.com/" target="_blank">
-          <img alt="Visit DOLOFFER website" src="https://github.com/user-attachments/assets/94c3e24b-c0ce-4b07-8a80-76c21856f74c" />
-        </a>
-        <br><br>
-         【<b>"Doloffer"</b>--One-stop digital subscription and top-up platform
-        , We specialize in offering genuine subscriptions to various AI-powered digital services, including GPT and Claude. Get a 10% discount with code AI8888. Fast shipping and worry-free after-sales service.】
-        <br><br>
-        <a href="https://doloffer.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit%20Site-blue?style=flat-square" alt="Visit DOLOFFER website">
-        </a>
-      </sub>
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="500" valign="middle" align="center">
-      <sub>
         <a href="https://www.xuanshuapi.com/" target="_blank">
           <img alt="Xuanshu API" src="assets/sponsors/xuanshuapi-en.jpg" />
         </a>
