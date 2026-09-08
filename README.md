@@ -287,6 +287,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | ControlNet |ControlNet is a neural network structure to control diffusion models by adding extra conditions.|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|Free|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Topaz Photo AI | AI-powered image enhancement suite for photographers. Includes upscaling, noise reduction, sharpening, and face recovery in a single local desktop workflow. | [URL](https://www.topazlabs.com/topaz-photo-ai) | Paid/Trial |
+| Imaginode | Node canvas that wires image, video, text and voice models into one workflow on a single credit balance. Each node shows its exact credit cost before it runs, credits do not expire, and failed generations are refunded. Catalogue is currently 89 models. | [URL](https://imaginode.ai) | Free/Paid |
 
 ### Video Creation
 
