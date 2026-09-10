@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added StudyArena to General LLM Applications for student answer comparisons (both EN/CN)
 - Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models) (both EN/CN)
 - Added Obscura (h4ckf0r0day/obscura) to AI Agent section: an open-source Rust headless browser engine for AI agents and web scraping, CDP-compatible drop-in replacement for headless Chrome (both EN/CN)
 - Updated ChatGPT flagship from GPT-5.6 Sol to GPT-6 Astra (both EN/CN)
