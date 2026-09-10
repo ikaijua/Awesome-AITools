@@ -196,6 +196,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Prismix | AI hub aggregating real-time status of 75+ AI services (OpenAI, Anthropic, Groq, Cursor, etc.), curated news from 55+ AI sources with a personalized feed, and 500+ MCP server directory with bundles. Email/webhook alerts on outages. | [Official Site](https://prismix.dev) | Free/Paid |
 | AI Weekly | Independent AI news newsletter, 3x/week since 2015, read by 44,000+ professionals. The few AI stories that matter, solo-edited. Proprietary AI Weekly Index, quarterly State-of-AI recap, Who's-Who-of-AI graph (2,335 figures), and an 11-year archive. | [Official Site](https://aiweekly.co) | Free |
 
+| VibeHacker | Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches | [Website](https://vibehacker.com) | Free |
+
 ### AI Coding
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
