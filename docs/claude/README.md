@@ -2,7 +2,7 @@
 
 ## What is Claude?
 
-Claude is Anthropic's AI assistant. It is known for strong performance in coding, long-context reasoning, safety, and enterprise use. The latest flagship model is Claude Opus 5, and Claude also offers Sonnet and Haiku variants for different speed-cost trade-offs.
+Claude is Anthropic's AI assistant. It is known for strong performance in coding, long-context reasoning, safety, and enterprise use. The latest flagship model is Claude Fable 5.1, and Claude also offers Sonnet and Haiku variants for different speed-cost trade-offs.
 
 ## Core Capabilities
 

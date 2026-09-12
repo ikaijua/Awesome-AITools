@@ -2,6 +2,19 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## September 2026
+- Updated DeepSeek flagship from V4-Pro to V4.1-Flash (new Causal-Encoder-Decoder architecture, 552B MoE with asymmetric activation, native multimodality, MIT open weights; V4-Pro retiring Sept 14 with requests migrated to Flash) in AI Chatbot and Open Source LLMs entries (both EN/CN)
+- Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models) (both EN/CN)
+- Added Obscura (h4ckf0r0day/obscura) to AI Agent section: an open-source Rust headless browser engine for AI agents and web scraping, CDP-compatible drop-in replacement for headless Chrome (both EN/CN)
+- Updated ChatGPT flagship from GPT-5.6 Sol to GPT-6 Astra (both EN/CN)
+- Updated Gemini flagship from Gemini 3.7 Flash to Gemini 3.8 Flash (incl. 3.8 Flash Cyber) across AI Chatbot, Google AI Studio, and Antigravity entries (both EN/CN)
+- Updated Claude flagship from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section (both EN/CN), and updated `docs/claude/` flagship mention (both EN/CN)
+- Updated 腾讯元宝 flagship from 混元 Hy3 to 混元 Hy4 preview, and IMA supported models to include 混元 Hy4 preview (CN)
+- Added GLM-5.3-Flash (zai-org/GLM-5.3-Flash) to Open Source LLMs section (both EN/CN)
+- Updated Qwen3 / Qwen3.8 entry to include Qwen3.8-Flash-Next (125B-A6B, Qwen4 architecture preview) (both EN/CN)
+- Noted Muse Spark 1.3 as the latest Muse Spark version in the Muse Glimmer entry (both EN/CN)
+- Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/` (both EN/CN)
+
 ## August 2026
 - Added XiuRouter to General LLM Applications section (both EN/CN)
 - Refreshed model/generation versions across AI Chatbot, Open Source LLMs, Video Creation, AI Image Creation, Text-to-Speech, Voice Processing, and AI-generated Music sections: DeepSeek-V4-Pro 0813 GA + V4-Flash-Vision-Exp, Qwen3.8-Max GA + Qwen3.8-27B open-weight release, GLM-5.3 release date, Gemma 4 size variants, Muse Glimmer release date, Phi-4-multimodal, Kling 3.0, MiniMax H3 / Hailuo 3, Luma Ray 3.2, Pika 2.2, Midjourney V8.2, Nano Banana Pro / Nano Banana 2, Grok Imagine Image 2.0, Stable Diffusion 3.5 / Stable Image Ultra, Ideogram 3.0, Eleven v3, Suno v5.5, Stable Audio 3.0, Mureka V9 (both EN/CN)
