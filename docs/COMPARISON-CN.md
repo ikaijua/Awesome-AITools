@@ -174,7 +174,7 @@
 ## 相关链接
 
 - [Claude Code 入门介绍](claude-code/README-CN.md)
-- [Codex 入门介绍](codex/README-CN.md)
+- [Codex 入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/947)
 - [Kimi Code 入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/975)
 - [Qoder 入门介绍](qoder/README-CN.md)
 - [Trae 入门介绍](trae/README-CN.md)
