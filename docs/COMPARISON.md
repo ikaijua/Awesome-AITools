@@ -122,4 +122,4 @@ These tools are not mutually exclusive. Common splits:
 
 - [Claude Code Introduction](claude-code/README.md)
 - [Codex Introduction](codex/README.md)
-- [Kimi Code Introduction](kimi-code/README.md)
+- [Kimi Code Introduction](https://github.com/ikaijua/Awesome-AITools/discussions/976)
