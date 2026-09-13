@@ -349,6 +349,7 @@
 ### 写作
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| AI Novel Writer | 开源的 Windows/macOS 长篇小说创作工作台，把灵感、人物、世界观、大纲、章节规划、写作、审稿和修订放在同一个由作者掌控的流程中，并可选用 Ollama 本地模型。 | [Github](https://github.com/EthanYoQ/AI-Novel-Writer) ![GitHub Repo stars](https://img.shields.io/github/stars/EthanYoQ/AI-Novel-Writer?style=social)<br>[官网](https://www.orz.md/ai-novel-writer/) | 免费 |
 | Notion AI | AI辅助笔记软件，支持AI写作、总结、头脑风暴等功能 | [URL](https://www.notion.so)| 提供一定的免费AI试用额度，AI功能每月$10 |
 | Obsidian | 强大的本地优先 markdown 笔记工具，拥有丰富的 AI 插件生态 - 通过社区插件支持 AI 总结、RAG、智能笔记处理等功能 | [URL](https://obsidian.md/) | 免费/付费|
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) |  免費版本使用有文字字数限制/有付费升级版 |
