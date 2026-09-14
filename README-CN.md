@@ -270,6 +270,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | GPT Image |🌟 OpenAI 最新的图像生成模型 GPT Image 2.5（2026 年 9 月）。速度提升约 50%，画面更逼真，支持精准局部编辑，新增 Sketch 草图功能；API 提供 GPT-Image-2.5 Flare 与 Sunburst 两个模型。|[URL](https://chatgpt.com/images)|免费/付费|
+| Photoreal AI | 在浏览器里做图生图和已有照片的二次编辑：局部重绘、换背景、去水印、修复和放大；可用 Nano Banana 与 GPT Image。 | [URL](https://photorealistic-ai.com/zh) | 免费/付费 |
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Nano Banana / Nano Banana Pro | 🌟 谷歌用于图像生成与编辑的先进人工智能模型。旗舰版 **Nano Banana Pro**（Gemini 3 Pro Image）用于复杂高质量创作；**Nano Banana 2**（Gemini 3.1 Flash Image）为快速版。两者在 LMArena 文本转图像和图像编辑排行榜中均位居前列。<br> [Nano Banana 的用法合集](https://github.com/ikaijua/Awesome-AITools/wiki/Nano-Banana-%E7%9A%84%E7%94%A8%E6%B3%95%E5%90%88%E9%9B%86) <br>在线网站：<br> 1. [aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) <br> 2. [gemini](https://gemini.google.com/app) <br> 3. [lmarea.ai](https://lmarena.ai/?mode=direct&chat-modality=image) | [URL](https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview) | 免费/付费 |
 | Grok Imagine | SpaceXAI 的图像生成模型（原 Grok Image / Aurora），集成在 Grok 和 X 中。**Grok Imagine Image 2.0**（2026 年 8 月 7 日发布）新增精确局部编辑、多图参考融合与智能重构图。 | [URL](https://grok.com/imagine) | 免费/付费 |
