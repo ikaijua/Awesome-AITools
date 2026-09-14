@@ -339,6 +339,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 ### Writing
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| AI Novel Writer | Open-source Windows and macOS workspace for long-form fiction that keeps premise, characters, worldbuilding, outlines, chapter planning, drafting, review, and revision in one author-controlled workflow, with optional local Ollama models. | [Github](https://github.com/EthanYoQ/AI-Novel-Writer) ![GitHub Repo stars](https://img.shields.io/github/stars/EthanYoQ/AI-Novel-Writer?style=social)<br>[Website](https://www.orz.md/ai-novel-writer/) | Free |
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
