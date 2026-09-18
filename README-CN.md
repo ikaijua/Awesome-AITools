@@ -241,6 +241,7 @@
 |together.ai chat|与 HuggingChat 类似，可选择不同的开源模型，支持 DeepSeek R1、LLaMA、QWen 和 Flux Schnell。每天 60 条免费信息。|[URL](https://chat.together.ai/)|免费/付费|
 |OpenRouter| 集成 400+ AI 模型（OpenAI、Anthropic、Google、DeepSeek 等 60+ 家提供商）的统一 API 网关，一个 OpenAI 兼容 API Key 即可调用全部模型。模型按厂商原价计费（充值收 5.5% 手续费），支持智能路由 / 故障转移、`:free` 免费模型和 BYOK 自带 Key。日处理 10+ 万亿 token；2026 年 8 月 Stripe 宣布同意收购。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/989) |[URL](https://openrouter.ai/)| 免费/付费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
+| 慧报价 HuiBaoJia | AI 外贸报价工具：产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 实务口径计价（利润率按售价、保险 110% 加成），30 秒生成中英双语报价单（PDF/Excel），附免费无需注册的报价计算器。 | [官网](https://www.swqifu.com/) | 免费/付费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
