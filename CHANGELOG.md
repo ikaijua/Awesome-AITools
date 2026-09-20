@@ -14,6 +14,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Updated Qwen3 / Qwen3.8 entry to include Qwen3.8-Flash-Next (125B-A6B, Qwen4 architecture preview) (both EN/CN)
 - Noted Muse Spark 1.3 as the latest Muse Spark version in the Muse Glimmer entry (both EN/CN)
 - Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/` (both EN/CN)
+- Added WhenResets to AI News & Information section: a public ledger of every OpenAI Codex rate-limit reset (55 records, each linked to its primary source), also published as an open CSV/JSON dataset (both EN/CN)
 
 ## August 2026
 - Refreshed model/generation versions across AI Chatbot, Open Source LLMs, Video Creation, AI Image Creation, Text-to-Speech, Voice Processing, and AI-generated Music sections: DeepSeek-V4-Pro 0813 GA + V4-Flash-Vision-Exp, Qwen3.8-Max GA + Qwen3.8-27B open-weight release, GLM-5.3 release date, Gemma 4 size variants, Muse Glimmer release date, Phi-4-multimodal, Kling 3.0, MiniMax H3 / Hailuo 3, Luma Ray 3.2, Pika 2.2, Midjourney V8.2, Nano Banana Pro / Nano Banana 2, Grok Imagine Image 2.0, Stable Diffusion 3.5 / Stable Image Ultra, Ideogram 3.0, Eleven v3, Suno v5.5, Stable Audio 3.0, Mureka V9 (both EN/CN)

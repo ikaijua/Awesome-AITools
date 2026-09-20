@@ -203,6 +203,7 @@
 | World Monitor | AI驱动的实时全球情报面板，聚合435+个精选信源，提供地缘政治监控、基础设施追踪、AI摘要、21种语言支持，可本地运行AI模型，支持全平台桌面端应用 | [Github](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)、[官网](https://worldmonitor.app) | 免费 |
 | Prismix | AI 服务实时状态监控中心，聚合 75+ AI 服务（OpenAI、Anthropic、Grok、Cursor 等）的实时运行状态，提供来自 55+ 来源的精选 AI 新闻并支持个性化信息流，还包含 500+ MCP 服务器目录及告警功能。 | [官网](https://prismix.dev) | 免费/付费 |
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
+| WhenResets | Codex 额度重置的公开账本：记录 55 次重置，每条都附指向一手来源（状态页 / 更新日志 / 官方公告）的链接，并整理了 15 个 AI 编程工具的额度重置规则。同时以开放 CSV/JSON 数据集形式发布。 | [官网](https://whenresets.net) | 免费 |
 
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
