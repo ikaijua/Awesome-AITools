@@ -343,6 +343,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
+| Writon | AI article writer that turns a keyword into a long-form, SEO-structured draft and auto-publishes it to WordPress with a generated featured image, on a daily schedule | [URL](https://writon.co) | Paid, from $1 per article or $9/month, 7-day trial |
 
 
 ### Translation
