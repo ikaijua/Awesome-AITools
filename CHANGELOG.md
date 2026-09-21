@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added shortshort to Video Creation section: a web studio that turns one long video into 9:16 vertical shorts (15-90s) with sentence-aware cuts from a word-level transcript, face-tracking reframing, and word-by-word captions (both EN/CN)
 - Corrected Screenpipe licensing, free-plan limits, and local/cloud processing boundaries in both EN/CN entries.
 - Updated DeepSeek flagship from V4-Pro to V4.1-Flash (new Causal-Encoder-Decoder architecture, 552B MoE with asymmetric activation, native multimodality, MIT open weights; V4-Pro retiring Sept 14 with requests migrated to Flash) in AI Chatbot and Open Source LLMs entries (both EN/CN)
 - Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models) (both EN/CN)
