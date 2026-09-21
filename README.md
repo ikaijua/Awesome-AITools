@@ -411,6 +411,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | --- | --- | --- | --- |
 | ChatGPT for YouTube | Chrome plugin, quickly summarize Youtube video content, need to log in chatgpt account or apikey | [URL](https://chatgpt4youtube.com/)| Free |
 | Claude Video | Open-source tool that lets AI agents watch and summarize videos. Extracts frames, transcripts/captions from YouTube, TikTok, or local files and answers questions grounded in both visual and audio content. Works with Claude Code and 50+ agent hosts. | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
+| getyoutubetranscript.com | Fetch YouTube video transcripts, search videos/channels, and extract playlist data via a free API and MCP server - no card required for the free tier. | [URL](https://getyoutubetranscript.com)| Free/Paid |
 
 ### Academic research
 | Name | Description | Links | Fees |
