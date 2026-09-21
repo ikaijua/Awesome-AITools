@@ -172,6 +172,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |AnyGen|AnyGen is the AI assistant that truly "gets work done" for you. From writing and analysis to planning and reporting, it transforms your ideas into ready-to-use professional deliverables in minutes. [The AI Assistant Built for Work](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|Free Trial/Paid|
 | Understand Anything | AI-powered codebase and knowledge base analysis tool that builds interactive visual knowledge graphs. Features multi-agent analysis, architecture guided tours, and semantic search for large codebases. Works as a plugin for Claude Code, Cursor, and more. [Intro](docs/understand-anything/README.md) | [Github](https://github.com/Lum1104/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=social) | Free |
 ### Agent Skills
+- [marketing-mindset](https://axelfreeman.github.io/marketing-mindset/) — open agent skill (SKILL.md) for B2B marketing tests: sample size, kill rules, pricing a first client, cold-email deliverability. Install: `npx marketing-mindset`
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | anthropics/skills | Official skills repository for Claude Code skills, providing reusable tool integrations and extensions for Claude Code AI assistant | [Github](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | Free |
