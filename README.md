@@ -14,6 +14,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+- **[MagicKit](https://magickit.space)** - Free open-source AI toolbox: FLUX image generation, AI writing, AI video. MIT licensed, no sign-up required.
 - [AI News](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22ai%E2%80%91news%E2%80%91en%22)
 - [Become Sponsors](#become-sponsors)
 
