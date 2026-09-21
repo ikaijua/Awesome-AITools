@@ -309,6 +309,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Topaz Video AI | AI-powered video enhancement, upscaling, deinterlacing, stabilization, frame interpolation, and motion deblur for professional video restoration. Runs locally on desktop. | [URL](https://www.topazlabs.com/topaz-video-ai) | Paid/Trial |
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [Github](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 
+| AdsTurbo | AI video ad generator for ecommerce: turns a product link or a reference TikTok/Meta ad into short video ads with 1,000+ AI UGC actors, Ad Clone (rebuild a winning ad's structure), lip-synced translation into 35+ languages | [URL](https://adsturbo.ai/) | Free/Paid |
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
