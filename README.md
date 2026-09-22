@@ -46,7 +46,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 ## All Categories
 - [All Categories](#all-categories)
-  - [ChatGPT and other AI chatbot](#chatgpt-and-other-ai-chatbot)
+  - [AI Assistants & Proprietary Models](#ai-assistants--proprietary-models)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
   - [AI Agent](#ai-agent)
@@ -78,7 +78,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Humanoid Robots](#humanoid-robots)
   - [Embodied AI & Simulation](#embodied-ai--simulation)
 
-### ChatGPT and other AI chatbot
+### AI Assistants & Proprietary Models
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT | 🌟 OpenAI's AI assistant. Current flagship: **GPT-6 Astra**. **Differentiation:** persistent memory and user profile — remembers context across conversations and feels the most personalized; best general-purpose assistant for coding, writing, and daily tasks. [Intro](docs/chatgpt/README.md) | [URL](https://chatgpt.com) | Free/Paid |
@@ -90,6 +90,8 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Grok | xAI's AI assistant. Current flagship: **Grok 4.6**. **Differentiation:** real-time X data access — its moat is live internet/X posts as an information source; best for real-time news and events. [Intro](docs/grok/README.md) | [URL](https://grok.com/) | Free/Paid |
 | Qwen | Alibaba's AI assistant. Current flagship: **Qwen3.8-Max** (GA Aug 3, 2026; open weights for Qwen3.8-27B released Aug 14). **Differentiation:** open-weight 2.4T MoE + long-horizon agentic reasoning — strong coding/deep research with 1M context and native multimodality. | [URL](https://chat.qwen.ai/) | Free |
 | Dola | ByteDance's AI assistant. Current flagship: **Doubao-Seed-2.1 Pro**. **Differentiation:** clean, intuitive UI with strong general capabilities — straightforward chat experience for everyday tasks. | [URL](https://www.dola.com/) | Free |
+| Meta Muse | 🌱 Meta's personal AI agent that does tasks instead of chatting: books travel, fills forms, shops, and manages email/calendars, paying via one-time Stripe Link cards. Runs in an isolated VM with a host-side Sentinel approving every sensitive action; powered by Meta's proprietary Muse Spark 1.3 model. Reached #1 on the US App Store free chart ~10 days after launch (Sept 8, 2026), overtaking ChatGPT. Currently US-only (18+); free tier ~100M tokens/week, paid plans from $20/mo. [Intro](https://github.com/ikaijua/Awesome-AITools/discussions/1011) | [URL](https://muse.ai/) | Free/Paid |
+|Jev| 🌱 TypeSafe AI's "System One" decision model (early access) — it never generates text, returning typed answers from three primitives (Choice/Score/Noul) with calibrated probabilities via RLCD training, so confidence matches accuracy. Officially 20-200x faster and 1/40-1/400 cheaper than frontier LLMs on structured tasks; input $0.042/M tokens, output free; 70-500ms latency. Founded by ex-OpenAI researcher Diogo Almeida (co-inventor of RLHF); $40M seed led by DCVC. Note: official figures, not yet independently verified. [Intro](https://github.com/ikaijua/Awesome-AITools/discussions/1012) |[URL](https://typesafe.ai/)| Free/Paid |
 
 ### Open Source LLMs
 | Name | Description | Links | Fees |
@@ -237,12 +239,12 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 |WFGY ProblemMap|Open-source RAG failure-mode checklist and diagnostics toolkit for LLM pipelines (data, embeddings, retrievers, tools, evaluation). MIT-licensed and used by several labs and infra projects as a practical RAG debugging guide.|[Github](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) ![GitHub Repo stars](https://img.shields.io/github/stars/onestardao/WFGY?style=social)|Free|
 | screenshot-to-code | Converts screenshots, mockups, Figma designs, and screen recordings into clean, functional code. Supports multiple AI models (Gemini 3 Flash, GPT-5.5, Claude Opus 4.8) and output stacks (HTML+Tailwind, React, Vue, Bootstrap, etc.). Also supports URL cloning and video-to-code conversion. | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| Free, requires API keys (OpenAI/Anthropic/Gemini recommended)|
 |together.ai chat|Similar to HuggingChat, with the option of different open source models, support for DeepSeek R1, LLaMA, QWen, Flux Schnell. 60 free messages per day.|[URL](https://chat.together.ai/)|Free/Paid|
+|OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, DeepSeek, etc. across 60+ providers) behind a single OpenAI-compatible API key. Pass-through model pricing with a 5.5% credit-purchase fee; smart routing with automatic failover, free `:free` models, and BYOK (bring-your-own-key). Processes 10+ trillion tokens/day; Stripe agreed to acquire it (Aug 2026). [Intro](https://github.com/ikaijua/Awesome-AITools/discussions/990) |[URL](https://openrouter.ai/)| Free/Paid |
 | NadirClaw | Open-source LLM router that classifies prompts in ~10ms and routes to the optimal model tier (free/cheap/premium/reasoning). OpenAI-compatible proxy with agentic detection, session pinning, and 429 fallback. | [GitHub](https://github.com/doramirdor/NadirClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/doramirdor/NadirClaw?style=social) | Free |
 | Harbor | Effortlessly run LLM backends, APIs, frontends, and services with one command. | [GitHub](https://github.com/av/harbor) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/av/harbor?style=social)|  Free |
-|OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, DeepSeek, etc. across 60+ providers) behind a single OpenAI-compatible API key. Pass-through model pricing with a 5.5% credit-purchase fee; smart routing with automatic failover, free `:free` models, and BYOK (bring-your-own-key). Processes 10+ trillion tokens/day; Stripe agreed to acquire it (Aug 2026). [Intro](https://github.com/ikaijua/Awesome-AITools/discussions/990) |[URL](https://openrouter.ai/)| Free/Paid |
-| OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 | Future AGI | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. | [Github](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | Free |
+| OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
