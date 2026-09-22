@@ -2,7 +2,7 @@
 
 ## 什么是 Grok？
 
-Grok 是 xAI 推出的 AI 助手，可通过网页 [grok.com](https://grok.com/)、X（原 Twitter）平台内集成入口以及移动端 App 使用。当前旗舰模型为 **Grok 4.6**，上下文窗口 500K token，知识截止 2026-02-01。
+Grok 是 SpaceXAI（原 xAI）推出的 AI 助手，可通过网页 [grok.com](https://grok.com/)、X（原 Twitter）平台内集成入口以及移动端 App 使用。当前旗舰模型为 **Grok 4.7**（2026 年 9 月 21 日发布），上下文窗口 500K token，参数规模约 2.1 万亿。
 
 Grok 的设计围绕两个核心点：**对 X 上公开信息的实时访问**，以及**多模态生成**（文本、图像、视频、语音）统一在同一个账号下。
 
@@ -13,18 +13,18 @@ Grok 最具差异化的能力是可以**实时访问 X 上的帖子和公开网�
 
 ### 一个订阅，全模态覆盖
 一个 Grok 账号即可使用：
-- **文本**：Grok 4.6（对话、推理、智能体工具调用）
+- **文本**：Grok 4.7（对话、推理、智能体工具调用）
 - **图像生成**：通过 **Imagine** API（Aurora 模型）
 - **视频生成**：通过 Imagine API（480p / 720p / 1080p）
 - **语音**：**Voice API** —— 实时语音对话、批量 STT 与 TTS
 
 ### 智能体与编程能力
-Grok 4.6 同时被定位为编程模型，支持智能体工具调用、降低幻觉、可配置推理深度。同一个模型也驱动着 `grok` CLI（[Grok Build](docs/grok-build/README-CN.md)），用于终端编程工作流；并通过 Responses API 暴露，便于嵌入到第三方工具中。
+Grok 4.7 同时被定位为编程模型，支持智能体工具调用、降低幻觉、可配置推理深度。同一个模型也驱动着 `grok` CLI（[Grok Build](docs/grok-build/README-CN.md)），用于终端编程工作流；并通过 Responses API 暴露，便于嵌入到第三方工具中。
 
 ## 核心功能
 
 ### 文本与推理
-- Grok 4.6：500K token 上下文，可配置推理深度
+- Grok 4.7：500K token 上下文，可配置推理深度，约 2.1 万亿参数
 - 内置 Web Search 和 X Search 工具获取实时数据
 - 视觉输入 —— 在对话中直接分析图像
 - 文件上传与分析
@@ -85,8 +85,9 @@ print(chat.sample().content)
 
 | 项目 | 价格 |
 | --- | --- |
-| Grok 4.6 输入 | $2.00 / 1M tokens |
-| Grok 4.6 输出 | $6.00 / 1M tokens |
+| Grok 4.7 输入 | $2.00 / 1M tokens |
+| Grok 4.7 输出 | $6.00 / 1M tokens |
+| Grok 4.7 高速版 | 输出速度翻倍，价格同步翻倍 |
 | Voice Agent（实时） | $0.05 / 分钟起 |
 | TTS | $15.00 / 1M 字符 |
 | STT（批量） | $0.10 / 小时 |
@@ -94,13 +95,13 @@ print(chat.sample().content)
 | Imagine（图像） | 按张计费，详见控制台 |
 | Imagine（视频） | $0.05 / 秒起 |
 
-Grok 消费级 App 的免费/付费档位详见 [grok.com](https://grok.com/)，API 价格以 [xAI 定价页](https://docs.x.ai/docs/pricing) 为准。
+Grok 消费级 App 的免费/付费档位详见 [grok.com](https://grok.com/)，API 价格以 [SpaceXAI 定价页](https://docs.x.ai/docs/pricing) 为准。
 
 ## 注意事项
 
-- **知识截止**：Grok 4.6 的训练数据截至 2026-02-01。处理该日期之后的事件，请使用 Web Search 或 X Search 工具。
+- **知识截止**：Grok 4.7 的训练数据截止日期官方尚未公布（Grok 4.6 为 2026-02-01）。处理截止日期之后的事件，请使用 Web Search 或 X Search 工具。
 - **对 X 的依赖**：Grok 的核心差异化建立在对 X 平台的持续访问之上，在 X 受限的区域行为可能不同。
-- **编程场景**：如需终端编程工作流，请参考 [Grok Build](docs/grok-build/README-CN.md) —— 基于 Grok 4.6 构建的开源 `grok` CLI/TUI。
+- **编程场景**：如需终端编程工作流，请参考 [Grok Build](docs/grok-build/README-CN.md) —— 基于 Grok 构建的开源 `grok` CLI/TUI。
 
 ## 相关资源
 
