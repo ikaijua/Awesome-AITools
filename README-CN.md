@@ -44,7 +44,7 @@
 </details>
 
 ## 全部分类
-- [ChatGPT及类似大语言模型AI助手](#chatgpt及类似大语言模型ai助手)
+- [AI 助手与专有模型](#ai-助手与专有模型)
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [AI Agent](#ai-agent)
@@ -85,7 +85,7 @@
 ## 精选文章
 - [chatgpt相关文章](#chatgpt相关文章)
 
-### ChatGPT及类似大语言模型AI助手
+### AI 助手与专有模型
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | ChatGPT | 🌟 OpenAI 的 AI 助手，当前最强模型：**GPT-6 Astra**。**核心差异：** 持久记忆和用户画像 —— 跨会话记住你的偏好，续聊最自然；通用能力最均衡，适合日常、编程和创意写作。[入门介绍](docs/chatgpt/README-CN.md) | [URL](https://chatgpt.com) | 免费/付费 |
@@ -99,6 +99,8 @@
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.3**（743B MoE，40B 激活，2026 年 8 月 14 日发布）；同步提供 **GLM-5.3-Flash**（320B/18B MoE，原生多模态，MIT 开源权重，100 万 token 上下文），编程与 Agent 能力接近 Claude Opus 4.8，价格大幅降低。**核心差异：** Agentic 编程、仓库级分析、网络安全与长上下文推理。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | [URL](https://www.minimax.io/) | 免费/付费 |
 | Grok | xAI 的 AI 助手，当前最强模型：**Grok 4.6**。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。[入门介绍](docs/grok/README-CN.md) | [URL](https://x.com/i/grok) | 免费/付费 |
+| Meta Muse | 🌱 Meta 推出的个人 AI 智能体：不是聊天，而是直接替用户干活——订差旅、填表格、购物下单、管理邮件与日历，通过 Stripe Link 一次性虚拟卡支付。全程在隔离虚拟机中运行，敏感操作由宿主端 Sentinel 组件审批；底层为 Meta 自研专有模型 Muse Spark 1.3。2026 年 9 月 8 日上线约 10 天即登顶美国 App Store 免费榜（反超 ChatGPT）。目前仅美国可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
+|Jev| 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；输入 $0.042/百万 token，输出免费，延迟 70-500ms。创始人为前 OpenAI 研究员、RLHF 共同发明人之一 Diogo Almeida，获 DCVC 领投的 4000 万美元种子轮。注意：性能数字为官方口径，尚无第三方验证。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) |[URL](https://typesafe.ai/)| 免费/付费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
