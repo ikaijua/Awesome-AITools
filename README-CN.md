@@ -52,7 +52,6 @@
 - [AI 新闻与资讯](#ai-新闻与资讯)
 - [AI Coding](#ai-coding)
 - [通用 LLM 应用](#通用-llm-应用)
-- [模型 API 与网关](#模型-api-与网关)
 - [办公协作CLI/MCP](#办公协作climcp)
 - [AI金融与量化投资](#ai金融与量化投资)
 - [AI图像创作与UI设计](#ai图像创作与ui设计)
@@ -90,6 +89,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | ChatGPT | 🌟 OpenAI 的 AI 助手，当前最强模型：**GPT-6 Astra**。**核心差异：** 持久记忆和用户画像 —— 跨会话记住你的偏好，续聊最自然；通用能力最均衡，适合日常、编程和创意写作。[入门介绍](docs/chatgpt/README-CN.md) | [URL](https://chatgpt.com) | 免费/付费 |
+| Meta Muse | Meta 推出的个人 AI 智能体：不是聊天，而是直接替用户干活——订差旅、填表格、购物下单、管理邮件与日历，通过 Stripe Link 一次性虚拟卡支付。全程在隔离虚拟机中运行，敏感操作由宿主端 Sentinel 组件审批；底层为 Meta 自研专有模型 Muse Spark 1.3。2026 年 9 月 8 日上线约 10 天即登顶美国 App Store 免费榜（反超 ChatGPT）。目前仅美国可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
 | 豆包 | 🌟 字节跳动的 AI 助手，当前最强模型：**Doubao-Seed-2.1 Pro**。**核心差异：** 字节生态入口 + 多模态交互 —— 集成搜索、语音、音乐等能力；2026-08 推出办公 Agent「豆包工作」：虚拟桌面操作电脑、飞书上下文打通、200+ 技能与连接器、多 Agents 并行协作。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/944) | [URL](https://www.doubao.com/) | 免费 |
 | Gemini | 🌟 Google 的 AI 助手，当前最强模型：**Gemini 3.8 Flash**（另有面向网络安全的 3.8 Flash Cyber 变体）。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。[入门介绍](docs/gemini/README-CN.md) | [URL](https://gemini.google.com/) | 免费/付费 |
 | Claude | 🌟 Anthropic 研发的 AI 助手，当前最强模型：**Claude Fable 5.1**（公开版）/ **Mythos 5.1**（可信访问）。**核心差异：** Cowork 模式把 AI 从“聊天机器人”变成可拉取数据、生成 Excel 预测模型并执行工作流的代理；在编程、长上下文、安全性和企业场景上最强。Fable 5.1 典型成本降低约 25%，网络安全误报减少约 60%。[入门介绍](docs/claude/README-CN.md) | [URL](https://claude.ai/) | 免费/付费 |
@@ -100,6 +100,7 @@
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.3**（743B MoE，40B 激活，2026 年 8 月 14 日发布）；同步提供 **GLM-5.3-Flash**（320B/18B MoE，原生多模态，MIT 开源权重，100 万 token 上下文），编程与 Agent 能力接近 Claude Opus 4.8，价格大幅降低。**核心差异：** Agentic 编程、仓库级分析、网络安全与长上下文推理。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | [URL](https://www.minimax.io/) | 免费/付费 |
 | Grok | xAI 的 AI 助手，当前最强模型：**Grok 4.6**。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。[入门介绍](docs/grok/README-CN.md) | [URL](https://x.com/i/grok) | 免费/付费 |
+|Jev| 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；输入 $0.042/百万 token，输出免费，延迟 70-500ms。创始人为前 OpenAI 研究员、RLHF 共同发明人之一 Diogo Almeida，获 DCVC 领投的 4000 万美元种子轮。注意：性能数字为官方口径，尚无第三方验证。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) |[URL](https://typesafe.ai/)| 免费/付费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
@@ -134,7 +135,6 @@
 | Codex | 🌟 OpenAI 推出的开源（Apache-2.0）终端编程智能体，使用 Rust 编写。支持终端 CLI、VS Code/Cursor/Windsurf 等 IDE 扩展、Codex App/桌面体验及 Codex Web 云端任务；可直接理解并修改代码，内置内核级沙箱、MCP、Skills/Plugins/Hooks、子代理，通过 ChatGPT relay 在手机/桌面/Web 之间同步活跃会话，并支持 Remote SSH 连接远程环境。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/947) [对比](docs/COMPARISON-CN.md) |[Github](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social)|免费|
 | Kimi Code | 🌟 月之暗面（Moonshot AI）推出的 AI 编程智能体 CLI，在终端中运行。可读取和编辑代码、执行 shell 命令、搜索文件、抓取网页，并根据反馈规划下一步。支持视频输入、AI 原生 MCP 配置、子代理、生命周期钩子以及 ACP 编辑器集成（Zed、JetBrains）。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/975) [对比](docs/COMPARISON-CN.md) | [Github](https://github.com/MoonshotAI/kimi-code) ![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=social) | 免费 |
 | Manus | 🌱 Manus 是一款行动引擎，它不仅提供答案，还能执行任务、自动化工作流程并扩展您的服务范围。[入门介绍](docs/manus/README-CN.md) | [URL](https://manus.im/) | 免费试用/付费 |
-| Meta Muse | Meta 推出的个人 AI 智能体：不是聊天，而是直接替用户干活——订差旅、填表格、购物下单、管理邮件与日历，通过 Stripe Link 一次性虚拟卡支付。全程在隔离虚拟机中运行，敏感操作由宿主端 Sentinel 组件审批；底层为 Meta 自研专有模型 Muse Spark 1.3。2026 年 9 月 8 日上线约 10 天即登顶美国 App Store 免费榜（反超 ChatGPT）。目前仅美国可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
 | DeepSeek Harness | 🌱 DeepSeek 于 2026 年 8 月 13 日开源（MIT）的 agent harness（智能体运行时）。提供 CLI 与本地 Web UI（默认 127.0.0.1:3080），采用基于 Cordis 的“一切皆插件”架构，内置 40+ 一方子包（LLM、MCP、LSP、ACP、沙箱、Skills、子代理、会话、工具、计划、调度、Web、Shell 等），并提供中英双语的架构文档。当前为开发者预览版，预计会有不兼容更新。[入门介绍](docs/deepseek-harness/README-CN.md) | [Github](https://github.com/deepseek-ai/deepseek-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=social) | 免费 |
 | Trae | 🌱 字节跳动推出的 AI 编程与工作智能体产品族。包含 Trae Code（终端 CLI Agent）、Trae IDE（含 IDE Mode 与 SOLO Mode）、Trae Work（Web/桌面/移动工作空间，支持 Code Mode 与 Work Mode 及云端任务）。覆盖从终端到 IDE 再到云端工作区的完整链路，支持自定义 Agent、MCP、规则与多模型。[入门介绍](docs/trae/README-CN.md) | [URL](https://www.trae.ai/) [Github](https://github.com/bytedance/trae-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social) | 免费/付费 |
 | Pi | earendil-works 开源（MIT）的自扩展 AI 编程智能体。采用 Monorepo 架构，包含 `pi-coding-agent`（交互式 CLI）、`pi-agent-core`（工具调用与状态管理）、`pi-ai`（统一多厂商 LLM API）、`pi-tui` 与遥测模块。内置插件化架构、供应链安全加固（精确锁定依赖、shrinkwrap、审计）以及沙箱方案（Gondolin、Docker、OpenShell）。[入门介绍](docs/pi/README-CN.md) | [Github](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | 免费 |
@@ -242,12 +242,7 @@
 | screenshot-to-code | 将截图、设计稿、Figma 设计和屏幕录制转换为干净的功能代码。支持多种 AI 模型（Gemini 3 Flash、GPT-5.5、Claude Opus 4.8）和输出框架（HTML+Tailwind、React、Vue、Bootstrap 等）。还支持 URL 克隆和视频转代码功能。 | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| 免费，需要 API 密钥（推荐 OpenAI/Anthropic/Gemini）|
 |together.ai chat|与 HuggingChat 类似，可选择不同的开源模型，支持 DeepSeek R1、LLaMA、QWen 和 Flux Schnell。每天 60 条免费信息。|[URL](https://chat.together.ai/)|免费/付费|
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
-
-### 模型 API 与网关
-| 名称 | 说明 | 链接 | 费用 |
-| --- | --- | --- | --- |
 |OpenRouter| 集成 400+ AI 模型（OpenAI、Anthropic、Google、DeepSeek 等 60+ 家提供商）的统一 API 网关，一个 OpenAI 兼容 API Key 即可调用全部模型。模型按厂商原价计费（充值收 5.5% 手续费），支持智能路由 / 故障转移、`:free` 免费模型和 BYOK 自带 Key。日处理 10+ 万亿 token；2026 年 8 月 Stripe 宣布同意收购。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/989) |[URL](https://openrouter.ai/)| 免费/付费 |
-|Jev| 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；输入 $0.042/百万 token，输出免费，延迟 70-500ms。创始人为前 OpenAI 研究员、RLHF 共同发明人之一 Diogo Almeida，获 DCVC 领投的 4000 万美元种子轮。注意：性能数字为官方口径，尚无第三方验证。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) |[URL](https://typesafe.ai/)| 免费/付费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
