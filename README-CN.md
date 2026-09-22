@@ -52,6 +52,7 @@
 - [AI 新闻与资讯](#ai-新闻与资讯)
 - [AI Coding](#ai-coding)
 - [通用 LLM 应用](#通用-llm-应用)
+- [模型 API 与网关](#模型-api-与网关)
 - [办公协作CLI/MCP](#办公协作climcp)
 - [AI金融与量化投资](#ai金融与量化投资)
 - [AI图像创作与UI设计](#ai图像创作与ui设计)
@@ -240,9 +241,13 @@
 |anything-llm|开源的文档聊天机器人解决方案|[Github](https://github.com/Mintplex-Labs/anything-llm) ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)|免费|
 | screenshot-to-code | 将截图、设计稿、Figma 设计和屏幕录制转换为干净的功能代码。支持多种 AI 模型（Gemini 3 Flash、GPT-5.5、Claude Opus 4.8）和输出框架（HTML+Tailwind、React、Vue、Bootstrap 等）。还支持 URL 克隆和视频转代码功能。 | [GitHub](https://github.com/abi/screenshot-to-code) ![GitHub Repo stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)| 免费，需要 API 密钥（推荐 OpenAI/Anthropic/Gemini）|
 |together.ai chat|与 HuggingChat 类似，可选择不同的开源模型，支持 DeepSeek R1、LLaMA、QWen 和 Flux Schnell。每天 60 条免费信息。|[URL](https://chat.together.ai/)|免费/付费|
+| IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
+
+### 模型 API 与网关
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
 |OpenRouter| 集成 400+ AI 模型（OpenAI、Anthropic、Google、DeepSeek 等 60+ 家提供商）的统一 API 网关，一个 OpenAI 兼容 API Key 即可调用全部模型。模型按厂商原价计费（充值收 5.5% 手续费），支持智能路由 / 故障转移、`:free` 免费模型和 BYOK 自带 Key。日处理 10+ 万亿 token；2026 年 8 月 Stripe 宣布同意收购。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/989) |[URL](https://openrouter.ai/)| 免费/付费 |
 |Jev| 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；输入 $0.042/百万 token，输出免费，延迟 70-500ms。创始人为前 OpenAI 研究员、RLHF 共同发明人之一 Diogo Almeida，获 DCVC 领投的 4000 万美元种子轮。注意：性能数字为官方口径，尚无第三方验证。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) |[URL](https://typesafe.ai/)| 免费/付费 |
-| IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |
