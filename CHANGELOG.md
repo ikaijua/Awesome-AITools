@@ -3,11 +3,11 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
-- Added Bolt.new (StackBlitz's browser-based AI full-stack app builder; WebContainers run real Node.js in-browser, $40M ARR within 5 months, Microsoft Azure partnership) to AI Coding section (both EN/CN)
-- Updated Grok flagship from 4.6 to **Grok 4.7** (released Sept 21, 2026 by SpaceXAI, formerly xAI; ~2.1T params, coding/knowledge-work focus, 500K context, API $2/$6 per M tokens) in AI Assistants & Proprietary Models and `docs/grok/` (both EN/CN)
-- Renamed the "AI Assistants" / "AI 助手" section to "AI Assistants & Proprietary Models" / "AI 助手与专有模型", pairing it with Open Source LLMs as the home for proprietary models and their assistant products (both EN/CN)
-- Added Meta Muse (personal AI agent by Meta; topped the US App Store free chart ~10 days after launch) to the AI Assistants & Proprietary Models section, with intros in Discussions #1010 (CN) / #1011 (EN) (both EN/CN)
-- Added Jev (TypeSafe AI's "System One" decision model, 🌱 early access) to the AI Assistants & Proprietary Models section, with deep dives in Discussions #996 (CN) / #1012 (EN) (both EN/CN)
+- Added Bolt.new (browser-based AI full-stack app builder by StackBlitz) to AI Coding section (both EN/CN)
+- Updated Grok flagship from 4.6 to **Grok 4.7** in AI Assistants & Proprietary Models and `docs/grok/` (both EN/CN)
+- Renamed the chatbot section to AI Assistants & Proprietary Models / AI 助手与专有模型 (both EN/CN)
+- Added Meta Muse (Meta's personal AI agent) to AI Assistants & Proprietary Models, with intros in Discussions #1010 (CN) / #1011 (EN) (both EN/CN)
+- Added Jev (TypeSafe AI's "System One" decision model, 🌱) to AI Assistants & Proprietary Models, with deep dives in Discussions #996 (CN) / #1012 (EN) (both EN/CN)
 - Corrected Screenpipe licensing, free-plan limits, and local/cloud processing boundaries in both EN/CN entries.
 - Updated DeepSeek flagship from V4-Pro to V4.1-Flash (new Causal-Encoder-Decoder architecture, 552B MoE with asymmetric activation, native multimodality, MIT open weights; V4-Pro retiring Sept 14 with requests migrated to Flash) in AI Chatbot and Open Source LLMs entries (both EN/CN)
 - Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models) (both EN/CN)
