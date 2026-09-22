@@ -3,8 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Renamed the "AI Assistants" / "AI 助手" section to "AI Assistants & Commercial Models" / "AI 助手与商用模型", pairing it with Open Source LLMs as the home for proprietary models and their assistant products (both EN/CN)
 - Split a new "Model APIs & Gateways" / "模型 API 与网关" section out of General LLM Applications for hosted, ready-to-use model API services, moving OpenRouter and Jev into it (both EN/CN)
-- Renamed the "ChatGPT and other AI chatbot" / "ChatGPT及类似大语言模型AI助手" section to "AI Assistants" / "AI 助手" to reflect that its entries are now chat+work hybrids (ChatGPT Work, Claude Cowork, etc.) (both EN/CN)
 - Added Meta Muse (personal AI agent by Meta; topped the US App Store free chart ~10 days after launch) to AI Agent section with intros in Discussions #1010 (CN) / #1011 (EN) (both EN/CN)
 - Added Jev (TypeSafe AI's "System One" decision model, 🌱 early access) to General LLM Applications section with deep dives in Discussions #996 (CN) / #1012 (EN) (both EN/CN)
 - Corrected Screenpipe licensing, free-plan limits, and local/cloud processing boundaries in both EN/CN entries.

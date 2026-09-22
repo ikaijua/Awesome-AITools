@@ -46,7 +46,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 ## All Categories
 - [All Categories](#all-categories)
-  - [AI Assistants](#ai-assistants)
+  - [AI Assistants & Commercial Models](#ai-assistants--commercial-models)
   - [Open Source LLMs](#open-source-llms)
   - [LLM Leaderboard](#llm-leaderboard)
   - [AI Agent](#ai-agent)
@@ -79,7 +79,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
   - [Humanoid Robots](#humanoid-robots)
   - [Embodied AI & Simulation](#embodied-ai--simulation)
 
-### AI Assistants
+### AI Assistants & Commercial Models
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ChatGPT | 🌟 OpenAI's AI assistant. Current flagship: **GPT-6 Astra**. **Differentiation:** persistent memory and user profile — remembers context across conversations and feels the most personalized; best general-purpose assistant for coding, writing, and daily tasks. [Intro](docs/chatgpt/README.md) | [URL](https://chatgpt.com) | Free/Paid |
