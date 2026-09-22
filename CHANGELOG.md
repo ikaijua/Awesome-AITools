@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added Meta Muse (personal AI agent by Meta; topped the US App Store free chart ~10 days after launch) to AI Agent section with intros in Discussions #1010 (CN) / #1011 (EN) (both EN/CN)
+- Added Jev (TypeSafe AI's "System One" decision model, 🌱 early access) to General LLM Applications section with deep dives in Discussions #996 (CN) / #1012 (EN) (both EN/CN)
 - Corrected Screenpipe licensing, free-plan limits, and local/cloud processing boundaries in both EN/CN entries.
 - Updated DeepSeek flagship from V4-Pro to V4.1-Flash (new Causal-Encoder-Decoder architecture, 552B MoE with asymmetric activation, native multimodality, MIT open weights; V4-Pro retiring Sept 14 with requests migrated to Flash) in AI Chatbot and Open Source LLMs entries (both EN/CN)
 - Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models) (both EN/CN)
