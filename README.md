@@ -243,13 +243,14 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Harbor | Effortlessly run LLM backends, APIs, frontends, and services with one command. | [GitHub](https://github.com/av/harbor) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/av/harbor?style=social)|  Free |
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 | Future AGI | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. | [Github](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | Free |
+| OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 
 ### Model APIs & Gateways
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |OpenRouter| A unified API gateway for 400+ AI models (OpenAI, Anthropic, Google, DeepSeek, etc. across 60+ providers) behind a single OpenAI-compatible API key. Pass-through model pricing with a 5.5% credit-purchase fee; smart routing with automatic failover, free `:free` models, and BYOK (bring-your-own-key). Processes 10+ trillion tokens/day; Stripe agreed to acquire it (Aug 2026). [Intro](https://github.com/ikaijua/Awesome-AITools/discussions/990) |[URL](https://openrouter.ai/)| Free/Paid |
-| OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
 |Jev| 🌱 TypeSafe AI's "System One" decision model (early access) — it never generates text, returning typed answers from three primitives (Choice/Score/Noul) with calibrated probabilities via RLCD training, so confidence matches accuracy. Officially 20-200x faster and 1/40-1/400 cheaper than frontier LLMs on structured tasks; input $0.042/M tokens, output free; 70-500ms latency. Founded by ex-OpenAI researcher Diogo Almeida (co-inventor of RLHF); $40M seed led by DCVC. Note: official figures, not yet independently verified. [Intro](https://github.com/ikaijua/Awesome-AITools/discussions/1012) |[URL](https://typesafe.ai/)| Free/Paid |
+
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
