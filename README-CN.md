@@ -44,7 +44,7 @@
 </details>
 
 ## 全部分类
-- [ChatGPT及类似大语言模型AI助手](#chatgpt及类似大语言模型ai助手)
+- [AI 助手与专有模型](#ai-助手与专有模型)
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [AI Agent](#ai-agent)
@@ -85,20 +85,22 @@
 ## 精选文章
 - [chatgpt相关文章](#chatgpt相关文章)
 
-### ChatGPT及类似大语言模型AI助手
+### AI 助手与专有模型
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| ChatGPT | 🌟 OpenAI 的 AI 助手，当前最强模型：**GPT-6 Astra**。**核心差异：** 持久记忆和用户画像 —— 跨会话记住你的偏好，续聊最自然；通用能力最均衡，适合日常、编程和创意写作。[入门介绍](docs/chatgpt/README-CN.md) | [URL](https://chatgpt.com) | 免费/付费 |
-| 豆包 | 🌟 字节跳动的 AI 助手，当前最强模型：**Doubao-Seed-2.1 Pro**。**核心差异：** 字节生态入口 + 多模态交互 —— 集成搜索、语音、音乐等能力；2026-08 推出办公 Agent「豆包工作」：虚拟桌面操作电脑、飞书上下文打通、200+ 技能与连接器、多 Agents 并行协作。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/944) | [URL](https://www.doubao.com/) | 免费 |
-| Gemini | 🌟 Google 的 AI 助手，当前最强模型：**Gemini 3.8 Flash**（另有面向网络安全的 3.8 Flash Cyber 变体）。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。[入门介绍](docs/gemini/README-CN.md) | [URL](https://gemini.google.com/) | 免费/付费 |
-| Claude | 🌟 Anthropic 研发的 AI 助手，当前最强模型：**Claude Fable 5.1**（公开版）/ **Mythos 5.1**（可信访问）。**核心差异：** Cowork 模式把 AI 从“聊天机器人”变成可拉取数据、生成 Excel 预测模型并执行工作流的代理；在编程、长上下文、安全性和企业场景上最强。Fable 5.1 典型成本降低约 25%，网络安全误报减少约 60%。[入门介绍](docs/claude/README-CN.md) | [URL](https://claude.ai/) | 免费/付费 |
-| 通义千问 | 阿里云的 AI 助手，当前最强模型：**Qwen3.8-Max**（8 月 3 日 GA；Qwen3.8-27B 开源权重于 8 月 14 日发布）。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | [URL](https://chat.qwen.ai/) | 免费 |
+| ChatGPT | 🌟 OpenAI 的 AI 助手，当前最强模型：**GPT-6 Astra**；9 月发布的 **GPT-6 Sol** 与 **GPT-6 Luna** 将 API 价格下调约 50%（Sol $2/$10、Luna 输入 $0.10 起每百万 token），消费端额度内免费用。**核心差异：** 持久记忆和用户画像 —— 跨会话记住你的偏好，续聊最自然；通用能力最均衡，适合日常、编程和创意写作。[入门介绍](docs/chatgpt/README-CN.md) | 1. [URL](https://chatgpt.com)<br>2. [API](https://platform.openai.com/) | 免费/付费 |
+| 豆包 | 🌟 字节跳动的 AI 助手，当前最强模型：**Doubao-Seed-2.1 Pro**。**核心差异：** 字节生态入口 + 多模态交互 —— 集成搜索、语音、音乐等能力；2026-08 推出办公 Agent「豆包工作」：虚拟桌面操作电脑、飞书上下文打通、200+ 技能与连接器、多 Agents 并行协作。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/944) | 1. [URL](https://www.doubao.com/)<br>2. [API](https://www.volcengine.com/product/ark) | 免费 |
+| Gemini | 🌟 Google 的 AI 助手，当前最强模型：**Gemini 3.8 Flash**（另有面向网络安全的 3.8 Flash Cyber 变体）。**核心差异：** 原生多模态 + Deep Research —— 图像理解/生成和网络深度研究最强；与 Google Drive、Workspace 无缝集成。[入门介绍](docs/gemini/README-CN.md) | 1. [URL](https://gemini.google.com/)<br>2. [API](https://aistudio.google.com/) | 免费/付费 |
+| Claude | 🌟 Anthropic 研发的 AI 助手，当前最强模型：**Claude Fable 5.1**（公开版）/ **Mythos 5.1**（可信访问）；9 月新发布的 **Claude Opus 5.5**（5.5 家族首款）在大多数任务上媲美 Fable 5.1，成本低约 40%（$4/$20 每百万 token，输出提速 30%+）。**核心差异：** Cowork 模式把 AI 从“聊天机器人”变成可拉取数据、生成 Excel 预测模型并执行工作流的代理；在编程、长上下文、安全性和企业场景上最强。Fable 5.1 典型成本降低约 25%，网络安全误报减少约 60%。[入门介绍](docs/claude/README-CN.md) | 1. [URL](https://claude.ai/)<br>2. [API](https://console.anthropic.com/) | 免费/付费 |
+| 通义千问 | 阿里云的 AI 助手，当前最强模型：**Qwen3.8-Max**（8 月 3 日 GA；Qwen3.8-27B 开源权重于 8 月 14 日发布）。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | 1. [URL](https://chat.qwen.ai/)<br>2. [API](https://bailian.console.aliyun.com/) | 免费 |
 | 腾讯元宝 | 腾讯的 AI 助手，当前最强模型：**混元 Hy4 preview**（770B 总参 / 49B 激活，1M 上下文，2026 年 8 月 28 日发布并开源）。**核心差异：** 混元 + DeepSeek 双模型 —— 可切换腾讯自研混元与 DeepSeek 模型；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
-| DeepSeek | DeepSeek 的 AI 助手，当前最强模型：**DeepSeek-V4.1-Flash**（2026 年 9 月 10 日发布；全新 Causal-Encoder-Decoder 架构，552B MoE 非对称激活，原生多模态——官方基准显示能力超越 V4-Pro 且价格更低，V4-Pro 正逐步下线、请求迁移至 Flash）。**核心差异：** 推理性价比 —— 开源模型中最强的编码与智能体能力，API 价格极低。 | [URL](https://chat.deepseek.com/) | 免费/付费 |
+| DeepSeek | DeepSeek 的 AI 助手，当前最强模型：**DeepSeek-V4.1-Flash**（2026 年 9 月 10 日发布；全新 Causal-Encoder-Decoder 架构，552B MoE 非对称激活，原生多模态——官方基准显示能力超越 V4-Pro 且价格更低，V4-Pro 正逐步下线、请求迁移至 Flash）。**核心差异：** 推理性价比 —— 开源模型中最强的编码与智能体能力，API 价格极低。 | 1. [URL](https://chat.deepseek.com/)<br>2. [API](https://platform.deepseek.com/) | 免费/付费 |
 | 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3**。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.3**（743B MoE，40B 激活，2026 年 8 月 14 日发布）；同步提供 **GLM-5.3-Flash**（320B/18B MoE，原生多模态，MIT 开源权重，100 万 token 上下文），编程与 Agent 能力接近 Claude Opus 4.8，价格大幅降低。**核心差异：** Agentic 编程、仓库级分析、网络安全与长上下文推理。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
-| Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | [URL](https://www.minimax.io/) | 免费/付费 |
-| Grok | xAI 的 AI 助手，当前最强模型：**Grok 4.6**。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。[入门介绍](docs/grok/README-CN.md) | [URL](https://x.com/i/grok) | 免费/付费 |
+| Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | 1. [URL](https://www.minimax.io/)<br>2. [API](https://platform.minimaxi.com/) | 免费/付费 |
+| Grok | SpaceXAI（原 xAI）的 AI 助手，当前最强模型：**Grok 4.7**（2026 年 9 月 21 日发布；约 2.1 万亿参数，主打编程与知识工作，500K 上下文，支持文本与图像输入，四档推理强度；API 定价 $2/$6 每百万输入/输出 token）。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。[入门介绍](docs/grok/README-CN.md) | 1. [URL](https://x.com/i/grok)<br>2. [API](https://console.x.ai/) | 免费/付费 |
+| Meta Muse | 🌱 Meta 推出的个人 AI 智能体：不是聊天，而是直接替用户干活——订差旅、填表格、购物下单、管理邮件与日历，通过 Stripe Link 一次性虚拟卡支付。全程在隔离虚拟机中运行，敏感操作由宿主端 Sentinel 组件审批；底层为 Meta 自研专有模型 Muse Spark 1.3。2026 年 9 月 8 日上线约 10 天即登顶美国 App Store 免费榜（反超 ChatGPT）。目前仅美国可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
+|Jev| 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；输入 $0.042/百万 token，输出免费，延迟 70-500ms。创始人为前 OpenAI 研究员、RLHF 共同发明人之一 Diogo Almeida，获 DCVC 领投的 4000 万美元种子轮。注意：性能数字为官方口径，尚无第三方验证。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) |[URL](https://typesafe.ai/)| 免费/付费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
@@ -170,7 +172,7 @@
 |MemPalace|开源AI记忆系统，将完整对话和项目数据本地存储，无需依赖云端。采用"记忆宫殿"分层结构组织记忆，在 LongMemEval 基准测试中达到 96.6% 召回率（目前得分最高），支持 MCP 集成，可以配合本地大语言模型离线使用。|[Github](https://github.com/milla-jovovich/mempalace) ![GitHub Repo stars](https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social)|免费|
 | TencentDB Agent Memory | 腾讯云开源的面向智能体团队的记忆基础设施。提供 Memory Hub 实现跨会话/跨 Agent 记忆共享，Chat Memory 通过 L0–L3 四层蒸馏保留上下文，Skill library 沉淀可复用技能，Wiki/CodeGraph 构建文档与代码知识图谱。支持与 Claude Code、CodeBuddy 等 Agent 集成。[入门介绍](docs/tencentdb-agent-memory/README-CN.md) | [Github](https://github.com/TencentCloud/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=social) | 免费 |
 | Hermes Agent | NousResearch 开发的开源 AI Agent 框架，基于 Hermes 系列模型构建，在工具调用和推理能力上进行了精细微调，用于构建自主 AI 智能体。 | [Github](https://github.com/NousResearch/hermes-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) | 免费 |
-| Screenpipe | 开源的 24/7 本地屏幕和麦克风录制工具，具备 OCR、音频转录和语义搜索功能。通过 MCP 为 AI 智能体提供您所看、所说、所听内容的长期上下文。支持 Ollama 或任何本地大语言模型，完全离线运行。跨平台（macOS / Windows / Linux）。 | [Github](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | 免费 |
+| Screenpipe | 可检索的屏幕文字与音频历史，通过 MCP 或本地 API 为回忆、会议笔记和工作总结提供上下文。原始历史默认保存在本地；启用云端 AI、转录、同步或外部集成时，相关上下文可能在设备外处理。源码按 [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) 提供。支持 macOS、Windows 和 Linux。 | [Github](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | 免费版有限制；[付费订阅](https://screenpipe.com/pricing) |
 | FlowGram.AI | 字节跳动开源的可扩展可视化 AI 工作流开发框架，内置画布、表单引擎、变量作用链和现成物料（LLM、Condition、代码编辑器等），帮助开发者更快构建 AI 工作流平台。 | [Github](https://github.com/bytedance/flowgram.ai) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/flowgram.ai?style=social) | 免费 |
 | Conductor | 源自 Netflix 的开源 durable workflow engine，现聚焦 AI Agent 编排。提供事件驱动执行、持久化状态、重试/超时、14+ LLM 提供商、MCP 工具调用、function calling、人工审批以及面向 RAG 的向量数据库集成。在 Netflix、Tesla、LinkedIn、J.P. Morgan 生产环境使用。[入门介绍](docs/conductor/README-CN.md) | [Github](https://github.com/conductor-oss/conductor) ![GitHub Repo stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social) | 免费 |
 | DeepTutor | 香港大学数据科学研究院（HKUDS）开源的 AI 原生学习/辅导工作区，整合 AI 辅导、解题、测验生成、研究、可视化和掌握式学习路径。支持多引擎 RAG、持久化记忆、Partner/智能体、以及 Claude Code/Codex 等编程 CLI 实时接入。[入门介绍](docs/deeptutor/README-CN.md) | [Github](https://github.com/HKUDS/DeepTutor) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | 免费 |
@@ -212,6 +214,7 @@
 | Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
 | Cursor | 🌟 使用 GPT进行协作的代码编辑器。[入门介绍](docs/cursor/README-CN.md) | [URL](https://www.cursor.so) | 付费/免费试用 |
 | GitHub Copilot | GitHub 和 OpenAI 合作开发的一个代码编写助手 <br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) | [URL](https://github.com/features/copilot)  | 付费 |
+| Bolt.new | 🌟 StackBlitz 推出的浏览器端 AI 全栈应用构建工具——用自然语言描述需求，AI 智能体直接在浏览器内脚手架、运行并部署完整应用。基于 WebContainers 在浏览器中运行真实 Node.js 环境，速度接近原生，无需配置本地环境或云虚拟机。免费档 + $20/月 Hobby（按 token 计费）；开源姊妹版 bolt.diy 支持自带 API Key。增长最快的开发工具之一（上线 5 个月 ARR 达 4000 万美元；2026 年 5 月起与微软 Azure 合作）。 | [URL](https://bolt.new/) | 免费/付费 |
 | OpenCode | 开源的终端原生 AI 编码 agent。不绑定特定厂商（支持 Anthropic、OpenAI、Google 及本地模型），采用 TUI 客户端/服务端架构，集成 LSP，支持自定义 agent 和 MCP 服务器。[入门介绍](docs/opencode/README-CN.md) | [URL](https://opencode.ai) [Github](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | 免费 |
 | OpenChamber | OpenCode AI agent 的桌面/网页图形界面。在 OpenCode 之上提供会话管理、diff 查看和工作区控制。[入门介绍](docs/openchamber/README-CN.md) | [URL](https://openchamber.dev) [Github](https://github.com/openchamber/openchamber) ![GitHub Repo stars](https://img.shields.io/github/stars/openchamber/openchamber?style=social) | 免费 |
 | oh-my-pi | @can1357 维护的 Pi fork。终端原生 AI 编码 agent，深度集成 IDE 能力：LSP、DAP 调试器、Python/Bun 代码执行、40+ 模型提供商和 32 个内置工具。[入门介绍](docs/oh-my-pi/README-CN.md) | [Github](https://github.com/can1357/oh-my-pi) ![GitHub Repo stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=social) | 免费 |

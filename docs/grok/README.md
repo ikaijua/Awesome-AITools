@@ -2,7 +2,7 @@
 
 ## What is Grok?
 
-Grok is xAI's AI assistant. It is available as a web app at [grok.com](https://grok.com/), natively inside the X (formerly Twitter) platform, and through mobile apps. The current flagship model is **Grok 4.6**, with a 500K-token context window and a knowledge cutoff of February 1, 2026.
+Grok is SpaceXAI's AI assistant (the company formerly known as xAI). It is available as a web app at [grok.com](https://grok.com/), natively inside the X (formerly Twitter) platform, and through mobile apps. The current flagship model is **Grok 4.7** (released September 21, 2026), with a 500K-token context window and roughly 2.1 trillion parameters.
 
 Grok is designed around two ideas: **real-time access to public information on X**, and **multimodal generation** (text, image, video, and voice) under one account.
 
@@ -13,18 +13,18 @@ Grok's most distinctive feature is its live access to X posts and public web dat
 
 ### All modalities, one subscription
 A single Grok account exposes:
-- **Text** via Grok 4.6 (chat, reasoning, agentic tool calling)
+- **Text** via Grok 4.7 (chat, reasoning, agentic tool calling)
 - **Image generation** through the **Imagine** API (Aurora model)
 - **Video generation** through the Imagine API (480p / 720p / 1080p)
 - **Voice** via the **Voice API** — real-time speech-to-speech, plus batch STT and TTS
 
 ### Agentic and code-capable
-Grok 4.6 is also positioned as a coding model with agentic tool calling, minimal hallucinations, and configurable reasoning effort. The same model powers the `grok` CLI ([Grok Build](docs/grok-build/README.md)) for terminal-based coding workflows, and is exposed through the Responses API for embedding into other tools.
+Grok 4.7 is also positioned as a coding model with agentic tool calling, minimal hallucinations, and configurable reasoning effort. The same model powers the `grok` CLI ([Grok Build](docs/grok-build/README.md)) for terminal-based coding workflows, and is exposed through the Responses API for embedding into other tools.
 
 ## Core Features
 
 ### Text and reasoning
-- Grok 4.6: 500K-token context, configurable reasoning effort
+- Grok 4.7: 500K-token context, configurable reasoning effort, ~2.1T parameters
 - Web Search and X Search tools for live data
 - Vision input — analyze images inline in chat
 - File upload and analysis
@@ -85,8 +85,9 @@ print(chat.sample().content)
 
 | Item | Price |
 | --- | --- |
-| Grok 4.6 input | $2.00 / 1M tokens |
-| Grok 4.6 output | $6.00 / 1M tokens |
+| Grok 4.7 input | $2.00 / 1M tokens |
+| Grok 4.7 output | $6.00 / 1M tokens |
+| Grok 4.7 speed tier | 2x output speed at 2x price |
 | Voice Agent (real-time) | from $0.05 / min |
 | TTS | $15.00 / 1M chars |
 | STT (Batch) | $0.10 / hour |
@@ -94,13 +95,13 @@ print(chat.sample().content)
 | Imagine (image) | per-image, see console |
 | Imagine (video) | from $0.05 / second |
 
-Free and paid tiers for the consumer Grok app are listed on [grok.com](https://grok.com/). API pricing is per the [xAI pricing page](https://docs.x.ai/docs/pricing).
+Free and paid tiers for the consumer Grok app are listed on [grok.com](https://grok.com/). API pricing is per the [SpaceXAI pricing page](https://docs.x.ai/docs/pricing).
 
 ## Notes
 
-- **Knowledge cutoff**: Grok 4.6's training data extends to February 1, 2026. For events after that date, use the Web Search or X Search tools.
+- **Knowledge cutoff**: Grok 4.7's training-data cutoff has not been officially disclosed (Grok 4.6's was February 1, 2026). For events after the cutoff, use the Web Search or X Search tools.
 - **Real-time dependency**: Grok's headline differentiation depends on continued X platform access. Behavior in regions where X is restricted may differ.
-- **Coding use cases**: For terminal-based coding workflows, see [Grok Build](docs/grok-build/README.md), the open-source `grok` CLI/TUI built on Grok 4.6.
+- **Coding use cases**: For terminal-based coding workflows, see [Grok Build](docs/grok-build/README.md), the open-source `grok` CLI/TUI built on Grok.
 
 ## Related Resources
 

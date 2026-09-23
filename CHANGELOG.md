@@ -4,6 +4,13 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## September 2026
 - Added Jev Social (socai-io/jev-social) to the AI Agent section: a local-first social research agent that pairs Jev's typed operation selection with the socai CLI for browser-backed Instagram, TikTok, and LinkedIn evidence (both EN/CN)
+- Noted Claude Opus 5.5 (Claude 5.5 family; matches Fable 5.1 at ~40% lower cost) in the Claude entry, and GPT-6 Sol/Luna (~50% API price cut) in the ChatGPT entry (both EN/CN)
+- Added Bolt.new (browser-based AI full-stack app builder by StackBlitz) to AI Coding section (both EN/CN)
+- Updated Grok flagship from 4.6 to **Grok 4.7** in AI Assistants & Proprietary Models and `docs/grok/` (both EN/CN)
+- Renamed the chatbot section to AI Assistants & Proprietary Models / AI 助手与专有模型 (both EN/CN)
+- Added Meta Muse (Meta's personal AI agent) to AI Assistants & Proprietary Models, with intros in Discussions #1010 (CN) / #1011 (EN) (both EN/CN)
+- Added Jev (TypeSafe AI's "System One" decision model, 🌱) to AI Assistants & Proprietary Models, with deep dives in Discussions #996 (CN) / #1012 (EN) (both EN/CN)
+- Corrected Screenpipe licensing, free-plan limits, and local/cloud processing boundaries in both EN/CN entries.
 - Updated DeepSeek flagship from V4-Pro to V4.1-Flash (new Causal-Encoder-Decoder architecture, 552B MoE with asymmetric activation, native multimodality, MIT open weights; V4-Pro retiring Sept 14 with requests migrated to Flash) in AI Chatbot and Open Source LLMs entries (both EN/CN)
 - Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models) (both EN/CN)
 - Added Obscura (h4ckf0r0day/obscura) to AI Agent section: an open-source Rust headless browser engine for AI agents and web scraping, CDP-compatible drop-in replacement for headless Chrome (both EN/CN)
