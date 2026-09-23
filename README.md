@@ -311,6 +311,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Palmier Pro | Open-source macOS video editor built for AI. Combines professional timeline editing with AI-assisted workflows, generative image/video features using models like Seedance, Kling, and Nano Banana Pro, plus MCP integration so agents such as Claude Code, Codex, Cursor, or the in-app agent can control the editing timeline. Apple Silicon Mac only. | [Github](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | Free/Paid |
 | Topaz Video AI | AI-powered video enhancement, upscaling, deinterlacing, stabilization, frame interpolation, and motion deblur for professional video restoration. Runs locally on desktop. | [URL](https://www.topazlabs.com/topaz-video-ai) | Paid/Trial |
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [Github](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
+| Compress Video | Free online video compressor with light, medium, and heavy settings to shrink file size for faster sharing and uploads. | [URL](https://videotext.io/compress-video) | Free |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
@@ -365,6 +366,12 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | buzz | An open source desktop software based on OpenAI's Whisper to recognize speech and generate subtitles | [GitHub](https://github.com/chidiwilliams/buzz) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| Free |
 | WhisperDesktop| Open source, OpenAI-based Whisper, a desktop application for Windows, uses the GPU for processing, which will be faster than on the CPU with good GPU performance.|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|Free|
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
+| Video to Transcript | Free AI video transcription with 98.5% word accuracy using Whisper large-v3; upload MP4/MOV/WebM/MKV and get a transcript, SRT/VTT, AI summary, and chapters in one pass. | [URL](https://videotext.io/video-to-transcript) | Free |
+| Guideline Format | Auto-formats raw transcripts to Rev, GoTranscript, TranscribeMe, or Scribie style guides — verbatim rules, speaker labels, punctuation, and QA compliance scoring, exported client-ready. | [URL](https://videotext.io/guideline-format) | Free |
+| Voice Recorder | In-browser voice-to-text recorder — speak and get text instantly with no video upload required, privacy-first with files deleted after processing. | [URL](https://videotext.io/voice-recorder) | Free |
+| Video to Subtitles | Full caption generation hub: upload a video for timed SRT/VTT output, then fix, translate, or burn captions in the same workflow. | [URL](https://videotext.io/video-to-subtitles) | Free |
+| Fix Subtitles | Auto-corrects overlapping timestamps, long lines, CPS/reading-speed issues, and SRT/VTT formatting errors with instant download. | [URL](https://videotext.io/fix-subtitles) | Free |
+| Burn Subtitles | Hardcodes SRT/VTT captions permanently into MP4 video — ideal for Instagram, TikTok, and players without native caption support. | [URL](https://videotext.io/burn-subtitles) | Free |
 
 ### Text To Speech
 | Name | Description | Links | Fees |
@@ -407,6 +414,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Seamless |Seamless is a family of AI models that enable more natural and authentic communication across languages.[Online Demo](https://seamless.metademolab.com/expressive?utm_source=metaai&utm_medium=web&utm_campaign=fair10&utm_content=blog)|[Github](https://github.com/facebookresearch/seamless_communication) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social)|Free|
+| Translate Subtitles | Free online SRT/VTT subtitle translator supporting 70+ languages with every cue timestamp preserved on download. | [URL](https://videotext.io/translate-subtitles) | Free |
 
 
 ### Video Content Summary

@@ -315,6 +315,7 @@
 | Palmier Pro | 面向 AI 构建的开源 macOS 视频编辑器。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana Pro 等生成式图像/视频能力；支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [Github](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [Github](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
+| Compress Video | 免费在线视频压缩，提供轻/中/重度设置，缩小文件体积便于分享与上传。 | [URL](https://videotext.io/compress-video) | 免费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
@@ -377,6 +378,12 @@
 | 飞书秒记 | 上传视频或者音频可转录为文字，并可一键导出到飞书文档。处理速度很快，一个将近 2 个多小时的视频，约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes)| 免费，有企业付费版|
 | 通义听悟 | 阿里旗下的语音转录应用 | [URL](https://tingwu.aliyun.com/) | 免费/付费 |
 |阿里云智能语音交互-语音识别API|试用版3个月免费试用期，录音文件识别免费额度:2小时/日|[URL](https://ai.aliyun.com/nls)|付费/免费试用|
+| Video to Transcript | 免费 AI 视频转文字，基于 Whisper large-v3，准确率约 98.5%；上传 MP4/MOV/WebM/MKV，一次得到转录、SRT/VTT、AI 摘要与章节。 | [URL](https://videotext.io/video-to-transcript) | 免费 |
+| Guideline Format | 将原始转录自动格式化为 Rev、GoTranscript、TranscribeMe 或 Scribie 风格指南，含说话人标签、标点与 QA 合规评分。 | [URL](https://videotext.io/guideline-format) | 免费 |
+| Voice Recorder | 浏览器内语音转文字录音，无需上传视频；隐私优先，处理后删除文件。 | [URL](https://videotext.io/voice-recorder) | 免费 |
+| Video to Subtitles | 视频字幕生成中心：上传视频得到带时间轴的 SRT/VTT，并可在同一流程中修复、翻译或烧录字幕。 | [URL](https://videotext.io/video-to-subtitles) | 免费 |
+| Fix Subtitles | 自动修正重叠时间戳、过长行、CPS/阅读速度问题及 SRT/VTT 格式错误，即时下载。 | [URL](https://videotext.io/fix-subtitles) | 免费 |
+| Burn Subtitles | 将 SRT/VTT 字幕永久烧录进 MP4，适合 Instagram、TikTok 及无原生字幕支持的播放器。 | [URL](https://videotext.io/burn-subtitles) | 免费 |
 
 ### 文字转语音
 | 名称 | 说明 | 链接 | 费用 |
@@ -415,6 +422,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Seamless |可以实时翻译100多种语言，延迟不到2秒钟，说话者仍在讲话时就开始翻译。Seamless翻译不仅仅是文字上的转换，还能保持说话者的情感和语气、语调等，使得翻译后的语音更加自然和真实。Seamless模型统一了SeamlessExpressive、SeamlessStreaming和SeamlessM4T v2的功能。旨在实现多语言、表达性和流畅的语音翻译。在线体验[Demo地址](https://seamless.metademolab.com/expressive?utm_source=metaai&utm_medium=web&utm_campaign=fair10&utm_content=blog)|[Github](https://github.com/facebookresearch/seamless_communication) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social)|Free|
+| Translate Subtitles | 免费在线 SRT/VTT 字幕翻译，支持 70+ 语言，下载时保留每条字幕时间戳。 | [URL](https://videotext.io/translate-subtitles) | 免费 |
 
 ### 语音合成
 | 名称 | 说明 | 链接 | 费用 |
