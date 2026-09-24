@@ -226,6 +226,7 @@
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [Github](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [Github](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。[入门介绍](docs/codex-security/README-CN.md) | [Github](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
+| Orbi | 自托管、开源（AGPL-3.0）的 AI 编程智能体。给 GitHub Issue 打上 `ai-ready` 标签，它就写改动、开 PR、跑一轮独立评审、合并并打 Release 标签，模型和仓库都用你自己的。以 AGPL-3.0 开源（也可选 Sustainable Use License），另有托管版 Orbi Cloud。 | [URL](https://orbi.build/zh/?ref=awesome-aitools) [Github](https://github.com/orbi-build/orbi) ![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social) | 免费/付费 |
 
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
