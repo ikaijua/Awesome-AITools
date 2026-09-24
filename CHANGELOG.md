@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added Requesty (hosted OpenAI-compatible LLM gateway) to General LLM Applications (both EN/CN)
 - Noted Claude Opus 5.5 (Claude 5.5 family; matches Fable 5.1 at ~40% lower cost) in the Claude entry, and GPT-6 Sol/Luna (~50% API price cut) in the ChatGPT entry (both EN/CN)
 - Added Bolt.new (browser-based AI full-stack app builder by StackBlitz) to AI Coding section (both EN/CN)
 - Updated Grok flagship from 4.6 to **Grok 4.7** in AI Assistants & Proprietary Models and `docs/grok/` (both EN/CN)
