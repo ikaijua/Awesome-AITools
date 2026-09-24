@@ -473,6 +473,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | AI Detect Lab | 针对 Midjourney v7 和 Flux 优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
+| AI Slop Detector | 免费的浏览器端 AI 垃圾内容检测器，支持文本与图片：粘贴文本或上传图片即可得到判定结果，检测全程在浏览器本地完成、不上传内容。判定的是「低质 AI 套话」特征，而非模型来源溯源。 | [URL](https://aislopdetector.net/) | 免费 |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
