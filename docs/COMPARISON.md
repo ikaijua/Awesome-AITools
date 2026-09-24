@@ -121,5 +121,5 @@ These tools are not mutually exclusive. Common splits:
 ## Related Links
 
 - [Claude Code Introduction](claude-code/README.md)
-- [Codex Introduction](codex/README.md)
-- [Kimi Code Introduction](kimi-code/README.md)
+- [Codex Introduction](https://github.com/ikaijua/Awesome-AITools/discussions/948)
+- [Kimi Code Introduction](https://github.com/ikaijua/Awesome-AITools/discussions/976)
