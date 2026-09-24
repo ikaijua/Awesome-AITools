@@ -363,6 +363,7 @@
 | Deep L | 准确即时的翻译工具，目前支持 31 种语言 | [URL](https://www.deepl.com/translator) | 免费/付费|
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
 |RTranslator | RTranslator 是一款开源、免费的安卓离线**实时**翻译应用程序。|[Github](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
+| Document Translator | 免费的浏览器端文档翻译工具：拖入 PDF、Word、TXT 或 Markdown 文件，可逐段预览译文并下载保留段落结构的结果。文件不会上传，阅读与翻译均通过 Chrome 内置模型在本地完成。 | [URL](https://documenttranslator.app/) | 免费 |
 
 ### 语音识别-生成字幕
 | 名称 | 说明 | 链接 | 费用 |
