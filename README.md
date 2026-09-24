@@ -434,6 +434,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |AI Detect Lab|Professional AI image and Deepfake detection tool optimized for Midjourney v7 and Flux, offering high-precision identification services.|[URL](https://www.aidetectlab.com/)|Free|
+| AI Slop Detector | Free browser-based AI slop detector for text and images: paste text or upload an image and get a verdict. The whole check runs locally in the browser and nothing is uploaded. Judges the slop pattern rather than model provenance. | [URL](https://aislopdetector.net/) | Free |
 
 ### Humanoid Robots
 | Name | Description | Links | Fees |
