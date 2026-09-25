@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added DeployReview, DiffExplainerHQ, LLMAuditor (Poe bots) and DeployCheck (pre-deploy audit API) to the AI Coding section (both EN/CN)
 - Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding (both EN/CN)
 - Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section (both EN/CN)
 - Noted Claude Opus 5.5 (Claude 5.5 family; matches Fable 5.1 at ~40% lower cost) in the Claude entry, and GPT-6 Sol/Luna (~50% API price cut) in the ChatGPT entry (both EN/CN)
