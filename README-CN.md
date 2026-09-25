@@ -475,6 +475,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | AI Detect Lab | 针对 Midjourney v7 和 Flux 优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
+| isGenAI | 检查图像和内容中的 AI 标签及保存的创作信息；提取受支持的 AUTOMATIC1111、ComfyUI 和 InvokeAI 图像提示词。不提供基于文风的作者来源评分。 | [URL](https://isgenai.com/) | 基础检查免费 |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
