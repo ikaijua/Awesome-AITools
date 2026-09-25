@@ -227,6 +227,10 @@
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [Github](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [Github](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。[入门介绍](docs/codex-security/README-CN.md) | [Github](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
+| DeployReview | AI 代码审查机器人：粘贴代码或 diff，即可获得侧重安全、正确性与性能的高级工程师级评审，附带严重性分级、修复建议和后续问答。 | [URL](https://poe.com/DeployReview) | Free |
+| DiffExplainerHQ | 用通俗语言解释代码 diff 的 AI 机器人；可生成提交信息与事故可读的摘要。 | [URL](https://poe.com/DiffExplainerHQ) | Free |
+| LLMAuditor | 为开发者与 SEO 审计 llms.txt / agent-discovery 文件的 AI 机器人。 | [URL](https://poe.com/LLMAuditor) | Free |
+| DeployCheck | 面向编码 agent 的预部署审计 API：链接检查、llms.txt 审计与 HTTPS 迁移审计，每次运行最多 25 个 URL，输出机器可读的通过/失败结论。 | [URL](https://x402-extract-service.onrender.com) | Free/Paid |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [Github](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
 
 ### 通用 LLM 应用
