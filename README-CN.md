@@ -197,6 +197,7 @@
 | Superpowers | 面向编码代理的完整软件开发方法论，基于可组合技能构建。支持跨 Claude Code、Codex、Cursor、Kimi Code、OpenCode、Antigravity、GitHub Copilot CLI 和 Pi 强制执行规格驱动设计、TDD、系统调试、代码审查和子代理驱动开发。 [入门介绍](docs/superpowers/README-CN.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | 免费 |
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | Claude Video | 用于 Claude Code 的 Agent Skill，让 AI 能够"观看"视频：提取关键帧、获取字幕/转录文本，并基于画面和音频内容回答问题。支持 YouTube、TikTok、本地文件，以及通过 Agent Skills CLI 接入 50+ 智能体宿主。 | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
+| amflimited/threadfox-lite | Reddit 智能体技能（reddit-rules-first）与只读 MCP 服务器，支持 Claude Code、Claude Desktop 和 Codex：读取子版块规则并标出自我推广规则、按主题查找社区、检查账号状态以及帖子是否仍在，通过用户自己已登录的 Chrome 读取。 | [Github](https://github.com/amflimited/threadfox-lite) ![GitHub Repo stars](https://img.shields.io/github/stars/amflimited/threadfox-lite?style=social) | 免费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
