@@ -181,6 +181,7 @@
 |CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。|[Github](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
 |AnyGen|AnyGen 是一款真正能帮你”完成工作”的 AI 助手。从写作和分析到规划和报告，它能在几分钟内将你的想法转化为可直接使用的专业成果。[专为工作打造的 AI 助手](https://www.anygen.io/task/LkA2pg7EXaVJkrgETSol5DelgEd)|[URL](https://www.anygen.io/)|免费试用/付费|
 | Understand Anything | 基于 AI 的代码库和知识库分析工具，构建交互式可视化知识图谱。支持多智能体分析、架构引导教程以及针对大型代码库的语义搜索。可作为 Claude Code、Cursor 等工具的插件使用。[入门介绍](docs/understand-anything/README-CN.md) | [Github](https://github.com/Lum1104/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=social) | 免费 |
+| engram | 笔记、日志、文档是查不动的第二大脑。托管型「AI 记忆」要你把这些全传上云，engram 反过来：在你自己机器上建可检索的记忆，结果带出处，永不回传。 | [Github](https://github.com/jnMetaCode/engram) ![GitHub Repo stars](https://img.shields.io/github/stars/jnMetaCode/engram?style=social) | 免费 |
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
