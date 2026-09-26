@@ -295,6 +295,7 @@
 |ControlNet|能够在一个text2image上训练的扩散模型进行高效finetune，并且结合特定的condition输入，得到可控的效果|[Github](https://github.com/lllyasviel/ControlNet) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/ControlNet?style=social)|免费|
 |black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
+| UpRes | 多模型 AI 图像与视频超分辨率放大（2x–8x），最高支持 8K 输出，涵盖 14 个专用神经网络模型（人脸修复、文字、插画、视频）。提供开发者 REST API、npm CLI 以及用于 Agent 工作流的 MCP 服务器。提供免费版（每月 5 次带水印放大）。 | [URL](https://upres.ai) | 免费/付费 |
 
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
