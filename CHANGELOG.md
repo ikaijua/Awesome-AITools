@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation (both EN/CN)
 - Removed ChatGPT for YouTube (browser-extension wrapper), ControlNet (unmaintained since Feb 2024, absorbed into diffusers/ComfyUI), and f/awesome-chatgpt-prompts (prompt-template collection) (both EN/CN)
 - Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding (both EN/CN)
 - Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section (both EN/CN)
