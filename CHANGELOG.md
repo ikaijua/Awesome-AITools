@@ -4,6 +4,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## September 2026
 - Added Jev Social (socai-io/jev-social) to the AI Agent section: a read-only social research app that pairs bounded Jev operation selection with local socai CLI browser execution for Instagram, TikTok, and LinkedIn evidence (both EN/CN)
+- Removed ChatGPT for YouTube (browser-extension wrapper), ControlNet (unmaintained since Feb 2024, absorbed into diffusers/ComfyUI), and f/awesome-chatgpt-prompts (prompt-template collection) (both EN/CN)
 - Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding (both EN/CN)
 - Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section (both EN/CN)
 - Noted Claude Opus 5.5 (Claude 5.5 family; matches Fable 5.1 at ~40% lower cost) in the Claude entry, and GPT-6 Sol/Luna (~50% API price cut) in the ChatGPT entry (both EN/CN)
@@ -24,6 +25,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Updated Qwen3 / Qwen3.8 entry to include Qwen3.8-Flash-Next (125B-A6B, Qwen4 architecture preview) (both EN/CN)
 - Noted Muse Spark 1.3 as the latest Muse Spark version in the Muse Glimmer entry (both EN/CN)
 - Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/` (both EN/CN)
+- Removed AnyGen (https://www.anygen.io) from AI Agent section: overlaps with existing general work-assistant entries, opaque pricing with no documented free quota (both EN/CN)
 
 ## August 2026
 - Refreshed model/generation versions across AI Chatbot, Open Source LLMs, Video Creation, AI Image Creation, Text-to-Speech, Voice Processing, and AI-generated Music sections: DeepSeek-V4-Pro 0813 GA + V4-Flash-Vision-Exp, Qwen3.8-Max GA + Qwen3.8-27B open-weight release, GLM-5.3 release date, Gemma 4 size variants, Muse Glimmer release date, Phi-4-multimodal, Kling 3.0, MiniMax H3 / Hailuo 3, Luma Ray 3.2, Pika 2.2, Midjourney V8.2, Nano Banana Pro / Nano Banana 2, Grok Imagine Image 2.0, Stable Diffusion 3.5 / Stable Image Ultra, Ideogram 3.0, Eleven v3, Suno v5.5, Stable Audio 3.0, Mureka V9 (both EN/CN)
