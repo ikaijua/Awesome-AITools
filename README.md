@@ -291,6 +291,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Topaz Photo AI | AI-powered image enhancement suite for photographers. Includes upscaling, noise reduction, sharpening, and face recovery in a single local desktop workflow. | [URL](https://www.topazlabs.com/topaz-photo-ai) | Paid/Trial |
+| kdpbook.io | AI book studio for Amazon KDP: describe a book in a chat and it writes, illustrates (with consistent characters) and typesets picture books, coloring books, comics and novels, then exports the interior PDF, full-wrap cover PDF and Kindle EPUB. | [URL](https://kdpbook.io) | Free/Paid |
 
 ### Video Creation
 
