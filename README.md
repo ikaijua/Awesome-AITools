@@ -193,7 +193,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | last30days-skill | AI agent skill that researches any topic across Reddit, X, YouTube, Hacker News, Polymarket, GitHub, arXiv, and the web, then synthesizes a grounded summary scored by real engagement. Supports Claude Code, Codex, Cursor, Gemini CLI, and 50+ Agent Skills hosts. | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | Free |
 | Claude Video | Claude Code skill that lets AI agents "watch" videos: extracts frames, pulls transcripts/captions, and answers questions grounded in what is seen and heard. Supports YouTube, TikTok, local files, and 50+ agent hosts via the Agent Skills CLI. | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
 | webcmd | Browser skills for AI agents: learns how a site is navigated once, then compiles it into deterministic per-site CLI commands. Installs into Claude Code, Codex, and other hosts via `webcmd skills add`. | [Github](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | Free |
-skills add`. | [Github](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | Free |
+| AgentHub | Chinese directory for discovering MCP servers and agent skills, with one-click install to Cursor, Claude Code, VS Code and Trae | [Website](https://myagenthub.cn) | Free |
 
 ### AI News & Information
 | Name | Description | Links | Fees |
