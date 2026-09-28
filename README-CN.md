@@ -145,6 +145,8 @@
 | Jev Social | 开源只读的 Instagram、TikTok 和 LinkedIn 社交研究应用。Jev 从受限操作中选择下一步，本地 socai CLI 在用户的 Chrome 中执行并流式展示帖子、个人资料及可用评论证据，最终生成带引用的报告；仅在明确请求时下载 TikTok 媒体。 | [GitHub](https://github.com/socai-io/jev-social) ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)<br>[演示](https://socai-io.github.io/jev-social/) | 免费 |
 | Obscura | 开源（Apache-2.0）的 Rust 无头浏览器引擎，面向 AI 智能体与网页抓取。通过 Chrome DevTools 协议直接替代 headless Chrome，兼容 Puppeteer/Playwright：内存占用约 30MB、启动瞬时，内置 stealth 反指纹与追踪拦截模式。 | [GitHub](https://github.com/h4ckf0r0day/obscura) ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social) | 免费 |
 | Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。[入门介绍](docs/cua/README-CN.md) | [GitHub](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
+| AX | Google 开源的 agentic 编排运行时，定位"Agent 时代的 Kubernetes"。通过声明式 YAML 清单（Workspace、Task、Model）定义任务，沙箱隔离执行，支持 CPU/内存限制、`ax suspend/resume` 暂停恢复和 SSH 调试；单集群设计目标支撑十亿级自主 Agent 工作负载。尚处早期，正式发布前可能有破坏性变更。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1050) | [Github](https://github.com/google/ax) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ax?style=social) | 免费 |
+| ARTEMIS | Google 开源框架，将自然语言指令转换为可靠的 Android 端自动化：跨应用任务执行、多模态目标定位（元素索引+坐标+视觉），Flash（快速反应）/ Pro（多智能体规划）双执行模式，AndroidWorld 基准任务完成率 99%+。提供 Web 控制台、MCP Server、Python SDK 和 CLI，可与 Claude Code、Codex 等智能体集成。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1052) | [Github](https://github.com/google/artemis) ![GitHub Repo stars](https://img.shields.io/github/stars/google/artemis?style=social) | 免费 |
 |OpenClaw|开源的自托管 AI 智能体，可以在本地运行并自主执行任务。能够连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器，访问系统，具有持久记忆功能。由 Peter Steinberger 开发，是增长最快的开源项目之一。[入门介绍](docs/openclaw/README-CN.md)|[Github](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)|免费|
 |OpenWorker|吴恩达（Andrew Ng）开源的本地优先桌面 AI 同事。以交付完整工作成果（文档、Slack 回复、日程更新、报告）为目标，而非仅提供聊天回答。支持 35+ 应用连接器、MCP 协议，可接入自有 API Key 的多种模型（OpenAI、Anthropic、Gemini、DeepSeek、Kimi、Qwen、Ollama 等），数据和凭证本地存储。[入门介绍](docs/openworker/README-CN.md)|[Github](https://github.com/andrewyng/openworker) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/openworker?style=social)|免费|
 | WorkBuddy | 腾讯推出的全场景 AI 智能体桌面工作台（“腾讯龙虾”）。支持自然语言派活，自主规划并操作本地文件、Office、文件夹完成复杂办公任务；可接入微信、企业微信、QQ、飞书、钉钉，数据支持本地运算。 | [URL](https://www.codebuddy.cn/work/) | 免费/付费 |
@@ -313,6 +315,7 @@
 | Pika | 文本/图像 AI 生成视频。当前版本 **Pika 2.2**（2025 年 2 月 27 日发布），支持最长 10 秒 1080p 视频与 Pikaframes。 | [URL](https://pika.art/home) | 免费试用/付费 |
 | krea.ai| 提供文生图/视频、图片放大、模型训练等功能，Krea ai想做视频和图片界的 POE，目前集成了海螺、luma、Runway和可灵四家最好的视频生成模型。|[URL](https://www.krea.ai/)|免费试用/付费|
 | HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 免费试用/付费 |
+| Higgsfield | 多模型 AI 视频创作平台：一个订阅接入 15+ 第三方前沿模型（Seedance、Kling、Veo、Sora、Nano Banana Pro 等），统一积分钱包。差异化在于 70+ 确定性电影运镜预设、Soul ID 跨镜头角色一致性（5 张以上参考照片训练）、自有 Soul 图像模型，面向营销和社媒内容团队。由前 Snap 生成式 AI 负责人 Alex Mashrabov 创立。[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1057) | [URL](https://higgsfield.ai/) | 免费/付费 |
 | Palmier Pro | 面向 AI 构建的开源 macOS 视频编辑器。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana Pro 等生成式图像/视频能力；支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [Github](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [Github](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
@@ -403,6 +406,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | ElevenLabs | 业界领先的 AI 语音合成和变声工具。当前旗舰 **Eleven v3** 已全面可用；提供高度逼真的文本转语音、语音克隆（只需几分钟音频）和变声功能，支持多种语言和情感语音。 | [URL](https://elevenlabs.io/) | 免费/付费 |
+| Gemini 3.8 TTS | Google DeepMind 的原生多模态语音合成模型（Gemini 3.8 TTS）：支持多说话人、情感和语气控制、低延迟，可通过 Gemini API 调用；官方 playground 可免费调试音色、语速和情感。同期推出 Live Avatar 实时互动数字人。[Live Avatar 介绍](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | [官网](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) | 免费/付费 |
 |RVC (Retrieval-Based Voice Conversion)|开源语音转换模型，可以高质量地将任何声音转换为另一种声音。常用于唱歌声音转换和语音克隆。|[GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ![GitHub Repo stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social)|免费|
 
 ### 声音克隆
