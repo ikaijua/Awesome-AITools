@@ -38,6 +38,7 @@ There is no build, test, or lint suite beyond the above — CI only runs link ch
 - Table format is strict: exactly 4 columns, with the separator row `| --- | --- | --- | --- |`. `format_readmes.py` will rewrite divergent separators, so don't hand-craft 3- or 5-column variants.
 - The TOC at the top of each README lists category anchors. The formatter knows about two specific anchor-typo fixes (`#news-information` in EN, `#gpt-llms应用` in CN) — preserve those exact slugs.
 - When linking to a deep-dive doc, use the EN/CN phrasing pair `[Intro](...)` / `[入门介绍](...)` so both READMEs stay parallel.
+- **Deep-dive placement convention**: For new tools, write the detailed intro as GitHub Discussions (one CN + one EN, e.g. Codex, Kimi Code & Kimi Work, 豆包工作, Google AX, ARTEMIS) and link the README entry to the discussion — do NOT add new per-tool pages under `docs/`. Content that changes frequently (product features, pricing details) belongs in Discussions; only stable, curated reference material goes in `docs/`. (Existing `docs/` pages remain until migrated.)
 - Keep tool descriptions concise and factual; ensure links are valid.
 - Maintain bilingual consistency between English and Chinese READMEs.
 - **Marker conventions**: 🌟 marks tools that are genuinely good to use — the first-choice pick in their category; apply it sparingly. 🌱 marks freshly released / early-stage products whose direction is still uncertain (e.g., developer previews); revisit 🌱 entries periodically and remove the marker once the tool matures — or remove the entry if it stalls.
