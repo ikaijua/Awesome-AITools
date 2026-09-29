@@ -343,6 +343,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | AirLLM | A Python library that reduces LLM inference memory usage by loading one layer at a time, enabling 70B models on 4GB GPUs, 405B on 8GB, and 671B DeepSeek-V3 on ~12GB. Supports 4-bit/8-bit quantization and a wide range of open models via a single AutoModel interface. | [Github](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | Free |
+| ModelVRAM | Free browser-based calculator for the GPU memory an LLM needs to run or fine-tune (weights, KV cache, overhead), using each model's config from Hugging Face; lists the GPUs and Macs that fit and gives a ready llama-server command. Estimates are checked against 20 public llama.cpp/vLLM logs. | [URL](https://modelvram.com/) | Free |
 
 ### Writing
 | Name | Description | Links | Fees |
