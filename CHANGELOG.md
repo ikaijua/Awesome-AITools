@@ -3,6 +3,10 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## September 2026
+- Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
+- Updated Gemini entry to mention Gemini Spark (persistent background personal agent across Google Workspace) in both EN/CN
+- Added Higgsfield (multi-model AI video studio aggregating Seedance/Kling/Veo/Sora with cinematic camera presets and Soul ID character consistency) to Video Creation section, with intros in Discussions #1057 (CN) / #1058 (EN) (both EN/CN)
+- Removed ChatGPT for YouTube (browser-extension wrapper), ControlNet (unmaintained since Feb 2024, absorbed into diffusers/ComfyUI), and f/awesome-chatgpt-prompts (prompt-template collection) (both EN/CN)
 - Added DeployReview, DiffExplainerHQ, LLMAuditor (Poe bots) and DeployCheck (pre-deploy audit API) to the AI Coding section (both EN/CN)
 - Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding (both EN/CN)
 - Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section (both EN/CN)
@@ -24,6 +28,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Updated Qwen3 / Qwen3.8 entry to include Qwen3.8-Flash-Next (125B-A6B, Qwen4 architecture preview) (both EN/CN)
 - Noted Muse Spark 1.3 as the latest Muse Spark version in the Muse Glimmer entry (both EN/CN)
 - Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/` (both EN/CN)
+- Removed AnyGen (https://www.anygen.io) from AI Agent section: overlaps with existing general work-assistant entries, opaque pricing with no documented free quota (both EN/CN)
 
 ## August 2026
 - Refreshed model/generation versions across AI Chatbot, Open Source LLMs, Video Creation, AI Image Creation, Text-to-Speech, Voice Processing, and AI-generated Music sections: DeepSeek-V4-Pro 0813 GA + V4-Flash-Vision-Exp, Qwen3.8-Max GA + Qwen3.8-27B open-weight release, GLM-5.3 release date, Gemma 4 size variants, Muse Glimmer release date, Phi-4-multimodal, Kling 3.0, MiniMax H3 / Hailuo 3, Luma Ray 3.2, Pika 2.2, Midjourney V8.2, Nano Banana Pro / Nano Banana 2, Grok Imagine Image 2.0, Stable Diffusion 3.5 / Stable Image Ultra, Ideogram 3.0, Eleven v3, Suno v5.5, Stable Audio 3.0, Mureka V9 (both EN/CN)
