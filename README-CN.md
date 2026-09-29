@@ -229,6 +229,7 @@
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [Github](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。[入门介绍](docs/codex-security/README-CN.md) | [Github](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [Github](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
+| GitDiagram | 将任意 GitHub 仓库转换为交互式架构图：把 GitHub 链接中的 "hub" 换成 "diagram" 即可。LLM 读取文件树、README 和关键源码，每个组件都链接到对应文件。还会生成架构说明和一分钟配音讲解视频，支持导出 Mermaid/PNG，并提供免费的远程 MCP 服务器。 | [URL](https://gitdiagram.com) [Github](https://github.com/ahmedkhaleel2004/gitdiagram) ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedkhaleel2004/gitdiagram?style=social) | 免费 |
 
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
