@@ -288,6 +288,7 @@
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 |black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[Github](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
+| 3DTexel | 输入文字生成360度HDRI全景图与天空盒（真HDR，最高8K），另有无缝PBR材质、贴花和文字生成动画等面向游戏引擎的AI生成器 | [URL](https://3dtexel.com/hdri-generator/) | 免费/付费 |
 
 ### AI视频创作
 | 名称 | 说明 | 链接 | 费用 |
