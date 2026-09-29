@@ -263,6 +263,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
 | OpenConnector | Open-source connector gateway for AI agents. Connect user app accounts once, then expose a shared catalog of 1000+ SaaS providers to agents via SDK, CLI, MCP, HTTP, and OpenAPI. | [Github](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | Free |
+| tlgr | Open-source command-line client for a personal Telegram account, built for scripts and AI agents. Reads, searches and sends messages and manages chats and contacts, with JSON output and webhook event push. | [Github](https://github.com/tlgrcli/tlgr) ![GitHub Repo stars](https://img.shields.io/github/stars/tlgrcli/tlgr?style=social) | Free |
 
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |
