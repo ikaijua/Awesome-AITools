@@ -19,27 +19,19 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 ## 💎 Sponsor
 
-<p align="center">
-  A huge thank you to our sponsors for their generous support!
-</p>
+A huge thank you to our sponsors! Want to appear here? [Contact us](#become-sponsors).
 
 <details open>
 <summary>Click to collapse</summary>
-<table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
-  <tr align="center">
-    <td width="500" valign="middle" align="center">
-      <sub>
-        <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img alt="Xuanshu API" src="assets/sponsors/xuanshuapi-en.jpg" />
-        </a>
-        <br>
-        【<b>Xuanshu API</b> is a next-generation AI model routing gateway for enterprises, technical teams, and individual developers. It provides one-stop API access to world-class top models (Claude, GPT, Grok, etc.) with enterprise-grade stability. Recharge and enjoy 20% off, models starting from 20% of the original price, $5 free upon registration, invoice support for enterprises. Click <a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">this link</a> to register and get an extra $5 credit.】
-        <br>
-        <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit%20Site-blue?style=flat-square" alt="Visit Xuanshu API website">
-        </a>
-      </sub>
-    </td>
+<br>
+<table>
+  <tr>
+    <td width="180" align="center"><a href="https://www.xuanshuapi.com/" target="_blank"><img src="assets/sponsors/xuanshuapi-logo.svg" alt="Xuanshu API" width="100"><br><b>Xuanshu API</b></a></td>
+    <td><a href="https://www.xuanshuapi.com/" target="_blank"><b>Xuanshu API</b></a> — a next-generation AI model routing gateway for enterprises, technical teams, and individual developers, providing one-stop API access to world-class top models (Claude, GPT, Grok, etc.) with enterprise-grade stability. Recharge and enjoy 20% off, models starting from 20% of the original price, $5 free upon registration, invoice support for enterprises. Click <a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">this link</a> to register and get an extra $5 credit.</td>
+  </tr>
+  <tr>
+    <td width="180" align="center"><a href="https://www.infistar.cc/register?aff=VTGJ8P6T&ref_source=link" target="_blank"><img src="assets/sponsors/infistar-logo.png" alt="Infistar.cc" width="100"><br><b>Infistar.cc</b></a></td>
+    <td><a href="https://www.infistar.cc/register?aff=VTGJ8P6T&ref_source=link" target="_blank"><b>Infistar.cc</b></a> — a one-stop global LLM API platform. One key works with every tool in this list: plug &amp; play, any tool that supports a custom Base URL connects directly, with one shared balance across tools; official API access with full-power models and stable multi-route balancing, plus stable direct connectivity in China and CNY settlement; 18+ providers and 190+ models (Claude / GPT / DeepSeek, etc.) — switching models is just changing the name; select models from as low as 1% of official pricing, plus account top-up service for GPT / Claude / Gemini. Sign up via this <a href="https://www.infistar.cc/register?aff=VTGJ8P6T&ref_source=link" target="_blank">exclusive link</a> to get a $5 trial credit.</td>
   </tr>
 </table>
 </details>
