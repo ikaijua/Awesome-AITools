@@ -18,27 +18,19 @@
 
 ## 💎 赞助商
 
-<p align="center">
-  非常感谢赞助商的慷慨支持！
-</p>
+非常感谢赞助商的慷慨支持！有意赞助请[联系我们](#赞助项目-赞赏支持)。
 
 <details open>
 <summary>点击折叠</summary>
-<table align="center" cellpadding="10" style="width:100%; border-collapse:collapse;">
-  <tr align="center">
-    <td width="500" valign="middle" align="center">
-      <sub>
-        <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img src="assets/sponsors/xuanshuapi-cn.jpg" />
-        </a>
-        <br>
-        【<b>玄枢API</b>是面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude, GPT, Grok等）一站式API 接入。充值享八折，模型2折起，注册送5美金，企业支持开票，点<a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">此链接</a>注册额外获赠5美金额度。】
-        <br>
-        <a href="https://www.xuanshuapi.com/" target="_blank">
-          <img src="https://img.shields.io/badge/访问网站-blue?style=flat-square" alt="访问玄枢 API 网站">
-        </a>
-      </sub>
-    </td>
+<br>
+<table>
+  <tr>
+    <td width="180" align="center"><a href="https://www.xuanshuapi.com/" target="_blank"><img src="assets/sponsors/xuanshuapi-logo.svg" alt="玄枢API" width="100"><br><b>玄枢API</b></a></td>
+    <td><a href="https://www.xuanshuapi.com/" target="_blank"><b>玄枢API</b></a> — 面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude、GPT、Grok 等）一站式 API 接入。充值享八折，模型 2 折起，注册送 5 美金，企业支持开票；点<a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">此链接</a>注册额外获赠 5 美金额度。</td>
+  </tr>
+  <tr>
+    <td width="180" align="center"><a href="https://www.infistar.cc/register?aff=VTGJ8P6T&ref_source=link" target="_blank"><img src="assets/sponsors/infistar-logo.png" alt="Infistar.cc" width="100"><br><b>无限星河</b></a></td>
+    <td><a href="https://www.infistar.cc/register?aff=VTGJ8P6T&ref_source=link" target="_blank"><b>Infistar.cc（无限星河）</b></a> — 一站式全球大模型 API 服务平台，一个 Key 通吃清单里的所有工具：即插即用，支持自定义 Base URL 的工具填入即可直连，跨工具共享同一余额；官方接入、满血保真，多线路负载均衡，国内直连稳定，人民币结算；聚合 18+ 厂商、190+ 模型（Claude / GPT / DeepSeek 等），换模型只改名字；部分价格低至官方 0.1 折；另提供 GPT / Claude / Gemini 账号代充服务。走<a href="https://www.infistar.cc/register?aff=VTGJ8P6T&ref_source=link" target="_blank">专属通道</a>注册即享 $5 体验额度。</td>
   </tr>
 </table>
 </details>
