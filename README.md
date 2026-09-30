@@ -168,6 +168,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Understand Anything | AI-powered codebase and knowledge base analysis tool that builds interactive visual knowledge graphs. Features multi-agent analysis, architecture guided tours, and semantic search for large codebases. Works as a plugin for Claude Code, Cursor, and more. [Intro](docs/understand-anything/README.md) | [Github](https://github.com/Lum1104/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=social) | Free |
 | Kortix | The open-source AI Management System — run a company's agent workforce with agents, skills, memory and 3,000+ connectors as files in one git repo you own; each session boots its own isolated Linux machine, and work lands through a human-reviewed change request. Self-host or managed cloud, any model with your own keys. | [Github](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | Free |
 
+| aiFetchly | Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows. Runs on Windows, macOS, Linux. | [Website](https://www.aifetchly.com) [Github](https://github.com/robertzengcn/aiFetchly) ![GitHub Repo stars](https://img.shields.io/github/stars/robertzengcn/aiFetchly?style=social) | Free |
 ### Agent Skills
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
