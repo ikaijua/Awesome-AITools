@@ -461,3 +461,7 @@ Interested in sponsoring this project? Feel free to reach out!
 </p>
 
 </div>
+
+---
+
+This list is licensed under [CC BY 4.0](LICENSE) — free to share, translate, and reuse it with attribution.

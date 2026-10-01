@@ -515,3 +515,7 @@ Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论�
 如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！ღ( ´･ᴗ･` )ღ
 
 <img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="30%" height="30%" />
+
+---
+
+本仓库内容采用 [CC BY 4.0](LICENSE) 许可协议 —— 欢迎转载、翻译与二次使用，注明出处即可。
