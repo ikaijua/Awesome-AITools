@@ -300,6 +300,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | hailuoai | AI Video Creation Tool by MiniMax, powered by **MiniMax H3 / Hailuo 3**. | [URL](https://hailuoai.com/video) | Free/Paid |
 | Dream Machine | By Luma AI. Dream Machine is an AI model that makes high quality, realistic videos fast from text and images, powered by **Luma Ray 3.2** (released Jun 9, 2026). [Official introductory video](https://www.youtube.com/watch?v=Zb3tffmBPRE) | [URL](https://lumalabs.ai/dream-machine) | Free/Paid |
 | capcut | Subtitle-generated speech, speech recognition, and very convenient and powerful video editing|[URL](https://www.capcut.com/)|Free/Paid|
+| ReelWorkshop | Browser compilation maker for vertical 9:16: import/arrange/trim/preview free; finished export on Starter. Not generative AI. |[URL](https://reelworkshop.com)|Free/Paid|
 | Runway | AI video generation and editing platform. Current Gen-4/Gen-4.5 models support text-to-video, image-to-video, video-to-video, motion brush, and advanced cinematic controls. | [URL](https://runwayml.com/) | Paid/Free trial|
 | pixverse | Create Amazing AI Videos from Text & Photos |[URL](https://app.pixverse.ai/)|Paid/Free trial|
 | Pika | Text/Image to video. Current generation **Pika 2.2** (released Feb 27, 2025) supports up to 10-second 1080p clips and Pikaframes. | [URL](https://pika.art/home) | Paid/Free trial |
