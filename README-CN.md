@@ -338,6 +338,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | AirLLM | 通过逐层加载大幅降低大语言模型推理显存占用的 Python 库，可在 4GB 显存上运行 70B 模型、8GB 上运行 405B 模型、约 12GB 上运行 671B 的 DeepSeek-V3。支持 4 位/8 位量化，并通过统一的 AutoModel 接口支持众多开源模型。 | [Github](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | 免费 |
+| ModelVRAM | 免费的在线大模型显存计算器，按 Hugging Face 上模型自身的配置估算推理或微调所需显存（权重、KV 缓存、运行开销），列出装得下的显卡和 Mac，并给出可直接运行的 llama-server 命令。估算结果用 20 条公开的 llama.cpp/vLLM 日志核对。 | [URL](https://modelvram.com/zh/) | 免费 |
 
 ### 阅读
 | 名称 | 说明 | 链接 | 费用 |
