@@ -6,6 +6,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
 - Updated Gemini entry to mention Gemini Spark (persistent background personal agent across Google Workspace) in both EN/CN
 - Added Higgsfield (multi-model AI video studio aggregating Seedance/Kling/Veo/Sora with cinematic camera presets and Soul ID character consistency) to Video Creation section, with intros in Discussions #1057 (CN) / #1058 (EN) (both EN/CN)
+- Added Jev Social (socai-io/jev-social) to the AI Agent section: a read-only social research app that pairs bounded Jev operation selection with local socai CLI browser execution for Instagram, TikTok, and LinkedIn evidence (both EN/CN)
 - Removed ChatGPT for YouTube (browser-extension wrapper), ControlNet (unmaintained since Feb 2024, absorbed into diffusers/ComfyUI), and f/awesome-chatgpt-prompts (prompt-template collection) (both EN/CN)
 - Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding (both EN/CN)
 - Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section (both EN/CN)
