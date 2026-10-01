@@ -222,6 +222,7 @@
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [Github](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。[入门介绍](docs/codex-security/README-CN.md) | [Github](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [Github](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
+| Manifest API Bot | GitHub App，自动找出仓库代码调用的第三方 API，并每天检查这些 API 的变更。当 API 变更（破坏性变更、弃用、字段行为变化）影响到代码时，它会提交一个由 LLM 编写修复代码的 pull request，并说明是哪个 API、改了什么、生效日期以及受影响的文件。支持任意 API，无需 OpenAPI 规范。早期用户免费。 | [URL](https://manifest.build/api-bot/) | 免费 |
 
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
