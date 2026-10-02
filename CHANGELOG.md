@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Dearovo, an AI-assisted message-writing tool for ready-to-send and personalized good-night texts, to the Writing section (both EN/CN)
 - Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
 
 ## September 2026
