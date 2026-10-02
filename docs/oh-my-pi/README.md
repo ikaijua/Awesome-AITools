@@ -2,7 +2,7 @@
 
 ## What is oh-my-pi?
 
-[oh-my-pi](https://github.com/can1357/oh-my-pi) (also known as `omp`) is a fork of [Pi](https://github.com/mariozechner/pi) by [@can1357](https://github.com/can1357). It is a terminal-native AI coding agent with the IDE wired in — designed to edit, search, debug, and execute code from a single TUI surface while leveraging everything your IDE already knows.
+[oh-my-pi](https://github.com/can1357/oh-my-pi) (also known as `omp`) is a fork of [Pi](https://github.com/earendil-works/pi) by [@can1357](https://github.com/can1357). It is a terminal-native AI coding agent with the IDE wired in — designed to edit, search, debug, and execute code from a single TUI surface while leveraging everything your IDE already knows.
 
 The project ships with 40+ model providers, 32 built-in tools, 14 LSP operations, and 28 DAP operations, all built on top of a ~55k-line Rust core.
 

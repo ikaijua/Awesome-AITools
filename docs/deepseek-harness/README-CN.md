@@ -2,7 +2,7 @@
 
 ## 什么是 DeepSeek Harness？
 
-DeepSeek Harness（命令行工具名 `dsh`）是 DeepSeek AI 开源的 **agent harness（智能体运行时）**，采用基于 [Cordis](https://github.com/trycua/cordis) 的「**一切皆插件**」架构。它同时提供 CLI 与本地 Web UI，覆盖 LLM、MCP、LSP、ACP、沙箱、Skills、子代理、会话、工具、计划、调度、Shell、Web 等完整子系统——不是只套了一个模型的薄壳，而是一个真正可扩展的运行时框架。
+DeepSeek Harness（命令行工具名 `dsh`）是 DeepSeek AI 开源的 **agent harness（智能体运行时）**，采用基于 [Cordis](https://github.com/cordiverse/cordis) 的「**一切皆插件**」架构。它同时提供 CLI 与本地 Web UI，覆盖 LLM、MCP、LSP、ACP、沙箱、Skills、子代理、会话、工具、计划、调度、Shell、Web 等完整子系统——不是只套了一个模型的薄壳，而是一个真正可扩展的运行时框架。
 
 > ⚠️ **开发者预览版。** DeepSeek Harness 于 2026 年 8 月 13 日开源，仍在快速迭代，预计会有不兼容更新。请将 CLI/API 视为不稳定。
 
