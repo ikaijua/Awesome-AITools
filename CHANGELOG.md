@@ -3,6 +3,14 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage (both EN/CN)
+- Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com (both EN/CN)
+- Renamed the Genesis entry to Genesis World (v1.0, May 2026, maintained by Genesis AI; Nyx renderer, Quadrants compiler) (both EN/CN)
+- Renamed claw-code to agent-code, the Rust reimplementation of the Claude Code harness (the claw-code crate on crates.io is now a deprecated stub) (both EN/CN)
+- Refreshed flagship versions: Ideogram 4.5, Kling 4.0 (in preview), Suno v6, Mureka V9.5, and Krea's own open-weight Krea 2 image model (both EN/CN)
+- Noted that Gemini 4 Argon (Sep 30, 2026) is only available through the controlled Fairwind program, so Gemini 3.8 Flash remains the widely available flagship (both EN/CN)
+- Corrected both DeepSeek entries: the planned Sep 14 retirement of V4-Pro was reversed and it is still served at the original price (both EN/CN)
+- Noted Nano Banana 2 as the current Gemini app default, and marked Palmier Pro as closed-source since v0.7.6 (both EN/CN)
 - Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
 
 ## September 2026
