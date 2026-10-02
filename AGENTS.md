@@ -4,15 +4,16 @@ This file provides context and instructions for AI coding agents (e.g., Cursor, 
 
 ## Repository Purpose
 
-A curated, bilingual (EN/CN) "awesome list" of AI tools — chatbots, agents, skills, CLI tools, and more. There is no application code; the repository's product is the two README files and their supporting `docs/` deep-dives.
+A curated, bilingual (EN/CN) "awesome list" of AI tools — chatbots, agents, skills, CLI tools, and more. There is no application code; the repository's product is the two README files, with long-form tool intros hosted as GitHub Discussions.
 
 ## Key Files & Directories
 
 - `README.md` — Main tool list (English).
 - `README-CN.md` — Main tool list (Chinese).
-- `docs/<tool-slug>/` — Longer-form intros for individual tools.
 - `CHANGELOG.md` — Monthly log (e.g. `## June 2026`) of additions/removals/renames.
 - `scripts/format_readmes.py` — Maintenance/normalization script.
+
+Note: there is **no `docs/` directory**. It was retired — every per-tool page was either migrated to a GitHub Discussion or dropped. Do not recreate it.
 
 ## Architecture
 
@@ -21,9 +22,9 @@ The repo is structured as two parallel, mirrored documents that must stay in syn
 - `README.md` and `README-CN.md` share the same category structure, the same set of tools, and the same 4-column table schema:
   - English: `| Name | Description | Links | Fees |`
   - Chinese: `| 名称 | 说明 | 链接 | 费用 |`
-- README entries with a deep-dive link to `docs/<slug>/` via `[Intro](docs/<slug>/...)` (EN) and `[入门介绍](docs/<slug>/...)` (CN).
+- README entries with a deep-dive link point to a GitHub Discussion, e.g. `[Intro](https://github.com/ikaijua/Awesome-AITools/discussions/<n>)` (EN) and `[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/<n>)` (CN). One discussion per language — the EN entry links the English post, the CN entry links the Chinese post.
 
-When adding/removing/editing a tool, the change almost always touches **both** READMEs (and often `CHANGELOG.md` and a `docs/` page). A change in only one language is a bug.
+When adding/removing/editing a tool, the change almost always touches **both** READMEs (and often `CHANGELOG.md` and a GitHub Discussion). A change in only one language is a bug.
 
 ## Commands
 
@@ -37,9 +38,10 @@ There is no build, test, or lint suite beyond the above — CI only runs link ch
 - When adding a new tool, follow the existing table format in both READMEs.
 - Table format is strict: exactly 4 columns, with the separator row `| --- | --- | --- | --- |`. `format_readmes.py` will rewrite divergent separators, so don't hand-craft 3- or 5-column variants.
 - The TOC at the top of each README lists category anchors. The formatter knows about two specific anchor-typo fixes (`#news-information` in EN, `#gpt-llms应用` in CN) — preserve those exact slugs.
-- When linking to a deep-dive doc, use the EN/CN phrasing pair `[Intro](...)` / `[入门介绍](...)` so both READMEs stay parallel.
-- **Deep-dive placement convention**: For new tools, write the detailed intro as GitHub Discussions (one CN + one EN, e.g. Codex, Kimi Code & Kimi Work, 豆包工作, Google AX, ARTEMIS) and link the README entry to the discussion — do NOT add new per-tool pages under `docs/`. Content that changes frequently (product features, pricing details) belongs in Discussions; only stable, curated reference material goes in `docs/`. (Existing `docs/` pages remain until migrated.)
+- When linking to a deep-dive discussion, use the EN/CN phrasing pair `[Intro](...)` / `[入门介绍](...)` so both READMEs stay parallel.
+- **Deep-dive placement convention**: All long-form tool intros live in GitHub Discussions (one CN + one EN, e.g. Codex, Kimi Code, 豆包工作, Google AX, ARTEMIS), and the README entry links to the corresponding discussion — never add per-tool pages under a `docs/` directory. Content that changes frequently (product features, pricing details) belongs in Discussions.
+- **Discussion body format**: Start with an `# H1` matching the discussion title, then a table of contents whose entries are **absolute** anchor links back to the discussion URL. EN posts use `## Table of Contents`; CN posts use `## 目录` preceded by a maintenance note, e.g. `> 本帖随产品更新持续维护。仓库 README 的 <名称> 条目已链接到本帖，详细介绍直接在这里更新，避免频繁改动仓库。` Titles follow `<Tool>: Detailed Introduction` (EN) / `<名称> 详细介绍` (CN).
 - Keep tool descriptions concise and factual; ensure links are valid.
 - Maintain bilingual consistency between English and Chinese READMEs.
 - **Marker conventions**: 🌟 marks tools that are genuinely good to use — the first-choice pick in their category; apply it sparingly. 🌱 marks freshly released / early-stage products whose direction is still uncertain (e.g., developer previews); revisit 🌱 entries periodically and remove the marker once the tool matures — or remove the entry if it stalls.
-- **CHANGELOG.md**: Document additions, removals, renames, and notable model updates (e.g., when a chatbot or model entry is refreshed to a new flagship version). Keep entries concise — one line per change: tool/section name, the essence of what changed, and `(both EN/CN)`; spec details and background belong in the README or discussion pages, not the changelog. Minor description updates (e.g., fixing typos, small feature list tweaks), section reordering, and moving tools within a section do NOT require a changelog entry. Neither do link/reference fixes — e.g., repairing dead links, repointing links after a `docs/` page moves to a Discussion, or other changes that alter no tool information.
+- **CHANGELOG.md**: Document additions, removals, renames, and notable model updates (e.g., when a chatbot or model entry is refreshed to a new flagship version). Keep entries concise — one line per change: tool/section name, the essence of what changed, and `(both EN/CN)`; spec details and background belong in the README or discussion pages, not the changelog. Minor description updates (e.g., fixing typos, small feature list tweaks), section reordering, and moving tools within a section do NOT require a changelog entry. Neither do link/reference fixes — e.g., repairing dead links, repointing a README link to a different Discussion, or other changes that alter no tool information.
