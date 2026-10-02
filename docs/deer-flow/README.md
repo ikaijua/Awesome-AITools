@@ -75,7 +75,7 @@ DeerFlow can execute arbitrary code, browse the web, and access configured integ
 - [GitHub Repository](https://github.com/bytedance/deer-flow)
 - [Official Website](https://deerflow.tech/)
 - [Documentation](https://github.com/bytedance/deer-flow/tree/main/docs)
-- [Sister Project: LLM Space](https://github.com/bytedance/llm-space)
+- [Sister Project: LLM Space](https://github.com/deer-flow/llm-space)
 
 ## License
 

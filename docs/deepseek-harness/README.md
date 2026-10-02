@@ -8,7 +8,7 @@ DeepSeek Harness (dsh) is an open-source agent harness developed by DeepSeek AI.
 
 ## Highlights
 
-- **Everything is a plugin.** The runtime is built on [Cordis](https://github.com/trycua/cordis), a well-known IoC-style plugin framework. Every subsystem — LLM, MCP, LSP, sessions, tools, plans, sandbox, scheduling, web, etc. — is a Cordis plugin, so the same `event` / `service` / `effect` model is used across all of them.
+- **Everything is a plugin.** The runtime is built on [Cordis](https://github.com/cordiverse/cordis), a well-known IoC-style plugin framework. Every subsystem — LLM, MCP, LSP, sessions, tools, plans, sandbox, scheduling, web, etc. — is a Cordis plugin, so the same `event` / `service` / `effect` model is used across all of them.
 - **CLI + Web UI out of the box.** Run `npx @deepseek-ai/dsh web` and the Web UI is served at `http://127.0.0.1:3080` by default. No separate "headless" vs "GUI" build.
 - **Bilingual architecture docs.** The `docs/` tree ships in English *and* Chinese, covering architecture, agent lifecycle, tool execution pipeline, capability seams, the Cordis primer, defensive patterns, and more.
 - **40+ first-party packages.** `core`, `llm`, `mcp`, `lsp`, `acp`, `sandbox`, `skill`, `subagent`, `session`, `session-query`, `tools` (via `tool-catalog` + `tool-execution-pipeline`), `plan`, `goal`, `schedule`, `web`, `shell`, `terminal`, `workflow`, `jobs`, `hooks`, `guard`, `feedback`, `compaction`, `context`, `attachment`, `identity`, `credentials`, `e2b`, `runtime-diagnostics`, `typert`, `client`, `host`, `sdk`, `extensions`, etc.

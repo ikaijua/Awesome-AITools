@@ -75,7 +75,7 @@ DeerFlow 可以执行任意代码、浏览网页并访问已配置的集成。�
 - [GitHub 仓库](https://github.com/bytedance/deer-flow)
 - [官方网站](https://deerflow.tech/)
 - [文档](https://github.com/bytedance/deer-flow/tree/main/docs)
-- [姊妹项目：LLM Space](https://github.com/bytedance/llm-space)
+- [姊妹项目：LLM Space](https://github.com/deer-flow/llm-space)
 
 ## 许可证
 

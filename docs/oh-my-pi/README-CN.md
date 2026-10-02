@@ -2,7 +2,7 @@
 
 ## 什么是 oh-my-pi？
 
-[oh-my-pi](https://github.com/can1357/oh-my-pi)（简称 `omp`）是 [@can1357](https://github.com/can1357) 基于 [Pi](https://github.com/mariozechner/pi) fork 的终端原生 AI 编码 agent。它的定位是 **“A coding agent with the IDE wired in”**——让 agent 在一个 TUI 界面里完成代码编辑、搜索、调试和执行，并能利用 IDE 已掌握的所有代码知识。
+[oh-my-pi](https://github.com/can1357/oh-my-pi)（简称 `omp`）是 [@can1357](https://github.com/can1357) 基于 [Pi](https://github.com/earendil-works/pi) fork 的终端原生 AI 编码 agent。它的定位是 **“A coding agent with the IDE wired in”**——让 agent 在一个 TUI 界面里完成代码编辑、搜索、调试和执行，并能利用 IDE 已掌握的所有代码知识。
 
 项目基于约 5.5 万行 Rust 核心，内置 40+ 模型提供商、32 个工具、14 种 LSP 操作和 28 种 DAP 调试操作。
 
