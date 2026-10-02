@@ -255,6 +255,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | DingTalk CLI | DingTalk official command-line interface tool for quickly developing and managing DingTalk applications | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | Free |
 | WeWork CLI | WeCom (WeChat Work) open-source command-line interface tool, helping developers quickly develop and manage WeCom applications | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | Free |
 | OpenConnector | Open-source connector gateway for AI agents. Connect user app accounts once, then expose a shared catalog of 1500+ SaaS providers to agents via SDK, CLI, MCP, HTTP, and OpenAPI. | [Github](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | Free |
+| LogNorm | SEO and AI-visibility (GEO) platform for AI agents. Its hosted MCP server (OAuth, no API keys) lets Claude Code, Codex and Cursor work a ranked backlog of site audits, fixes, content drafts and AI-answer tracking. Free plan available. | [URL](https://lognorm.com/) [Github](https://github.com/lognorm/lognorm-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/lognorm/lognorm-mcp?style=social) | Free/Paid |
 
 ### AI Finance & Quant Investment
 | Name | Description | Links | Fees |
