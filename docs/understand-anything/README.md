@@ -61,7 +61,7 @@ npm install -g understand-anything
 
 ## Related Resources
 
-- [GitHub Repository](https://github.com/Lum1104/Understand-Anything)
+- [GitHub Repository](https://github.com/Egonex-AI/Understand-Anything)
 - [Official Website](https://understandanything.ai)
 
 ## License

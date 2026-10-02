@@ -61,7 +61,7 @@ npm install -g understand-anything
 
 ## 相关资源
 
-- [GitHub 仓库](https://github.com/Lum1104/Understand-Anything)
+- [GitHub 仓库](https://github.com/Egonex-AI/Understand-Anything)
 - [官方网站](https://understandanything.ai)
 
 ## 开源协议
