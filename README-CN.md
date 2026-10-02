@@ -191,6 +191,7 @@
 | Superpowers | 面向编码代理的完整软件开发方法论，基于可组合技能构建。支持跨 Claude Code、Codex、Cursor、Kimi Code、OpenCode、Antigravity、GitHub Copilot CLI 和 Pi 强制执行规格驱动设计、TDD、系统调试、代码审查和子代理驱动开发。 [入门介绍](docs/superpowers/README-CN.md) | [Github](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | 免费 |
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [Github](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | Claude Video | 用于 Claude Code 的 Agent Skill，让 AI 能够"观看"视频：提取关键帧、获取字幕/转录文本，并基于画面和音频内容回答问题。支持 YouTube、TikTok、本地文件，以及通过 Agent Skills CLI 接入 50+ 智能体宿主。 | [Github](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
+| PlaceCall | 让 AI 智能体给美国商家拨打真实电话的 Agent Skill、Claude Code 插件与远程 MCP 服务器（`https://api.voygr.tech/mcp`）：订位、预约、咨询与询价。可处理语音菜单（IVR）与排队等待，通话中可向用户提问，返回结构化结果、通话文字记录与录音。 | [URL](https://voygr.tech/placecall/) [Github](https://github.com/voygr-tech/placecall) ![GitHub Repo stars](https://img.shields.io/github/stars/voygr-tech/placecall?style=social) | 免费/付费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
