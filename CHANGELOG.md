@@ -2,6 +2,9 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## October 2026
+- Added Honer AI, a native Android assistant, to General LLM Applications (both EN/CN)
+
 ## September 2026
 - Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
 - Updated Gemini entry to mention Gemini Spark (persistent background personal agent across Google Workspace) in both EN/CN
