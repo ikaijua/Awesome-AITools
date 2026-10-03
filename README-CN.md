@@ -85,8 +85,8 @@
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.3**（2026 年 8 月发布）；同步提供 **GLM-5.3-Flash**（原生多模态，MIT 开源权重，100 万 token 上下文），编程与 Agent 能力接近 Claude Opus 4.8，价格大幅降低。**核心差异：** Agentic 编程、仓库级分析、网络安全与长上下文推理。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | 1. [URL](https://www.minimax.io/)<br>2. [API](https://platform.minimaxi.com/) | 免费/付费 |
 | Grok | SpaceXAI（原 xAI）的 AI 助手，当前最强模型：**Grok 4.7**（2026 年 9 月 21 日发布；主打编程与知识工作，500K 上下文，支持文本与图像输入）。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。 | 1. [URL](https://x.com/i/grok)<br>2. [API](https://console.x.ai/) | 免费/付费 |
-| Meta Muse | 🌱 Meta 的个人 AI 智能体：不聊天，直接替用户干活——订差旅、填表格、购物、管理邮件日历，隔离虚拟机运行 + Sentinel 审批敏感操作，底层为自研 **Muse Spark 1.3** 模型。上线约 10 天即登顶美国 App Store 免费榜（反超 ChatGPT）；目前仅美加可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
-|Jev| 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；输入 $0.042/百万 token，输出免费，延迟 70-500ms。创始人为前 OpenAI 研究员、RLHF 共同发明人之一 Diogo Almeida，获 DCVC 领投的 4000 万美元种子轮。注意：性能数字为官方口径，尚无第三方验证。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) |[URL](https://typesafe.ai/)| 免费/付费 |
+| Meta Muse | 🌱 Meta 的个人 AI 智能体：不聊天，直接替用户干活——订差旅、填表格、购物、管理邮件日历，隔离虚拟机运行 + Sentinel 审批敏感操作，底层为自研 **Muse Spark 1.3** 模型。目前仅美加可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
+| Jev | 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；输入 $0.042/百万 token，输出免费，延迟 70-500ms。注意：性能数字为官方口径，尚无第三方验证。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) | [URL](https://typesafe.ai/) | 免费/付费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
@@ -100,10 +100,10 @@
 | Muse Glimmer | Meta 开源的 300 亿参数多模态本地智能体模型，Apache 2.0 许可。支持文本/图像输入、工具调用和 4-bit 量化，可在消费级显卡本地运行。由 Muse Spark 蒸馏而来。 | [Hugging Face](https://huggingface.co/meta-models/Muse-Glimmer-30B) | 免费 |
 | Llama 4 | Meta 开源多模态模型系列——生态与部署支持最成熟的选择。MoE 版本从 Scout（1000 万 token 上下文）到 Maverick（400B 总参 / 17B 激活）；支持文本与图像输入。 |[GitHub](https://github.com/meta-llama/llama-models) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social)| 免费 |
 | Mixtral-8x7B | 法国 Mistral AI 开源的稀疏专家混合模型（SMoE），开放权重——推理快、同尺寸质量高，是其时代默认的开源选择（注意：官方推理库 mistral-inference 已于 2026 年上半年归档为只读，实际部署建议 vLLM / SGLang / llama.cpp） <br>论文地址：https://arxiv.org/pdf/2401.04088.pdf <br>论文主页：https://mistral.ai/news/mixtral-of-experts/ |[GitHub](https://github.com/mistralai/mistral-inference) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social)|免费|
-|grok-1|马斯克的xAI公司开源的大语言模型|[GitHub](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social)|免费|
+| grok-1 | 马斯克 xAI 公司开源的大语言模型（Apache-2.0）——最早开放的前沿级开源权重之一。 | [GitHub](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social) | 免费 |
 | Qwen3 / Qwen3.8 | 阿里云通义千问开源 LLM/VLM 系列——目前最完整的开源模型谱系，编码、多语言和智能体场景全面。Qwen3.8 新增稠密视觉语言模型（图像/视频输入）和低成本高吞吐的 **Qwen3.8-Flash-Next**。 | [GitHub](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) [Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B) | 免费 |
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/zai-org/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/ChatGLM2-6B?style=social)| 免费|
-| Phi-4 | 微软开源的小型语言模型（SLM）系列，包含通用、推理、多模态和视觉版本（如 Phi-4-mini、Phi-4、Phi-4-multimodal、Phi-4-reasoning-vision），面向端侧与云端高效部署。 | [GitHub](https://github.com/microsoft/PhiCookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) | 免费 |
+| Phi-4 | 微软开源的小型语言模型（SLM）系列——以小体积、高效部署见长，覆盖端侧与云端场景。包含通用、推理、多模态和视觉版本（如 Phi-4-mini、Phi-4、Phi-4-multimodal、Phi-4-reasoning-vision）。 | [GitHub](https://github.com/microsoft/PhiCookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) | 免费 |
 
 ### 大语言模型排行榜
 | 名称 | 说明 | 链接 | 费用 |
@@ -198,8 +198,8 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
-| Trae | 字节跳动推出的类似Cursor的AI编程IDE|[URL](http://trae.com.cn)|免费|
-| Cursor | 🌟 AI 编程智能体与编辑器，2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
+| Trae | 字节跳动推出的 AI 编程 IDE（对标 Cursor），主打 Agent 化编程，支持 AI 问答、代码补全与多步自主编程。 | [URL](http://trae.com.cn) | 免费 |
+| Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
 | GitHub Copilot | GitHub 推出的代码编写助手，现已支持 OpenAI、Anthropic、Gemini 等厂商模型逐任务切换 <br>[Github Copilot技巧和窍门](https://bilibili.com/video/BV1ic411T7Jd) | [URL](https://github.com/features/copilot) | 免费/付费 |
 | Bolt.new | StackBlitz 推出的浏览器端 AI 全栈应用构建工具——用自然语言描述需求，AI 智能体直接在浏览器内脚手架、运行并部署完整应用。基于 WebContainers 在浏览器中运行真实 Node.js，无需本地环境或云虚拟机。免费档 / Pro $25 每月 / Teams $30 每人每月 / Enterprise 定制；开源姊妹版 bolt.diy 支持自带 API Key。 | [URL](https://bolt.new/) | 免费/付费 |
 | OpenCode | 开源的终端原生 AI 编码 agent。不绑定特定厂商（支持 Anthropic、OpenAI、Google 及本地模型），采用 TUI 客户端/服务端架构，集成 LSP，支持自定义 agent 和 MCP 服务器。 | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | 免费 |
@@ -268,7 +268,7 @@
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[GitHub](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
-| Midjourney | 输入文字或图片进行图片创作。当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
+| Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
 | Stable diffusion webui | 开源项目，输入文字或图片进行图片创作，Stable Diffusion WebUI 是 Stable Diffusion 的 GUI，支持 SD1.x/2.x、SDXL 与 SD3.x，不支持 Flux；项目自 2024 年 v1.10.1 后基本停更，新用户建议改用 Forge（Neo）或 ComfyUI。[新手入门教程](https://www.bilibili.com/video/BV1Qo4y167AK/) | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) | 免费 |
 | Photoshop 生成式AI功能| 在Adobe Photoshop中使用生成式AI填充功能。功能介绍：<br> 1. [B站视频：Photoshop 革命性新功能-生成式填充功能介绍](https://www.bilibili.com/video/BV1su411Y79Z/) <br> 2. [巫师后期B站视频：引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！](https://www.bilibili.com/video/BV1qo4y1E7tK)| [URL](https://www.adobe.com/products/photoshop/generative-fill.html) |付费（按生成积分计费）|
 | firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
@@ -292,13 +292,13 @@
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
 | 通义万相 Wan 3.0 | 阿里通义万相全能参考视频生成模型，支持文本、图片、视频、音频、文档、PPT、网页等多模态参考输入，最高 20 个素材参考，单次直出最长 30 秒视频，具备像素级一致性保持和精准视频编辑能力 | [URL](https://tongyi.aliyun.com/wanxiang/videoCreation) | 免费/付费 |
-| 海螺AI | MiniMax 的 AI 视频生成平台，当前基于 **MiniMax H3 / Hailuo 3**。 | [URL](https://hailuoai.com/video) | 免费/付费 |
-| 快手可灵 | 快手 AI 视频创作平台，**Kling 4.0**（2026 年 9 月开启内测）：单次原生生成最长 30 秒、4K/1080p 10-bit HDR、最多 15 项多模态参考与 10 张关键帧；上一代 **Kling 3.0** 仍可用。支持文生视频、图生视频、首尾帧、动作控制。 | [URL](https://kling.kuaishou.com/) | 免费/付费 |
+| 海螺AI | MiniMax 的 AI 视频生成平台，当前基于 **MiniMax H3 / Hailuo 3**，以接近真人自然的动态质感著称。 | [URL](https://hailuoai.com/video) | 免费/付费 |
+| 快手可灵 | 快手 AI 视频创作平台——国产视频模型中的画质标杆。**Kling 4.0**（2026 年 9 月开启内测）：单次原生生成最长 30 秒、4K/1080p 10-bit HDR、最多 15 项多模态参考与 10 张关键帧；上一代 **Kling 3.0** 仍可用。支持文生视频、图生视频、首尾帧、动作控制。 | [URL](https://kling.kuaishou.com/) | 免费/付费 |
 | PixVerse | 利用文本和照片创建令人惊叹的人工智能视频 |[URL](https://app.pixverse.ai/)|付费/试用|
 | Dream Machine | Luma AI 的视频生成工具（Dream Machine 品牌已停用，旧链接跳转至 lumalabs.ai/app）。能根据文本和图像快速制作高质量、逼真的视频，底层采用 **Luma Ray 3.2**。定价页已无公开免费档，最低付费档 Plus 为 $30/月（年付约合 $25/月）。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE) | [URL](https://lumalabs.ai/) | 付费 |
-| Runway | AI 视频生成与编辑平台，当前 Gen-4/Gen-4.5 模型支持文生视频、图生视频、视频生视频、运动笔刷及高级电影级镜头控制 | [URL](https://runwayml.com/) | 免费试用/付费|
+| Runway | AI 视频生成与编辑平台——AI 电影制作的开创者。当前 Gen-4/Gen-4.5 模型支持文生视频、图生视频、视频生视频、运动笔刷及高级电影级镜头控制。 | [URL](https://runwayml.com/) | 免费试用/付费 |
 | krea.ai | 提供文生图/视频、图片放大、模型训练等功能，已自研并开源 **Krea 2** 图像基础模型（社区许可）；视频侧以聚合 Veo、Kling、Luma、Runway、Seedance 等第三方模型为主。 | [URL](https://www.krea.ai/) | 免费试用/付费 |
-| HeyGen | 根据文字生成数字人的配音视频 | [URL](https://app.heygen.com/) | 免费试用/付费 |
+| HeyGen | 根据文字生成数字人配音视频——领先的 AI 数字人视频平台，以逼真的虚拟主播和多语言口播著称。 | [URL](https://app.heygen.com/) | 免费试用/付费 |
 | Higgsfield | 多模型 AI 视频创作平台：一个订阅接入 15+ 第三方前沿模型（Seedance、Kling、Veo、Sora、Nano Banana Pro 等），统一积分钱包。差异化在于 70+ 确定性电影运镜预设、Soul ID 跨镜头角色一致性（5 张以上参考照片训练）、自有 Soul 图像模型，面向营销和社媒内容团队。由前 Snap 生成式 AI 负责人 Alex Mashrabov 创立。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1057) | [URL](https://higgsfield.ai/) | 免费/付费 |
 | Palmier Pro | 面向 AI 构建的 macOS 视频编辑器（注意：v0.7.6 之后已转为闭源专有，仓库仅保留历史 GPLv3 源码）。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana Pro 等生成式图像/视频能力；支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [GitHub](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
@@ -309,7 +309,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | 🌟 Hugging Face | 领先的开源 AI 平台与社区。托管 290 万+ 模型、100 万+ 数据集和 140 万+ Spaces 演示（据官方《State of Open Models: Summer 2026》报告）；通过 Hub、Transformers、Diffusers、Accelerate 等生态支持模型发现、推理、微调和部署。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1109) | [官网](https://huggingface.co/) [GitHub](https://github.com/huggingface) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 免费/付费 |
-| Together AI |Together AI是一个专为生成式AI设计的云平台，提供了从模型推理、微调到GPU集群部署等多种服务。相比其他传统云平台，Together AI 主要聚焦于高效处理开源生成式模型，并为开发者和企业提供更灵活、定制化的解决方案。Together AI 支持多个开源模型，包括 LLaMA、Falcon、FLUX1 等。这些模型覆盖了从自然语言处理、对话系统到代码生成等多个领域，满足了不同场景下的应用需求。用户可以直接调用这些模型，也可以上传自己的数据进行微调，提升模型在特定任务中的表现。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) |[URL](https://www.together.ai/)|免费/付费|
+| Together AI | 专为生成式 AI 设计的云平台，聚焦开源生成式模型的推理、微调与 GPU 集群部署，比传统云更灵活、可定制；支持 LLaMA、Falcon、FLUX1 等开源模型，可直接调用或上传数据微调。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) | [URL](https://www.together.ai/) | 免费/付费 |
 
 ### GPU 编程
 | 名称 | 说明 | 链接 | 费用 |
@@ -417,7 +417,7 @@
 | mureka.ai | 昆仑万维的 AI 生成音乐应用。当前旗舰 **Mureka V9.5**；更高阶的 O3 已预览但未上线。 | [URL](https://www.mureka.ai/) | 免费/付费 |
 |elevenlabs/sound-effects|elevenlabs 提供的通过文本生成音效的工具|[URL](https://elevenlabs.io/app/sound-effects)|免费|
 |audiocraft|Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。自 2025 年 3 月 14 日起停止更新，最后发布版本为 1.4.0a2（PyPI 稳定版停留在 1.3.0）；代码为 MIT，模型权重为 CC-BY-NC 4.0，仅限非商业用途。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|免费|
-| Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
+| Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用：从文本提示词生成完整曲目与音效。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
 
 ### 学术科研
