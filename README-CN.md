@@ -12,7 +12,6 @@
 **这个仓库收集整理AI相关的实用工具，欢迎大家一起推荐更多实用的AI工具，[推荐参考模板](https://github.com/ikaijua/Awesome-AITools/issues/232)**
 
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
-- [📂 全部分类](#全部分类)
 - [赞助项目/赞赏支持](#赞助项目-赞赏支持)
 
 
