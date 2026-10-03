@@ -251,6 +251,7 @@
 | 钉钉 CLI | 钉钉官方命令行工具，帮助开发者快速开发和管理钉钉应用 | [Github](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=social) | 免费 |
 | 企业微信 CLI | 企业微信开源命令行工具，帮助开发者快速开发和管理企业微信应用 | [Github](https://github.com/WecomTeam/wecom-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=social) | 免费 |
 | OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1500+ SaaS 服务的统一目录。 | [Github](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
+| LogNorm | 面向 AI 智能体的 SEO 与 AI 可见性（GEO）平台。其托管的 MCP 服务器（OAuth 授权，无需 API 密钥）让 Claude Code、Codex 和 Cursor 处理按优先级排序的网站审计、修复、内容草稿与 AI 回答追踪任务。提供免费方案。 | [URL](https://lognorm.com/) [Github](https://github.com/lognorm/lognorm-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/lognorm/lognorm-mcp?style=social) | 免费/付费 |
 
 ### AI金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
