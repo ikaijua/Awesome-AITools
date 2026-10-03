@@ -63,7 +63,6 @@
 - [声音克隆与变声](#声音克隆与变声)
 - [语音处理与翻译](#语音处理与翻译)
 - [AI 生成音乐与音效](#ai-生成音乐与音效)
-- [视频翻译](#视频翻译)
 - [学术科研](#学术科研)
 - [OCR 图像识别](#ocr-图像识别)
 - [视频内容总结](#视频内容总结)
@@ -304,6 +303,7 @@
 | Palmier Pro | 面向 AI 构建的 macOS 视频编辑器（注意：v0.7.6 之后已转为闭源专有，仓库仅保留历史 GPLv3 源码）。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana Pro 等生成式图像/视频能力；支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [GitHub](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
+| VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
@@ -419,11 +419,6 @@
 |audiocraft|Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。自 2025 年 3 月 14 日起停止更新，最后发布版本为 1.4.0a2（PyPI 稳定版停留在 1.3.0）；代码为 MIT，模型权重为 CC-BY-NC 4.0，仅限非商业用途。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen)|[GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)|免费|
 | Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
-
-### 视频翻译
-| 名称 | 说明 | 链接 | 费用 |
-| --- | --- | --- | --- |
-|VideoLingo|VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音。|[GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social)|免费|
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 |
