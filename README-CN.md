@@ -239,6 +239,7 @@
 |together.ai chat|与 HuggingChat 类似，可选择不同的开源模型，支持 DeepSeek R1、LLaMA、QWen 和 Flux Schnell。每天 60 条免费信息。|[URL](https://chat.together.ai/)|免费/付费|
 |OpenRouter| 集成 500+ AI 模型（OpenAI、Anthropic、Google、DeepSeek 等 80+ 家提供商）的统一 API 网关，一个 OpenAI 兼容 API Key 即可调用全部模型。模型按厂商原价计费（充值收 5.5% 手续费），支持智能路由 / 故障转移、`:free` 免费模型和 BYOK 自带 Key。日处理 10+ 万亿 token；2026 年 8 月 Stripe 宣布同意收购。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/989) |[URL](https://openrouter.ai/)| 免费/付费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
+| GetAskAI | 无需注册账号即可使用的免费网页版 AI 助手。遇到需要最新信息的问题时会实时联网搜索，并在回答下方列出带编号的来源，方便逐条核对；也能读取上传的 PDF 和照片，支持语音提问。界面提供 14 种语言，可作为 PWA 安装到主屏幕，依靠广告维持免费。 | [URL](https://getaskai.com/) | 免费 |
 
 ### 办公协作CLI/MCP
 | 名称 | 说明 | 链接 | 费用 |

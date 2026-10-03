@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added GetAskAI (free web AI assistant with no sign-up that lists numbered web sources and reads PDFs/photos) to General LLM Applications (both EN/CN)
 - Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage (both EN/CN)
 - Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com (both EN/CN)
 - Renamed the Genesis entry to Genesis World (v1.0, May 2026, maintained by Genesis AI; Nyx renderer, Quadrants compiler) (both EN/CN)

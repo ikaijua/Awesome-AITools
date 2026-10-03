@@ -243,6 +243,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Morphik.ai | Open source AI-driven search engine for private documents | [URL](https://morphik.ai) [Github](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)| Free |
 | Future AGI | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. | [Github](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | Free |
 | OmniRoute | Self-hostable AI gateway with 4-tier automatic fallback routing across 36+ providers. OpenAI-compatible API with quota tracking and zero-cost fallback to free tiers. | [GitHub](https://github.com/diegosouzapw/OmniRoute) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | Free |
+| GetAskAI | Free web AI assistant you can open without creating an account. For questions that depend on recent information it runs a live web search and shows numbered sources below the reply; it also reads uploaded PDFs and photos and accepts voice questions. The interface comes in 14 languages, installs as a PWA, and is funded by ads. | [URL](https://getaskai.com/) | Free |
 
 ### Office Collaboration CLI/MCP
 | Name | Description | Links | Fees |
