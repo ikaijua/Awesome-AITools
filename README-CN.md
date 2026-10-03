@@ -286,7 +286,7 @@
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Seedance | 🌟 字节跳动的视频生成模型系列。**Seedance 2.5** 驱动即梦 / 小云雀等产品：支持 30 秒单次生成，原生 480p/720p/1080p（默认 720p；4K 由 Seedance 2.0 提供）、最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑；2026 年 9 月 23 日起新增 Draft 样片模式（先出 480P 样片再生成 1080P 成片，官方称可省 57% 成本）。通过火山引擎对开发者开放。 | [URL](https://dreamina.capcut.com/) · [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) · [Skills](https://github.com/ikaijua/Awesome-AITools/discussions/1111#agent-skills) · [实测对比](https://github.com/ikaijua/Awesome-AITools/discussions/1124) | 免费/付费 |
+| Seedance | 🌟 字节跳动的视频生成模型系列。**Seedance 2.5** 驱动即梦 / 小云雀等产品：支持 30 秒单次生成，原生 480p/720p/1080p（默认 720p；4K 由 Seedance 2.0 提供），最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑。人物动作一致性与镜头语言表现突出，适合短视频与广告内容生产。 | [URL](https://dreamina.capcut.com/) · [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) · [Skills](https://github.com/ikaijua/Awesome-AITools/discussions/1111#agent-skills) · [实测对比](https://github.com/ikaijua/Awesome-AITools/discussions/1124) | 免费/付费 |
 | MiniMax H3 | 🌱 MiniMax 开源的通用多模态生成系统，支持文生视频、图生视频、首尾帧生视频、文生音视频等，可通过 SGLang、vLLM、diffusers、ComfyUI 本地部署。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1114) | [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-H3?style=social), [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-H3) | 免费 |
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [Seedance 2.5专题](https://github.com/ikaijua/Awesome-AITools/discussions/266) |[URL](https://xyq.jianying.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
