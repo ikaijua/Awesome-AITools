@@ -11,6 +11,14 @@ There is no application code. The value is in keeping entries accurate, links al
 - **Fix links, typos, or stale entries** — the most common and always welcome type of PR.
 - **Report a problem** — broken link, outdated description, dead discussion link.
 
+## Inclusion criteria
+
+- **Unique and practical first** — there are many similar tools, so prioritize tools with unique, practical functionality: something others don't offer, or clearly better at a specific job.
+- **Broad applicability** — the wider the scope, the better: a tool that serves most people and most scenarios is more likely to be included than one solving a narrow niche problem.
+- **Actually usable** — ships with an entry point, docs, or examples — not a concept demo; key capabilities and pricing should be verifiable.
+- **Still alive** — recently updated or showing activity, with working links; stale or abandoned tools are not added.
+- **Not included** — near-identical clones (without a clear increment), thin wrappers with no own value, or tools with obvious security or compliance risks.
+
 ## Editing conventions
 
 The two READMEs serve different audiences and are allowed to differ — each is written for its own readers' familiarity and habits (e.g. international readers need no explanation of Western services, while Chinese readers may need more background on foreign tools, and vice versa). Keep the tool set consistent so nothing appears in only one list, but wording, detail level, and phrasing may differ.

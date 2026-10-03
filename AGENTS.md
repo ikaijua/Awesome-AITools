@@ -36,6 +36,7 @@ There is no build, test, or lint suite beyond the above — CI only runs link ch
 ## Editing Conventions
 
 - When adding a new tool, follow the existing table format in both READMEs.
+- Inclusion criteria: prioritize tools with unique, practical functionality and broad applicability; require usable, verifiable, still-active tools; exclude clones, thin wrappers, and tools with security or compliance risks.
 - Table format is strict: exactly 4 columns, with the separator row `| --- | --- | --- | --- |`. `format_readmes.py` will rewrite divergent separators, so don't hand-craft 3- or 5-column variants.
 - The TOC at the top of each README lists category anchors. The formatter knows about two specific anchor-typo fixes (`#news-information` in EN, `#gpt-llms应用` in CN) — preserve those exact slugs.
 - When linking to a deep-dive discussion, use the EN/CN phrasing pair `[Intro](...)` / `[入门介绍](...)` so the link convention stays consistent across both READMEs.
