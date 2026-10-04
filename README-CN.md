@@ -108,7 +108,7 @@
 ### 大语言模型排行榜
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-|LMArena (Chatbot Arena)|🌟 LMArena（原 LMSYS Chatbot Arena）是一个用于大语言模型评估的众包开放平台，源自加州大学伯克利分校 SkyLab 的 LMSYS（与斯坦福、UCSD、CMU、MBZUAI 多校合作）。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>B站视频：[量子位/1v1单挑90万轮之后，最强大模型是……](https://www.bilibili.com/video/BV1Qs421w7df/) |[URL](https://lmarena.ai/leaderboard) |免费|
+|LMArena (Chatbot Arena)|🌟 LMArena（原 LMSYS Chatbot Arena，2026 年更名 Arena）是一个用于大语言模型评估的众包开放平台，源自加州大学伯克利分校 SkyLab 的 LMSYS（与斯坦福、UCSD、CMU、MBZUAI 多校合作）。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>B站视频：[量子位/1v1单挑90万轮之后，最强大模型是……](https://www.bilibili.com/video/BV1Qs421w7df/) |[URL](https://arena.ai/leaderboard) [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1156) |免费|
 | Artificial Analysis | Artificial Analysis 是由 Micah Hill-Smith 与 George Cameron 创办的独立第三方平台，提供 AI 模型和服务商比较及基准测试，帮助用户在选择 AI 模型和服务提供商时做出明智决策。<br>平台提供多种流行 AI 模型的比较数据，包括 OpenAI 的 GPT-4、Meta 的 Llama 4 和 Anthropic 的 Claude 系列，涵盖了响应速度、延迟和成本等性能指标。 | [URL](https://artificialanalysis.ai/) | 免费 |
 |LiveCodeBench|LiveCodeBench 是一个全面且无污染的 LLM 代码评估基准，由 UC Berkeley、MIT、康奈尔联合推出，并持续收集新的问题。LiveCodeBench 尤其关注更广泛的代码相关功能，例如自我修复、代码执行和测试输出预测，而不仅仅是代码生成。 |[URL](https://livecodebench.github.io/leaderboard.html)|免费|
 |StructEval|StructEval 是由滑铁卢大学领衔的 TIGER-AI-Lab 发表于 TMLR 2025 的评测基准与公开排行榜，用于评估 LLM 的结构化输出生成和转换，包含 2,035 个样例和 18 种文本及可渲染格式，并采用格式专用的结构与视觉检查。|[排行榜](https://tiger-ai-lab.github.io/StructEval/) [论文](https://openreview.net/forum?id=buDwV7LUA7) [GitHub](https://github.com/TIGER-AI-Lab/StructEval)|免费|
