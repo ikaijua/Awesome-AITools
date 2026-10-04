@@ -116,6 +116,7 @@
 | ModelCap | ModelCap 是独立平台，发布实时 AI 模型排名（ModelCap Index），仅聚合具名公开来源——SWE-bench、ARC-AGI、BFCL 等基准榜、Arena 评分与供应商价格——<br>每个模型附证据等级与分数区间，并提供分基准排行榜、模型头对头对比、供应商定价页与 CC BY 4.0 JSON/CSV 数据集。 | [URL](https://modelcap.ai/) | 免费 |
 |Price Per Token|由 Alex Ellman 开发的 LLM API 定价对比工具，覆盖 OpenAI、Anthropic、Google 等 200+ 模型，内置 token 计数、成本计算器与基准对比。|[URL](https://pricepertoken.com/)|免费|
 |BenchGecko|独立第三方 AI 模型基准测试排行榜，跨供应商定价对比，AI经济仪表盘。追踪数千个AI模型、128个评估基准、数百个供应商。提供免费API和开放数据集。|[URL](https://benchgecko.ai/zh/)|免费|
+|llmrun|llmrun 是一个免费网站，可查看你的显卡、Mac 或迷你主机能跑哪些开源大模型：各量化所需显存与预估速度（tok/s），并提供基于公开基准（Epoch AI、LiveBench、SWE-bench、MMLU-Pro）、用 2PL IRT 拟合的综合评分，方法论公开。|[URL](https://llmrun.dev/)|免费|
 
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
