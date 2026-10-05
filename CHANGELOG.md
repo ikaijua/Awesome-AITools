@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Fattly, a multi-model AI content studio focused on UGC-style video ads from a single product photo (AI actor holding the product, lip-synced voice in EN/PL/DE/ES/FR), with an MCP server and CLI for AI agents, to Video Creation (both EN/CN)
 - Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard (both EN/CN)
 - Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026) (both EN/CN)
 - Added whisper-ctranslate2, an OpenAI Whisper-compatible local transcription CLI with live microphone input and optional diarization, to Speech Recognition & Subtitles (both EN/CN)
