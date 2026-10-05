@@ -287,6 +287,7 @@
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 |black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
+| TryOnSwap | 结合模特照片和服装参考图生成时尚视觉预览。支持单件换装、最多五件服装的整套搭配，以及将模特置于新场景。面向服装视觉内容创作；生成图片不能证明真实尺码或穿着合身度。采用付费积分包，验证邮箱后有初始试用积分。 | [URL](https://tryonswap.com/en) | 付费，有试用积分 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
@@ -426,6 +427,7 @@
 | audiocraft | Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。<br>自 2025 年 3 月 14 日起停止更新，最后发布版本为 1.4.0a2（PyPI 稳定版停留在 1.3.0）；代码为 MIT，模型权重为 CC-BY-NC 4.0，仅限非商业用途。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen) | [GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) | 免费 |
 | Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用：从文本提示词生成完整曲目与音效。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
+| Songifted | 根据姓名、回忆和收礼人故事制作个性化 AI 歌曲礼物。用户可在录制前确认歌词，并试听免费的 45 秒预览；完整版歌曲付费下载。流程面向生日、纪念日、婚礼等个人送礼场景。 | [URL](https://songifted.com/) | 付费，可免费试听 |
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 |

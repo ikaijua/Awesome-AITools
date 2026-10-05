@@ -290,6 +290,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Topaz Photo AI | AI-powered image enhancement suite for photographers. Includes upscaling, noise reduction, sharpening, and face recovery in a single local desktop workflow. | [URL](https://www.topazlabs.com/topaz-photo-ai) | Paid/Trial |
+| TryOnSwap | AI fashion preview service that combines a model photo with garment references. Creators can change one garment, preview an outfit with up to five pieces, or place a model in a new scene. It is designed for fashion visuals; generated previews do not establish real-world fit. Uses paid credit packs, with introductory credits after email verification. | [URL](https://tryonswap.com/en) | Paid, trial credits |
 
 ### Video Creation
 
@@ -409,6 +410,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Stable Audio | AI music and sound-effect generation by Stability AI — full-length tracks and SFX from text prompts. Current generation **Stable Audio 3.0** (released May 20, 2026). | [URL](https://www.stableaudio.com/) | Free/Paid |
 | OptimizerAI | Sound effect generation. [Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243) | [URL](https://www.optimizerai.xyz/) | Free/Paid |
 | SFX Engine | AI Sound effect generation. | [URL](https://sfxengine.com/) | Free/Paid |
+| Songifted | Personalized AI song gifts built from names, memories, and a recipient story. Gift buyers can approve lyrics before recording and listen to a free 45-second preview; complete songs are paid downloads. The workflow focuses on birthdays, anniversaries, weddings, and other personal gifts rather than a general-purpose music production workspace. | [URL](https://songifted.com/) | Paid, free preview |
 
 ### Video Content Summary
 | Name | Description | Links | Fees |
