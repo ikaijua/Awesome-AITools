@@ -229,6 +229,7 @@
 | Gemini Notebook（原 NotebookLM）|Google 推出的 AI 研究助手，原 NotebookLM。可将文本、视频、音频、数据集等文件转化为播客节目（Audio Overview），并生成常见问题解答、学习指南、目录、时间轴和简报等，支持基于来源的自由对话与事实核查。|[URL](https://notebook.google.com/)|免费|
 | Learn about |谷歌开发的人工智能学习助手。它是一个会话式的学习伙伴，能适应您独特的好奇心和学习目标，帮助您掌握新主题并加深理解。|[URL](https://learning.google.com/experiments/learn-about)|免费|
 | Poe | Quora 推出的多模型 AI 聊天平台。可通过单一界面和积分制订阅使用 GPT、Claude、Gemini、Grok、Kimi、DeepSeek 等众多文本/图像/视频模型。支持自定义 Bot、群聊、多模型对比和 OpenAI 兼容 API。 | [URL](https://poe.com/) | 免费/付费 |
+| Blend | 以「核查答案」为核心的多模型 AI 聊天工具。一次提问即可并排查看多个模型的回答；「交叉验证」模式让第二个模型逐条核查第一个模型的回答，自动路由会按问题选择合适的模型。支持 GPT、Claude、Gemini、DeepSeek、Mistral、Cohere、Groq，无需注册即可每日免费试用。 | [URL](https://blend.ai4min.com/zh) | 免费/付费 |
 | HuggingChat|Hugging Face 的开源聊天应用程序 Hugging Chat。公共服务于 2025 年 7 月暂停，2025 年 10 月以 HuggingChat Omni（自动路由 115+ 开源模型）形式回归。 [URL](https://huggingface.co/chat/)|[GitHub](https://github.com/huggingface/chat-ui) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|免费|
 | ollama | 在本地轻松运行和管理 Llama、Qwen、DeepSeek、 Gemma 等大型语言模型。|[GitHub](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social) |免费|
 |langchain|是一个强大的框架，旨在帮助开发人员使用语言模型构建端到端的应用程序。它提供了一套工具、组件和接口，可简化创建由大型语言模型 (LLM) 和聊天模型提供支持的应用程序的过程。LangChain 可以轻松管理与语言模型的交互，将多个组件链接在一起，并集成额外的资源，例如 API 和数据库。|[GitHub](https://github.com/langchain-ai/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)|免费|
