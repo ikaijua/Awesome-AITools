@@ -4,6 +4,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## October 2026
 - Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard (both EN/CN)
+- Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026) (both EN/CN)
 - Added whisper-ctranslate2, an OpenAI Whisper-compatible local transcription CLI with live microphone input and optional diarization, to Speech Recognition & Subtitles (both EN/CN)
 - Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage (both EN/CN)
 - Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com (both EN/CN)
