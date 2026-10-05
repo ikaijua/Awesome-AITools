@@ -196,3 +196,4 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added garrytan/gstack to Agent Skills section
 - Added Codex to AI Agent section
 - Added skills.sh and JimLiu/baoyu-skills to Agent Skills section
+- 2026-10-05: Added InkDoo to AI Image Creation (both EN/CN)
