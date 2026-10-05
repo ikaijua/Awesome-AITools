@@ -290,6 +290,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Topaz Photo AI | AI-powered image enhancement suite for photographers. Includes upscaling, noise reduction, sharpening, and face recovery in a single local desktop workflow. | [URL](https://www.topazlabs.com/topaz-photo-ai) | Paid/Trial |
+| HallowPaws | AI Halloween costumes for dogs and cats: upload one pet photo, pick from 16 fixed presets, get an HD portrait in ~30s that keeps breed, fur colour, and eyes. Free watermarked preview + 1 free HD on signup; one-time packs from $1.99, no subscription. | [URL](https://hallowpaws.com) [GitHub](https://github.com/xianyu110/hallowpaws-ai-pet-halloween) | Free/Paid |
 
 ### Video Creation
 

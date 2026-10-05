@@ -287,6 +287,7 @@
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 |black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
+| HallowPaws | 上传一张猫狗照片，从 16 款固定万圣节造型里选一款，约 30 秒生成保留品种/毛色/眼睛的高清变装照。免费水印预览，注册送 1 张高清；高清包 $1.99 起，一次性付费无订阅。 | [网址](https://hallowpaws.com) [GitHub](https://github.com/xianyu110/hallowpaws-ai-pet-halloween) | 免费/付费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
