@@ -290,6 +290,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Topaz Photo AI | AI-powered image enhancement suite for photographers. Includes upscaling, noise reduction, sharpening, and face recovery in a single local desktop workflow. | [URL](https://www.topazlabs.com/topaz-photo-ai) | Paid/Trial |
+| InkDoo | Paste an article (URL, text, or file) and get a planned set of hand-drawn explainer illustrations starring one consistent character — 6 built-in mascots or your own uploaded IP. Free credits on signup, then one-time packs. | [URL](https://inkdoo.app) [GitHub](https://github.com/xianyu110/inkdoo-ai-illustration) | Free/Paid |
 
 ### Video Creation
 
