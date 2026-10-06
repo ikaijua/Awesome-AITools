@@ -433,6 +433,7 @@
 | Lean 4 | 交互式定理证明器 and 函数式编程语言，是 AI 形式化数学研究和自动定理证明的核心基础设施（如 DeepMind 的 AlphaProof 和 DeepSeek-Prover 均基于此）。 | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | 免费 |
 | AMiner | AI赋能科技情报挖掘，提供学术搜索、论文检索、专利、文献追踪、学者画像等功能 |[URL](https://www.aminer.cn/)|免费|
 |alphaxiv|一个基于arXiv平台的开放学术讨论社区，允许用户通过替换论文链接域名（arxiv.org替换为alphaxiv.org）直接在论文页面上进行逐行评论、提问和实时互动。并提供了 Ask AI 和 AI 生成文章博客等 AI 功能|[URL](https://www.alphaxiv.org/)|免费|
+|Amplify by ResearchBunny|面向研究者的论文多格式转换工具。上传一篇已发表论文的 PDF，Amplify 仅依据该 PDF 生成四种内容：视频摘要（16:9，约 3 分钟）、竖版短视频（9:16，45 到 60 秒）、英语及另外 21 种语言的音频简报，以及一页可直接打印的信息图。每种格式各提供三个可编辑版本，全部经过人工审核，并且只有在研究者确认后才会发布。通过一个 script 标签即可把这些内容嵌入教师个人主页、实验室网站或论文发表列表，读者可以在页面上阅读、收听并针对论文提问；后台提供阅读量、收听量、提问数和语言分布等统计数据。由加拿大多伦多的 ResearchBunny Inc. 开发，按篇付费，无需订阅，非开源。|[URL](https://www.researchamplify.com/)|付费|
 
 ### OCR 图像识别
 | 名称 | 说明 | 链接 | 费用 |
