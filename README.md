@@ -337,6 +337,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 ### LLM Inference & Deployment
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| DwarfStar (ds4) | antirez's (creator of Redis) from-scratch native inference engine in C (MIT) — built to run a few near-frontier open models on consumer hardware: DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3 and Qwen3.8 Flash Next fit on a 96GB Mac or one 96GB NVIDIA GPU via aggressive 2-bit routed quantization. Serves OpenAI- and Anthropic-compatible APIs, so Claude Code, Codex, opencode and Zed can point at localhost; includes a built-in coding agent, on-disk KV cache, and layer-splitting across machines for models too big for one box. Not a general GGUF loader — only its supported models. | [GitHub](https://github.com/antirez/ds4) ![GitHub Repo stars](https://img.shields.io/github/stars/antirez/ds4?style=social) | Free |
 | AirLLM | A Python library that reduces LLM inference memory usage by loading one layer at a time, enabling 70B models on 4GB GPUs, 405B on 8GB, and 671B DeepSeek-V3 on ~12GB. Supports 4-bit/8-bit quantization and a wide range of open models via a single AutoModel interface. | [GitHub](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | Free |
 
 ### Writing
