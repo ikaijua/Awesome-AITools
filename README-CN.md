@@ -372,6 +372,7 @@
 | 飞书妙记 | 上传视频或音频即可转录为文字（官方名「妙记」，非「秒记」），可一键导出到飞书文档。处理速度很快：近 2 小时的视频约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes) | 免费，有企业付费版 |
 | 通义听悟 | 阿里旗下的语音转录应用 | [URL](https://tingwu.aliyun.com/) | 免费/付费 |
 |阿里云智能语音交互-语音识别API|试用版3个月免费试用期，录音文件识别免费额度:2小时/日|[URL](https://ai.aliyun.com/nls)|免费/付费|
+| Audio Transcription (Apify Actor) | 托管的 Whisper large-v3-turbo 转写：音频/视频链接或播客 RSS 转为带时间戳的文字、SRT/VTT 字幕与说话人标注，支持 90+ 种语言，按音频分钟计费（$0.006/分钟）。 | [URL](https://apify.com/tidytools/audio-transcriber) | 付费（按量计费） |
 
 ### 语音合成（TTS）
 
