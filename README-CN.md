@@ -357,6 +357,7 @@
 | Deep L | 准确即时的翻译工具，文本与语音翻译支持 30+ 种语言，文档翻译支持 100+ 种语言并保留原格式 | [URL](https://www.deepl.com/translator) | 免费/付费|
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
 |RTranslator | RTranslator 是一款开源、免费的安卓离线**实时**翻译应用程序。|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
+| TranslateMyImage | 翻译图片里的文字（商品图、广告、漫画、截图等），支持 45 种目标语言，直接返回保留原有排版的译后图片；付费方案提供批量处理和 API | [URL](https://translatemyimage.com) | 免费/付费 |
 
 ### 语音识别与字幕
 

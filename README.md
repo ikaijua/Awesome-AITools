@@ -355,6 +355,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/nextai-translator/nextai-translator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
+| TranslateMyImage | Translates the text inside images (product photos, ads, manga pages, screenshots) into 45 languages and returns the edited image with the original layout kept; also offers batch processing and an API on paid plans | [URL](https://translatemyimage.com) | Free/Paid |
 
 ### Speech Recognition & Subtitles
 
