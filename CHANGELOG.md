@@ -1,4 +1,5 @@
 # Changelog
+- 2026-10-06 — Added SIDRA OS to AI Agent (both EN/CN).
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
