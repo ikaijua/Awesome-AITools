@@ -313,6 +313,8 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | 🌟 Hugging Face | 领先的开源 AI 平台与社区。托管 290 万+ 模型、100 万+ 数据集和 140 万+ Spaces 演示（据官方《State of Open Models: Summer 2026》报告）；通过 Hub、Transformers、Diffusers、Accelerate 等生态支持模型发现、推理、微调和部署。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1109) | [官网](https://huggingface.co/) [GitHub](https://github.com/huggingface) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 免费/付费 |
+| Google Colab | Google 的托管 Jupyter 笔记本环境——AI/ML 领域事实标准的免费 GPU 运行时：免费档即可使用 GPU（T4 级）与 TPU，零配置、Google Drive/GitHub 集成、Notebook 可直接分享；付费 Pro/Pro+ 解锁更强 GPU 与更长会话。没有本地硬件时运行、微调和演示模型的首选。 | [URL](https://colab.research.google.com/) | 免费/付费 |
+| Kaggle | Google 旗下的机器学习竞赛与数据平台：Notebooks 每周约 30 小时免费 GPU 配额，20 万+公开数据集，以及孕育了众多经典基准的竞赛社区。学习应用机器学习、用真实基线检验模型的标准场所。 | [URL](https://www.kaggle.com/) | 免费/付费 |
 | Together AI | 专为生成式 AI 设计的云平台，聚焦开源生成式模型的推理、微调与 GPU 集群部署，比传统云更灵活、可定制；支持 LLaMA、Falcon、FLUX1 等开源模型，可直接调用或上传数据微调。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) | [URL](https://www.together.ai/) | 免费/付费 |
 
 ### GPU 编程
