@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added mu, an open-source coding agent built on Pi (CLI and desktop app) in which a small judge model makes the routine calls at more than 30 decision points, to AI Coding (both EN/CN)
 - Added DwarfStar (ds4, antirez) to LLM Inference & Deployment: a from-scratch MIT-licensed native inference engine in C that runs near-frontier open models (DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3, Qwen3.8 Flash Next) on consumer hardware via 2-bit routed quantization, with OpenAI/Anthropic-compatible APIs for Claude Code, Codex and other agents (both EN/CN)
 - Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard (both EN/CN)
 - Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026) (both EN/CN)
