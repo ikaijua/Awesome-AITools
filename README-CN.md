@@ -173,6 +173,7 @@
 | Auto-GPT | 开源项目，使用 gpt 自主地实现你设定的任何目标。<br>现拆分为商业托管的 AutoGPT Platform（Polyform Shield 许可、付费）与 classic 目录（原 CLI / Forge / benchmark，MIT 许可，仅做安全维护、不再新增功能）。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj) | [GitHub](https://github.com/Significant-Gravitas/AutoGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social) | 免费（classic）/付费（Platform） |
 |CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。|[GitHub](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
 | Understand Anything | 基于 AI 的代码库和知识库分析工具，构建交互式可视化知识图谱。支持多智能体分析、架构引导教程以及针对大型代码库的语义搜索。可作为 Claude Code、Cursor 等工具的插件使用。 | [GitHub](https://github.com/Egonex-AI/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social) | 免费 |
+| Agentastic.dev | 原生 macOS 多智能体 IDE，可在各自独立的 git worktree 中并行运行 Claude Code、Codex、Gemini CLI 等 50 多种编程智能体 CLI，内置终端、浏览器预览与 diff 审阅。<br>任务也可在 Docker/Apple 容器、SSH 远程主机或 Modal、Fly.io、Vercel 沙箱中运行；Manager Agents 可协调其他智能体；iPhone 伴侣应用（TestFlight 公测）可回复智能体并合并 PR。 | [官网](https://www.agentastic.dev) | 免费 |
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
