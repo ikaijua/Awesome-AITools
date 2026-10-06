@@ -365,6 +365,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | WhisperDesktop| Open source, OpenAI-based Whisper, a desktop application for Windows, uses the GPU for processing, which will be faster than on the CPU with good GPU performance.|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|Free|
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
 | whisper-ctranslate2 | Free, open-source local transcription CLI powered by faster-whisper/CTranslate2. Compatible with OpenAI Whisper CLI workflows; adds batched inference, live microphone transcription, subtitle export, and optional speaker diarization. Basic transcription does not require PyTorch. | [GitHub](https://github.com/Softcatala/whisper-ctranslate2) ![GitHub Repo stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=social) | Free |
+| Audio Transcription (Apify Actor) | Hosted Whisper large-v3-turbo transcription of audio/video URLs or podcast RSS feeds into timestamped text, SRT/VTT subtitles and speaker labels, 90+ languages. Priced per audio minute ($0.006/min). | [URL](https://apify.com/tidytools/audio-transcriber) | Paid (pay-per-use) |
 
 ### Text to Speech (TTS)
 
