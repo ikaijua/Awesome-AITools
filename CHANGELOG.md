@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added MakeAIVideo to Video Creation: turns a prompt, script or photo into a finished short video with AI voiceover, scenes, captions and music, and can post it to social platforms; an open-source MCP server lets AI agents create and post videos (both EN/CN)
 - Added Google Colab and Kaggle to AI Infrastructure Platform: the de facto free GPU environments for ML/AI work (Colab notebooks with free GPU/TPU; Kaggle notebooks with ~30h/week free GPU plus datasets and competitions) (both EN/CN)
 - Added mu, an open-source coding agent built on Pi (CLI and desktop app) in which a small judge model makes the routine calls at more than 30 decision points, to AI Coding (both EN/CN)
 - Removed Lark CLI, DingTalk CLI and WeWork CLI from Office Collaboration CLI / MCP: they are app-development CLIs with little AI relevance, and agents now cover these platforms via official connectors and native plugins (both EN/CN)

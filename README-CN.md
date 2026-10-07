@@ -325,6 +325,7 @@
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
+| MakeAIVideo | 海外 AI 短视频生成工具（makeaivideo.ai）。输入一句话、一段脚本或一张照片，自动生成完整的竖屏短视频，包含 24 种语言的 AI 配音、AI 生成画面或图库实拍素材、字幕和背景音乐，并可直接发布到 TikTok、Instagram 和 YouTube。另有数字人口播、图生视频、视频换人和 AI 广告视频等工具。<br>提供开源的 MCP 服务器，Claude、ChatGPT、Cursor 等 Agent 可在对话中直接生成并发布视频。 | [URL](https://makeaivideo.ai/) [GitHub](https://github.com/makeaivideo-ai/mcp) | 免费试用/付费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
