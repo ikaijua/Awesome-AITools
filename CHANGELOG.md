@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Heabsy, an OpenAI- and Anthropic-compatible inference API for open-weight models with an EEA tier (dedicated GPUs in EEA data centres, zero data retention), to AI Infrastructure Platform (both EN/CN)
 - Added SynthID Detector (Google DeepMind) to AI Detection: the official portal for verifying AI-generated media, expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor SynthID-watermark detection coalition covering images, audio, video and text (both EN/CN)
 - Refreshed Nano Banana to the new flagship Nano Banana 2.1 (Oct 6, 2026): better visual design, mask-based editing and cross-turn subject consistency at ~half the output price of Nano Banana 2, which is retired on Oct 29, 2026 (both EN/CN)
 - Added Google Colab and Kaggle to AI Infrastructure Platform: the de facto free GPU environments for ML/AI work (Colab notebooks with free GPU/TPU; Kaggle notebooks with ~30h/week free GPU plus datasets and competitions) (both EN/CN)
