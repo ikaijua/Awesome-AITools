@@ -354,6 +354,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/nextai-translator/nextai-translator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
+| Rolko | AI-assisted Chinese reading and vocabulary tool that connects words encountered in chosen reading materials to spaced-repetition review; its desktop Chrome extension shows pinyin and meanings for selectable webpage text. Basic lookup is free; saving new words requires a paid plan, while previously saved words remain reviewable on Free. | [URL](https://www.rolko.xyz/chinese-popup-dictionary-for-websites) | Free/Paid |
 
 ### Speech Recognition & Subtitles
 
