@@ -471,7 +471,7 @@
 ### AI 检测器
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| SynthID Detector | Google DeepMind 官方的 AI 媒体验证门户——2026 年 10 月与 OpenAI、NVIDIA、Kakao 组成跨厂商内容溯源联盟（Apple 即将加入）。上传图像、音频、视频或文本即可检测 SynthID 隐形水印，部分匹配时标出水印区域。水印直接嵌入像素/声波而非文件元数据，可经受截图、压缩与裁剪。仅检测带水印的内容，非通用 AI 检测器。免费，全球英文界面可用。 | [URL](https://x.com/Google/status/2107836407616299371) | 免费 |
+| SynthID Detector | Google DeepMind 官方的 AI 媒体验证门户——2026 年 10 月与 OpenAI、NVIDIA、Kakao 组成跨厂商内容溯源联盟（Apple 即将加入）。上传图像、音频、视频或文本即可检测 SynthID 隐形水印，部分匹配时标出水印区域。水印直接嵌入像素/声波而非文件元数据，可经受截图、压缩与裁剪。仅检测带水印的内容，非通用 AI 检测器。免费，全球英文界面可用。 | [URL](https://synthid.com/) | 免费 |
 | AI Detect Lab | 针对 Midjourney 当前默认版本 V8.2 与最新一代 FLUX.2 系列图像模型优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
 
 ### 人形机器人

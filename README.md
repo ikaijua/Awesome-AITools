@@ -432,7 +432,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 ### AI Detection
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
-| SynthID Detector | Google DeepMind's official portal for verifying AI-generated media — expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor coalition for content provenance. Upload images, audio, video or text to check for SynthID invisible watermarks; partial matches highlight the watermarked region. Watermarks are embedded in pixels/waveforms rather than metadata, surviving screenshots, compression and crops. Detects watermark-carrying content only — not a generic AI-content detector. Free, available globally in English. | [URL](https://x.com/Google/status/2107836407616299371) | Free |
+| SynthID Detector | Google DeepMind's official portal for verifying AI-generated media — expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor coalition for content provenance. Upload images, audio, video or text to check for SynthID invisible watermarks; partial matches highlight the watermarked region. Watermarks are embedded in pixels/waveforms rather than metadata, surviving screenshots, compression and crops. Detects watermark-carrying content only — not a generic AI-content detector. Free, available globally in English. | [URL](https://synthid.com/) | Free |
 |AI Detect Lab|Professional AI image and Deepfake detection tool optimized for Midjourney's current default V8.2 (since Jul 24, 2026) and the latest FLUX.2 image model family, offering high-precision identification services.|[URL](https://www.aidetectlab.com/)|Free|
 
 ### Humanoid Robots
