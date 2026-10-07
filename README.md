@@ -315,6 +315,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Google Colab | Google's hosted Jupyter notebook environment — the de facto standard free GPU runtime for ML/AI work: the free tier includes GPU (T4-class) and TPU access with zero setup, Google Drive/GitHub integration, and shareable notebooks. Free-tier limits: ~15–30 dynamic GPU hours/week, sessions up to ~12 hours, 90-minute idle timeout, no availability guarantee. Paid Pro/Pro+ tiers unlock stronger GPUs and longer sessions. The first choice for running, fine-tuning and demoing models when you don't own hardware. | [URL](https://colab.research.google.com/) | Free/Paid |
 | Kaggle | Google-owned ML competition and data platform: Kaggle Notebooks come with ~30 hours/week of free GPU quota, 200K+ public datasets, and a competition community that produced many of the field's classic benchmarks. The standard venue for learning applied ML and stress-testing models against real baselines. | [URL](https://www.kaggle.com/) | Free/Paid |
 |together.ai|The AI Acceleration Cloud. Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.|[URL](https://www.together.ai/) |Free/Paid|
+| Heabsy | OpenAI- and Anthropic-compatible inference API for open-weight models; models in the EEA tier run on dedicated GPUs in EEA data centres with zero data retention, and routed models are labelled. | [URL](https://heabsy.com/platform) | Paid |
 
 ### GPU Programming
 | Name | Description | Links | Fees |
