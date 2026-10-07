@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Topaz Video AI | AI-powered video enhancement, upscaling, deinterlacing, stabilization, frame interpolation, and motion deblur for professional video restoration. Runs locally on desktop. | [URL](https://www.topazlabs.com/topaz-video-ai) | Paid/Trial |
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 | VideoLingo | All-in-one video translation and localization dubbing tool: one-click Netflix-grade subtitles plus high-quality cloned voice dubbing. | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | Free |
+| ScaleReach | Turns long YouTube and other videos into vertical 9:16 short clips with AI captions and face-tracking crop. Includes virality scoring and scheduling to connected Instagram, TikTok, and YouTube accounts, plus a public REST API and an official MCP server. One-time free trial (clips are watermarked). | [URL](https://www.scalereach.ai) | Paid/Free trial |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
