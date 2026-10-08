@@ -469,6 +469,7 @@
 | --- | --- | --- | --- |
 | BibiGPT | 音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等。注意：产品主体已转为商业 SaaS（bibigpt.co，订阅制），开源仓库仅保留 v1 历史代码| [GitHub](https://github.com/JimmyLv/BibiGPT-v1) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=social)|免费试用/付费|
 | Claude Video | 开源工具，让 AI 智能体能够"观看"并总结视频：从 YouTube、TikTok 或本地文件中提取关键帧、字幕/转录文本，并基于画面和音频内容回答问题。支持 Claude Code 及 50+ 智能体宿主。 | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
+| ORANO | 移动端和网页端应用，可将收藏的 Instagram Reels、TikTok、YouTube 视频与 Shorts、X 帖子、文章和 PDF 转为摘要、要点和按顺序排列的行动计划。与只看字幕的总结工具不同，它会同时分析语音、画面文字和关键帧，因此只有背景音乐和屏幕文字的短视频也能准确总结。可执行的内容（菜谱、教程、健身）会变成清单，讲解类内容保留为摘要。可选的只读 MCP 让 ChatGPT、Claude 或 Cursor 读取你的收藏库。iOS 与 Android 免费下载，提供可选 Pro 订阅。 | [URL](https://oranoai.com/) [iOS](https://apps.apple.com/us/app/orano-ai/id6791454509) [Android](https://play.google.com/store/apps/details?id=com.oranoai.app) | 免费/付费 |
 
 ### AI 检测器
 | 名称 | 说明 | 链接 | 费用 |
