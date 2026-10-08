@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Dearovo, an AI relationship message writer with context-aware suggestions plus tone and length controls, to Writing (both EN/CN)
 - Updated ChatGPT entry to reflect the global rollout of GPT-6 (Sol/Luna) with Intelligent UI to all ChatGPT users, including Free/Go tiers (both EN/CN)
 - Updated Claude entry to note the Oct 7 launch of Claude Haiku 5.5 at ~1/10 the price of Haiku 4.5 and ~1/20 of Sonnet 5.5, plus the Sonnet 5.5 cache-read price cut (both EN/CN)
 - Added OpenDots (CopilotKit/OpenDots) to AI Agent: an open-source self-hosted agent workspace template — open alternative to OpenAI Dots — where each Dot gets its own computer, Spaces documents, MCP tools, Slack/calls, background tasks, and human-in-the-loop approval (both EN/CN)
