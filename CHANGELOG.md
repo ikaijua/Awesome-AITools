@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Updated ChatGPT entry to reflect the global rollout of GPT-6 (Sol/Luna) with Intelligent UI to all ChatGPT users, including Free/Go tiers (both EN/CN)
+- Updated Claude entry to note the Oct 7 launch of Claude Haiku 5.5 at ~1/10 the price of Haiku 4.5 and ~1/20 of Sonnet 5.5, plus the Sonnet 5.5 cache-read price cut (both EN/CN)
 - Added OpenDots (CopilotKit/OpenDots) to AI Agent: an open-source self-hosted agent workspace template — open alternative to OpenAI Dots — where each Dot gets its own computer, Spaces documents, MCP tools, Slack/calls, background tasks, and human-in-the-loop approval (both EN/CN)
 - Added SynthID Detector (Google DeepMind) to AI Detection: the official portal for verifying AI-generated media, expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor SynthID-watermark detection coalition covering images, audio, video and text (both EN/CN)
 - Refreshed Nano Banana to the new flagship Nano Banana 2.1 (Oct 6, 2026): better visual design, mask-based editing and cross-turn subject consistency at ~half the output price of Nano Banana 2, which is retired on Oct 29, 2026 (both EN/CN)
