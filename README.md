@@ -328,6 +328,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
+|PromptHive|A Chinese AI prompt template library for social-media creators. 500+ prompts organised by platform (Xiaohongshu, Douyin, Bilibili, Zhihu, WeChat, Kuaishou) × workflow stage (topic planning, headline optimisation, copywriting, product-recommendation posts, script writing, comment engagement, persona positioning, review analysis, image design). Each template carries fill-in variable slots — copy, paste and send to your AI tool.|[URL](https://www.prompt-hive.net/)|Free/Paid|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
