@@ -346,6 +346,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|目前最全面的主流 AI 工具（Cursor, Claude Code, Windsurf, Trae, v0 等）系统提示词、工具定义和模型配置集合。是研究提示词工程（Prompt Engineering）和 AI Agent 架构设计的终极参考。|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|免费|
+|灵感蜂巢 PromptHive|面向自媒体创作者的中文 AI 提示词模板库，500+ 提示词按「平台 × 创作环节」双维分类，覆盖小红书、抖音、B站、知乎、公众号、快手 6 个平台，以及选题规划、标题优化、文案创作、种草文案、脚本创作、评论互动、人设定位、复盘分析、图片设计 9 个创作环节；每条模板带变量槽位，填写后复制粘贴即可交给 AI 使用。|[URL](https://www.prompt-hive.net/)|免费/付费|
 
 ### 大语言模型训练与评估平台
 | 名称 | 说明 | 链接 | 费用 |
