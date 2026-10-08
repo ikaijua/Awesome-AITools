@@ -415,6 +415,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Claude Video | Open-source tool that lets AI agents watch and summarize videos. Extracts frames, transcripts/captions from YouTube, TikTok, or local files and answers questions grounded in both visual and audio content. Works with Claude Code and 50+ agent hosts. | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
+| ORANO | Mobile and web app that turns saved Instagram Reels, TikToks, YouTube videos and Shorts, X posts, articles and PDFs into a summary, key takeaways and an ordered step-by-step plan. Unlike transcript-only summarizers, it analyzes speech, on-screen text and sampled frames together, so text-over-music Reels still work. Actionable videos (recipes, tutorials, workouts) become checklists; explainers stay summaries. Optional read-only MCP lets ChatGPT, Claude or Cursor use your saved library. | [URL](https://oranoai.com/) [iOS](https://apps.apple.com/us/app/orano-ai/id6791454509) [Android](https://play.google.com/store/apps/details?id=com.oranoai.app) | Free/Paid |
 
 ### Academic research
 | Name | Description | Links | Fees |
