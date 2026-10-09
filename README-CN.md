@@ -304,6 +304,7 @@
 | PixelPanda | AI 驱动的专业产品图、营销图、UGC 风格视频和 AI 头像生成平台——无需相机或影棚。 | [URL](https://pixelpanda.ai) | 免费/付费 |
 |black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
+| Stunna | 面向 iPhone 与 Android 的 AI 照片编辑应用，侧重对已有照片应用相机风格与光线编辑，包括胶片、数码相机、VHS 和直闪等效果；同时提供拍照姿势参考和编辑前后对比，便于导出前判断效果。适合希望在手机上尝试不同照片风格的用户，使用入口和应用商店链接可从官网找到。免费下载安装，可选付费 Pro；部分功能与无水印导出需要 Pro，具体购买选项以应用内显示为准，AI 效果会因原始照片而异。官网还提供免费浏览器滤镜、拍照亭和照片条制作工具，照片在浏览器本地处理；这些工具与手机应用的 AI 编辑功能不同，不属于生成式 AI。 | [URL](https://stunna-app.com/) | 免费/付费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
