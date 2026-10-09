@@ -288,6 +288,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Topaz Photo AI | AI-powered image enhancement suite for photographers. Includes upscaling, noise reduction, sharpening, and face recovery in a single local desktop workflow. | [URL](https://www.topazlabs.com/topaz-photo-ai) | Paid/Trial |
+| Stunna | AI photo editor for iPhone and Android focused on camera-inspired looks for existing photos: film, digicam, VHS, and direct flash, plus lighting edits and pose guides. Before/after comparison helps users assess an edit before exporting. Free to download with optional paid Pro; some features and clean exports require Pro, and AI results vary by photo. The website also has separate free browser filters and photo booth tools; those are not generative AI. | [URL](https://stunna-app.com/) | Free/Paid |
 
 ### Video Creation
 
