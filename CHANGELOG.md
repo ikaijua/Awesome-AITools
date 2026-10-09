@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Auten (auten-ai/auten-mcp) to AI Agent: a computer-use MCP server that lets Claude Code, Codex, Cursor and other MCP clients click, type and read a real screen on Mac/Windows/Linux and an Android phone over USB (beta), with record-once skills that replay without a model call (both EN/CN)
 - Added Paseo (getpaseo/paseo) to AI Agent: an open-source agentic development environment that unifies Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code with parallel worktrees, built-in orchestration, editor/terminal/browser, plugins, and cross-platform desktop/mobile/web/CLI support (both EN/CN)
 - Updated ChatGPT entry to reflect the global rollout of GPT-6 (Sol/Luna) with Intelligent UI to all ChatGPT users, including Free/Go tiers (both EN/CN)
 - Updated Claude entry to note the Oct 7 launch of Claude Haiku 5.5 at ~1/10 the price of Haiku 4.5 and ~1/20 of Sonnet 5.5, plus the Sonnet 5.5 cache-read price cut (both EN/CN)
