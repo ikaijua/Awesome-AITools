@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added The Aggregate, a free LLM leaderboard that combines public benchmark leaderboards into one daily Elo-scale ranking with standard errors and source-linked scores, to LLM Leaderboard (both EN/CN)
 - Added Paseo (getpaseo/paseo) to AI Agent: an open-source agentic development environment that unifies Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code with parallel worktrees, built-in orchestration, editor/terminal/browser, plugins, and cross-platform desktop/mobile/web/CLI support (both EN/CN)
 - Updated ChatGPT entry to reflect the global rollout of GPT-6 (Sol/Luna) with Intelligent UI to all ChatGPT users, including Free/Go tiers (both EN/CN)
 - Updated Claude entry to note the Oct 7 launch of Claude Haiku 5.5 at ~1/10 the price of Haiku 4.5 and ~1/20 of Sonnet 5.5, plus the Sonnet 5.5 cache-read price cut (both EN/CN)
