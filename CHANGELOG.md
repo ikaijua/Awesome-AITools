@@ -2,9 +2,35 @@
 
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
+## October 2026
+- Added Paseo (getpaseo/paseo) to AI Agent: an open-source agentic development environment that unifies Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code with parallel worktrees, built-in orchestration, editor/terminal/browser, plugins, and cross-platform desktop/mobile/web/CLI support (both EN/CN)
+- Updated ChatGPT entry to reflect the global rollout of GPT-6 (Sol/Luna) with Intelligent UI to all ChatGPT users, including Free/Go tiers (both EN/CN)
+- Updated Claude entry to note the Oct 7 launch of Claude Haiku 5.5 at ~1/10 the price of Haiku 4.5 and ~1/20 of Sonnet 5.5, plus the Sonnet 5.5 cache-read price cut (both EN/CN)
+- Added OpenDots (CopilotKit/OpenDots) to AI Agent: an open-source self-hosted agent workspace template — open alternative to OpenAI Dots — where each Dot gets its own computer, Spaces documents, MCP tools, Slack/calls, background tasks, and human-in-the-loop approval (both EN/CN)
+- Added SynthID Detector (Google DeepMind) to AI Detection: the official portal for verifying AI-generated media, expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor SynthID-watermark detection coalition covering images, audio, video and text (both EN/CN)
+- Refreshed Nano Banana to the new flagship Nano Banana 2.1 (Oct 6, 2026): better visual design, mask-based editing and cross-turn subject consistency at ~half the output price of Nano Banana 2, which is retired on Oct 29, 2026 (both EN/CN)
+- Added Google Colab and Kaggle to AI Infrastructure Platform: the de facto free GPU environments for ML/AI work (Colab notebooks with free GPU/TPU; Kaggle notebooks with ~30h/week free GPU plus datasets and competitions) (both EN/CN)
+- Added mu, an open-source coding agent built on Pi (CLI and desktop app) in which a small judge model makes the routine calls at more than 30 decision points, to AI Coding (both EN/CN)
+- Removed Lark CLI, DingTalk CLI and WeWork CLI from Office Collaboration CLI / MCP: they are app-development CLIs with little AI relevance, and agents now cover these platforms via official connectors and native plugins (both EN/CN)
+- Added DwarfStar (ds4, antirez) to LLM Inference & Deployment: a from-scratch MIT-licensed native inference engine in C that runs near-frontier open models (DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3, Qwen3.8 Flash Next) on consumer hardware via 2-bit routed quantization, with OpenAI/Anthropic-compatible APIs for Claude Code, Codex and other agents (both EN/CN)
+- Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard (both EN/CN)
+- Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026) (both EN/CN)
+- Added whisper-ctranslate2, an OpenAI Whisper-compatible local transcription CLI with live microphone input and optional diarization, to Speech Recognition & Subtitles (both EN/CN)
+- Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage (both EN/CN)
+- Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com (both EN/CN)
+- Renamed the Genesis entry to Genesis World (v1.0, May 2026, maintained by Genesis AI; Nyx renderer, Quadrants compiler) (both EN/CN)
+- Renamed claw-code to agent-code, the Rust reimplementation of the Claude Code harness (the claw-code crate on crates.io is now a deprecated stub) (both EN/CN)
+- Refreshed flagship versions: Ideogram 4.5, Kling 4.0 (in preview), Suno v6, Mureka V9.5, and Krea's own open-weight Krea 2 image model (both EN/CN)
+- Noted that Gemini 4 Argon (Sep 30, 2026) is only available through the controlled Fairwind program, so Gemini 3.8 Flash remains the widely available flagship (both EN/CN)
+- Corrected both DeepSeek entries: the planned Sep 14 retirement of V4-Pro was reversed and it is still served at the original price (both EN/CN)
+- Noted Nano Banana 2 as the current Gemini app default, and marked Palmier Pro as closed-source since v0.7.6 (both EN/CN)
+- Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
+
 ## September 2026
 - Added Tapproval (Apple Watch app for answering Claude Code permission prompts, each marked with a risk tier) to AI Coding (both EN/CN)
 - Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
+- Updated Gemini entry to mention Gemini Spark (persistent background personal agent across Google Workspace) in both EN/CN
+- Added Higgsfield (multi-model AI video studio aggregating Seedance/Kling/Veo/Sora with cinematic camera presets and Soul ID character consistency) to Video Creation section, with intros in Discussions #1057 (CN) / #1058 (EN) (both EN/CN)
 - Removed ChatGPT for YouTube (browser-extension wrapper), ControlNet (unmaintained since Feb 2024, absorbed into diffusers/ComfyUI), and f/awesome-chatgpt-prompts (prompt-template collection) (both EN/CN)
 - Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding (both EN/CN)
 - Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section (both EN/CN)
