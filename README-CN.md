@@ -259,6 +259,7 @@
 | Morphik.ai | 开源 AI 驱动的私有文档搜索引擎。 | [URL](https://morphik.ai) [GitHub](https://github.com/morphik-org/morphik-core) ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social) | 免费 |
 | Future AGI | 开源平台，在一个反馈闭环中模拟、评估、追踪、护栏、路由并优化 LLM 与 AI 智能体应用——智能体不只是被监控，还能自我改进。可自托管，Apache-2.0。 | [GitHub](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | 免费 |
 | OmniRoute | 可自托管的 AI 网关，跨 36+ 提供商实现 4 层自动回退路由。OpenAI 兼容 API，带配额跟踪和免费档零成本回退。 | [GitHub](https://github.com/diegosouzapw/OmniRoute) ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | 免费 |
+| freelm | 开源（MIT）Python / TypeScript 库：用你自己的 Key，把 Gemini、Groq、OpenRouter、Cloudflare Workers AI、Cerebras、Mistral 等官方免费额度汇聚到一个 OpenAI 兼容接口。可直接嵌入应用（TypeScript 版零依赖，可在 Workers/边缘环境运行），也可用 `freelm serve` 作为本地端点运行。按模型追踪配额、自动轮换 Key，某家厂商卡住时并行请求下一家；在 OpenRouter 上拒绝付费模型。 | [GitHub](https://github.com/shihabshahrier/freelm) ![GitHub Repo stars](https://img.shields.io/github/stars/shihabshahrier/freelm?style=social) | 免费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
 
 ### 办公协作 CLI / MCP
