@@ -198,6 +198,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Prismix | AI hub aggregating real-time status of 75+ AI services (OpenAI, Anthropic, Groq, Cursor, etc.), curated news from 55+ AI sources with a personalized feed, and 500+ MCP server directory with bundles. Email/webhook alerts on outages. | [Official Site](https://prismix.dev) | Free/Paid |
 | AI Weekly | Independent AI news newsletter, 3x/week since 2015, read by 44,000+ professionals. The few AI stories that matter, solo-edited. Proprietary AI Weekly Index, quarterly State-of-AI recap, Who's-Who-of-AI graph (2,335 figures), and an 11-year archive. | [Official Site](https://aiweekly.co) | Free |
 | ArtificialWatch | Alerts the minute a new AI model is released, across labs. Sweeps provider APIs every 60 seconds and fires only when a model answers a real API request; a public track record logs first-seen and confirmed times. Free email + push; paid SMS and phone call. | [Official Site](https://artificialwatch.com) | Free/Paid |
+| Intelsi | Frontier AI assistants and lab-policy directory with a live research feed (arXiv, Hugging Face, GitHub, Hacker News) plus sourced comparisons of ChatGPT, Claude, Gemini, Grok and related tools. | [Official Site](https://intelsi.si/) | Free |
 
 ### AI Coding
 | Name | Description | Links | Fees |
