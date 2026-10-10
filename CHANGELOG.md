@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added OpenMicroDrama to Video Creation: a free directory of open-source AI micro drama tools ranked daily by GitHub star growth, with Seedance / Kling / Veo prompt generators and script templates (both EN/CN)
 - Added SemIf (formerly OpenJev) to Open Source LLMs: an MIT-licensed independent project that reads typed option probabilities directly from a frozen Qwen3.5-4B — no training, no text generation, no JSON parsing — for the small runtime decisions agents make, running locally on a single GPU, Apple Silicon, CPU, or in the browser (both EN/CN)
 - Added The Aggregate, a free LLM leaderboard that combines public benchmark leaderboards into one daily Elo-scale ranking with standard errors and source-linked scores, to LLM Leaderboard (both EN/CN)
 - Added Perplexity (citation-first AI answer engine with its own Sonar 2 model, multi-lab model switching, and the Comet browser) to General LLM Applications (both EN/CN)

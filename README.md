@@ -312,6 +312,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Topaz Video AI | AI-powered video enhancement, upscaling, deinterlacing, stabilization, frame interpolation, and motion deblur for professional video restoration. Runs locally on desktop. | [URL](https://www.topazlabs.com/topaz-video-ai) | Paid/Trial |
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 | VideoLingo | All-in-one video translation and localization dubbing tool: one-click Netflix-grade subtitles plus high-quality cloned voice dubbing. | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | Free |
+| OpenMicroDrama | Free directory of open-source tools for making AI micro dramas (short vertical series): 185+ projects ranked daily by GitHub star growth, plus Seedance / Kling / Veo prompt generators, 200 copyable prompts and episode script templates. | [URL](https://openmicrodrama.com) | Free |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
