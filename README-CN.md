@@ -304,6 +304,7 @@
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Nero AI | AI图片放大、修复划痕、AI图片上色、AI图片去噪、AI一键抠图换背景、AI神奇擦除笔、AI写真；[介绍](https://github.com/ikaijua/Awesome-AITools/issues/100)。API文档：https://ai.nero.com/ai-api/docs/|[URL]( https://ai.nero.com/)|免费/付费|
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
+| Image to Image | 面向成年创作者的英文网页图生图编辑工具。上传 JPG、PNG 或 WebP 后，可使用能修改的风格预设或自行输入指令，比较原图与结果，再下载图片。上传前先在浏览器本地整理图片；服务端审核提示词、输入图和输出图。网站另提供公开的商品换背景实测，列出输入指令、原摄影来源和画面细节变化，方便用户理解生成式编辑的局限。每天提供一次无需注册的试用编辑，受服务容量与内容审核限制；额外次数采用一次性次数包，没有订阅自动续费，购买后可凭订单恢复次数。适合探索风格、光照与背景场景，编辑指南和提示词工具可公开阅读。生成式编辑可能改动商品文字、轮廓或比例，不能保证准确保留商品；需要保留原商品图层时，应采用抠图和传统合成。这是图片编辑服务，不是自研模型或精确抠图工具。 | [URL](https://imagetoimage.dev/) | 免费/付费 |
 | PixelPanda | AI 驱动的专业产品图、营销图、UGC 风格视频和 AI 头像生成平台——无需相机或影棚。 | [URL](https://pixelpanda.ai) | 免费/付费 |
 |black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
