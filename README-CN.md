@@ -349,6 +349,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|目前最全面的主流 AI 工具（Cursor, Claude Code, Windsurf, Trae, v0 等）系统提示词、工具定义和模型配置集合。是研究提示词工程（Prompt Engineering）和 AI Agent 架构设计的终极参考。|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|免费|
+|自由职业者 AI 提示词栈 | 覆盖自由职业赚钱全流程的 20 套生产级提示词系统——客户开发、谈判、提案、SEO 与邮件。每套包含系统指令 + 结构化输出规范 + [bracket] 参数，并内置 [VERIFY]/[CONFIRM] 防幻觉标记。纯 .md 文件，兼容 ChatGPT、Claude 与 Gemini。 | [URL](https://mxtl7.github.io/prompt-stack/) | 免费示例 / $14.99–$59 |
 
 ### 大语言模型训练与评估平台
 | 名称 | 说明 | 链接 | 费用 |

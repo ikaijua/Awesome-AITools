@@ -331,6 +331,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
+| The Modern Freelancer's AI Prompt Stack | 20 production-ready prompt systems covering the freelance money path — client acquisition, negotiation, proposals, SEO, and email. Each system is a system instruction + a structured output spec + [bracket] parameters, with built-in [VERIFY]/[CONFIRM] anti-hallucination flags. Plain .md files that work in ChatGPT, Claude, or Gemini. | [URL](https://mxtl7.github.io/prompt-stack/) | Free sample / $14.99–$59 |
 
 ### LLM training platform
 | Name | Description | Links | Fees |
