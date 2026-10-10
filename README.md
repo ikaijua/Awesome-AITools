@@ -113,6 +113,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 |Price Per Token|Compare LLM API pricing across 200+ models from OpenAI, Anthropic, Google, and more, built by Alex Ellman. Includes token counters, cost calculators, and benchmark comparisons.|[URL](https://pricepertoken.com/)|Free|
 |BenchGecko|The data layer of the AI economy — an independent AI model benchmark leaderboard with cross-provider pricing comparison across hundreds of providers. Tracks thousands of models across 128 benchmarks, AI economy indicators, agent leaderboard, and MCP server directory. Free API.|[URL](https://benchgecko.ai/)|Free|
 |llmrun|llmrun is a free site that shows which open LLMs fit your GPU, Mac or mini PC: VRAM needed per quantization and estimated speed (tok/s), plus a composite score fitted with 2PL IRT over public benchmark results (Epoch AI, LiveBench, SWE-bench, MMLU-Pro), with the methodology published.|[URL](https://llmrun.dev/)|Free|
+|The Aggregate|A free, independent LLM leaderboard that combines public benchmark leaderboards into one daily ranking: a robust IRT model puts every model on an Elo scale with standard errors, every score links to the leaderboard it came from, and any two models can be compared head to head. Also offers a free, no-key MCP server for assistants.|[URL](https://theaggregate.ai/)|Free|
 
 ### AI Agent
 | Name | Description | Links | Fees |
