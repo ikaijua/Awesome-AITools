@@ -206,6 +206,8 @@
 | Prismix | AI 服务实时状态监控中心，聚合 75+ AI 服务（OpenAI、Anthropic、Grok、Cursor 等）的实时运行状态，提供来自 55+ 来源的精选 AI 新闻并支持个性化信息流，还包含 500+ MCP 服务器目录及告警功能。 | [官网](https://prismix.dev) | 免费/付费 |
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
 | ArtificialWatch | 新 AI 模型发布即时提醒，覆盖各大实验室。每 60 秒扫描厂商 API，只有新模型真正响应 API 请求才会提醒；公开记录每次发布的首次发现与确认时间。邮件和推送提醒免费，付费方案增加短信和电话提醒。 | [官网](https://artificialwatch.com) | 免费/付费 |
+| Instinct Tasks | 独立、非官方的 Instinct AI 任务指南，逐条附公开来源、所需材料、步骤及应由用户确认的操作边界。区分官方示例和社区报告；指南未独立复现这些案例，与 Instinct 无隶属关系。 | [指南](https://instincttasks.com/) | 免费 |
+| Muse Task Hub | 独立、非官方的 Meta Muse AI 任务资料库，提供公开来源、可改写提示词及核查要点。区分官方示例和社区报告；指南未独立复现这些案例，与 Meta 无隶属关系。 | [指南](https://musetaskhub.com/) | 免费 |
 
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |

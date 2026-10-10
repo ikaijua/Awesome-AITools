@@ -198,6 +198,8 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Prismix | AI hub aggregating real-time status of 75+ AI services (OpenAI, Anthropic, Groq, Cursor, etc.), curated news from 55+ AI sources with a personalized feed, and 500+ MCP server directory with bundles. Email/webhook alerts on outages. | [Official Site](https://prismix.dev) | Free/Paid |
 | AI Weekly | Independent AI news newsletter, 3x/week since 2015, read by 44,000+ professionals. The few AI stories that matter, solo-edited. Proprietary AI Weekly Index, quarterly State-of-AI recap, Who's-Who-of-AI graph (2,335 figures), and an 11-year archive. | [Official Site](https://aiweekly.co) | Free |
 | ArtificialWatch | Alerts the minute a new AI model is released, across labs. Sweeps provider APIs every 60 seconds and fires only when a model answers a real API request; a public track record logs first-seen and confirmed times. Free email + push; paid SMS and phone call. | [Official Site](https://artificialwatch.com) | Free/Paid |
+| Instinct Tasks | Independent, unofficial guide to sourced Instinct AI tasks, with inputs, steps and points requiring human approval. Public source links distinguish official examples from community reports; the guide has not independently reproduced them. | [Guide](https://instincttasks.com/) | Free |
+| Muse Task Hub | Independent, unofficial library of sourced Meta Muse AI task examples, with adaptable prompts and verification notes. Public source links distinguish official examples from community reports; the guide has not independently reproduced them. | [Guide](https://musetaskhub.com/) | Free |
 
 ### AI Coding
 | Name | Description | Links | Fees |
