@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added the English counterpart of the unified Trae entry (Trae Code / Trae IDE / Trae Work) to AI Agent, closing the EN/CN gap for that entry (both EN/CN)
 - Added The Aggregate, a free LLM leaderboard that combines public benchmark leaderboards into one daily Elo-scale ranking with standard errors and source-linked scores, to LLM Leaderboard (both EN/CN)
 - Added Perplexity (citation-first AI answer engine with its own Sonar 2 model, multi-lab model switching, and the Comet browser) to General LLM Applications (both EN/CN)
 - Added Paseo (getpaseo/paseo) to AI Agent: an open-source agentic development environment that unifies Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code with parallel worktrees, built-in orchestration, editor/terminal/browser, plugins, and cross-platform desktop/mobile/web/CLI support (both EN/CN)
