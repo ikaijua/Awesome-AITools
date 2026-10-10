@@ -117,6 +117,7 @@
 |Price Per Token|由 Alex Ellman 开发的 LLM API 定价对比工具，覆盖 OpenAI、Anthropic、Google 等 200+ 模型，内置 token 计数、成本计算器与基准对比。|[URL](https://pricepertoken.com/)|免费|
 |BenchGecko|独立第三方 AI 模型基准测试排行榜，跨供应商定价对比，AI经济仪表盘。追踪数千个AI模型、128个评估基准、数百个供应商。提供免费API和开放数据集。|[URL](https://benchgecko.ai/zh/)|免费|
 |llmrun|llmrun 是一个免费网站，可查看你的显卡、Mac 或迷你主机能跑哪些开源大模型：各量化所需显存与预估速度（tok/s），并提供基于公开基准（Epoch AI、LiveBench、SWE-bench、MMLU-Pro）、用 2PL IRT 拟合的综合评分，方法论公开。|[URL](https://llmrun.dev/)|免费|
+|The Aggregate|独立、免费的大模型排行榜：把公开基准测试排行榜整合为每日更新的统一排名，用稳健的 IRT 模型将所有模型放在同一 Elo 刻度上并给出标准误；每个分数都链接到原始榜单，可对任意两个模型做头对头对比，并提供无需密钥的免费 MCP 服务器。|[URL](https://theaggregate.ai/)|免费|
 
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
