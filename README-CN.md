@@ -104,6 +104,7 @@
 | Qwen3 / Qwen3.8 | 阿里云通义千问开源 LLM/VLM 系列——目前最完整的开源模型谱系，编码、多语言和智能体场景全面。Qwen3.8 新增稠密视觉语言模型（图像/视频输入）和低成本高吞吐的 **Qwen3.8-Flash-Next**。 | [GitHub](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) [Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B) | 免费 |
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/zai-org/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/ChatGLM2-6B?style=social)| 免费|
 | Phi-4 | 微软开源的小型语言模型（SLM）系列——以小体积、高效部署见长，覆盖端侧与云端场景。包含通用、推理、多模态和视觉版本（如 Phi-4-mini、Phi-4、Phi-4-multimodal、Phi-4-reasoning-vision）。 | [GitHub](https://github.com/microsoft/PhiCookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) | 免费 |
+| SemIf（原名 OpenJev） | 🌱 MIT 许可的**独立开源项目**（官方声明与 Jev / TypeSafe 无关联），把「运行时语义决策」做成一次前向即可读出的概率接口：**不训练、不微调**，用冻结的 Qwen3.5-4B **直接读取各选项概率**，不生成任何文本、无需 JSON 解析——面向 agent 的小决策（路由、重试、证据是否成立）。21 个是非判断：直接读概率中位 **1.02s**，逐字生成 JSON 需 **5.33s**（约 5.2 倍）；与 TypeSafe 公开的 102 条子集一致率 **84.5%**（闭源 Jev 公布 88.3%）。可跑在单卡 3090、Apple Silicon（MLX/MPS）、纯 CPU（llama.cpp），也有免 waitlist 的纯浏览器 WebGPU demo。 | [GitHub](https://github.com/TheoLeeCJ/SemIf-OpenJev) ![GitHub Repo stars](https://img.shields.io/github/stars/TheoLeeCJ/SemIf-OpenJev?style=social) [官网/Demo](https://openjev.com/) | 免费 |
 
 ### 大语言模型排行榜
 | 名称 | 说明 | 链接 | 费用 |
