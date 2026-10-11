@@ -39,6 +39,7 @@
 
 ## 全部分类
 - [AI 助手与专有模型](#ai-助手与专有模型)
+- [决策模型](#决策模型)
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [AI Agent](#ai-agent)
@@ -86,7 +87,15 @@
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | 1. [URL](https://www.minimax.io/)<br>2. [API](https://platform.minimaxi.com/) | 免费/付费 |
 | Grok | SpaceXAI（原 xAI）的 AI 助手，当前最强模型：**Grok 4.7**（2026 年 9 月 21 日发布；主打编程与知识工作，500K 上下文，支持文本与图像输入）。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。 | 1. [URL](https://x.com/i/grok)<br>2. [API](https://console.x.ai/) | 免费/付费 |
 | Meta Muse | 🌱 Meta 的个人 AI 智能体：不聊天，直接替用户干活——订差旅、填表格、购物、管理邮件日历，隔离虚拟机运行 + Sentinel 审批敏感操作，底层为自研 **Muse Spark 1.3** 模型。<br>目前仅美加可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
+
+### 决策模型
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
 | Jev | 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；<br>输入 $0.042/百万 token，输出免费，延迟 70-500ms。注意：性能数字为官方口径，尚无第三方验证。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) | [URL](https://typesafe.ai/) | 免费/付费 |
+| SemIf（原名 OpenJev） | 🌱 MIT 许可的**独立开源项目**（官方声明与 Jev / TypeSafe 无关联），把「运行时语义决策」做成一次前向即可读出的概率接口：**不训练、不微调**，用冻结的 Qwen3.5-4B **直接读取各选项概率**，不生成任何文本、无需 JSON 解析——面向 agent 的小决策（路由、重试、证据是否成立）。21 个是非判断：直接读概率中位 **1.02s**，逐字生成 JSON 需 **5.33s**（约 5.2 倍）；与 TypeSafe 公开的 102 条子集一致率 **84.5%**（闭源 Jev 公布 88.3%）。可跑在单卡 3090、Apple Silicon（MLX/MPS）、纯 CPU（llama.cpp），也有免 waitlist 的纯浏览器 WebGPU demo。 | [GitHub](https://github.com/TheoLeeCJ/SemIf-OpenJev) ![GitHub Repo stars](https://img.shields.io/github/stars/TheoLeeCJ/SemIf-OpenJev?style=social) [官网/Demo](https://openjev.com/) | 免费 |
+| OpenAI Decisions API | OpenAI 专用决策端点 `POST /v1/decisions`（公开测试版），基于 `gpt-6-luna` 返回类型化答案：predicate（0–1 概率）、choice（选中值 + 各选项概率）、score（有序等级的概率加权均值）。输入 $0.10/百万 token，缓存读写与输出均免费；官方称比 Responses API 同调用快约 10 倍。 | [API 文档](https://platform.openai.com/docs/guides/decisions) | 免费/付费 |
+| Microsoft-Decision-1 | 微软基于 Qwen3.5-9B 后训练的快速决策打分模型，不生成文本，直接返回固定选项的校准概率。支持是非、多选、评分等场景，32K 上下文；通过 Microsoft Foundry 与 OpenRouter 调用，输入 $0.042/百万 token，输出免费。 | [Foundry](https://azure.microsoft.com/en-us/products/ai-foundry) [OpenRouter](https://openrouter.ai/microsoft/decision-1) | 免费/付费 |
+| Cloudflare Clef | Cloudflare Workers AI 上的决策模型族。**clef-omni**（30B MoE / 3B 激活）支持文本、图像、音频、视频多模态输入；**clef-flash** 针对低延迟打分优化，输入 $0.038/百万 token。上下文窗口 64K（flash 为 24K）。 | [Workers AI](https://developers.cloudflare.com/workers-ai/models/clef/) [Hugging Face](https://huggingface.co/Cloudflare/clef-omni) | 免费/付费 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
@@ -104,7 +113,6 @@
 | Qwen3 / Qwen3.8 | 阿里云通义千问开源 LLM/VLM 系列——目前最完整的开源模型谱系，编码、多语言和智能体场景全面。Qwen3.8 新增稠密视觉语言模型（图像/视频输入）和低成本高吞吐的 **Qwen3.8-Flash-Next**。 | [GitHub](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) [Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B) | 免费 |
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/zai-org/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/ChatGLM2-6B?style=social)| 免费|
 | Phi-4 | 微软开源的小型语言模型（SLM）系列——以小体积、高效部署见长，覆盖端侧与云端场景。包含通用、推理、多模态和视觉版本（如 Phi-4-mini、Phi-4、Phi-4-multimodal、Phi-4-reasoning-vision）。 | [GitHub](https://github.com/microsoft/PhiCookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) | 免费 |
-| SemIf（原名 OpenJev） | 🌱 MIT 许可的**独立开源项目**（官方声明与 Jev / TypeSafe 无关联），把「运行时语义决策」做成一次前向即可读出的概率接口：**不训练、不微调**，用冻结的 Qwen3.5-4B **直接读取各选项概率**，不生成任何文本、无需 JSON 解析——面向 agent 的小决策（路由、重试、证据是否成立）。21 个是非判断：直接读概率中位 **1.02s**，逐字生成 JSON 需 **5.33s**（约 5.2 倍）；与 TypeSafe 公开的 102 条子集一致率 **84.5%**（闭源 Jev 公布 88.3%）。可跑在单卡 3090、Apple Silicon（MLX/MPS）、纯 CPU（llama.cpp），也有免 waitlist 的纯浏览器 WebGPU demo。 | [GitHub](https://github.com/TheoLeeCJ/SemIf-OpenJev) ![GitHub Repo stars](https://img.shields.io/github/stars/TheoLeeCJ/SemIf-OpenJev?style=social) [官网/Demo](https://openjev.com/) | 免费 |
 
 ### 大语言模型排行榜
 | 名称 | 说明 | 链接 | 费用 |
@@ -119,6 +127,7 @@
 |BenchGecko|独立第三方 AI 模型基准测试排行榜，跨供应商定价对比，AI经济仪表盘。追踪数千个AI模型、128个评估基准、数百个供应商。提供免费API和开放数据集。|[URL](https://benchgecko.ai/zh/)|免费|
 |llmrun|llmrun 是一个免费网站，可查看你的显卡、Mac 或迷你主机能跑哪些开源大模型：各量化所需显存与预估速度（tok/s），并提供基于公开基准（Epoch AI、LiveBench、SWE-bench、MMLU-Pro）、用 2PL IRT 拟合的综合评分，方法论公开。|[URL](https://llmrun.dev/)|免费|
 |The Aggregate|独立、免费的大模型排行榜：把公开基准测试排行榜整合为每日更新的统一排名，用稳健的 IRT 模型将所有模型放在同一 Elo 刻度上并给出标准误；每个分数都链接到原始榜单，可对任意两个模型做头对头对比，并提供无需密钥的免费 MCP 服务器。|[URL](https://theaggregate.ai/)|免费|
+| Jev Decision Index | Hugging Face Space，跟踪 TypeSafe Jev（System One / RLCD）的开源复现与替代方案。包含 Decision Index 排行榜（按结构化决策基准给模型打分）和 News 面板（汇总解码技巧、扩散式方法和训练决策头等实现）。 | [Hugging Face](https://huggingface.co/spaces/multimodalart/jev-decision-index) | 免费 |
 
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
