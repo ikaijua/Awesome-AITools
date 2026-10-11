@@ -480,6 +480,10 @@ Interested in sponsoring this project? Feel free to reach out!
 </a>
 </p>
 
+<br>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
+
 </div>
 
 ---
