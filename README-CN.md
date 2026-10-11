@@ -244,6 +244,7 @@
 | Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。 | [GitHub](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [GitHub](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
 | REA | 开源 MCP 工具集，让 AI 编程 Agent 变成逆向工程助手。REA 把 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等代理接入本地分析引擎，可 inspect 原生二进制、JavaScript/Electron、.NET 程序集、网站、Android APK、固件和网络抓包。Agent 在无源码的情况下分析目标功能，获得带证据的结论，并为你的项目重建可运行实现。 | [GitHub](https://github.com/morluto/rea) ![GitHub Repo stars](https://img.shields.io/github/stars/morluto/rea?style=social) | 免费 |
+| zerog | 针对 Google Antigravity（`agy`）的开源多账号配额管理与自动故障转移工具。在遭遇 HTTP 429 / `RESOURCE_EXHAUSTED` 配额耗尽时，自动从本地账号池轮换凭据并无缝通过 `--continue` 恢复会话上下文。零外部 npm 依赖，原生标准流直通。 | [GitHub](https://github.com/adalenv/zerog) [npm](https://www.npmjs.com/package/@adalenv/zerog) ![GitHub Repo stars](https://img.shields.io/github/stars/adalenv/zerog?style=social) | 免费 |
 
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
