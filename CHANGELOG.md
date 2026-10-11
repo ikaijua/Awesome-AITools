@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Screen Browser to Video Creation: narrated demo and tutorial videos of a web app generated from a plain-language guide, with an MCP server and skill for coding agents (both EN/CN)
 - Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures (both EN/CN)
 - Added SemIf (formerly OpenJev) to Open Source LLMs: an MIT-licensed independent project that reads typed option probabilities directly from a frozen Qwen3.5-4B — no training, no text generation, no JSON parsing — for the small runtime decisions agents make, running locally on a single GPU, Apple Silicon, CPU, or in the browser (both EN/CN)
 - Added The Aggregate, a free LLM leaderboard that combines public benchmark leaderboards into one daily Elo-scale ranking with standard errors and source-linked scores, to LLM Leaderboard (both EN/CN)

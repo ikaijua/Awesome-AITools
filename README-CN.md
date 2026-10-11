@@ -330,6 +330,7 @@
 | Palmier Pro | 面向 AI 构建的 macOS 视频编辑器（注意：v0.7.6 之后已转为闭源专有，仓库仅保留历史 GPLv3 源码）。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana 等生成式图像/视频能力；<br>支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [GitHub](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
+| Screen Browser | 根据一份文字教程脚本，为已上线的 Web 应用自动生成带旁白的演示与教程视频，无需手动录屏。真实浏览器用演示账号登录，按脚本逐步操作并录屏，配上语音旁白和屏幕特效；输出 MP4，以及 GIF、字幕、章节和封面图。应用更新后改一行脚本即可重新生成。<br>面向编程智能体：提供远程 MCP 服务器和 Skill，Claude Code、Codex、Cursor 或任意 MCP 客户端可直接从源码写出脚本并取回视频。 | [URL](https://screenbrowser.com/), [GitHub](https://github.com/screenbrowser/skill) | 付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 
 ### AI基础设施平台
