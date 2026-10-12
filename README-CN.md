@@ -206,6 +206,7 @@
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
+| bushaoxin（不烧心文学） | 把红果短剧批量生成的 AI"良心掌柜"剧的高同质化台词（"贵是贵了点，但用了不烧心""规矩不能坏"）提炼成万能公式的 Claude Code Skill。装上后 AI 用规矩体写文案、评价事物、回怼、唠嗑，四档火候可调，喊"太烧了"自动降档、"淡了"升档。纯 prompt 零依赖，兼容 Claude Code / claude.ai / Codex（并入 AGENTS.md 即可）。 | [GitHub](https://github.com/eatmoreduck/bushaoxin) ![GitHub Repo stars](https://img.shields.io/github/stars/eatmoreduck/bushaoxin?style=social) | 免费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
