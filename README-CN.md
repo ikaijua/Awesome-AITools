@@ -274,6 +274,7 @@
 ### 办公协作 CLI / MCP
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| looot | 面向 AI 智能体的远程 MCP 服务器和 API，一个密钥、一份预付余额即可调用约 2,500 个数据接口（90 多家数据商）：工作邮箱、电话、公司与人员信息补全、公司搜索、技术栈、Google 搜索结果、网页搜索、新闻、网页读取和 LinkedIn 资料。调用前可看到价格，失败的调用不收费。通过 Streamable HTTP 连接 `https://api.looot.ai/mcp`，支持 OAuth 或 Bearer 密钥；另有 CLI、JS SDK 和 n8n 节点。 | [官网](https://looot.ai/) [GitHub](https://github.com/loootai/looot-mcp) | 付费（按调用计费，预付 $5 起，无订阅） |
 | Parallel Search MCP | 面向 AI 智能体的托管网页搜索与内容提取服务，返回来源链接和适合模型读取的 Markdown 摘录，可用于查询最新信息、查阅文档和收集研究资料。匿名端点提供 Fast 模式搜索与网页抓取，无需注册账号、配置 API 密钥或在本地运行服务。将 `https://search.parallel.ai/mcp` 添加到支持 Streamable HTTP 的 MCP 客户端即可接入；Claude Code、Cursor、VS Code 等客户端均有配置指南，适合为已有的 AI 编程和研究工具补充联网检索能力。免费访问适用于探索和轻量使用，有速率限制；需要更高限额时可使用付费 API 密钥。 | [官网](https://parallel.ai/) [接入指南](https://docs.parallel.ai/integrations/mcp/search-mcp) | 免费（有速率限制）；更高限额需付费 |
 | Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
 | Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。 | [GitHub](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
