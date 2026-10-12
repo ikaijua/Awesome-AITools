@@ -270,6 +270,7 @@
 | Future AGI | 开源平台，在一个反馈闭环中模拟、评估、追踪、护栏、路由并优化 LLM 与 AI 智能体应用——智能体不只是被监控，还能自我改进。可自托管，Apache-2.0。 | [GitHub](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | 免费 |
 | OmniRoute | 可自托管的 AI 网关，跨 36+ 提供商实现 4 层自动回退路由。OpenAI 兼容 API，带配额跟踪和免费档零成本回退。 | [GitHub](https://github.com/diegosouzapw/OmniRoute) ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | 免费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
+| boss-zhipin-scraper | 开源（MIT）的 BOSS直聘职位数据抓取工具，基于 Chrome DevTools Protocol 复用真实登录态直调搜索 API（绕过字体反爬），输出含明文薪资的 JSON/CSV，并生成薪资分布与技能词频分析，最后产出一段可直接粘贴给 ChatGPT/Claude 的提示词，用于简历关键词补齐与面试准备。1.5k+ star。 | [GitHub](https://github.com/eatmoreduck/boss-zhipin-scraper) ![GitHub Repo stars](https://img.shields.io/github/stars/eatmoreduck/boss-zhipin-scraper?style=social) | 免费 |
 
 ### 办公协作 CLI / MCP
 | 名称 | 说明 | 链接 | 费用 |
