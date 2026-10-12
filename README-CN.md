@@ -280,6 +280,7 @@
 | bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Google Workspace CLI | 社区构建的 Google Workspace 非官方命令行工具，统一访问所有 Google Workspace API，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat 等。内置 40+ AI 代理技能，结构化 JSON 输出非常适合 AI 代理使用，支持多种认证方式。 | [GitHub](https://github.com/googleworkspace/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/googleworkspace/cli?style=social) | 免费 |
 | OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1500+ SaaS 服务的统一目录。 | [GitHub](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
+| Scalekit AgentKit | 面向 AI 智能体的应用集成、认证与工具调用层。用户通过按用户隔离的 OAuth 一次性授权应用账号，令牌存放在托管的 Token Vault 中，智能体即可调用 500+ 连接器上的 20,000+ 工具，并支持按范围授权工具权限和审计日志。可通过单一 MCP 网关（虚拟 MCP 服务器）向任意 MCP 客户端暴露工具，也可通过 Python/Node/Go/Java SDK 接入 LangChain、CrewAI、Google ADK、OpenAI Agents 等框架。 | [官网](https://www.scalekit.com/agentkit) [文档](https://docs.scalekit.com/agentkit/overview/) | 免费/付费 |
 
 ### AI 金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
