@@ -306,7 +306,6 @@
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
 | Stable diffusion webui | 开源项目，输入文字或图片进行图片创作，Stable Diffusion WebUI 是 Stable Diffusion 的 GUI，支持 SD1.x/2.x、SDXL 与 SD3.x，不支持 Flux；<br>项目自 2024 年 v1.10.1 后基本停更，新用户建议改用 Forge（Neo）或 ComfyUI。[新手入门教程](https://www.bilibili.com/video/BV1Qo4y167AK/) | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) | 免费 |
-| Photoshop 生成式AI功能 | 在Adobe Photoshop中使用生成式AI填充功能。功能介绍：<br> 1. [B站视频：Photoshop 革命性新功能-生成式填充功能介绍](https://www.bilibili.com/video/BV1su411Y79Z/)<br> 2. [巫师后期B站视频：引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！](https://www.bilibili.com/video/BV1qo4y1E7tK) | [URL](https://www.adobe.com/products/photoshop/generative-fill.html) | 付费（按生成积分计费） |
 | firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
 | clipdrop | clipdrop（2024 年 2 月起归 Jasper 所有，原 Stability AI 旗下）的图像处理网站，基于 Stability AI 的图像模型（官方未公开具体版本），包含文生图、AI 扩图、图生图、去除背景等功能。 | [URL](https://clipdrop.co/) | 免费/付费 |
 | civitai | Civitai(C站)是一个用于分享AI图像创作模型资源的网站平台，拥有大量模型，已成为SD开源社区主要的模型交流场所 |[URL](https://civitai.com/)|免费|
