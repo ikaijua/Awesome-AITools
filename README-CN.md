@@ -297,7 +297,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | GPT Image |🌟 OpenAI 最新的图像生成模型 GPT Image 2.5（2026 年 9 月）。速度提升约 50%，画面更逼真，支持精准局部编辑，新增 Sketch 草图功能；API 提供 GPT-Image-2.5 Flare 与 Sunburst 两个模型。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/959)|[URL](https://chatgpt.com/images)|免费/付费|
-| Nano Banana | 🌟 谷歌的图像生成与编辑模型系列，LMArena 文生图与图像编辑双榜第一。当前主力 **Nano Banana 2.1**（2026 年 10 月 6 日）：蒙版局部编辑与跨轮次主体一致性业界领先，多图叙事角色不掉——出图价格还约为上代一半；旧版 Nano Banana 2 将于 10 月 29 日停用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1160) | [URL](https://aistudio.google.com/) | 免费/付费 |
+| Nano Banana | 🌟 谷歌的图像生成与编辑模型系列，LMArena 文生图与图像编辑榜前列。当前主力 **Nano Banana 2.1**（2026 年 10 月 6 日）：蒙版局部编辑与跨轮次主体一致性业界领先，多图叙事角色不掉——出图价格还约为上代一半；旧版 Nano Banana 2 将于 10 月 29 日停用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1160) | [URL](https://aistudio.google.com/) | 免费/付费 |
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Flux | Black Forest Labs 的图像生成模型系列，主力 **FLUX.2**：写实质感与多图参考编辑突出，[klein] 4B 开源可端侧（Apache 2.0，8GB VRAM 亚秒级出图）；**FLUX 3** 为图/视频/音频多模态新方向。LMArena 文生图总榜 flux-2-max 1162±3。按兆像素计费，[pro] 约 $0.03/MP。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1166) | [URL](https://bfl.ai) <br> [GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social) | 免费/付费 |
