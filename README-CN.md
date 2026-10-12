@@ -297,26 +297,25 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | GPT Image |🌟 OpenAI 最新的图像生成模型 GPT Image 2.5（2026 年 9 月）。速度提升约 50%，画面更逼真，支持精准局部编辑，新增 Sketch 草图功能；API 提供 GPT-Image-2.5 Flare 与 Sunburst 两个模型。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/959)|[URL](https://chatgpt.com/images)|免费/付费|
-| 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Nano Banana | 🌟 谷歌的图像生成与编辑模型系列，LMArena 文生图与图像编辑双榜第一。当前主力 **Nano Banana 2.1**（2026 年 10 月 6 日）：蒙版局部编辑与跨轮次主体一致性业界领先，多图叙事角色不掉——出图价格还约为上代一半；旧版 Nano Banana 2 将于 10 月 29 日停用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1160) | [URL](https://aistudio.google.com/) | 免费/付费 |
-| Grok Imagine | xAI 的图像生成模型（原 Grok Image / Aurora；LMArena 排行榜上以 SpaceXAI 挂牌），集成在 Grok 和 X 中。**Grok Imagine Image 2.0** 新增精确局部编辑、多图参考融合与智能重构图。 | [URL](https://grok.com/imagine) | 免费/付费 |
-| Flux | Black Forest Labs 的图像生成模型系列，主力 **FLUX.2**：写实质感与多图参考编辑突出，[klein] 4B 开源可端侧（Apache 2.0，8GB VRAM 亚秒级出图）；**FLUX 3** 为图/视频/音频多模态新方向。LMArena 文生图总榜 flux-2-max 1162±3。按兆像素计费，[pro] 约 $0.03/MP。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1166) | [URL](https://bfl.ai) | 免费/付费 |
-| Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
-|Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[GitHub](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
+| 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
+| Flux | Black Forest Labs 的图像生成模型系列，主力 **FLUX.2**：写实质感与多图参考编辑突出，[klein] 4B 开源可端侧（Apache 2.0，8GB VRAM 亚秒级出图）；**FLUX 3** 为图/视频/音频多模态新方向。LMArena 文生图总榜 flux-2-max 1162±3。按兆像素计费，[pro] 约 $0.03/MP。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1166) | [URL](https://bfl.ai) <br> [GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social) | 免费/付费 |
+| Grok Imagine | xAI 的图像生成模型（原 Grok Image / Aurora；LMArena 排行榜上以 SpaceXAI 挂牌），集成在 Grok 和 X 中。**Grok Imagine Image 2.0** 新增精确局部编辑、多图参考融合与智能重构图。 | [URL](https://grok.com/imagine) | 免费/付费 |
 | Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
-| Stable diffusion webui | 开源项目，输入文字或图片进行图片创作，Stable Diffusion WebUI 是 Stable Diffusion 的 GUI，支持 SD1.x/2.x、SDXL 与 SD3.x，不支持 Flux；<br>项目自 2024 年 v1.10.1 后基本停更，新用户建议改用 Forge（Neo）或 ComfyUI。[新手入门教程](https://www.bilibili.com/video/BV1Qo4y167AK/) | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) | 免费 |
-| firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
-| clipdrop | clipdrop（2024 年 2 月起归 Jasper 所有，原 Stability AI 旗下）的图像处理网站，基于 Stability AI 的图像模型（官方未公开具体版本），包含文生图、AI 扩图、图生图、去除背景等功能。 | [URL](https://clipdrop.co/) | 免费/付费 |
-| civitai | Civitai(C站)是一个用于分享AI图像创作模型资源的网站平台，拥有大量模型，已成为SD开源社区主要的模型交流场所 |[URL](https://civitai.com/)|免费|
 | 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
 | ideogram.ai | AI 文字生成图片的网站。当前版本 **Ideogram 4.5**（主打局部精确编辑、多轮编辑无伪影、原生 2K）；**Ideogram 4.0** 为其开放权重基础模型。由前谷歌 AI 绘画团队创立的公司推出。 | [URL](https://ideogram.ai/) | 免费 |
-| Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
+|Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[GitHub](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
+| Stable diffusion webui | 开源项目，输入文字或图片进行图片创作，Stable Diffusion WebUI 是 Stable Diffusion 的 GUI，支持 SD1.x/2.x、SDXL 与 SD3.x，不支持 Flux；<br>项目自 2024 年 v1.10.1 后基本停更，新用户建议改用 Forge（Neo）或 ComfyUI。[新手入门教程](https://www.bilibili.com/video/BV1Qo4y167AK/) | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) | 免费 |
+| civitai | Civitai(C站)是一个用于分享AI图像创作模型资源的网站平台，拥有大量模型，已成为SD开源社区主要的模型交流场所 |[URL](https://civitai.com/)|免费|
+| firefly |Adobe 的AI图片处理网站|[URL](https://firefly.adobe.com/)|免费/付费|
+| Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
 | Nero AI | AI图片放大、修复划痕、AI图片上色、AI图片去噪、AI一键抠图换背景、AI神奇擦除笔、AI写真；[介绍](https://github.com/ikaijua/Awesome-AITools/issues/100)。API文档：https://ai.nero.com/ai-api/docs/|[URL]( https://ai.nero.com/)|免费/付费|
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
+| clipdrop | clipdrop（2024 年 2 月起归 Jasper 所有，原 Stability AI 旗下）的图像处理网站，基于 Stability AI 的图像模型（官方未公开具体版本），包含文生图、AI 扩图、图生图、去除背景等功能。 | [URL](https://clipdrop.co/) | 免费/付费 |
 | PixelPanda | AI 驱动的专业产品图、营销图、UGC 风格视频和 AI 头像生成平台——无需相机或影棚。 | [URL](https://pixelpanda.ai) | 免费/付费 |
-|black-forest-labs/flux2|FLUX.2 模型的官方推理资源库|[GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social)|免费|
-| Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
+| Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
+| Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
