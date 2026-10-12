@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Unsora (Shipped-Studio/unsora) to Video Creation: an AGPL-3.0 open-source app and remote MCP server for generating media and scheduling social posts from AI agents (both EN/CN)
 - Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
 - Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier (both EN/CN)
 - Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures (both EN/CN)

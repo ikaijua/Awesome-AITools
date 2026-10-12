@@ -322,6 +322,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Topaz Video AI | AI-powered video enhancement, upscaling, deinterlacing, stabilization, frame interpolation, and motion deblur for professional video restoration. Runs locally on desktop. | [URL](https://www.topazlabs.com/topaz-video-ai) | Paid/Trial |
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 | VideoLingo | All-in-one video translation and localization dubbing tool: one-click Netflix-grade subtitles plus high-quality cloned voice dubbing. | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | Free |
+| Unsora | AGPL-3.0 open-source app, REST API and remote MCP server: generate images, video, voiceovers, music and short clips, then schedule and publish them to connected social accounts from an AI agent (Claude, ChatGPT, Cursor, etc.). | [URL](https://tryunsora.com/) [GitHub](https://github.com/Shipped-Studio/unsora) | Free/Paid |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
