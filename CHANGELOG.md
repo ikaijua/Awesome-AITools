@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
 - Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier (both EN/CN)
 - Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures (both EN/CN)
 - Added **Decision Models** section, moved Jev (from AI Assistants & Proprietary Models) and SemIf (formerly OpenJev, from Open Source LLMs) into it, and added OpenAI Decisions API, Microsoft-Decision-1, and Cloudflare Clef; also added Jev Decision Index to LLM Leaderboard (both EN/CN)
