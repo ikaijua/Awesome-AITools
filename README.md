@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
+| NailMoodLab | Browser nail-design planning tool combining style prompts, a downloadable design image, hand-photo shape inspiration and virtual try-on. Describe colors, length, finish and small details, then use a result as a visual reference for a nail appointment. AI tools require sign-in and an account allowance; the Free plan provides a limited monthly allowance, with paid tiers available. Public guides and manicure inspiration can be browsed separately. Hand-photo previews are creative suggestions, not a professional assessment or a promise of an identical salon result. | [URL](https://nailmoodlab.com/) | Free/Paid / Account required for AI |
 
 ### Video Creation
 
