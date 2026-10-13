@@ -322,6 +322,7 @@
 | PixelPanda | AI 驱动的专业产品图、营销图、UGC 风格视频和 AI 头像生成平台——无需相机或影棚。 | [URL](https://pixelpanda.ai) | 免费/付费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
+| APPLORE AI App Icon Generator | 描述你的 App，生成一个原创 App 图标；可以借用 APPLORE 图标库（18,000 多个真实 App Store / Google Play 图标）里真实图标的风格。新用户送 50 积分免费试用，之后按积分付费。 | [URL](https://applore.app/ai-app-icon-generator) | 免费/付费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
