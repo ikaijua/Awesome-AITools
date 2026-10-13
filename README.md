@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
+| LogoMovo | Logo design workspace that turns a brand brief into AI-assisted vector directions and editable local SVG variations. Users can adjust symbols, typography, colors, layout and taglines, then export SVG or PNG in the browser. Studio access and generation require an account and an active paid plan, with plan-based request limits. The workflow keeps symbol, text and layout choices editable through export; the total direction count includes local variations. Users should independently check naming availability and trademark rights. | [URL](https://logomovo.com/) | Paid / Account required |
 
 ### Video Creation
 
