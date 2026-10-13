@@ -365,6 +365,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
+| ResumePlot | Structured English/Chinese resume workspace with browser-local editing and import from PDF, DOCX or text. Users can review AI rewrite or job-tailoring suggestions before applying them, export searchable PDF files and keep an editable JSON backup. Editing and importing stay in the browser; AI requests, cloud saves and sharing send the relevant content to the service. Core editing is free, with limited Free-plan exports and AI usage after sign-in; paid subscriptions provide larger allowances. Generated suggestions need checking against the user's real experience. | [URL](https://resumeplot.com/) | Free/Paid |
 
 
 ### Translation
