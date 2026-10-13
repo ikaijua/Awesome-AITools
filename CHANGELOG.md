@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Xenon (xianyu-sheng/Xenon) to AI Agent: verifiable terminal coding agent with an append-only evidence hash chain, one deterministic blocking gate, and a manual-verification checklist for what it cannot verify (both EN/CN)
 - Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
 - Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier (both EN/CN)
 - Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures (both EN/CN)
