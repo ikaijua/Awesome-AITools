@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
+| DishVivid | Browser food-photo editor for restaurant menus and delivery listings. Manual brightness, contrast, color and crop controls, original-versus-edited comparison, and JPEG download work without an account. Manual edits stay on the device; optional AI editing requires sign-in and available account edits. Its focus is a reviewable menu-photo workflow: preserve the served ingredients, portion, plate and packaging, and reject misleading candidates. Public guides cover capture angles and menu-photo preparation; check current account allowances before generating. | [URL](https://dishvivid.com/) | Free manual / Account limits for AI |
 
 ### Video Creation
 
