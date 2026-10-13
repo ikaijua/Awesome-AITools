@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
+| LookScene | Personal AI photo-styling workspace for adults exploring hairstyles, outfits and portrait settings. Choose a specific change from a style brief, review the image count and credits, then compare and download results from a private gallery. Generation requires sign-in, invitation access and photo-processing consent; selecting a file first creates only a local preview. The current invitation trial is free and paid packages are unavailable. Public comparison pictures are design illustrations, not verified product outputs. Results do not guarantee likeness, garment fit or a real haircut. | [URL](https://lookscene.packscena.com/) | Free invitation trial / Account required |
 
 ### Video Creation
 
