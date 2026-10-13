@@ -46,7 +46,7 @@
 - [Agent Skills](#agent-skills)
 - [AI 新闻与资讯](#ai-新闻与资讯)
 - [AI Coding](#ai-coding)
-- [AI 安全](#ai-安全)
+- [AI 安全与逆向工程](#ai-安全与逆向工程)
 - [通用 LLM 应用](#通用-llm-应用)
 - [办公协作 CLI / MCP](#办公协作-cli--mcp)
 - [AI 金融与量化投资](#ai-金融与量化投资)
@@ -244,7 +244,7 @@
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [GitHub](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [GitHub](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
 
-### AI 安全
+### AI 安全与逆向工程
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | REA | 开源 MCP 工具集，让 AI 编程 Agent 变成逆向工程助手。REA 把 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等代理接入本地分析引擎，可 inspect 原生二进制、JavaScript/Electron、.NET 程序集、网站、Android APK、固件和网络抓包。Agent 在无源码的情况下分析目标功能，获得带证据的结论，并为你的项目重建可运行实现。项目为 MIT 许可，分析引擎在本地运行。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1252) | [GitHub](https://github.com/morluto/rea) ![GitHub Repo stars](https://img.shields.io/github/stars/morluto/rea?style=social) | 免费 |
