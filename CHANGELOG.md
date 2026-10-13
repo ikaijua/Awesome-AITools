@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
 - Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing (both EN/CN)
 - Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
 - Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier (both EN/CN)
