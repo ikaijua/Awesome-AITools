@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
+| 3D House Planner AI | Browser-based AI renders for home design: restyle a photo of a real room while keeping its layout and camera angle, turn sketches or 3D floor-plan views into photorealistic interior, exterior and garden renders, and make before/after renovation videos. Works with the free 3D House Planner editor; AI runs via Puter.js on the user's Puter account. | [URL](https://www.3dhouseplanner.com/index5.php) | Free/Paid |
 
 ### Video Creation
 
