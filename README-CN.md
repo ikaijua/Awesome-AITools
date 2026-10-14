@@ -322,6 +322,7 @@
 | PixelPanda | AI 驱动的专业产品图、营销图、UGC 风格视频和 AI 头像生成平台——无需相机或影棚。 | [URL](https://pixelpanda.ai) | 免费/付费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
+| AI Hairstyle Fit | 面向男士的浏览器 AI 发型预览工具：上传正面照并可选填写想保留或调整的细节，对比新发型与原图，查看日常打理建议，再生成方便与理发师沟通的理发卡。无需先选模板或学习提示词，目标是帮助用户在剪发前表达偏好。可未登录选照片做本地预览，正式生成需要登录；符合条件且完成验证的新账号可获得 10 个欢迎积分体验一次发型预览，后续按需购买一次性积分包，无订阅要求。支持中文与英文，照片和生成结果会在 24 小时后清理。默认保留原发色，不默认推荐烫染；AI 预览可能有误差，不能证明实际剪发效果，仍需由理发师核对现有长度、发质、发量与打理条件。 | [AI Hairstyle Fit](https://aihairstylefit.com/) | 免费试用/付费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
