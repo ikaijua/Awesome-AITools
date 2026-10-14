@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | PixelPanda | AI-powered platform that creates professional product photos, marketing images, UGC-style videos, and AI avatars — no camera or studio needed. | [URL](https://pixelpanda.ai) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
+| AI Hairstyle Fit | A browser-based haircut preview tool for men: upload a front-facing photo and optionally describe preferences, compare the generated hairstyle with the original, get daily styling advice, and create a barber card with cutting notes. Generation requires sign-in; eligible verified new accounts receive 10 welcome credits for one preview, with one-time credit packs afterward. Photos and results are cleared after 24 hours. AI previews can be inaccurate and should be checked with a barber. | [AI Hairstyle Fit](https://aihairstylefit.com/) | Free trial/Paid |
 
 ### Video Creation
 
