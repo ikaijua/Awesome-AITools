@@ -322,6 +322,7 @@
 | PixelPanda | AI 驱动的专业产品图、营销图、UGC 风格视频和 AI 头像生成平台——无需相机或影棚。 | [URL](https://pixelpanda.ai) | 免费/付费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
+| 3D House Planner AI | 面向家居设计的浏览器端 AI 渲染：在保留原有布局和视角的前提下重新设计真实房间照片，将草图或 3D 户型视图生成室内、外立面和花园的写实效果图，并生成装修前后对比视频。可与免费的 3D House Planner 户型编辑器配合使用；AI 通过 Puter.js 调用用户自己的 Puter 账户。 | [URL](https://www.3dhouseplanner.com/index5.php) | 免费/付费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
