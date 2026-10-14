@@ -46,6 +46,7 @@
 - [Agent Skills](#agent-skills)
 - [AI 新闻与资讯](#ai-新闻与资讯)
 - [AI Coding](#ai-coding)
+- [AI 安全与逆向工程](#ai-安全与逆向工程)
 - [通用 LLM 应用](#通用-llm-应用)
 - [办公协作 CLI / MCP](#办公协作-cli--mcp)
 - [AI 金融与量化投资](#ai-金融与量化投资)
@@ -241,9 +242,14 @@
 | Cate | 开源桌面 IDE，基于无限缩放画布。可以把 Monaco 编辑器、xterm.js 终端、内嵌浏览器和 Claude Code 智能体面板自由排布在可缩放的空间里，代替传统的窗口和标签页。面板支持浮动、停靠或分离为独立窗口，布局按项目自动保存。基于 Electron 构建，支持 macOS、Windows 和 Linux。 | [URL](https://cate.cero-ai.com) [GitHub](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | 免费 |
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [GitHub](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [GitHub](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
-| Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK，用于发现、验证并修复代码中的安全漏洞。支持仓库扫描、漏洞追踪、修复验证、CI/CD 集成以及容器化批量扫描。 | [GitHub](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [GitHub](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
-| REA | 开源 MCP 工具集，让 AI 编程 Agent 变成逆向工程助手。REA 把 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等代理接入本地分析引擎，可 inspect 原生二进制、JavaScript/Electron、.NET 程序集、网站、Android APK、固件和网络抓包。Agent 在无源码的情况下分析目标功能，获得带证据的结论，并为你的项目重建可运行实现。 | [GitHub](https://github.com/morluto/rea) ![GitHub Repo stars](https://img.shields.io/github/stars/morluto/rea?style=social) | 免费 |
+
+### AI 安全与逆向工程
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| REA | 🌱 开源 MCP 工具集，让 AI 编程 Agent 变成逆向工程助手。REA 把 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等代理接入本地分析引擎，可 inspect 原生二进制、JavaScript/Electron、.NET 程序集、网站、Android APK、固件和网络抓包。Agent 在无源码的情况下分析目标功能，获得带证据的结论，并为你的项目重建可运行实现。项目为 MIT 许可，分析引擎在本地运行。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1252) | [GitHub](https://github.com/morluto/rea) ![GitHub Repo stars](https://img.shields.io/github/stars/morluto/rea?style=social) | 免费 |
+| PentAGI | 开源、可自托管的多智能体渗透测试系统：用自然语言描述目标与意图，专职 Agent 自主规划，在隔离的 Docker 沙箱内运行 nmap、Metasploit、sqlmap 等 20+ 专业工具，最终输出带利用步骤的漏洞报告。支持 10+ 云端 LLM 供应商，也可接 Ollama/vLLM 本地模型；研究结论与成功路径存于 PostgreSQL + pgvector，可选 Neo4j 知识图谱，另有 REST/GraphQL API 与 Web UI，并提供交互式安装器与 Docker Compose 部署。自托管版免费（MIT）；企业版增加 Agent 档案、插件/MCP 与实时攻击链视图。仅限授权测试使用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1265) | [URL](https://pentagi.com) [GitHub](https://github.com/vxcontrol/pentagi) ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social) | 免费/付费 |
+| Codex Security | OpenAI 开源的 CLI 与 TypeScript SDK（命令别名 `cs`），用于发现、验证并修复代码中的安全漏洞。可扫描整个仓库、指定路径或 Git 差异，深度扫描会并行启动多个发现 worker；发现之后会验证候选漏洞、生成补丁并复检既有修复。此外还能起草 SECURITY.md 策略、按自定义严重度标准对漏洞去重与评级（并依据 Git 历史推荐负责人）、导入 GitHub 代码扫描告警、导出 SARIF/JSON/CSV 或推送到 Linear。支持跨仓库、CI 与容器内的自动化扫描，整体定位是让扫描、验证、修复到跟踪形成完整闭环。免费；需要 OpenAI API Key 或登录。 | [GitHub](https://github.com/openai/codex-security) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-security?style=social) | 免费 |
 
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |

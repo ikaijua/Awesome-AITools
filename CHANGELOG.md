@@ -4,6 +4,8 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## October 2026
 - Added looot to Office Collaboration CLI / MCP: remote MCP server and API with one key and prepaid balance for about 2,500 data endpoints (work email, phone, company enrichment, Google SERP, web pages), pay per call (both EN/CN)
+- Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
+- Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing (both EN/CN)
 - Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
 - Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier (both EN/CN)
 - Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures (both EN/CN)
