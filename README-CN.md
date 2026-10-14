@@ -298,6 +298,7 @@
 | OpenBB | 开源投资研究平台，整合多个金融数据源（Yahoo Finance、Alpha Vantage 等）提供统一 API。内置 MCP 服务器支持 AI 智能体集成，让 Claude 等大语言模型可直接查询金融数据。 | [GitHub](https://github.com/openbq-org/OpenBB) ![GitHub Repo stars](https://img.shields.io/github/stars/openbq-org/OpenBB?style=social) | 免费 |
 | AkShare | 开源的 Python 金融数据库，提供股票、期货、期权等金融数据接口。主要覆盖中国市场，是 AI 量化交易和金融分析的重要数据源。 | [GitHub](https://github.com/akfamily/akshare) ![GitHub Repo stars](https://img.shields.io/github/stars/akfamily/akshare?style=social) | 免费 |
 | Fincept Terminal | 基于 C++20 + Qt6 的原生金融终端（内嵌 Python）：AGPL-3.0 开源、个人与学术免费，商业版 $15–$45/人/月；集成 100+ 数据源、37 个交易/投资/经济/地缘 AI Agent、多资产量化分析与 MCP 工作流。注意：公开版自 2026 年 6 月起改为每月更新。 | [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) ![GitHub Repo stars](https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=social) | 免费/付费 |
+| roic.ai MCP | 托管的 MCP 服务器与 REST API，为 AI 助手提供全球 6.8 万+ 家公司的财务报表、90+ 项财务比率与业绩电话会议文字记录。免费套餐：每分钟 5 次请求、2 年历史数据，无需信用卡。 | [URL](https://www.roic.ai/) | 免费/付费 |
 
 ### AI 图像创作与 UI 设计
 | 名称 | 说明 | 链接 | 费用 |
