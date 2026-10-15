@@ -309,6 +309,8 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
 | Anatomy | A Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by building them as interactive isometric figures. Instead of boxes and arrows, it invents a physical object whose working *is* the concept—token bucket rate limiter becomes a pin-tumbler lock, GPU context sharing becomes a gantry plotter—and renders it via a custom kit as SVG, SVG+WebGL shader, or true 3D. Outputs standalone HTML, a lone SVG, or React/Next.js components, with built-in geometry audit and headless-Chrome verification. | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | Free |
 
+| PromptImage | Free AI image and video studio with a prompt library and multi-model generation (signup credits, no card required). | [URL](https://promptimage.cloud) | Free/Paid |
+
 ### Video Creation
 
 | Name | Description | Links | Fees |
@@ -329,6 +331,8 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Topaz Video AI | AI-powered video enhancement, upscaling, deinterlacing, stabilization, frame interpolation, and motion deblur for professional video restoration. Runs locally on desktop. | [URL](https://www.topazlabs.com/topaz-video-ai) | Paid/Trial |
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 | VideoLingo | All-in-one video translation and localization dubbing tool: one-click Netflix-grade subtitles plus high-quality cloned voice dubbing. | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | Free |
+
+| GrokVideo Studio | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://grokvideogenerator.dev) | Free Trial |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
