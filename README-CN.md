@@ -220,6 +220,8 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| Sem | 面向编程智能体的本地代码结构导航工具，通过 CLI 和 MCP 提供实体搜索、调用关系、变更影响分析及实体级差异。基于源码解析，不依赖向量嵌入服务，本地使用无需模型 API Key。对于未覆盖的语法仍需保留普通文件工具；代码行为是否正确应通过构建和测试验证。 | [GitHub](https://github.com/Ataraxy-Labs/sem) | 免费（本地开源工具） |
+| Weave | 基于语法结构处理重叠代码变更的合并工具，适用于并行编程智能体产生的分支。提供分支合并预览与 Git merge driver 集成，预览与实际应用合并分开。结构合并没有冲突并不代表程序正确，仍需运行项目的编译器和测试。 | [GitHub](https://github.com/Ataraxy-Labs/weave) | 免费（开源） |
 | Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
 | Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；<br>2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
 | Trae | 字节跳动推出的 AI 编程 IDE（对标 Cursor），主打 Agent 化编程，支持 AI 问答、代码补全与多步自主编程。 | [URL](http://trae.com.cn) | 免费 |
