@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Anatomy (wheresryan22/anatomy) to AI Image Creation and UI Design: a Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by inventing interactive isometric SVG/WebGL/3D figures — token bucket as a pin-tumbler lock, GPU context sharing as a gantry plotter — with built-in geometry audit and verification (both EN/CN)
 - Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
 - Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing (both EN/CN)
 - Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
