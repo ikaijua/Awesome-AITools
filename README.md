@@ -125,6 +125,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 |llmrun|llmrun is a free site that shows which open LLMs fit your GPU, Mac or mini PC: VRAM needed per quantization and estimated speed (tok/s), plus a composite score fitted with 2PL IRT over public benchmark results (Epoch AI, LiveBench, SWE-bench, MMLU-Pro), with the methodology published.|[URL](https://llmrun.dev/)|Free|
 |The Aggregate|A free, independent LLM leaderboard that combines public benchmark leaderboards into one daily ranking: a robust IRT model puts every model on an Elo scale with standard errors, every score links to the leaderboard it came from, and any two models can be compared head to head. Also offers a free, no-key MCP server for assistants.|[URL](https://theaggregate.ai/)|Free|
 | Jev Decision Index | A Hugging Face Space tracking open-source reproductions and alternatives to TypeSafe's Jev (System One / RLCD). Combines a Decision Index leaderboard scoring models on structured-decision benchmarks with a News tab cataloging decoding tricks, diffusion-based approaches, and trained decision heads. | [Hugging Face](https://huggingface.co/spaces/multimodalart/jev-decision-index) | Free |
+| TrueIQ | Free LLM evaluation directory with a sourced guide comparing major leaderboards (Arena, Artificial Analysis, LiveBench, SEAL, Epoch AI and specialist boards): what each measures and where each can mislead. | [URL](https://trueiq.si/guides/llm-leaderboards-compared) | Free |
 
 ### AI Agent
 | Name | Description | Links | Fees |
