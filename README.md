@@ -348,6 +348,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
+| Happy AI Opus 5.5 Video Prompts | Chinese-language video prompt reference with previews, creator attribution, and a gallery of 927 cases. | [GitHub](https://github.com/wutuobangai/happy-ai-opus55-video-prompts) [Gallery](https://wutuobangai.top/opus55-video-prompts.html) | Free to browse; generation tools separate |
 
 ### LLM training platform
 | Name | Description | Links | Fees |
