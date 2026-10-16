@@ -323,6 +323,7 @@
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 | Anatomy | Claude Code / Codex / OpenCode / Antigravity 的 Agent Skill，能把技术概念解释成可交互的等距 SVG 图解。它不画普通框图，而是先「发明」一个工作原理就是该概念的实物——比如把令牌桶限流器变成弹子锁、把 GPU 上下文共享变成龙门绘图仪——再用自研 kit 渲染为 SVG、SVG+WebGL 着色器或真 3D。输出可为独立 HTML、单张 SVG 或 React/Next.js 组件，并自带几何审计和无头 Chrome 校验。 | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | 免费 |
+| Pic2SVG | 面向 PNG/JPG 截图、Logo、照片和手绘稿的栅格转矢量工具。它将位图描绘为可编辑 SVG 路径，提供清晰、平衡、紧凑等预设，下载前可预览，并支持 SVG、PDF、EPS、AI、DXF 导出，便于印刷与 CNC/激光加工；批量转换最多 12 个文件。免费用户无需注册即可描摹并下载 SVG，Pro 解锁其他生产格式和生产使用权限。 | [官网](https://pic2svg.com/) | 免费/付费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
