@@ -280,6 +280,7 @@
 ### 办公协作 CLI / MCP
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| CurlShot MCP | 托管的 MCP 服务器，让 AI 智能体“看到”渲染后的网页。`take_screenshot` 工具可对任意公开网址截图，并以模型可直接读取的图片返回，也可输出 PDF 或页面滚动视频；支持整页截图、手机/平板预设、深色模式和按 CSS 选择器截取单个元素，默认屏蔽广告和 Cookie 弹窗。在支持 Streamable HTTP 的 MCP 客户端（如 Claude Code、Cursor、VS Code）中添加 `https://curlshot.com/api/mcp`，并以 Bearer 头传入 API 密钥即可接入。适合检查已部署页面的界面效果，或读取需要真实浏览器渲染的网页。 | [官网](https://curlshot.com/) [接入指南](https://github.com/SergiuPogor/curlshot-mcp) | 免费每月 100 次截图（无需信用卡）；付费版每月 19 美元起 |
 | Parallel Search MCP | 面向 AI 智能体的托管网页搜索与内容提取服务，返回来源链接和适合模型读取的 Markdown 摘录，可用于查询最新信息、查阅文档和收集研究资料。匿名端点提供 Fast 模式搜索与网页抓取，无需注册账号、配置 API 密钥或在本地运行服务。将 `https://search.parallel.ai/mcp` 添加到支持 Streamable HTTP 的 MCP 客户端即可接入；Claude Code、Cursor、VS Code 等客户端均有配置指南，适合为已有的 AI 编程和研究工具补充联网检索能力。免费访问适用于探索和轻量使用，有速率限制；需要更高限额时可使用付费 API 密钥。 | [官网](https://parallel.ai/) [接入指南](https://docs.parallel.ai/integrations/mcp/search-mcp) | 免费（有速率限制）；更高限额需付费 |
 | Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
 | Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。 | [GitHub](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
