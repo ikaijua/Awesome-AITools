@@ -365,6 +365,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|目前最全面的主流 AI 工具（Cursor, Claude Code, Windsurf, Trae, v0 等）系统提示词、工具定义和模型配置集合。是研究提示词工程（Prompt Engineering）和 AI Agent 架构设计的终极参考。|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|免费|
+| Happy AI Opus 5.5 视频提示词 | 中文视频提示词参考库，提供效果预览、原作者出处和 927 条案例浏览入口。 | [GitHub](https://github.com/wutuobangai/happy-ai-opus55-video-prompts) [案例库](https://wutuobangai.top/opus55-video-prompts.html) | 免费浏览；生成工具另计 |
 
 ### 大语言模型训练与评估平台
 | 名称 | 说明 | 链接 | 费用 |
