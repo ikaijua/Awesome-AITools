@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Jev Agent to Decision Models: independent hosted relay for the Jev model API (not affiliated with TypeSafe), with OpenAI-compatible decisions/classify endpoints and Streamable HTTP MCP (both EN/CN)
 - Updated Gemini, Google AI Studio, and Antigravity for Gemini 4 Argon availability; distinguished general access from the controlled Fairwind program (both EN/CN)
 - Refreshed DeepSeek assistant and DeepSeek-V4 entries to V4.1-Flash-1017, emphasizing project development and task efficiency without unconditional ranking claims (both EN/CN)
 - Updated Meta Muse to distinguish the planned subscriber-first Wonder rollout from current Meta Model API and Muse Code access (both EN/CN)
