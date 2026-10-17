@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added AgentStackWatch to AI News & Information: a nightly-updated tracker of AI agents, agent frameworks and managed agent platforms with sourced pricing, breaking changes, comparisons and a weekly newsletter (both EN/CN)
 - Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed (both EN/CN)
 - Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
 - Removed unmaintained WhisperDesktop; retained and refreshed Buzz as an offline desktop transcription option (both EN/CN)
