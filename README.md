@@ -388,6 +388,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | WhisperDesktop| Open source, OpenAI-based Whisper, a desktop application for Windows, uses the GPU for processing, which will be faster than on the CPU with good GPU performance.|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|Free|
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
 | whisper-ctranslate2 | Free, open-source local transcription CLI powered by faster-whisper/CTranslate2. Compatible with OpenAI Whisper CLI workflows; adds batched inference, live microphone transcription, subtitle export, and optional speaker diarization. Basic transcription does not require PyTorch. | [GitHub](https://github.com/Softcatala/whisper-ctranslate2) ![GitHub Repo stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=social) | Free |
+| Burncaps | Browser tool that burns animated word-by-word captions into a talking video and exports SRT, VTT and ASS files; the video is never uploaded | [Website](https://burncaps.app/) | Free/Paid |
 
 ### Text to Speech (TTS)
 
