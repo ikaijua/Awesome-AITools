@@ -324,6 +324,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Parallel Search MCP | 面向 AI 智能体的托管网页搜索与内容提取服务，返回来源链接和适合模型读取的 Markdown 摘录，可用于查询最新信息、查阅文档和收集研究资料。匿名端点提供 Fast 模式搜索与网页抓取，无需注册账号、配置 API 密钥或在本地运行服务。将 `https://search.parallel.ai/mcp` 添加到支持 Streamable HTTP 的 MCP 客户端即可接入；Claude Code、Cursor、VS Code 等客户端均有配置指南，适合为已有的 AI 编程和研究工具补充联网检索能力。免费访问适用于探索和轻量使用，有速率限制；需要更高限额时可使用付费 API 密钥。 | [官网](https://parallel.ai/) [接入指南](https://docs.parallel.ai/integrations/mcp/search-mcp) | 免费（有速率限制）；更高限额需付费 |
+| Serply MCP | 面向 AI 智能体的托管 MCP 搜索服务，一个端点提供 14 个工具：Google 网页、新闻、学术（Scholar）、地图、招聘和视频搜索，Bing 与 Amazon 商品搜索，Reddit 帖子与评论读取，以及 `scrape_url` 网页抓取。结果为附带来源链接的结构化文本，便于智能体引用出处。在 Claude Code、Cursor、VS Code 等支持 Streamable HTTP 的 MCP 客户端中添加 `https://api.serply.io/mcp`，并在 `X-Api-Key` 请求头中填入 API 密钥即可接入。 | [官网](https://serply.io/) [接入指南](https://serply.io/mcp) | 免费试用（30 天 2,500 积分，无需绑卡）；之后按预付积分计费，最低 $5 |
 | Google Workspace CLI | 社区构建的 Google Workspace 非官方命令行工具，统一访问所有 Google Workspace API，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat 等。内置 40+ AI 代理技能，结构化 JSON 输出非常适合 AI 代理使用，支持多种认证方式。 | [GitHub](https://github.com/googleworkspace/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/googleworkspace/cli?style=social) | 免费 |
 | OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1500+ SaaS 服务的统一目录。 | [GitHub](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
 
