@@ -102,9 +102,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Kimi K3 | 🌟 月之暗面旗舰开源权重模型，全球首个 3 万亿参数级开源模型，把接近前沿的能力完全开放。Modified MIT 许可；100 万 token 上下文、原生视觉理解，面向软件工程、知识工作与长文档推理。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1110) | [技术博客](https://www.kimi.com/blog/kimi-k3) [Hugging Face](https://huggingface.co/moonshotai/Kimi-K3) | 免费 |
-| DeepSeek-V4 | 🌟 DeepSeek 的 MIT 许可开放权重模型系列，支持商用与自部署，面向推理、编程和智能体任务。当前 **V4.1-Flash-1017** 在 V4.1 Flash 的原生多模态理解和 **100 万 token 上下文**基础上，改善完整项目开发能力与任务执行效率；V4-Pro 仍可使用。适合重视成本、可控部署及模型定制的开发者，实际选型应结合工作负载、部署资源和实测费用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1107) | [Hugging Face](https://huggingface.co/collections/deepseek-ai/deepseek-v4) | 免费 |
-| DeepSeek-R1 | DeepSeek 第一代开源推理模型——R1 证明了仅通过大规模强化学习也能达到前沿级推理能力，掀起了 2025 年初的开源推理浪潮。新项目建议使用 DeepSeek-V4。 |[GitHub](https://github.com/deepseek-ai/DeepSeek-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social)|免费|
-| DeepSeek-V3 | DeepSeek 上一代旗舰 MoE 模型（671B 总参 / 37B 激活），曾以极低 API 价格提供顶级能力而闻名——新项目建议直接使用 DeepSeek-V4。 |[GitHub](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|免费|
+| DeepSeek 模型系列 | 🌟 DeepSeek 面向推理、编程和智能体任务的开放权重模型系列。当前 V4 系列采用 MIT 许可，支持商用与自部署；**V4.1-Flash-1017** 支持原生多模态理解、100 万 token 上下文，改善完整项目开发能力与任务执行效率，另有 V4-Pro。历史版本 **R1**（推理）和 **V3**（通用 MoE）保留供研究及既有部署使用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1107) | [V4 模型](https://huggingface.co/collections/deepseek-ai/deepseek-v4)<br>历史版本：[R1](https://github.com/deepseek-ai/DeepSeek-R1)、[V3](https://github.com/deepseek-ai/DeepSeek-V3) | 免费 |
 | GLM-5.3-Flash | 智谱开源（MIT）的原生多模态 MoE 模型，支持 100 万 token 上下文；综合智能指数与 Claude Opus 4.8 持平，API 价格约为其 1/40。 | [Hugging Face](https://huggingface.co/zai-org/GLM-5.3-Flash) | 免费 |
 | Gemma 4 | Google 基于 Gemini 架构的开源权重模型系列——把 Gemini 级能力做成 2B–31B 的可部署尺寸，覆盖端侧到服务器场景。原生视觉/音频、最高 256K 上下文，多语言支持好。 | [GitHub](https://github.com/google/gemma.cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/google/gemma.cpp?style=social) | 免费 |
 | Muse Glimmer | Meta 开源的 300 亿参数多模态本地智能体模型，Apache 2.0 许可。支持文本/图像输入、工具调用和 4-bit 量化，可在消费级显卡本地运行。由 Muse Spark 蒸馏而来。 | [Hugging Face](https://huggingface.co/meta-models/Muse-Glimmer-30B) | 免费 |
@@ -166,7 +164,7 @@
 | Orca | 跨平台 Agent Development Environment（ADE），用于编排并行的 AI 编程智能体舰队。可在独立 git worktree 中并排运行 Claude Code、Codex、OpenCode、Pi 及任何 CLI 智能体，对比输出并合并最优解。<br>支持 Mobile Companion、终端分屏、Design Mode（捕获 Chromium UI 元素）、GitHub/Linear 集成、SSH worktrees、AI diff 批注和 Computer Use。 | [官网](https://www.onorca.dev) [GitHub](https://github.com/stablyai/orca) ![GitHub Repo stars](https://img.shields.io/github/stars/stablyai/orca?style=social) | 免费 |
 | Paseo | 🌱 开源的 Agentic 开发环境，在一个界面中统一接入 Claude Code、Codex、Copilot、OpenCode、Pi、Antigravity、Muse Code 等编程智能体。支持多代理在独立 worktree 中并行运行，内置编排、编辑器、终端、diff、PR、浏览器与插件系统；可自托管、无遥测，覆盖桌面、移动、Web、CLI，并提供 TypeScript SDK。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1216) | [GitHub](https://github.com/getpaseo/paseo) | 免费 |
 | AgentsMesh | AI Agent 工作流平台。可自托管的远程 AI 工作站（AgentPods），提供 PTY 沙箱 + git worktree 隔离、基于频道和 pod 绑定的多智能体协作、内置看板（MR/PR 集成）、每 pod 独立 MCP 服务器。支持 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode。 | [GitHub](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | 免费（BSL-1.1） |
-|microsoft/autogen|AutoGen 是一个开源编程框架， 用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。自 2025 年 10 月起进入社区维护模式（仅修 bug），微软官方继任框架为 Microsoft Agent Framework。|[GitHub](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
+| Microsoft Agent Framework | 微软开源（MIT）的 AI 智能体与多智能体工作流框架，也是已归档 AutoGen 的官方推荐后继项目。支持 Python、.NET 和多家模型服务，提供图式编排、检查点恢复、人工审批与 OpenTelemetry 可观测性，适合需要持久执行、可审查工作流的开发团队，可从本地开发扩展到云端部署。框架免费，模型和托管费用取决于所选服务。 | [GitHub](https://github.com/microsoft/agent-framework) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social) | 免费 |
 |msitarzewski/agency-agents|开源AI代理工具包，包含230+个细分领域的专业代理角色，覆盖工程、设计、营销、销售、金融、游戏开发、医疗等。提供开箱即用的代理人设、工作流模板、可交付成果，以及原生桌面应用，可一键浏览/安装代理到 Claude Code、Cursor、Codex、Gemini、Kimi Code、Aider 等AI开发工具。|[GitHub](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|免费|
 | ECC | 面向 AI 编程代理的开源增强框架。为 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等提供统一的 Agent/技能/规则/Hook/MCP 配置体系。内置 60 个子代理、232 个技能、记忆持久化、AgentShield 安全扫描，附带桌面仪表盘 GUI。 | [GitHub](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | 免费 |
 | CC Switch | 跨平台桌面应用，用于一站式管理 Claude Code, Codex, Gemini CLI, OpenCode 和 OpenClaw。提供可视化界面管理 API 供应商、MCP 服务器和技能，支持双向同步。 | [GitHub](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | 免费 |
@@ -409,8 +407,7 @@
 | FunASR | 阿里通义实验室开源的工业级语音识别工具包，GPU上170倍实时（比Whisper快13倍），支持50+语言、说话人分离、情感检测。提供OpenAI兼容API：`funasr-server --device cuda` | [GitHub](https://github.com/modelscope/FunASR) ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) | 免费 |
 | whisper.cpp | OpenAI 的 Whisper 模型在 C/C++ 中的实现|[GitHub](https://github.com/ggml-org/whisper.cpp) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social)|免费|
 | VideoCaptioner | 基于 LLM 的智能字幕助手，无需 GPU 一键完成字幕生成、断句、优化、翻译全流程。[视频介绍](https://www.bilibili.com/video/BV1giBqYtEqG/)| [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) ![GitHub Repo stars](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=social)|免费|
-| buzz | 开源，基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件，使用CPU进行处理 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| 免费 |
-| WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快。使用介绍：https://www.appinn.com/const-me-whisper/|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|免费|
+| buzz | 开源的离线语音转写与翻译桌面应用，支持 Windows、macOS（Apple Silicon）和 Linux。可转写音视频文件、YouTube 链接与麦克风实时输入，支持多种 Whisper 后端的 GPU 加速、说话人识别，以及 TXT/SRT/VTT 导出；内置转写结果查看器和文件夹监控，适合本地字幕制作及录音整理。 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social) | 免费 |
 | whisperX | 开源模型，支持单词级时间戳对齐和发言人识别，生成结果含 srt/json。使用示例：[在 Google Colab 上生成 YouTube 字幕](https://github.com/JimLiu/whisper-subtitles/blob/main/whisperx_youtube_subtitle.ipynb)（免费 Colab GPU，2 小时 40 分钟视频约 6 分钟完成）| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |免费|
 | whisper-ctranslate2 | 免费开源的本地语音转录命令行工具，基于 faster-whisper/CTranslate2，兼容 OpenAI Whisper 的命令行工作流。支持批量推理、麦克风实时转录、字幕导出及可选的说话人分离；基础转录无需安装 PyTorch。 | [GitHub](https://github.com/Softcatala/whisper-ctranslate2) ![GitHub Repo stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=social) | 免费 |
 | 飞书妙记 | 上传视频或音频即可转录为文字（官方名「妙记」，非「秒记」），可一键导出到飞书文档。处理速度很快：近 2 小时的视频约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes) | 免费，有企业付费版 |
@@ -429,7 +426,7 @@
 | TTS-Online | 提供超过160种声音选项 美真人配音选择，包含主流的小帅 小美 微软的一些语音，如果你是二次元游戏迷之类网站还提供超过1000+的动漫游戏角色的声音。网站可以提供api。分享者：[issue](https://github.com/ikaijua/Awesome-AITools/issues/31) | [URL](https://www.ttson.cn/)|免费 |
 | 火山引擎TTS| 火山引擎的语音合成| [URL](https://www.volcengine.com/product/tts)|付费|
 | 配音神器 | 有网页端、windows客户端工具，使用比较方便 |[URL](https://peiyinshenqi.club/)|免费/付费|
-| elevenlabs | 文字转语音的服务，提供多种语言。当前旗舰 **Eleven v3** 已全面可用。 | [URL](https://elevenlabs.io/) | 免费/付费 |
+| ElevenLabs | AI 音频平台，提供多语言文字转语音、声音克隆、变声和文字生成音效。**Eleven v3** 支持富有表现力的旁白与对话语音，提供网页工具及 API，适合内容创作者和开发者。声音克隆需使用获授权的声音样本；功能、用量和商业使用权限取决于套餐。 | [官网](https://elevenlabs.io/)<br>[声音克隆](https://elevenlabs.io/voice-cloning)<br>[音效生成](https://elevenlabs.io/sound-effects) | 免费/付费 |
 | ChatTTS |ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。官网：https://chattts.com/|[GitHub](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|免费|
 |QwenAudio/CosyVoice|阿里开源的TTS模型|[GitHub](https://github.com/QwenAudio/CosyVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenAudio/CosyVoice?style=social)|免费|
 | fish-speech | 输入 10 到 30 秒声音样本即可生成高质量 TTS 输出。已归入 Fish Audio 品牌线：开源主线 Fish Audio S2 / S2-Pro，云端 API 旗舰 S2.1 Pro（83 语种）；旧 Fish Speech 1.5 已停止演进。 | [GitHub](https://github.com/fishaudio/fish-speech) ![GitHub Repo stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) | 免费 |
@@ -439,7 +436,6 @@
 
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| ElevenLabs | 业界领先的 AI 语音合成和变声工具。当前旗舰 **Eleven v3** 已全面可用；提供高度逼真的文本转语音、语音克隆（只需几分钟音频）和变声功能，支持多种语言和情感语音。 | [URL](https://elevenlabs.io/) | 免费/付费 |
 | Gemini 3.8 TTS | Google DeepMind 的原生多模态语音合成模型（Gemini 3.8 TTS）：支持多说话人、情感和语气控制、低延迟，可通过 Gemini API 调用；官方 playground 可免费调试音色、语速和情感。<br>同期推出 Live Avatar 实时互动数字人。[Live Avatar 介绍](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | [官网](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) | 免费/付费 |
 |RVC (Retrieval-Based Voice Conversion)|开源语音转换模型，可以高质量地将任何声音转换为另一种声音。常用于唱歌声音转换和语音克隆。|[GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ![GitHub Repo stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social)|免费|
 | 剪映 |目前只有APP端有声音克隆的功能，朗读一小段文字就能完成音色的克隆，音色效果很牛。当你添加文本时，在“文本朗读”那个功能中，点击“我的”tab，就能看到这个功能了|[URL](https://www.capcut.cn/)|免费/付费|
@@ -466,7 +462,6 @@
 | suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[suno专题页面](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/)<br> | [URL](https://www.suno.ai/) | 免费/付费 |
 | udio | AI 音乐平台：与 UMG、Warner、Merlin、Kobalt 和解后（Sony 诉讼仍在），从即时歌曲生成转型为授权音乐 remix 与创作者社区。注意：自 2025 年 10 月底起全平台（含付费档）关闭音频、视频与分轨下载。 | [URL](https://www.udio.com/) | 免费/付费 |
 | mureka.ai | 昆仑万维的 AI 生成音乐应用。当前旗舰 **Mureka V9.5**；更高阶的 O3 已预览但未上线。 | [URL](https://www.mureka.ai/) | 免费/付费 |
-|elevenlabs/sound-effects|elevenlabs 提供的通过文本生成音效的工具|[URL](https://elevenlabs.io/app/sound-effects)|免费|
 | audiocraft | Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。<br>自 2025 年 3 月 14 日起停止更新，最后发布版本为 1.4.0a2（PyPI 稳定版停留在 1.3.0）；代码为 MIT，模型权重为 CC-BY-NC 4.0，仅限非商业用途。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen) | [GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) | 免费 |
 | Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用：从文本提示词生成完整曲目与音效。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
@@ -497,7 +492,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | SynthID Detector | Google DeepMind 官方的 AI 媒体验证门户——2026 年 10 月与 OpenAI、NVIDIA、Kakao 组成跨厂商内容溯源联盟（Apple 即将加入）。上传图像、音频、视频或文本即可检测 SynthID 隐形水印，部分匹配时标出水印区域。水印直接嵌入像素/声波而非文件元数据，可经受截图、压缩与裁剪。仅检测带水印的内容，非通用 AI 检测器。免费，全球英文界面可用。 | [URL](https://synthid.com/) | 免费 |
-| AI Detect Lab | 针对 Midjourney 当前默认版本 V8.2 与最新一代 FLUX.2 系列图像模型优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
+| Content Credentials Verify | Content Authenticity Initiative 提供的免费 C2PA 内容溯源检查工具。可查看媒体文件附带的已签名内容凭证，包括可用的创作者、生成或编辑工具、编辑记录和 AI 生成声明，并检查凭证的验证情况。结果取决于文件是否包含相应凭证：没有凭证无法判断内容由人还是 AI 生成，凭证有效也不代表画面或叙述真实。 | [检查工具](https://verify.contentauthenticity.org/)<br>[原理说明](https://contentauthenticity.org/how-it-works) | 免费 |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |

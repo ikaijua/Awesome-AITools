@@ -3,6 +3,11 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
+- Removed unmaintained WhisperDesktop; retained and refreshed Buzz as an offline desktop transcription option (both EN/CN)
+- Replaced AI Detect Lab with Content Credentials Verify, clarifying credential-based provenance verification and its limits (both EN/CN)
+- Consolidated DeepSeek-V4, DeepSeek-R1, and DeepSeek-V3 into one open-weight model-family entry while preserving historical model links (both EN/CN)
+- Consolidated ElevenLabs text-to-speech, voice cloning, and sound effects into one entry (both EN/CN)
 - Updated Gemini, Google AI Studio, and Antigravity for Gemini 4 Argon availability; distinguished general access from the controlled Fairwind program (both EN/CN)
 - Refreshed DeepSeek assistant and DeepSeek-V4 entries to V4.1-Flash-1017, emphasizing project development and task efficiency without unconditional ranking claims (both EN/CN)
 - Updated Meta Muse to distinguish the planned subscriber-first Wonder rollout from current Meta Model API and Muse Code access (both EN/CN)
