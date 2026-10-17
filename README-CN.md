@@ -426,7 +426,7 @@
 | TTS-Online | 提供超过160种声音选项 美真人配音选择，包含主流的小帅 小美 微软的一些语音，如果你是二次元游戏迷之类网站还提供超过1000+的动漫游戏角色的声音。网站可以提供api。分享者：[issue](https://github.com/ikaijua/Awesome-AITools/issues/31) | [URL](https://www.ttson.cn/)|免费 |
 | 火山引擎TTS| 火山引擎的语音合成| [URL](https://www.volcengine.com/product/tts)|付费|
 | 配音神器 | 有网页端、windows客户端工具，使用比较方便 |[URL](https://peiyinshenqi.club/)|免费/付费|
-| ElevenLabs | AI 音频平台，提供多语言文字转语音、声音克隆、变声和文字生成音效。**Eleven v3** 支持富有表现力的旁白与对话语音，提供网页工具及 API，适合内容创作者和开发者。声音克隆需使用获授权的声音样本；功能、用量和商业使用权限取决于套餐。 | [官网](https://elevenlabs.io/)<br>[声音克隆](https://elevenlabs.io/voice-cloning)<br>[音效生成](https://elevenlabs.io/sound-effects) | 免费/付费 |
+| elevenlabs | 文字转语音的服务，提供多种语言。当前旗舰 **Eleven v3** 已全面可用。 | [URL](https://elevenlabs.io/) | 免费/付费 |
 | ChatTTS |ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。官网：https://chattts.com/|[GitHub](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|免费|
 |QwenAudio/CosyVoice|阿里开源的TTS模型|[GitHub](https://github.com/QwenAudio/CosyVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenAudio/CosyVoice?style=social)|免费|
 | fish-speech | 输入 10 到 30 秒声音样本即可生成高质量 TTS 输出。已归入 Fish Audio 品牌线：开源主线 Fish Audio S2 / S2-Pro，云端 API 旗舰 S2.1 Pro（83 语种）；旧 Fish Speech 1.5 已停止演进。 | [GitHub](https://github.com/fishaudio/fish-speech) ![GitHub Repo stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) | 免费 |
@@ -436,6 +436,7 @@
 
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| ElevenLabs | 业界领先的 AI 语音合成和变声工具。当前旗舰 **Eleven v3** 已全面可用；提供高度逼真的文本转语音、语音克隆（只需几分钟音频）和变声功能，支持多种语言和情感语音。 | [URL](https://elevenlabs.io/) | 免费/付费 |
 | Gemini 3.8 TTS | Google DeepMind 的原生多模态语音合成模型（Gemini 3.8 TTS）：支持多说话人、情感和语气控制、低延迟，可通过 Gemini API 调用；官方 playground 可免费调试音色、语速和情感。<br>同期推出 Live Avatar 实时互动数字人。[Live Avatar 介绍](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | [官网](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) | 免费/付费 |
 |RVC (Retrieval-Based Voice Conversion)|开源语音转换模型，可以高质量地将任何声音转换为另一种声音。常用于唱歌声音转换和语音克隆。|[GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ![GitHub Repo stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social)|免费|
 | 剪映 |目前只有APP端有声音克隆的功能，朗读一小段文字就能完成音色的克隆，音色效果很牛。当你添加文本时，在“文本朗读”那个功能中，点击“我的”tab，就能看到这个功能了|[URL](https://www.capcut.cn/)|免费/付费|
@@ -462,6 +463,7 @@
 | suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[suno专题页面](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/)<br> | [URL](https://www.suno.ai/) | 免费/付费 |
 | udio | AI 音乐平台：与 UMG、Warner、Merlin、Kobalt 和解后（Sony 诉讼仍在），从即时歌曲生成转型为授权音乐 remix 与创作者社区。注意：自 2025 年 10 月底起全平台（含付费档）关闭音频、视频与分轨下载。 | [URL](https://www.udio.com/) | 免费/付费 |
 | mureka.ai | 昆仑万维的 AI 生成音乐应用。当前旗舰 **Mureka V9.5**；更高阶的 O3 已预览但未上线。 | [URL](https://www.mureka.ai/) | 免费/付费 |
+|elevenlabs/sound-effects|elevenlabs 提供的通过文本生成音效的工具|[URL](https://elevenlabs.io/app/sound-effects)|免费|
 | audiocraft | Meta开源的一个用于音频/音乐生成的开源库，其中主要包括两个模型，MusicGen：文本到音乐模型，AudioGen：文本生成声音模型。<br>自 2025 年 3 月 14 日起停止更新，最后发布版本为 1.4.0a2（PyPI 稳定版停留在 1.3.0）；代码为 MIT，模型权重为 CC-BY-NC 4.0，仅限非商业用途。[MusicGen在线Demo](https://huggingface.co/spaces/facebook/MusicGen) | [GitHub](https://github.com/facebookresearch/audiocraft) <br>![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) | 免费 |
 | Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用：从文本提示词生成完整曲目与音效。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
