@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added Ranked Agents to AI News & Information: a free editorial S/A/B tier list of AI agents and automation tools with head-to-head comparisons and a daily release feed (both EN/CN)
 - Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed (both EN/CN)
 - Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
 - Removed unmaintained WhisperDesktop; retained and refreshed Buzz as an offline desktop transcription option (both EN/CN)
