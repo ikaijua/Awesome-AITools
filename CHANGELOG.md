@@ -4,6 +4,9 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## October 2026
 - Added Jev Chat Assistant (jev-chat/jev-chat-jarvis) to General LLM Applications: open-source Android chat decision assistant that reads the current chat, judges intent and risk, and fills a drafted reply without sending (both EN/CN)
+- Added Anatomy (wheresryan22/anatomy) to AI Image Creation and UI Design: a Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by inventing interactive isometric SVG/WebGL/3D figures — token bucket as a pin-tumbler lock, GPU context sharing as a gantry plotter — with built-in geometry audit and verification (both EN/CN)
+- Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
+- Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing (both EN/CN)
 - Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
 - Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier (both EN/CN)
 - Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures (both EN/CN)
@@ -34,6 +37,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
 
 ## September 2026
+- Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation (both EN/CN)
 - Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
 - Updated Gemini entry to mention Gemini Spark (persistent background personal agent across Google Workspace) in both EN/CN
 - Added Higgsfield (multi-model AI video studio aggregating Seedance/Kling/Veo/Sora with cinematic camera presets and Soul ID character consistency) to Video Creation section, with intros in Discussions #1057 (CN) / #1058 (EN) (both EN/CN)
