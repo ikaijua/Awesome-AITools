@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added agent-manager (YoanWai/agent-manager) to AI Agent: open-source terminal UI that runs coding-agent CLIs side by side, each in its own persistent tmux session (both EN/CN)
 - Added Jev Chat Assistant (jev-chat/jev-chat-jarvis) to General LLM Applications: open-source Android chat decision assistant that reads the current chat, judges intent and risk, and fills a drafted reply without sending (both EN/CN)
 - Added Anatomy (wheresryan22/anatomy) to AI Image Creation and UI Design: a Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by inventing interactive isometric SVG/WebGL/3D figures — token bucket as a pin-tumbler lock, GPU context sharing as a gantry plotter — with built-in geometry audit and verification (both EN/CN)
 - Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
