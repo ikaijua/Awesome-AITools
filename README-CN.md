@@ -215,6 +215,7 @@
 | Prismix | AI 服务实时状态监控中心，聚合 75+ AI 服务（OpenAI、Anthropic、Grok、Cursor 等）的实时运行状态，提供来自 55+ 来源的精选 AI 新闻并支持个性化信息流，还包含 500+ MCP 服务器目录及告警功能。 | [官网](https://prismix.dev) | 免费/付费 |
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
 | ArtificialWatch | 新 AI 模型发布即时提醒，覆盖各大实验室。每 60 秒扫描厂商 API，只有新模型真正响应 API 请求才会提醒；公开记录每次发布的首次发现与确认时间。邮件和推送提醒免费，付费方案增加短信和电话提醒。 | [官网](https://artificialwatch.com) | 免费/付费 |
+| The Deploy Log | 已经上线、现在就能用的 AI 产品、模型和 API 的公开记录：截至 2026 年 10 月共 1,674 条，来自 124 家公司，每条都标注日期并链接到发布方自己的页面，每天更新。提供 CSV 和 JSON，采用 CC BY 4.0 许可，无需登录；也可通过只读的远程 MCP 服务器查询。 | [GitHub](https://github.com/dotcomjack/the-deploy-log) ![GitHub Repo stars](https://img.shields.io/github/stars/dotcomjack/the-deploy-log?style=social)、[官网](https://deployedbyai.com/log/?k=awesome) | 免费 |
 
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
