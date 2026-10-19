@@ -366,6 +366,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|目前最全面的主流 AI 工具（Cursor, Claude Code, Windsurf, Trae, v0 等）系统提示词、工具定义和模型配置集合。是研究提示词工程（Prompt Engineering）和 AI Agent 架构设计的终极参考。|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|免费|
+| FixKit AI | 免费、无需注册、不绑定特定模型的"用 AI 自己解决问题"实用指南库：178 个日常场景（医疗账单、退款、订阅取消、报税材料、编程），每个含 3 步操作与可直接复制的提示词；另有 [提示词库](https://fixkitai.com/loops/)（585 个提示词 + 158 个智能体循环）和 ["该用哪个 AI？"](https://fixkitai.com/compare/) 对比。 | [URL](https://fixkitai.com/) | 免费 |
 
 ### 大语言模型训练与评估平台
 | 名称 | 说明 | 链接 | 费用 |
