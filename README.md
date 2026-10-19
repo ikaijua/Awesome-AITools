@@ -349,6 +349,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
+| FixKit AI | Free, no-signup, AI-neutral library of 178 everyday "fix it yourself with AI" recipes (medical bills, refunds, subscriptions, taxes paperwork, coding), each with 3 steps and a copy-paste prompt; plus a [Prompt Library](https://fixkitai.com/loops/) of 585 prompts and 158 agent loops, and ["Which AI should I use?"](https://fixkitai.com/compare/) comparisons. | [URL](https://fixkitai.com/) | Free |
 
 ### LLM training platform
 | Name | Description | Links | Fees |
