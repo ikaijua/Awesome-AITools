@@ -322,6 +322,7 @@
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 | Anatomy | Claude Code / Codex / OpenCode / Antigravity 的 Agent Skill，能把技术概念解释成可交互的等距 SVG 图解。它不画普通框图，而是先「发明」一个工作原理就是该概念的实物——比如把令牌桶限流器变成弹子锁、把 GPU 上下文共享变成龙门绘图仪——再用自研 kit 渲染为 SVG、SVG+WebGL 着色器或真 3D。输出可为独立 HTML、单张 SVG 或 React/Next.js 组件，并自带几何审计和无头 Chrome 校验。 | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | 免费 |
+| Draft to Brand | 浏览器内的文生图与照片编辑工作台，支持英语、中文、荷兰语、西班牙语、德语、法语和巴西葡语。可直接输入自己的想法，从空白提示词开始，也可先查看可选示例，再用于创意场景或商品图片；文字与照片流程分别保存草稿，切换模式可继续编辑。另提供在本地浏览器中运行的免费图片尺寸调整与检查工具，无须发起AI生成请求。AI生图提供从首次免费生成开始的7天有限试用，受每日额度与共享容量限制；额外生成可选购一次性积分包，无订阅。积分覆盖生成尝试，调整后重试会另计一次，不能保证得到特定结果；请仅上传有权使用的照片，并在发布前检查主体外观、文字和颜色。适合希望用同一多语界面完成创作与尺寸准备的用户，文生图、照片编辑和本地图片工具分别提供明确入口。 | [官网](https://dftb-a.com/zh/) | 有限免费试用 / 一次性积分 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
