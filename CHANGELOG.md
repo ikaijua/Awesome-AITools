@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added qz to AI Agent: an open-source browser agent by Alibaba that runs in your own Chrome, with CLI and MCP for coding agents (both EN/CN)
 - Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed (both EN/CN)
 - Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
 - Removed unmaintained WhisperDesktop; retained and refreshed Buzz as an offline desktop transcription option (both EN/CN)
