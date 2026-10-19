@@ -47,6 +47,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Noted Nano Banana 2 as the current Gemini app default, and marked Palmier Pro as closed-source since v0.7.6 (both EN/CN)
 - Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
 
+- Added PastAGI to AI News & Information: practical AI engineering publication with serving-math tool reviews, inference cost audits, and agent architecture teardowns (both EN/CN)
 ## September 2026
 - Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation (both EN/CN)
 - Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
