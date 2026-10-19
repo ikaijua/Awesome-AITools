@@ -346,6 +346,7 @@
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 | OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
+| useapi.net | 第三方 REST API 与托管 MCP 服务器，直接驱动你已订阅的 AI 服务：Google Flow（Veo 3.1、Nano Banana、Omni Flash）、Google Vids 数字人、NotebookLM、Meta Muse、可灵 4.0、Runway、PixVerse、MiniMax 海螺、即梦（Seedance 2.5）、Mureka 和 Google Flow Music。<br>按你自己套餐的价格生成，而不是按次计费的官方 API 价格；还能调用没有官方 API 的产品（Google Flow、Google Vids、NotebookLM、可灵 4.0）。GitHub 上每个服务都有可运行示例。 | [URL](https://useapi.net/) [GitHub](https://github.com/useapi) | 付费（每月 15 美元） |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
