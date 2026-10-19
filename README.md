@@ -307,6 +307,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
 | Anatomy | A Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by building them as interactive isometric figures. Instead of boxes and arrows, it invents a physical object whose working *is* the concept—token bucket rate limiter becomes a pin-tumbler lock, GPU context sharing becomes a gantry plotter—and renders it via a custom kit as SVG, SVG+WebGL shader, or true 3D. Outputs standalone HTML, a lone SVG, or React/Next.js components, with built-in geometry audit and headless-Chrome verification. | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | Free |
+| PencilDays | AI service that turns uploaded photos into colored-pencil, crayon, and pastel-style illustrations; fixed curated art styles rather than open prompt engineering. | [URL](https://pencildays.com) | Paid |
 
 ### Video Creation
 
