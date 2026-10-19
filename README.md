@@ -377,6 +377,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/nextai-translator/nextai-translator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
+| TheSubAI | Translates subtitle files (SRT, VTT, ASS, SSA, SBV, SUB) into 130+ languages with every timestamp left untouched; formal/informal register control, and speaker-aware gendered grammar when SDH speaker labels are present. First 150 lines free, no account. | [URL](https://thesubai.com/) | Free/Paid |
 
 ### Speech Recognition & Subtitles
 
