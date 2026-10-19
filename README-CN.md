@@ -331,6 +331,7 @@
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [Seedance 2.5专题](https://github.com/ikaijua/Awesome-AITools/discussions/266) |[URL](https://xyq.jianying.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
+| Kling4AI | 基于 Kling 4.0 的网页版 AI 视频生成工具，适合广告、角色故事、动画与社媒短视频（非快手官方）。 | [URL](https://kling4ai.art/) | 免费/付费 |
 | 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
 | 通义万相 Wan 3.0 | 阿里通义万相全能参考视频生成模型，支持文本、图片、视频、音频、文档、PPT、网页等多模态参考输入，最高 20 个素材参考，单次直出最长 30 秒视频，具备像素级一致性保持和精准视频编辑能力 | [URL](https://tongyi.aliyun.com/wanxiang/videoCreation) | 免费/付费 |
 | 海螺AI | MiniMax 的 AI 视频生成平台，当前基于 **MiniMax H3 / Hailuo 3**，以接近真人自然的动态质感著称。 | [URL](https://hailuoai.com/video) | 免费/付费 |
