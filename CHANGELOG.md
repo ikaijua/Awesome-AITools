@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+
 - Updated Gemini entry to add Gemini 4 Carbon (Oct 28, 2026) — Google's strongest model, focused on cybersecurity and long-horizon agentic work, #1 on the Artificial Analysis Intelligence Index v5.0; gated rollout via Fairwind to cyber defenders first, with Argon remaining the broadly available flagship
 - Updated Kimi Chat to K3.1 Pro (Oct 24, 2026); renamed the K3 open-weight entry to **Kimi K3.1** in Open Source LLMs, reflecting the 3T-class open-weight K3.1 Pro (full weights by Nov 4, 2026)
 - Added Claude Duet (proactive agent on Opus 5.5, research preview Oct 21, 2026) to the Claude entry, and tightened the Claude description to within the 600/450-character limits
@@ -54,6 +55,8 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Noted Nano Banana 2 as the current Gemini app default, and marked Palmier Pro as closed-source since v0.7.6
 - Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section
 - Added NeoLabs to AI News & Information: curated opinionated ranking of 100+ AI research labs by valuation, with a "neolab" definition and a per-lab verdict on fit
+- Added ShortSmash to Video Creation: open-source prompt-to-published short-video pipeline — AI script, neural voiceover in 50 languages, AI-verified stock footage, karaoke captions, one-click publishing to 10 platforms via official APIs (both EN/CN)
+
 
 ## September 2026
 - Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation
