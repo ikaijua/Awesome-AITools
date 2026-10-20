@@ -347,6 +347,7 @@
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 | OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
+| Castaly | 多模型 AI 视频与图像创作平台：在一个网页工作台里用 Seedance、可灵、万相、MiniMax、GPT Image 等主流模型做文生视频、图生视频和文生图。差异化在于透明：生成前并排展示各模型的规格和按次价格，每个结果都保留所用模型和参数；公开社区画廊附带提示词和参数，可以直接复制或 Remix。按次付费、从美元钱包扣费，无订阅；同一批模型也可以通过 Modelflare API 在代码中调用。 | [URL](https://castaly.modelflare.dev/) | 付费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
