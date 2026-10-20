@@ -3,7 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
-- Added Frink (benord-labs/frink) to AI Agent: an open-source desktop app of visual workflows where AI coding agents act on tickets, errors and schedules and ask before changing anything (both EN/CN)
+- Added Frink (benord-labs/frink) to AI Agent: a desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers (both EN/CN)
 - Added Anatomy (wheresryan22/anatomy) to AI Image Creation and UI Design: a Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by inventing interactive isometric SVG/WebGL/3D figures — token bucket as a pin-tumbler lock, GPU context sharing as a gantry plotter — with built-in geometry audit and verification (both EN/CN)
 - Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
 - Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing (both EN/CN)

@@ -190,7 +190,7 @@
 |CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。|[GitHub](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
 | Understand Anything | 基于 AI 的代码库和知识库分析工具，构建交互式可视化知识图谱。支持多智能体分析、架构引导教程以及针对大型代码库的语义搜索。可作为 Claude Code、Cursor 等工具的插件使用。 | [GitHub](https://github.com/Egonex-AI/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social) | 免费 |
 | Kortix | 开源 AI 管理系统——用智能体、技能、记忆和 3000+ 连接器以文件形式管理整个公司的智能体劳动力，全部保存在你拥有的一个 git 仓库中；每个会话启动一台隔离的 Linux 机器，工作成果通过人工审查的变更请求落地。支持自托管或托管云，自带 Key 接入任意模型。 | [GitHub](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | 免费 |
-| Frink | 人人可用的精细化自动化：通过可视化工作流，让 AI 编程智能体处理你的工单、错误和定时任务，并在做出任何修改前先征求你的同意。支持 Claude Code、Codex、OpenCode、GitHub Copilot 和 Cursor。本地运行、开源，支持 macOS 和 Linux。 | [官网](https://frink.dev) [GitHub](https://github.com/benord-labs/frink) ![GitHub Repo stars](https://img.shields.io/github/stars/benord-labs/frink?style=social) | 免费 |
+| Frink | 桌面优先的开源（MIT）应用，可在你已经在用的各家 AI 编程服务商上运行并行智能体，以及由定时调度、Webhook 或 Linear、Sentry 等工具的事件触发的多步骤自定义工作流。工作流除了智能体、命令和审批步骤之外，还可以包含你自己用代码编写的步骤。 | [官网](https://frink.dev) [GitHub](https://github.com/benord-labs/frink) ![GitHub Repo stars](https://img.shields.io/github/stars/benord-labs/frink?style=social) | 免费 |
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
