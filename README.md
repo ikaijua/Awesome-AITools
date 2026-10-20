@@ -211,6 +211,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 ### AI Coding
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| Cursor Rules Generator | Free modular .cursorrules & .mdc production rules generator for modern tech stacks (Next.js 15, FastAPI, React 19, Tailwind v4) to eliminate context bloat. | [URL](https://cursor.pacebowl.com/) | Free |
 | Cursor | 🌟 The leading AI coding editor: switch between OpenAI, Anthropic, Gemini, Grok and Cursor's own Composer models, and run parallel agents across desktop, CLI, Slack and GitHub. A wholly owned SpaceX (SpaceXAI) subsidiary since Aug 2026. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1095) | [URL](https://cursor.com) | Paid/Free Trial |
 | GitHub Copilot | GitHub's code writing assistant, now a multi-vendor model picker (OpenAI, Anthropic, Gemini and more) chosen per task | [URL](https://github.com/features/copilot) | Free/Paid|
 | Bolt.new | StackBlitz's browser-based AI full-stack app builder — describe an app in plain language and the AI agent scaffolds, runs, and deploys it in the browser via WebContainers (real Node.js at near-native speed, no local setup or cloud VM).<br>Free / Pro $25/mo / Teams $30 per member / Enterprise plans; open-source sibling bolt.diy supports bring-your-own-key. One of the fastest-growing dev tools ($40M ARR within 5 months of launch; Microsoft Azure partnership since May 2026). | [URL](https://bolt.new/) | Free/Paid |
@@ -348,6 +349,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 ### LLM Prompts
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| DeepSeek Prompt Generator | Production XML system prompt builder, role templates, and CoT reasoning directives for DeepSeek R1 & V3/V4. | [URL](https://deepseek.pacebowl.com/) | Free |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
 
 ### LLM training platform
