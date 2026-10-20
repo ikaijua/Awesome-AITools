@@ -242,6 +242,7 @@
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [GitHub](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [GitHub](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [GitHub](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
+| burntop | 为 AI 编程智能体打造的开源全栈模板：FastAPI、React 19（TanStack Start）、Tailwind 4、shadcn/ui 和 PostgreSQL 18，自带会话认证和 Docker Compose。只有端到端测试（161 个后端测试跑在真实 Postgres 上，42 个 Playwright 测试）；禁用 39 个 mock 库，没有测试覆盖的路由或页面会让 CI 失败，智能体无法伪造通过的检查。通过 AGENTS.md 支持 Claude Code、Cursor 和 Codex。 | [URL](https://burntop.dev) [GitHub](https://github.com/agusmdev/fullstack-ai-template) ![GitHub Repo stars](https://img.shields.io/github/stars/agusmdev/fullstack-ai-template?style=social) | 免费 |
 
 ### AI 安全与逆向工程
 | 名称 | 说明 | 链接 | 费用 |
