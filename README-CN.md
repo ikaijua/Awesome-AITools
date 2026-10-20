@@ -215,6 +215,7 @@
 | Prismix | AI 服务实时状态监控中心，聚合 75+ AI 服务（OpenAI、Anthropic、Grok、Cursor 等）的实时运行状态，提供来自 55+ 来源的精选 AI 新闻并支持个性化信息流，还包含 500+ MCP 服务器目录及告警功能。 | [官网](https://prismix.dev) | 免费/付费 |
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
 | ArtificialWatch | 新 AI 模型发布即时提醒，覆盖各大实验室。每 60 秒扫描厂商 API，只有新模型真正响应 API 请求才会提醒；公开记录每次发布的首次发现与确认时间。邮件和推送提醒免费，付费方案增加短信和电话提醒。 | [官网](https://artificialwatch.com) | 免费/付费 |
+| 水獭 | AI 会员订阅比价站。每天两次抓取 120+ 家发卡网与独立小铺、400+ 个 Telegram 发卡 Bot 的在售报价与库存，覆盖 ChatGPT Plus/Pro、Claude Pro/Max、Gemini、SuperGrok、Cursor 与 API 额度，并与美区官方价对照。每月发布价格月报（中位价、环比，附 CSV 数据）。AI 助手可通过开源 MCP（`npx -y ai-price-mcp`）或 Agent Skill（shuita-ai-price）查询实时价格。无需注册。 | [官网](https://shuita.xyz)、[GitHub](https://github.com/gm365/shuita-ai-price) | 免费 |
 
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
