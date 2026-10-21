@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added DeepInfer (🌱) to LLM Inference & Deployment: DeepSeek's open-source production-grade inference framework behind DeepSeek-V4.1-Flash (both EN/CN)
 - Added HyperFrames to Video Creation: HeyGen's open-source HTML-to-MP4 video rendering framework, agent-native with 21 skills, a `/hyperframes` router, and a Claude Code plugin (both EN/CN)
 - Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed (both EN/CN)
 - Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
