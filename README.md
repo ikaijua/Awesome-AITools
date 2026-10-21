@@ -368,6 +368,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
+| SwapDraft | Chrome extension for bloggers and newsletter writers who draft with AI and then fix the parts that sound like AI. Mark only the passages that sound off, add a note or a quick instruction ("Make this punchier"), and each passage goes to several models at once (GPT-6 Luna, Claude Sonnet 5.5, Gemini 3.5 Flash, Grok 4.7). Flip through the versions in place and accept one or keep the original; the rest of the draft is untouched and one undo restores it.<br>**Differentiation:** rewrites only what you mark, compares several models side by side, no API keys. | [URL](https://swapdraft.com/?utm_source=awesome-aitools&utm_medium=directory), [Chrome Web Store](https://chromewebstore.google.com/detail/swapdraft/gcnikbfbajafgghabhoeeghnepcmimib) | Free/Paid ($19/month Pro) |
 
 
 ### Translation
