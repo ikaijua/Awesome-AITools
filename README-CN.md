@@ -347,7 +347,7 @@
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 | OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
-| Beatra | 面向 Agent 的多媒体生成运行时：装一个 Skill（或接入它的 MCP）、登录一次，Claude Code、Codex、Cursor、WorkBuddy 等 Agent 就能用自然语言生成图片、视频（文生、图生、首尾帧、多图参考、编辑与续写）、音乐、语音，并克隆声音。统一接入 Seedance、通义万相 Wan、MiniMax、GPT Image、Qwen-Image、Suno 等模型，共用一个积分钱包，按模型实时报价；长任务在后台跑完后自动回到 Agent，所有作品和扣费都记在同一账号。另支持数字人口播视频，以及 TikTok、小红书公开数据检索，先找选题再创作。新账号送 600 积分。 | [URL](https://beatra.ai/) | 免费/付费 |
+| Beatra | 面向 Agent 的多媒体生成运行时：装一个 Skill、在浏览器里登录一次，Claude Code、Codex、Cursor、WorkBuddy 等 Agent 就能用自然语言生成图片、视频（文生、图生、首尾帧、多图参考、编辑与续写）、音乐、语音，并克隆声音。统一接入 Seedance、通义万相 Wan、MiniMax、GPT Image、Qwen-Image、Suno 等模型，共用一个积分钱包，按模型实时报价；长任务在后台跑完后自动回到 Agent，所有作品和扣费都记在同一账号。另支持数字人口播视频，以及 TikTok、小红书公开数据检索，先找选题再创作。新账号送 600 积分。 | [URL](https://beatra.ai/) | 免费/付费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
