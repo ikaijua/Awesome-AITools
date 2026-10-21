@@ -390,6 +390,7 @@
 | Notion AI | AI辅助笔记软件，支持AI写作、总结、头脑风暴等功能 | [URL](https://www.notion.so)| 提供一定的免费AI试用额度，AI功能每月$10 |
 | Obsidian | 强大的本地优先 markdown 笔记工具，拥有丰富的 AI 插件生态 - 通过社区插件支持 AI 总结、RAG、智能笔记处理等功能 | [URL](https://obsidian.md/) | 免费/付费|
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) | 免費版本使用有文字字数限制/有付费升级版 |
+| SwapDraft | 面向博客和邮件通讯作者的 Chrome 扩展，专门修改 AI 初稿中“读起来像 AI”的段落。只需标记不满意的段落，写一句说明或点选快捷指令（如“更有冲击力”），每个段落会同时发给多个模型（GPT-6 Luna、Claude Sonnet 5.5、Gemini 3.5 Flash、Grok 4.7）改写。在原位置切换各模型的版本，选用其一或保留原文；其余内容不受影响，一次撤销即可恢复。<br>**差异化：** 只改你标记的部分，多模型对比，无需自备 API Key。 | [URL](https://swapdraft.com/?utm_source=awesome-aitools&utm_medium=directory), [Chrome 应用商店](https://chromewebstore.google.com/detail/swapdraft/gcnikbfbajafgghabhoeeghnepcmimib) | 免费/付费（Pro 每月 $19） |
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 |
