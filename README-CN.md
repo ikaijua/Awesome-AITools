@@ -128,7 +128,7 @@
 |llmrun|llmrun 是一个免费网站，可查看你的显卡、Mac 或迷你主机能跑哪些开源大模型：各量化所需显存与预估速度（tok/s），并提供基于公开基准（Epoch AI、LiveBench、SWE-bench、MMLU-Pro）、用 2PL IRT 拟合的综合评分，方法论公开。|[URL](https://llmrun.dev/)|免费|
 |The Aggregate|独立、免费的大模型排行榜：把公开基准测试排行榜整合为每日更新的统一排名，用稳健的 IRT 模型将所有模型放在同一 Elo 刻度上并给出标准误；每个分数都链接到原始榜单，可对任意两个模型做头对头对比，并提供无需密钥的免费 MCP 服务器。|[URL](https://theaggregate.ai/)|免费|
 | Jev Decision Index | Hugging Face Space，跟踪 TypeSafe Jev（System One / RLCD）的开源复现与替代方案。包含 Decision Index 排行榜（按结构化决策基准给模型打分）和 News 面板（汇总解码技巧、扩散式方法和训练决策头等实现）。 | [Hugging Face](https://huggingface.co/spaces/multimodalart/jev-decision-index) | 免费 |
-| PickOneAI | 面向 vibe coder 和智能体开发者的 AI 工具榜单：覆盖 31 个任务（编程智能体、应用生成、智能体框架、向量数据库、语音等），每个任务给出一个首选和一个备选，按公开公式排名（编辑适配度 + GitHub 采用度 + 发布活跃度 + Hacker News 关注度），信号每日更新，开放 JSON 数据（CC BY 4.0）。 | [URL](https://pickoneai.pages.dev/) | 免费 |
+| PickOneAI | 面向 vibe coder 和智能体开发者的 AI 工具榜单：覆盖 31 个任务（编程智能体、应用生成、智能体框架、向量数据库、语音等），每个任务给出一个首选和一个备选，按公开公式排名（编辑适配度 + GitHub 采用度 + 发布活跃度 + Hacker News 关注度），信号每日更新，开放 JSON 数据（CC BY 4.0）。 | [URL](https://pickoneai.com/) | 免费 |
 
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
@@ -376,6 +376,7 @@
 ### LLM 推理与部署
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| DeepInfer | 🌱 DeepSeek 开源的生产级推理框架，也是驱动 DeepSeek 线上大规模服务的底层引擎——支撑 DeepSeek-V4.1-Flash 高吞吐、低延迟推理。集成 FlashMLA / DeepGEMM / DeepEP / TileLang 等自研算子，具备 DSpark 推测解码、SWA 有界重放、异步调度、批次不变/确定性采样与结构化输出。支持 NVIDIA SM100（Blackwell）与华为昇腾 950。早期版本：当前仅离线推理，完整 KV cache 与 Prefill/Decode 分离尚未打包，且仅支持 DeepSeek-V4.1-Flash 一个模型。Apache-2.0，可免费自托管。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1374) | [GitHub](https://github.com/deepseek-ai/DeepInfer) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepInfer?style=social) | 免费 |
 | DwarfStar (ds4) | antirez（Redis 作者）从零用 C 编写的原生推理引擎（MIT）——目标是在消费级硬件上运行少量接近前沿的开源模型：DeepSeek V4/4.1 Flash、V4 Pro、GLM 5.2/5.3 与 Qwen3.8 Flash Next 可装进 96GB 内存的 Mac 或单张 96GB NVIDIA 显卡（激进 2-bit 路由量化）。提供 OpenAI 与 Anthropic 兼容 API，Claude Code、Codex、opencode、Zed 直接指向本地即可免 API 费用跑近前沿模型；内置编程智能体与磁盘 KV 缓存，支持跨机器分层拆分运行放不下的模型。非通用 GGUF 加载器，仅支持其适配的模型。 | [GitHub](https://github.com/antirez/ds4) ![GitHub Repo stars](https://img.shields.io/github/stars/antirez/ds4?style=social) | 免费 |
 | AirLLM | 通过逐层加载大幅降低大语言模型推理显存占用的 Python 库，可在 4GB 显存上运行 70B 模型、8GB 上运行 405B 模型、约 12GB 上运行 671B 的 DeepSeek-V3。支持 4 位/8 位量化，并通过统一的 AutoModel 接口支持众多开源模型。 | [GitHub](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | 免费 |
 
