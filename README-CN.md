@@ -206,6 +206,7 @@
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
+| deed.page | 面向 AI 智能体的静态网站托管，附带 MIT 许可的智能体技能，可用于 Claude Code、Codex、Cursor、Gemini CLI 等支持 Agent Skills 的宿主。一条 `curl` PUT 请求或远程 MCP 服务器（`https://deed.page/mcp`）即可把 HTML 文件或整个文件夹发布到永久的 `https://{slug}.deed.page/` 地址，无需注册账号；智能体保存返回的 token，用于更新、回滚或删除站点。免费版：25 个站点，每站 25 MB。 | [网站](https://deed.page/) [文档](https://deed.page/docs) [GitHub](https://github.com/f-o-x11/deed-page-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/f-o-x11/deed-page-skill?style=social) | 免费/付费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
