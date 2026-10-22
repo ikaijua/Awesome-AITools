@@ -484,6 +484,7 @@
 |Umi-OCR|开源、免费的离线OCR软件。支持截屏/粘贴/批量导入图片，段落排版/排除水印，扫描/生成二维码。内置多国语言库。|[GitHub](https://github.com/hiroi-sora/Umi-OCR) ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social)|免费|
 |light-ocr|面向 Node.js 和 C++ 的快速离线 OCR，内置 PP-OCRv6 模型和跨平台运行时。|[GitHub](https://github.com/arcships/light-ocr) ![GitHub Repo stars](https://img.shields.io/github/stars/arcships/light-ocr?style=social)|免费|
 |allenai/olmocr|一个用于训练语言模型以处理实际PDF文档的工具包。Demo网址: https://olmocr.allenai.org/|[GitHub](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|免费|
+|Screenshot Text|macOS 菜单栏 OCR 工具：按快捷键框选屏幕任意区域（暂停的视频、PDF、图片），文字即复制到剪贴板。基于 Apple Vision 本地识别，可选本地模型修复代码格式（缩进、引号、换行）。完全离线，无需账号。|[URL](https://screenshottext.com/)|免费/付费|
 
 ### 视频内容总结
 | 名称 | 说明 | 链接 | 费用 |
