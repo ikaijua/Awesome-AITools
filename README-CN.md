@@ -192,6 +192,7 @@
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| Oh My Hermes | 面向 Hermes Agent 的开源工作流插件，将研究、规划、代码审查、调试等专业技能与经过审核的项目记忆、按任务配置的模型及推理强度结合起来。适合希望在长期项目中复用工作方法、保留已确认约束，而不想每次重新编写整套提示的 Hermes 用户。保留 Hermes 原有的聊天入口，不是独立的 Agent 框架；终端界面可查看工作流进度。项目记忆与 Hermes 内置记忆分开管理，强调区分准备、执行和验证结果。提供中文 README、安装文档和界面演示；使用前需要安装 Hermes Agent 并配置模型提供商。插件采用 MIT 许可，模型调用费用另计。 | [GitHub](https://github.com/rlaope/oh-my-hermes) ![GitHub Repo stars](https://img.shields.io/github/stars/rlaope/oh-my-hermes?style=social) | 免费；模型费用另计 |
 | anthropics/skills | Claude Code官方技能仓库，为Claude Code AI助手提供可复用的工具集成和扩展功能 | [GitHub](https://github.com/anthropics/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/skills?style=social) | 免费 |
 | openai/skills | OpenAI GPT模型官方技能仓库，为OpenAI的AI助手提供可复用的工具和扩展功能 | [GitHub](https://github.com/openai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social) | 免费 |
 | skills.sh | 社区驱动的AI助手技能注册表与市场，为包括Claude Code、OpenAI GPT等各类大语言模型助手提供精选的可复用技能集合，提供所有技能的下载用量统计和热门趋势排行榜 | [网站](https://skills.sh/) | 免费/付费 |
