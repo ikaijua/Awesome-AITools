@@ -276,6 +276,7 @@
 | OmniRoute | 可自托管的 AI 网关，跨 36+ 提供商实现 4 层自动回退路由。OpenAI 兼容 API，带配额跟踪和免费档零成本回退。 | [GitHub](https://github.com/diegosouzapw/OmniRoute) ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | 免费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
 | Jev 聊天助手 | 开源安卓聊天辅助决策工具。回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你。国内版支持 QQ、飞书、X、WhatsApp；同仓库另有英文海外版。与上述聊天 App 无官方关联。MIT。 | [GitHub](https://github.com/jev-chat/jev-chat-jarvis) ![GitHub Repo stars](https://img.shields.io/github/stars/jev-chat/jev-chat-jarvis?style=social) | 免费，需自备 API Key |
+| Social Cue | 帮产品作者做社交媒体营销的 Claude Code 插件。运行 `/socialdiscovery` 后，它用一个独立的 Chrome 配置文件浏览 Reddit、Hacker News、X、Threads 和 Product Hunt，按你的品牌给每个帖子打分，并以你的语气起草回复，结果显示在本机 localhost 的仪表盘中。免费版包含发现、回复草稿、帖子与视频排期（通过你自己的 Postiz）和每周目标；Pro 版可代为发布你批准的回复，并把产品提交到目录站和发布站。<br>**差异化：** 使用你现有的 Claude 订阅，不依赖平台 API，未经你批准不会发布任何内容。 | [URL](https://trysocialcue.com/?utm_source=awesome-aitools&utm_medium=directory), [GitHub](https://github.com/mrieck/socialcue-claude-plugin) | 免费/付费（Pro 每月 $19） |
 
 ### 办公协作 CLI / MCP
 | 名称 | 说明 | 链接 | 费用 |
