@@ -308,7 +308,7 @@
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Flux | Black Forest Labs 的图像生成模型系列，主力 **FLUX.2**：写实质感与多图参考编辑突出，[klein] 4B 开源可端侧（Apache 2.0，8GB VRAM 亚秒级出图）；**FLUX 3** 为图/视频/音频多模态新方向。LMArena 文生图总榜 flux-2-max 1162±3。按兆像素计费，[pro] 约 $0.03/MP。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1166) | [URL](https://bfl.ai) <br> [GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social) | 免费/付费 |
 | Grok Imagine | xAI 的图像生成模型（原 Grok Image / Aurora；LMArena 排行榜上以 SpaceXAI 挂牌），集成在 Grok 和 X 中。**Grok Imagine Image 2.0** 新增精确局部编辑、多图参考融合与智能重构图。 | [URL](https://grok.com/imagine) | 免费/付费 |
-| Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
+| Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。 | [URL](https://www.midjourney.com) | 付费 |
 | 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
 | ideogram.ai | AI 文字生成图片的网站。当前版本 **Ideogram 4.5**（主打局部精确编辑、多轮编辑无伪影、原生 2K）；**Ideogram 4.0** 为其开放权重基础模型。由前谷歌 AI 绘画团队创立的公司推出。 | [URL](https://ideogram.ai/) | 免费 |
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[GitHub](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
