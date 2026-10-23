@@ -150,7 +150,7 @@
 | Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。 | [GitHub](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
 | AX | Google 开源的 agentic 编排运行时，定位"Agent 时代的 Kubernetes"。通过声明式 YAML 清单（Workspace、Task、Model）定义任务，沙箱隔离执行，支持 CPU/内存限制、`ax suspend/resume` 暂停恢复和 SSH 调试；单集群设计目标支撑十亿级自主 Agent 工作负载。尚处早期，正式发布前可能有破坏性变更。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1050) | [GitHub](https://github.com/google/ax) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ax?style=social) | 免费 |
 | ARTEMIS | Google 开源框架，将自然语言指令转换为可靠的 Android 端自动化：跨应用任务执行、多模态目标定位，Flash（快速反应）/ Pro（多智能体规划）双执行模式。提供 Web 控制台、MCP Server、Python SDK 和 CLI，可与 Claude Code、Codex 等智能体集成。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1052) | [GitHub](https://github.com/google/artemis) ![GitHub Repo stars](https://img.shields.io/github/stars/google/artemis?style=social) | 免费 |
-| OpenClaw | 开源的自托管 AI 智能体，在本地运行并自主执行任务：连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器、访问系统、持久记忆。现由独立的 OpenClaw Foundation 维护（OpenAI 继续支持）；是增长最快的开源项目之一。 | [GitHub](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/326) | 免费 |
+| OpenClaw | 开源的自托管 AI 智能体，在本地运行并自主执行任务：连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器、访问系统、持久记忆。现由独立的 OpenClaw Foundation 维护（OpenAI 继续支持）；是增长最快的开源项目之一。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/326) | [GitHub](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) | 免费 |
 |OpenWorker|吴恩达（Andrew Ng）开源的本地优先桌面 AI 同事。以交付完整工作成果（文档、Slack 回复、日程更新、报告）为目标，而非仅提供聊天回答。支持 25+ 应用连接器、MCP 协议，可接入自有 API Key 的多种模型（OpenAI、Anthropic、Gemini、DeepSeek、Kimi、Qwen、Ollama 等），数据和凭证本地存储。|[GitHub](https://github.com/andrewyng/openworker) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/openworker?style=social)|免费|
 | autoresearch | Karpathy 开源的自动化 AI 研究助手。它能够自主提出假设、修改训练代码并运行实验，通过不断迭代来寻找性能提升方案，是专为机器学习研究设计的自主 Agent。 | [GitHub](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 免费 |
 | ml-intern | 由 Hugging Face 开发的开源自主 AI Agent，定位为专业机器学习工程师。它能够处理端到端的 ML 生命周期，包括研究论文、编写代码、运行实验以及将模型发布到 Hugging Face Hub。 | [GitHub](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | 免费 |
@@ -219,7 +219,7 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
+| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新）<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) |  | 免费 |
 | Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；<br>2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
 | Trae | 字节跳动推出的 AI 编程 IDE（对标 Cursor），主打 Agent 化编程，支持 AI 问答、代码补全与多步自主编程。 | [URL](http://trae.com.cn) | 免费 |
 | GitHub Copilot | GitHub 推出的代码编写助手，现已支持 OpenAI、Anthropic、Gemini 等厂商模型逐任务切换 | [URL](https://github.com/features/copilot) | 免费/付费 |
@@ -500,7 +500,7 @@
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-|Figure 03|Figure AI 的第三代人形机器人，搭载自研 Helix 视觉-语言-动作模型。公司 2025 年完成超 10 亿美元 C 轮融资，估值达 390 亿美元；F.03 已进入量产爬坡阶段并在宝马（BMW）工厂投入使用。|[URL](https://www.figure.ai/) [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/61)|
+|Figure 03|Figure AI 的第三代人形机器人，搭载自研 Helix 视觉-语言-动作模型。公司 2025 年完成超 10 亿美元 C 轮融资，估值达 390 亿美元；F.03 已进入量产爬坡阶段并在宝马（BMW）工厂投入使用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/61)|[URL](https://www.figure.ai/)|
 |Atlas|波士顿动力新的电动人形机器人|[URL](https://bostondynamics.com/products/atlas/)|
 |Optimus Gen 2|特斯拉的人形机器人|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
 |Apollo|Apptronik 公司的人形机器人，已迭代至 Apollo 2，合作方包括 Google DeepMind、NVIDIA、奔驰（Mercedes-Benz）、GXO 等，聚焦物流与制造场景。|[URL](https://apptronik.com/apollo/apollo-2)|
