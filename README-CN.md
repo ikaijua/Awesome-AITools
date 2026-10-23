@@ -219,7 +219,7 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新）<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) |  | 免费 |
+| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [价格对比](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
 | Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；<br>2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
 | Trae | 字节跳动推出的 AI 编程 IDE（对标 Cursor），主打 Agent 化编程，支持 AI 问答、代码补全与多步自主编程。 | [URL](http://trae.com.cn) | 免费 |
 | GitHub Copilot | GitHub 推出的代码编写助手，现已支持 OpenAI、Anthropic、Gemini 等厂商模型逐任务切换 | [URL](https://github.com/features/copilot) | 免费/付费 |
