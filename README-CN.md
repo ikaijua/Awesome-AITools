@@ -318,6 +318,7 @@
 | Topaz Photo AI | 面向摄影师的AI图像增强套件，集成图像放大、降噪、锐化、人脸修复等功能，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-photo-ai)|付费/试用|
 | Nero AI | AI图片放大、修复划痕、AI图片上色、AI图片去噪、AI一键抠图换背景、AI神奇擦除笔、AI写真；[介绍](https://github.com/ikaijua/Awesome-AITools/issues/100)。API文档：https://ai.nero.com/ai-api/docs/|[URL]( https://ai.nero.com/)|免费/付费|
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
+| Collager.ai | AI 照片拼贴与照片马赛克生成器：用你自己的数百张照片拼出一张人像（放大后每个小格都是真实照片），或在几秒内拼成心形、数字、单词等形状的照片拼贴。AI 按每张照片的重点自动裁剪、平衡色彩、去除重复，输出可直接打印的文件。面向智能体提供远程 MCP 服务器（`https://collager.ai/mcp`）和 REST API。 | [URL](https://collager.ai/), [API 文档](https://collager.ai/developers/) | 免费预览/付费 |
 | clipdrop | clipdrop（2024 年 2 月起归 Jasper 所有，原 Stability AI 旗下）的图像处理网站，基于 Stability AI 的图像模型（官方未公开具体版本），包含文生图、AI 扩图、图生图、去除背景等功能。 | [URL](https://clipdrop.co/) | 免费/付费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
