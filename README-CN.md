@@ -461,7 +461,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |海绵音乐|字节跳动推出的AI音乐创作网站，输入提示词和风格来创作音乐|[URL](https://www.haimian.com/)|免费|
-| suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/)<br> | [URL](https://www.suno.ai/) | 免费/付费 |
+| suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/63) | [URL](https://www.suno.ai/) | 免费/付费 |
 | udio | AI 音乐平台：与 UMG、Warner、Merlin、Kobalt 和解后（Sony 诉讼仍在），从即时歌曲生成转型为授权音乐 remix 与创作者社区。注意：自 2025 年 10 月底起全平台（含付费档）关闭音频、视频与分轨下载。 | [URL](https://www.udio.com/) | 免费/付费 |
 | mureka.ai | 昆仑万维的 AI 生成音乐应用。当前旗舰 **Mureka V9.5**；更高阶的 O3 已预览但未上线。 | [URL](https://www.mureka.ai/) | 免费/付费 |
 |elevenlabs/sound-effects|elevenlabs 提供的通过文本生成音效的工具|[URL](https://elevenlabs.io/app/sound-effects)|免费|
