@@ -399,6 +399,7 @@
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
 | openai-translator | 开源项目。基于 ChatGPT API 的划词翻译浏览器插件与跨平台桌面应用 | [GitHub](https://github.com/nextai-translator/nextai-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social) | 免费，需要 OpenAI API Key |
 |RTranslator | RTranslator 是一款开源、免费的安卓离线**实时**翻译应用程序。|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
+| FindChineseName | 面向英语使用者的 AI 中文名生成工具。不做简单音译（如 Chloe → 克洛伊），而是给出简短、地道、像中国人会取的中文名（如 柯露 Kē Lù），附拼音、字义和姓氏搭配说明，适合学习、工作和日常自我介绍。另有 1000+ 中文姓氏百科和取名指南。 | [URL](https://findchinesename.com) | 免费结果无需注册；可选一次性 $4.99 Premium Blueprint |
 
 ### 语音识别与字幕
 
