@@ -320,6 +320,7 @@
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 | clipdrop | clipdrop（2024 年 2 月起归 Jasper 所有，原 Stability AI 旗下）的图像处理网站，基于 Stability AI 的图像模型（官方未公开具体版本），包含文生图、AI 扩图、图生图、去除背景等功能。 | [URL](https://clipdrop.co/) | 免费/付费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
+| 3D-Agent | Blender 桌面 AI 智能体（macOS / Windows）：用自然语言描述即可在当前打开的场景中以干净的四边面拓扑建模，完成 UV、材质、灯光、绑定/动画和渲染，编写 Blender Python，并导出 OBJ/FBX/GLB/USDZ/STL。无需 API Key。 | [URL](https://3d-agent.com/zh-cn) | 付费 |
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 | Anatomy | Claude Code / Codex / OpenCode / Antigravity 的 Agent Skill，能把技术概念解释成可交互的等距 SVG 图解。它不画普通框图，而是先「发明」一个工作原理就是该概念的实物——比如把令牌桶限流器变成弹子锁、把 GPU 上下文共享变成龙门绘图仪——再用自研 kit 渲染为 SVG、SVG+WebGL 着色器或真 3D。输出可为独立 HTML、单张 SVG 或 React/Next.js 组件，并自带几何审计和无头 Chrome 校验。 | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | 免费 |
 
