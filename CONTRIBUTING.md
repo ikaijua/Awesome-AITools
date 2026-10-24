@@ -23,11 +23,9 @@ There is no application code. The value is in keeping entries accurate, links al
 
 The four inclusion criteria above are principles; in practice review against the actionable checklist below. Submitters who prepare these materials up front will get merged faster.
 
-- **Real and alive**: provide domain registration info (RDAP/WHOIS age), complete `/docs` `/changelog` `/pricing` surfaces, and a named team or community. Closed-source commercial products still need a public changelog or roadmap proving active maintenance.
 - **Differentiation is real (not a wrapper)**: state what powers it and where the proprietary value lies. If it calls mainstream LLMs under the hood, make clear that the value is in the in-house orchestration / integration, not the base model — otherwise reviewers may mistake it for a thin wrapper. Stating what it *can't* do is a strong signal of a genuine product.
 - **Competitor benchmarking**: best to provide a head-to-head evaluation on the same prompts — video or raw data both work. Text-only comparisons that self-label as "vendor claims, not output-quality scores" carry limited weight.
 - **Real customer cases**: beyond short homepage quotes, a named customer or a shipped project case study proves real production usage.
-- **Pricing stays consistent**: the README "Fees" cell must match the site's current pricing exactly, including whether a free tier exists. If the site's own pages contradict each other, use the author's clarified wording.
 
 > If any item above is unmet, or the "Not included" red line is hit, reviewers will ask for more material or decline the submission.
 
