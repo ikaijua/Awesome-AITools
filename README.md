@@ -369,6 +369,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
+| Klype | Measures your writing voice from your own posts and drafts LinkedIn, X and Reddit posts in it; checks drafts for AI phrasing and unsourced claims. Also a remote MCP server for Claude and Cursor | [URL](https://klype.ai) | 7-day free trial, then paid; free post checker |
 
 
 ### Translation
