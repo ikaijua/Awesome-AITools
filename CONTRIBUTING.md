@@ -19,6 +19,16 @@ There is no application code. The value is in keeping entries accurate, links al
 - **Still alive** — recently updated or showing activity, with working links; stale or abandoned tools are not added.
 - **Not included** — near-identical clones (without a clear increment), thin wrappers with no own value, or tools with obvious security or compliance risks.
 
+## Evidence & review notes
+
+The four inclusion criteria above are principles; in practice review against the actionable checklist below. Submitters who prepare these materials up front will get merged faster.
+
+- **Differentiation is real (not a wrapper)**: state what powers it and where the proprietary value lies. If it calls mainstream LLMs under the hood, make clear that the value is in the in-house orchestration / integration, not the base model — otherwise reviewers may mistake it for a thin wrapper. Stating what it *can't* do is a strong signal of a genuine product.
+- **Competitor benchmarking**: best to provide a head-to-head evaluation against comparable tools — video or raw data both work. Text-only comparisons that self-label as "vendor claims, not output-quality scores" carry limited weight.
+- **Real customer cases**: beyond short homepage quotes, a named customer or a shipped project case study proves real production usage.
+
+> If any item above is unmet, or the "Not included" red line is hit, reviewers will ask for more material or decline the submission.
+
 ## Editing conventions
 
 The two READMEs serve different audiences and are allowed to differ — each is written for its own readers' familiarity and habits (e.g. international readers need no explanation of Western services, while Chinese readers may need more background on foreign tools, and vice versa). Keep the tool set consistent so nothing appears in only one list, but wording, detail level, and phrasing may differ.
