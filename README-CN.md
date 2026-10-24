@@ -242,6 +242,7 @@
 | CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [GitHub](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
 | Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [GitHub](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
 | Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [GitHub](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
+| LLMSlim | 开源（MIT）的 AI 编程 Agent 长期记忆，以 MCP 服务器和 Claude Code 插件形式提供（claude mcp add llmslim -- llmslim mcp），也适用于 Cursor、Codex 等 MCP 客户端。remember、recall、list_memories、forget、fit_context 五个工具把消息按原文存入本地 SQLite 或自有 Postgres，按问题在你设定的 token 预算内召回相关消息，读写都不调用 LLM，写入零成本，也不会被改写成错误事实。fit_context 可在模型读取前把超长日志或工具输出裁剪到预算内。 | [GitHub](https://github.com/Thanatos9404/llmslim) ![GitHub Repo stars](https://img.shields.io/github/stars/Thanatos9404/llmslim?style=social) | 免费 |
 
 ### AI 安全与逆向工程
 | 名称 | 说明 | 链接 | 费用 |
