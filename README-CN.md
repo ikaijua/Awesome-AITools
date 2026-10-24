@@ -286,6 +286,7 @@
 | bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Google Workspace CLI | 社区构建的 Google Workspace 非官方命令行工具，统一访问所有 Google Workspace API，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat 等。内置 40+ AI 代理技能，结构化 JSON 输出非常适合 AI 代理使用，支持多种认证方式。 | [GitHub](https://github.com/googleworkspace/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/googleworkspace/cli?style=social) | 免费 |
 | OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1500+ SaaS 服务的统一目录。 | [GitHub](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
+| Enhanciar | 面向团队的“公司大脑”。连接 Slack、Gmail、Google Drive、Notion、Jira、Linear、GitHub 和 Zendesk，回答问题时每条结论都附带来源链接；随后起草回复、工单、文档或日程，等待人工批准后执行。遵循原有权限。可在网页端、Slack、Claude 或 Cursor（远程 MCP 服务器）以及 API 中使用。需自带 AI 密钥（Gemini、OpenAI 或 Anthropic）。 | [URL](https://enhanciar.in/) | 付费 |
 
 ### AI 金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
