@@ -12,4 +12,4 @@
 
 ## 佐证（如有，加快合并）/ Evidence (optional, speeds up merge)
 - 竞品正面对比 / 评测（视频或数据）/ Head-to-head eval or review:
-- 真实用户量或客户案例 / Real user volume or customer cases:
+- 优秀用户案例 / 客户案例（具名客户或落地项目）/ Standout user cases (named customers or shipped projects):
