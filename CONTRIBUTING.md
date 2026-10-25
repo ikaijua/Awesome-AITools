@@ -6,7 +6,7 @@ There is no application code. The value is in keeping entries accurate, links al
 
 ## Ways to contribute
 
-- **Recommend a tool** — open an issue using the [recommendation template](https://github.com/ikaijua/Awesome-AITools/issues/233), or submit a PR that adds the entry directly.
+- **Recommend a tool** — open an issue using the [recommendation template](https://github.com/ikaijua/Awesome-AITools/issues/233), or submit a PR that adds the entry directly. PRs follow the [submission checklist](#pre-submit-checklist) below.
 - **Write a long-form intro (optional)** — not required. If you want to go deeper, create a GitHub Discussion (one EN + one CN) for a tool and link it from the README entry (see below).
 - **Fix links, typos, or stale entries** — the most common and always welcome type of PR.
 - **Report a problem** — broken link, outdated description, dead discussion link.
@@ -38,6 +38,9 @@ The two READMEs serve different audiences and are allowed to differ — each is 
   - Chinese: `| 名称 | 说明 | 链接 | 费用 |`
 - **Strict table format**: exactly 4 columns, separator row `| --- | --- | --- | --- |`. Don't hand-craft 3- or 5-column variants — the formatter rewrites them.
 - **Keep descriptions concise and factual**; make sure every link is valid.
+- **Description length**: aim for ~**400–600 characters (EN)** / ~**300–450 characters (CN)**. One-liners ("an AI tool that does X") get sent back — lead with positioning and the key advantage, not a spec dump. Keep the two languages at similar information density.
+- **Disclose affiliation**: if you are the author, team member, or maintainer of the tool, say so in the PR (e.g. "I built it" / "I maintain it"). Hidden self-promotion slows review.
+- **Clean links only**: no `?utm_*` or other tracking parameters; every link must return 200. Prefer a canonical homepage or repo URL over campaign/affiliate links.
 - **Markers**:
   - 🌟 — genuinely great, the first-choice pick in its category; use sparingly.
   - 🌱 — high short-term buzz, but still early-stage.
@@ -50,7 +53,20 @@ The two READMEs serve different audiences and are allowed to differ — each is 
 - One line per change: tool/section name + what changed + `(both EN/CN)`.
 - Minor description edits, section reordering, and link/reference fixes do **not** need a changelog entry.
 
-## Before submitting
+## Pre-submit checklist
+
+Confirm every item before opening a PR. PRs that skip these get sent back for fixes:
+
+1. **Both READMEs updated** — you edited `README.md` **and** `README-CN.md`. A tool that exists in only one language is a bug.
+2. **CHANGELOG.md updated** — one line: tool/section name + what changed + `(both EN/CN)`.
+3. **Not a duplicate** — searched both READMEs; the tool isn't already listed (including under another name).
+4. **Description length in range** — EN ~400–600 / CN ~300–450 characters; not a one-liner.
+5. **Ran the formatter** — `python3 scripts/format_readmes.py` after the table edit.
+6. **Disclose affiliation** — if you're the author/team/maintainer, say so in the PR.
+7. **Clean links** — no `?utm_*`/tracking params; all links return 200.
+8. **Right section** — placed under the most relevant `###` category.
+
+## Before submitting (commands)
 
 1. After any table edit, run the normalizer from anywhere:
    ```bash
