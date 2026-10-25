@@ -59,8 +59,6 @@ Focus your effort on the three things that decide whether a tool gets included �
 - **Show uniqueness** — why this tool, and what it does better than comparable ones.
 - **Show popularity & traction** — verifiable reach/activity: Stars, user count, reviews, or media coverage.
 
-> Editorial formatting (keeping both READMEs in sync, the 4-column schema, CHANGELOG entries, running the formatter) is normalized by maintainers when the PR is merged, so you don't need to get it perfect — just add the entry and the evidence above.
-
 ## Before submitting (commands)
 
 1. After any table edit, run the normalizer from anywhere:
