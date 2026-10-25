@@ -61,7 +61,7 @@ Focus your effort on the three things that decide whether a tool gets included �
 
 - **Disclose any affiliation** — author / team / investor / promoter? Say so in the PR. (See [What to demonstrate](#what-to-demonstrate-before-contributing).)
 - **Show uniqueness** — why this tool, and what it does better than comparable ones.
-- **Show popularity & traction** — verifiable reach/activity: Stars, user count, reviews, or media coverage.
+- **Show popularity & traction** — verifiable reach/activity: Stars, user count, or reviews.
 
 ## Before submitting (commands)
 
