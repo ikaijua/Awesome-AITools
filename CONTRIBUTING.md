@@ -30,7 +30,6 @@ The inclusion criteria above are principles. In practice, reviewers weigh three 
   - Monthly active users / total user count, download numbers
   - Third-party reviews / head-to-head evaluations
   - Standout user cases (named customers or shipped production case studies)
-  - Reputable media coverage
 
 > If affiliation isn't disclosed, or uniqueness / popularity can't be shown, reviewers will ask for more material or decline the submission.
 
