@@ -24,11 +24,11 @@ There is no application code. The value is in keeping entries accurate, links al
 The inclusion criteria above are principles. In practice, reviewers weigh three things most heavily — prepare these and your PR merges faster:
 
 - **Disclose any affiliation (required)** — if you're the author, team member, investor, or promoter of the tool, say so in the PR. Hidden self-promotion slows review; transparent recommendations are welcome.
-- **Uniqueness (required)** — explain why it deserves a spot: the concrete capability others lack, or where it's clearly better than comparable tools. Don't just paste a feature list. Stating what it *can't* do is a strong signal of a genuine product. If it wraps a mainstream LLM, make clear the value is in the in-house orchestration / integration, not the base model — otherwise it looks like a thin wrapper.
-- **Popularity & traction (required)** — back "it's worth including" with verifiable evidence of reach and activity; this also shows the tool is "still alive":
-  - Monthly active users / total user count, download numbers
+- **Uniqueness (required)** — explain why it deserves a spot: the concrete capability others lack, or where it's clearly better than comparable tools. Don't just paste a feature list. Stating what it *can't* do is a strong signal of a genuine product. If it wraps a mainstream LLM, make clear the value is in the in-house orchestration / integration, not the base model — otherwise it looks like a thin wrapper. Back it up with:
   - Third-party reviews / head-to-head evaluations
   - Standout user cases (named customers or shipped production case studies)
+- **Popularity & traction (required)** — back "it's worth including" with verifiable evidence of reach and activity; this also shows the tool is "still alive":
+  - Monthly active users / total user count, download numbers
 
 > If affiliation isn't disclosed, or uniqueness / popularity can't be shown, reviewers will ask for more material or decline the submission.
 
@@ -60,7 +60,7 @@ Focus your effort on the three things that decide whether a tool gets included:
 
 - **Disclose any affiliation** — author / team / investor / promoter? Say so in the PR. (See [What to demonstrate](#what-to-demonstrate-before-contributing).)
 - **Show uniqueness** — why this tool, and what it does better than comparable ones.
-- **Show popularity & traction** — verifiable reach/activity: user count, reviews, or standout user cases.
+- **Show popularity & traction** — verifiable reach/activity: user count (MAU / total users).
 
 ## Before submitting (commands)
 
