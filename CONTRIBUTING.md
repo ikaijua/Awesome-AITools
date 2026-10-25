@@ -23,7 +23,7 @@ There is no application code. The value is in keeping entries accurate, links al
 
 The inclusion criteria above are principles. In practice, reviewers weigh three things most heavily — prepare these and your PR merges faster:
 
-- **Disclose any affiliation (required)** — if you're the author, team member, investor, or promoter of the tool, say so in the PR. Hidden self-promotion slows review; transparent recommendations are welcome.
+- **Disclose any affiliation (required)** — if you're the author, team member, investor, or promoter of the tool, say so in the PR. Transparent recommendations are welcome.
 - **Uniqueness (required)** — explain why it deserves a spot: the concrete capability others lack, or where it's clearly better than comparable tools. Don't just paste a feature list. Stating what it *can't* do is a strong signal of a genuine product. If it wraps a mainstream LLM, make clear the value is in the in-house orchestration / integration, not the base model — otherwise it looks like a thin wrapper. Back it up with:
   - Third-party reviews / head-to-head evaluations
   - Standout user cases (named customers or shipped production case studies)
@@ -41,7 +41,7 @@ The two READMEs serve different audiences and are allowed to differ — each is 
   - Chinese: `| 名称 | 说明 | 链接 | 费用 |`
 - **Strict table format**: exactly 4 columns, separator row `| --- | --- | --- | --- |`. Don't hand-craft 3- or 5-column variants — the formatter rewrites them.
 - **Keep descriptions concise and factual**; make sure every link is valid.
-- **Disclose affiliation**: if you are the author, team member, or maintainer of the tool, say so in the PR (e.g. "I built it" / "I maintain it"). Hidden self-promotion slows review.
+- **Disclose affiliation**: if you are the author, team member, or maintainer of the tool, say so in the PR (e.g. "I built it" / "I maintain it").
 - **Markers**:
   - 🌟 — genuinely great, the first-choice pick in its category; use sparingly.
   - 🌱 — high short-term buzz, but still early-stage.
