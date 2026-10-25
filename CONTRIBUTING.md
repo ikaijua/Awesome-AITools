@@ -6,7 +6,7 @@ There is no application code. The value is in keeping entries accurate, links al
 
 ## Ways to contribute
 
-- **Recommend a tool** — open an issue using the [recommendation template](https://github.com/ikaijua/Awesome-AITools/issues/233), or submit a PR that adds the entry directly. Focus your PR on the three [submission requirements](#before-you-submit) below — editorial formatting is normalized by maintainers at merge.
+- **Recommend a tool** — submit a PR that adds the entry directly to both READMEs. Focus your PR on the three [submission requirements](#before-you-submit) below.
 - **Write a long-form intro (optional)** — not required. If you want to go deeper, create a GitHub Discussion (one EN + one CN) for a tool and link it from the README entry (see below).
 - **Fix links, typos, or stale entries** — the most common and always welcome type of PR.
 - **Report a problem** — broken link, outdated description, dead discussion link.
@@ -57,7 +57,7 @@ The two READMEs serve different audiences and are allowed to differ — each is 
 
 ## Before you submit
 
-Focus your effort on the three things that decide whether a tool gets included — the rest is handled at merge:
+Focus your effort on the three things that decide whether a tool gets included:
 
 - **Disclose any affiliation** — author / team / investor / promoter? Say so in the PR. (See [What to demonstrate](#what-to-demonstrate-before-contributing).)
 - **Show uniqueness** — why this tool, and what it does better than comparable ones.
