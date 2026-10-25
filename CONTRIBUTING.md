@@ -25,7 +25,12 @@ The inclusion criteria above are principles. In practice, reviewers weigh three 
 
 - **Disclose any affiliation (required)** — if you're the author, team member, investor, or promoter of the tool, say so in the PR. Hidden self-promotion slows review; transparent recommendations are welcome.
 - **Uniqueness (required)** — explain why it deserves a spot: the concrete capability others lack, or where it's clearly better than comparable tools. Don't just paste a feature list. Stating what it *can't* do is a strong signal of a genuine product. If it wraps a mainstream LLM, make clear the value is in the in-house orchestration / integration, not the base model — otherwise it looks like a thin wrapper.
-- **Popularity & traction (required)** — back "it's worth including" with verifiable evidence of reach and activity: GitHub Stars, monthly active users or total user count, download numbers, third-party reviews / head-to-head evaluations, reputable media coverage, or standout user cases (named customers or shipped production case studies). This also shows the tool is "still alive."
+- **Popularity & traction (required)** — back "it's worth including" with verifiable evidence of reach and activity (at least one); this also shows the tool is "still alive":
+  - GitHub Stars
+  - Monthly active users / total user count, download numbers
+  - Third-party reviews / head-to-head evaluations
+  - Standout user cases (named customers or shipped production case studies)
+  - Reputable media coverage
 
 > If affiliation isn't disclosed, or uniqueness / popularity can't be shown, reviewers will ask for more material or decline the submission.
 
