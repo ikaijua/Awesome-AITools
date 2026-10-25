@@ -83,7 +83,7 @@
 | 通义千问 | 阿里云的 AI 助手，当前最强模型：**Qwen3.8-Max**（8 月 3 日 GA；Qwen3.8-27B 开源权重于 8 月 14 日发布）。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | 1. [URL](https://chat.qwen.ai/)<br>2. [API](https://bailian.console.aliyun.com/) | 免费 |
 | 腾讯元宝 | 腾讯的 AI 助手，当前最强模型：**混元 Hy4 preview**（2026 年 8 月发布并开源，1M 上下文）。**核心差异：** 混元 + DeepSeek 双模型可切换；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
 | DeepSeek | DeepSeek 的 AI 助手，网页端、App 和 API 已更新为 **DeepSeek-V4.1-Flash-1017**。主打低成本推理、编程与智能体任务，支持原生多模态理解，模型权重采用 MIT 许可。此次更新重点改善从零构建完整项目的能力，并缩短任务耗时和输出长度；模型价格与 `deepseek-flash` 调用名不变。评测提升来自官方披露，实际表现取决于任务及运行框架。 | 1. [URL](https://chat.deepseek.com/)<br>2. [API](https://platform.deepseek.com/) | 免费/付费 |
-| 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3**。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
+| 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3.1 Pro**（2026-10-24 发布，K3.1 系列首款）——3 万亿级参数、100 万 token 上下文，在编程智能体、3D 创作与金融工作流上大幅提升：Terminal-Bench 4.0 得分 65.7%（超 GPT-6 Astra）、BenchCAD 3D 基准 92.7%、OfficeQA Pro v2 金融基准 64.4 获当前 SoTA。同步推出 **K3.1 Pro Highspeed** 高速版（同等智能、输出速度约 2~3 倍），完整模型权重将于 11 月 4 日前发布。**核心差异：** 面向软件工程、知识工作和深度推理。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1413) | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.3**（2026 年 8 月发布）；同步提供 **GLM-5.3-Flash**（原生多模态，MIT 开源权重，100 万 token 上下文），编程与 Agent 能力接近 Claude Opus 4.8，价格大幅降低。**核心差异：** Agentic 编程、仓库级分析、网络安全与长上下文推理。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | 1. [URL](https://www.minimax.io/)<br>2. [API](https://platform.minimaxi.com/) | 免费/付费 |
 | Grok | SpaceXAI（原 xAI）的 AI 助手，当前最强模型：**Grok 4.7**（2026 年 9 月 21 日发布；主打编程与知识工作，500K 上下文，支持文本与图像输入）。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。 | 1. [URL](https://x.com/i/grok)<br>2. [API](https://console.x.ai/) | 免费/付费 |
@@ -150,7 +150,7 @@
 | Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。 | [GitHub](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
 | AX | Google 开源的 agentic 编排运行时，定位"Agent 时代的 Kubernetes"。通过声明式 YAML 清单（Workspace、Task、Model）定义任务，沙箱隔离执行，支持 CPU/内存限制、`ax suspend/resume` 暂停恢复和 SSH 调试；单集群设计目标支撑十亿级自主 Agent 工作负载。尚处早期，正式发布前可能有破坏性变更。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1050) | [GitHub](https://github.com/google/ax) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ax?style=social) | 免费 |
 | ARTEMIS | Google 开源框架，将自然语言指令转换为可靠的 Android 端自动化：跨应用任务执行、多模态目标定位，Flash（快速反应）/ Pro（多智能体规划）双执行模式。提供 Web 控制台、MCP Server、Python SDK 和 CLI，可与 Claude Code、Codex 等智能体集成。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1052) | [GitHub](https://github.com/google/artemis) ![GitHub Repo stars](https://img.shields.io/github/stars/google/artemis?style=social) | 免费 |
-| OpenClaw | 开源的自托管 AI 智能体，在本地运行并自主执行任务：连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器、访问系统、持久记忆。现由独立的 OpenClaw Foundation 维护（OpenAI 继续支持）；是增长最快的开源项目之一。 | [GitHub](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) | 免费 |
+| OpenClaw | 开源的自托管 AI 智能体，在本地运行并自主执行任务：连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器、访问系统、持久记忆。现由独立的 OpenClaw Foundation 维护（OpenAI 继续支持）；是增长最快的开源项目之一。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/326) | [GitHub](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) | 免费 |
 |OpenWorker|吴恩达（Andrew Ng）开源的本地优先桌面 AI 同事。以交付完整工作成果（文档、Slack 回复、日程更新、报告）为目标，而非仅提供聊天回答。支持 25+ 应用连接器、MCP 协议，可接入自有 API Key 的多种模型（OpenAI、Anthropic、Gemini、DeepSeek、Kimi、Qwen、Ollama 等），数据和凭证本地存储。|[GitHub](https://github.com/andrewyng/openworker) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/openworker?style=social)|免费|
 | autoresearch | Karpathy 开源的自动化 AI 研究助手。它能够自主提出假设、修改训练代码并运行实验，通过不断迭代来寻找性能提升方案，是专为机器学习研究设计的自主 Agent。 | [GitHub](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 免费 |
 | ml-intern | 由 Hugging Face 开发的开源自主 AI Agent，定位为专业机器学习工程师。它能够处理端到端的 ML 生命周期，包括研究论文、编写代码、运行实验以及将模型发布到 Hugging Face Hub。 | [GitHub](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | 免费 |
@@ -165,6 +165,7 @@
 | Paseo | 🌱 开源的 Agentic 开发环境，在一个界面中统一接入 Claude Code、Codex、Copilot、OpenCode、Pi、Antigravity、Muse Code 等编程智能体。支持多代理在独立 worktree 中并行运行，内置编排、编辑器、终端、diff、PR、浏览器与插件系统；可自托管、无遥测，覆盖桌面、移动、Web、CLI，并提供 TypeScript SDK。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1216) | [GitHub](https://github.com/getpaseo/paseo) | 免费 |
 | AgentsMesh | AI Agent 工作流平台。可自托管的远程 AI 工作站（AgentPods），提供 PTY 沙箱 + git worktree 隔离、基于频道和 pod 绑定的多智能体协作、内置看板（MR/PR 集成）、每 pod 独立 MCP 服务器。支持 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode。 | [GitHub](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | 免费（BSL-1.1） |
 | Microsoft Agent Framework | 微软开源（MIT）的 AI 智能体与多智能体工作流框架，也是已归档 AutoGen 的官方推荐后继项目。支持 Python、.NET 和多家模型服务，提供图式编排、检查点恢复、人工审批与 OpenTelemetry 可观测性，适合需要持久执行、可审查工作流的开发团队，可从本地开发扩展到云端部署。框架免费，模型和托管费用取决于所选服务。 | [GitHub](https://github.com/microsoft/agent-framework) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social) | 免费 |
+| LangGraph | LangChain 推出的底层编排框架，用「图」构建有状态、可持久化的多智能体 LLM 应用。将工作流建模为节点与边，提供持久化状态、检查点（checkpoint）、人工介入的打断/恢复（interrupt/resume），让长时间运行、可容错的智能体更易开发、调试与可观测。配套 LangGraph Studio 可视化调试器与 LangGraph Platform（大规模持久执行、状态存储与流式输出）；支持任意模型提供商，提供 Python 与 JS/TS 版本，与 LangChain 生态深度协同，也支持独立使用。<br>[入门介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1367) | [GitHub](https://github.com/langchain-ai/langgraph) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social) [官网](https://www.langchain.com/langgraph) | 免费 |
 |msitarzewski/agency-agents|开源AI代理工具包，包含230+个细分领域的专业代理角色，覆盖工程、设计、营销、销售、金融、游戏开发、医疗等。提供开箱即用的代理人设、工作流模板、可交付成果，以及原生桌面应用，可一键浏览/安装代理到 Claude Code、Cursor、Codex、Gemini、Kimi Code、Aider 等AI开发工具。|[GitHub](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|免费|
 | ECC | 面向 AI 编程代理的开源增强框架。为 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等提供统一的 Agent/技能/规则/Hook/MCP 配置体系。内置 60 个子代理、232 个技能、记忆持久化、AgentShield 安全扫描，附带桌面仪表盘 GUI。 | [GitHub](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | 免费 |
 | CC Switch | 跨平台桌面应用，用于一站式管理 Claude Code, Codex, Gemini CLI, OpenCode 和 OpenClaw。提供可视化界面管理 API 供应商、MCP 服务器和技能，支持双向同步。 | [GitHub](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | 免费 |
@@ -219,7 +220,7 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
+| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [价格对比](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
 | Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；<br>2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
 | Trae | 字节跳动推出的 AI 编程 IDE（对标 Cursor），主打 Agent 化编程，支持 AI 问答、代码补全与多步自主编程。 | [URL](http://trae.com.cn) | 免费 |
 | GitHub Copilot | GitHub 推出的代码编写助手，现已支持 OpenAI、Anthropic、Gemini 等厂商模型逐任务切换 | [URL](https://github.com/features/copilot) | 免费/付费 |
@@ -308,7 +309,7 @@
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Flux | Black Forest Labs 的图像生成模型系列，主力 **FLUX.2**：写实质感与多图参考编辑突出，[klein] 4B 开源可端侧（Apache 2.0，8GB VRAM 亚秒级出图）；**FLUX 3** 为图/视频/音频多模态新方向。LMArena 文生图总榜 flux-2-max 1162±3。按兆像素计费，[pro] 约 $0.03/MP。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1166) | [URL](https://bfl.ai) <br> [GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social) | 免费/付费 |
 | Grok Imagine | xAI 的图像生成模型（原 Grok Image / Aurora；LMArena 排行榜上以 SpaceXAI 挂牌），集成在 Grok 和 X 中。**Grok Imagine Image 2.0** 新增精确局部编辑、多图参考融合与智能重构图。 | [URL](https://grok.com/imagine) | 免费/付费 |
-| Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
+| Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。 | [URL](https://www.midjourney.com) | 付费 |
 | 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
 | ideogram.ai | AI 文字生成图片的网站。当前版本 **Ideogram 4.5**（主打局部精确编辑、多轮编辑无伪影、原生 2K）；**Ideogram 4.0** 为其开放权重基础模型。由前谷歌 AI 绘画团队创立的公司推出。 | [URL](https://ideogram.ai/) | 免费 |
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[GitHub](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
@@ -328,7 +329,7 @@
 | --- | --- | --- | --- |
 | Seedance | 🌟 字节跳动的视频生成模型系列。**Seedance 2.5** 驱动即梦 / 小云雀等产品：支持 30 秒单次生成，原生 480p/720p/1080p（默认 720p；4K 由 Seedance 2.0 提供），最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑。人物动作一致性与镜头语言表现突出，适合短视频与广告内容生产。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) · [Skills](https://github.com/ikaijua/Awesome-AITools/discussions/1111#discussioncomment-18726373) · [实测对比](https://github.com/ikaijua/Awesome-AITools/discussions/1124) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
 | MiniMax H3 | 🌱 MiniMax 开源的通用多模态生成系统，支持文生视频、图生视频、首尾帧生视频、文生音视频等，可通过 SGLang、vLLM、diffusers、ComfyUI 本地部署。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1114) | [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-H3?style=social), [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-H3) | 免费 |
-| 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [Seedance 2.5专题](https://github.com/ikaijua/Awesome-AITools/discussions/266) |[URL](https://xyq.jianying.com/) |免费/付费|
+| 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) |[URL](https://xyq.jianying.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
@@ -375,6 +376,7 @@
 ### LLM 推理与部署
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| DeepInfer | 🌱 DeepSeek 开源的生产级推理框架，也是驱动 DeepSeek 线上大规模服务的底层引擎——支撑 DeepSeek-V4.1-Flash 高吞吐、低延迟推理。集成 FlashMLA / DeepGEMM / DeepEP / TileLang 等自研算子，具备 DSpark 推测解码、SWA 有界重放、异步调度、批次不变/确定性采样与结构化输出。支持 NVIDIA SM100（Blackwell）与华为昇腾 950。早期版本：当前仅离线推理，完整 KV cache 与 Prefill/Decode 分离尚未打包，且仅支持 DeepSeek-V4.1-Flash 一个模型。Apache-2.0，可免费自托管。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1374) | [GitHub](https://github.com/deepseek-ai/DeepInfer) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepInfer?style=social) | 免费 |
 | DwarfStar (ds4) | antirez（Redis 作者）从零用 C 编写的原生推理引擎（MIT）——目标是在消费级硬件上运行少量接近前沿的开源模型：DeepSeek V4/4.1 Flash、V4 Pro、GLM 5.2/5.3 与 Qwen3.8 Flash Next 可装进 96GB 内存的 Mac 或单张 96GB NVIDIA 显卡（激进 2-bit 路由量化）。提供 OpenAI 与 Anthropic 兼容 API，Claude Code、Codex、opencode、Zed 直接指向本地即可免 API 费用跑近前沿模型；内置编程智能体与磁盘 KV 缓存，支持跨机器分层拆分运行放不下的模型。非通用 GGUF 加载器，仅支持其适配的模型。 | [GitHub](https://github.com/antirez/ds4) ![GitHub Repo stars](https://img.shields.io/github/stars/antirez/ds4?style=social) | 免费 |
 | AirLLM | 通过逐层加载大幅降低大语言模型推理显存占用的 Python 库，可在 4GB 显存上运行 70B 模型、8GB 上运行 405B 模型、约 12GB 上运行 671B 的 DeepSeek-V3。支持 4 位/8 位量化，并通过统一的 AutoModel 接口支持众多开源模型。 | [GitHub](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | 免费 |
 
@@ -460,7 +462,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |海绵音乐|字节跳动推出的AI音乐创作网站，输入提示词和风格来创作音乐|[URL](https://www.haimian.com/)|免费|
-| suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[suno专题页面](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/)<br> | [URL](https://www.suno.ai/) | 免费/付费 |
+| suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/63) | [URL](https://www.suno.ai/) | 免费/付费 |
 | udio | AI 音乐平台：与 UMG、Warner、Merlin、Kobalt 和解后（Sony 诉讼仍在），从即时歌曲生成转型为授权音乐 remix 与创作者社区。注意：自 2025 年 10 月底起全平台（含付费档）关闭音频、视频与分轨下载。 | [URL](https://www.udio.com/) | 免费/付费 |
 | mureka.ai | 昆仑万维的 AI 生成音乐应用。当前旗舰 **Mureka V9.5**；更高阶的 O3 已预览但未上线。 | [URL](https://www.mureka.ai/) | 免费/付费 |
 |elevenlabs/sound-effects|elevenlabs 提供的通过文本生成音效的工具|[URL](https://elevenlabs.io/app/sound-effects)|免费|
@@ -499,7 +501,7 @@
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-|Figure 03|Figure AI 的第三代人形机器人，搭载自研 Helix 视觉-语言-动作模型。公司 2025 年完成超 10 亿美元 C 轮融资，估值达 390 亿美元；F.03 已进入量产爬坡阶段并在宝马（BMW）工厂投入使用。|[URL](https://www.figure.ai/)|
+|Figure 03|Figure AI 的第三代人形机器人，搭载自研 Helix 视觉-语言-动作模型。公司 2025 年完成超 10 亿美元 C 轮融资，估值达 390 亿美元；F.03 已进入量产爬坡阶段并在宝马（BMW）工厂投入使用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/61)|[URL](https://www.figure.ai/)|
 |Atlas|波士顿动力新的电动人形机器人|[URL](https://bostondynamics.com/products/atlas/)|
 |Optimus Gen 2|特斯拉的人形机器人|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
 |Apollo|Apptronik 公司的人形机器人，已迭代至 Apollo 2，合作方包括 Google DeepMind、NVIDIA、奔驰（Mercedes-Benz）、GXO 等，聚焦物流与制造场景。|[URL](https://apptronik.com/apollo/apollo-2)|

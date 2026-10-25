@@ -4,6 +4,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## October 2026
 - Updated browser-use in AI Agent to cover Browser Use Cloud (hosted browsers over CDP, agent API, remote MCP server); fees now Free/Paid (both EN/CN)
+- Added DeepInfer (🌱) to LLM Inference & Deployment: DeepSeek's open-source production-grade inference framework behind DeepSeek-V4.1-Flash (both EN/CN)
 - Added HyperFrames to Video Creation: HeyGen's open-source HTML-to-MP4 video rendering framework, agent-native with 21 skills, a `/hyperframes` router, and a Claude Code plugin (both EN/CN)
 - Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed (both EN/CN)
 - Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
@@ -37,6 +38,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added DwarfStar (ds4, antirez) to LLM Inference & Deployment: a from-scratch MIT-licensed native inference engine in C that runs near-frontier open models (DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3, Qwen3.8 Flash Next) on consumer hardware via 2-bit routed quantization, with OpenAI/Anthropic-compatible APIs for Claude Code, Codex and other agents (both EN/CN)
 - Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard (both EN/CN)
 - Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026) (both EN/CN)
+- Added LangGraph (langchain-ai/langgraph) to AI Agent: LangChain's low-level orchestration framework for building stateful, multi-agent LLM applications as graphs, with persistent state, checkpointing, and human-in-the-loop interrupt/resume; ships graph/state primitives, a Studio visual debugger, and LangGraph Platform for durable execution (both EN/CN)
 - Added whisper-ctranslate2, an OpenAI Whisper-compatible local transcription CLI with live microphone input and optional diarization, to Speech Recognition & Subtitles (both EN/CN)
 - Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage (both EN/CN)
 - Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com (both EN/CN)
