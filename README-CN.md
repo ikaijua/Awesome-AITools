@@ -216,6 +216,7 @@
 | Prismix | AI 服务实时状态监控中心，聚合 75+ AI 服务（OpenAI、Anthropic、Grok、Cursor 等）的实时运行状态，提供来自 55+ 来源的精选 AI 新闻并支持个性化信息流，还包含 500+ MCP 服务器目录及告警功能。 | [官网](https://prismix.dev) | 免费/付费 |
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
 | ArtificialWatch | 新 AI 模型发布即时提醒，覆盖各大实验室。每 60 秒扫描厂商 API，只有新模型真正响应 API 请求才会提醒；公开记录每次发布的首次发现与确认时间。邮件和推送提醒免费，付费方案增加短信和电话提醒。 | [官网](https://artificialwatch.com) | 免费/付费 |
+| PastAGI | 面向开发者的实用 AI 工程读物：带服务成本测算的工具评测、推理成本审计、Agent 架构拆解，以及对基准测试的审慎分析。 | [官网](https://pastagi.com) | 免费 |
 
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
