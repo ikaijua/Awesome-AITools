@@ -1,21 +1,15 @@
-<!-- 提交前请逐项勾选下方清单。漏项的 PR 会被退回补充。 -->
+<!-- 提交前请填写下面三项。编辑格式（双语同步 / 4 列 / CHANGELOG）由维护者在合并时统一处理，你无需操心。 -->
 
-## What this PR changes / 本 PR 新增或修改了什么
-- Tool name & one-line pitch / 工具名与一句话定位:
-- Section (`###`) it belongs to / 所属分类:
-- Links (site / repo / docs) / 链接:
+## 本 PR 新增 / 修改了什么 / What this PR changes
+- 工具名与一句话定位 / Tool name & one-line pitch:
+- 所属分类 / Section (`###`):
+- 链接 / Links (site / repo / docs):
 
-## Pre-submit checklist (required) / 提交前清单（必勾）
-- [ ] **Both READMEs updated** / 两份 README 都改了 — I edited `README.md` **and** `README-CN.md`. A tool that exists in only one language is a bug.
-- [ ] **CHANGELOG.md updated** / 已加条目 — one line: tool/section name + what changed + `(both EN/CN)`.
-- [ ] **Not a duplicate** / 已查重 — I grepped both READMEs; this tool is not already listed (including under another name).
-- [ ] **Description length in range** / 描述达标 — EN ~400–600 / CN ~300–450 characters, not a one-liner.
-- [ ] **Ran the formatter** / 跑过格式化 — I ran `python3 scripts/format_readmes.py` after the table edit.
-- [ ] **Affiliation disclosed** / 披露关联 — if I'm the author/team/maintainer, I said so (e.g. "I built it" / "我做的").
-- [ ] **Clean links** / 链接干净 — no `?utm_*` or tracking params; all links return 200.
-- [ ] **Right section** / 分类正确 — placed under the most relevant `###` category.
+## 提交前必填（决定能否收录）/ Required before submitting
+- [ ] **披露关联 / Affiliation** —— 我是否与该工具有关联？（作者 / 团队成员 / 投资人 / 推广方）如实勾选。有关联也欢迎推荐，但必须透明；隐瞒会拖慢评审。
+- [ ] **独特性 / Uniqueness** —— 我在描述或评论里写清了它为什么值得收录、与同类工具的核心差异（不要只贴功能列表）。
+- [ ] **热门程度依据 / Popularity & traction** —— 提供了可验证的热度 / 活跃度证据，例如：GitHub Stars / 月活或用户量 / 第三方评测或正面对比 / 媒体报道。
 
-## Evidence (speeds up merge) / 佐证（加快合并）
-- What powers it / 底层是什么 — so it's not mistaken for a thin wrapper:
-- Differentiation vs similar tools / 与同类工具的差异:
-- Pricing / free tier / 价格或免费档:
+## 佐证（如有，加快合并）/ Evidence (optional, speeds up merge)
+- 竞品正面对比 / 评测（视频或数据）/ Head-to-head eval or review:
+- 真实用户量或客户案例 / Real user volume or customer cases:

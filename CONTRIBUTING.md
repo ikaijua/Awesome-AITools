@@ -6,7 +6,7 @@ There is no application code. The value is in keeping entries accurate, links al
 
 ## Ways to contribute
 
-- **Recommend a tool** — open an issue using the [recommendation template](https://github.com/ikaijua/Awesome-AITools/issues/233), or submit a PR that adds the entry directly. PRs follow the [submission checklist](#pre-submit-checklist) below.
+- **Recommend a tool** — open an issue using the [recommendation template](https://github.com/ikaijua/Awesome-AITools/issues/233), or submit a PR that adds the entry directly. Focus your PR on the three [submission requirements](#before-you-submit) below — editorial formatting is normalized by maintainers at merge.
 - **Write a long-form intro (optional)** — not required. If you want to go deeper, create a GitHub Discussion (one EN + one CN) for a tool and link it from the README entry (see below).
 - **Fix links, typos, or stale entries** — the most common and always welcome type of PR.
 - **Report a problem** — broken link, outdated description, dead discussion link.
@@ -19,15 +19,15 @@ There is no application code. The value is in keeping entries accurate, links al
 - **Still alive** — recently updated or showing activity, with working links; stale or abandoned tools are not added.
 - **Not included** — near-identical clones (without a clear increment), thin wrappers with no own value, or tools with obvious security or compliance risks.
 
-## Evidence & review notes
+## What to demonstrate before contributing
 
-The four inclusion criteria above are principles; in practice review against the actionable checklist below. Submitters who prepare these materials up front will get merged faster.
+The inclusion criteria above are principles. In practice, reviewers weigh three things most heavily — prepare these and your PR merges faster:
 
-- **Differentiation is real (not a wrapper)**: state what powers it and where the proprietary value lies. If it calls mainstream LLMs under the hood, make clear that the value is in the in-house orchestration / integration, not the base model — otherwise reviewers may mistake it for a thin wrapper. Stating what it *can't* do is a strong signal of a genuine product.
-- **Competitor benchmarking**: best to provide a head-to-head evaluation against comparable tools — video or raw data both work. Text-only comparisons that self-label as "vendor claims, not output-quality scores" carry limited weight.
-- **Real customer cases**: beyond short homepage quotes, a named customer or a shipped project case study proves real production usage.
+- **Disclose any affiliation (required)** — if you're the author, team member, investor, or promoter of the tool, say so in the PR. Hidden self-promotion slows review; transparent recommendations are welcome.
+- **Uniqueness (required)** — explain why it deserves a spot: the concrete capability others lack, or where it's clearly better than comparable tools. Don't just paste a feature list. Stating what it *can't* do is a strong signal of a genuine product. If it wraps a mainstream LLM, make clear the value is in the in-house orchestration / integration, not the base model — otherwise it looks like a thin wrapper.
+- **Popularity & traction (required)** — back "it's worth including" with verifiable evidence of reach and activity: GitHub Stars, monthly active users or total user count, download numbers, third-party reviews / head-to-head evaluations, or reputable media coverage. This also shows the tool is "still alive."
 
-> If any item above is unmet, or the "Not included" red line is hit, reviewers will ask for more material or decline the submission.
+> If affiliation isn't disclosed, or uniqueness / popularity can't be shown, reviewers will ask for more material or decline the submission.
 
 ## Editing conventions
 
@@ -38,9 +38,7 @@ The two READMEs serve different audiences and are allowed to differ — each is 
   - Chinese: `| 名称 | 说明 | 链接 | 费用 |`
 - **Strict table format**: exactly 4 columns, separator row `| --- | --- | --- | --- |`. Don't hand-craft 3- or 5-column variants — the formatter rewrites them.
 - **Keep descriptions concise and factual**; make sure every link is valid.
-- **Description length**: aim for ~**400–600 characters (EN)** / ~**300–450 characters (CN)**. One-liners ("an AI tool that does X") get sent back — lead with positioning and the key advantage, not a spec dump. Keep the two languages at similar information density.
 - **Disclose affiliation**: if you are the author, team member, or maintainer of the tool, say so in the PR (e.g. "I built it" / "I maintain it"). Hidden self-promotion slows review.
-- **Clean links only**: no `?utm_*` or other tracking parameters; every link must return 200. Prefer a canonical homepage or repo URL over campaign/affiliate links.
 - **Markers**:
   - 🌟 — genuinely great, the first-choice pick in its category; use sparingly.
   - 🌱 — high short-term buzz, but still early-stage.
@@ -53,18 +51,15 @@ The two READMEs serve different audiences and are allowed to differ — each is 
 - One line per change: tool/section name + what changed + `(both EN/CN)`.
 - Minor description edits, section reordering, and link/reference fixes do **not** need a changelog entry.
 
-## Pre-submit checklist
+## Before you submit
 
-Confirm every item before opening a PR. PRs that skip these get sent back for fixes:
+Focus your effort on the three things that decide whether a tool gets included — the rest is handled at merge:
 
-1. **Both READMEs updated** — you edited `README.md` **and** `README-CN.md`. A tool that exists in only one language is a bug.
-2. **CHANGELOG.md updated** — one line: tool/section name + what changed + `(both EN/CN)`.
-3. **Not a duplicate** — searched both READMEs; the tool isn't already listed (including under another name).
-4. **Description length in range** — EN ~400–600 / CN ~300–450 characters; not a one-liner.
-5. **Ran the formatter** — `python3 scripts/format_readmes.py` after the table edit.
-6. **Disclose affiliation** — if you're the author/team/maintainer, say so in the PR.
-7. **Clean links** — no `?utm_*`/tracking params; all links return 200.
-8. **Right section** — placed under the most relevant `###` category.
+- **Disclose any affiliation** — author / team / investor / promoter? Say so in the PR. (See [What to demonstrate](#what-to-demonstrate-before-contributing).)
+- **Show uniqueness** — why this tool, and what it does better than comparable ones.
+- **Show popularity & traction** — verifiable reach/activity: Stars, user count, reviews, or media coverage.
+
+> Editorial formatting (keeping both READMEs in sync, the 4-column schema, CHANGELOG entries, running the formatter) is normalized by maintainers when the PR is merged, so you don't need to get it perfect — just add the entry and the evidence above.
 
 ## Before submitting (commands)
 
