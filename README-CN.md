@@ -166,6 +166,7 @@
 
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| OpenDots | 🌱 CopilotKit 开源的 AI 智能体工作空间模板（OpenAI Dots 的自托管替代）。可为每个 Dot 配置独立计算机、浏览器/文件/终端权限、MCP 工具与 Slack/通话集成；支持 Spaces 文档协作、后台任务、人工审批后保存。需自部署并接入 CopilotKit Intelligence 与 OpenAI 兼容模型。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1212) | [GitHub](https://github.com/CopilotKit/OpenDots) ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/OpenDots?style=social) | 免费 |
 | Multica | 开源托管代理平台，将 AI 编码代理（Claude Code, Codex, Cursor, Copilot, OpenCode, OpenClaw, Hermes, Gemini, Pi, Kimi, Kiro CLI 等）作为“一等公民”队友集成到开发团队中。支持任务分配、进度跟踪、技能复用，本地守护进程可自动检测已安装的 Agent CLI。 | [GitHub](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 免费/付费 |
 | Paperclip | 开源 AI 智能体编排平台，将 AI 运营建模为公司组织。可定义组织架构、汇报关系、预算和治理策略，让智能体在该结构内自主工作。支持 OpenClaw、Claude Code、Codex 等智能体后端。基于心跳机制执行，具备成本控制和审计追踪。 | [GitHub](https://github.com/paperclipai/paperclip) ![GitHub Repo stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social) | 免费 |
 | Symphony | OpenAI 开源的项目需求到交付的 harness。将项目需求转化为隔离、自主的实施运行；代理可监听 Linear 等看板，自动提交 PR、合并代码，并提供 CI 状态、审查反馈、演示视频等工作证明。目前处于工程预览阶段。 | [GitHub](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | 免费 |
@@ -176,7 +177,6 @@
 | Paseo | 🌱 开源的 Agentic 开发环境，在一个界面中统一接入 Claude Code、Codex、Copilot、OpenCode、Pi、Antigravity、Muse Code 等编程智能体。支持多代理在独立 worktree 中并行运行，内置编排、编辑器、终端、diff、PR、浏览器与插件系统；可自托管、无遥测，覆盖桌面、移动、Web、CLI，并提供 TypeScript SDK。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1216) | [GitHub](https://github.com/getpaseo/paseo) | 免费 |
 | AgentsMesh | AI Agent 工作流平台。可自托管的远程 AI 工作站（AgentPods），提供 PTY 沙箱 + git worktree 隔离、基于频道和 pod 绑定的多智能体协作、内置看板（MR/PR 集成）、每 pod 独立 MCP 服务器。支持 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode。 | [GitHub](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | 免费（BSL-1.1） |
 | Kortix | 开源 AI 管理系统——用智能体、技能、记忆和 3000+ 连接器以文件形式管理整个公司的智能体劳动力，全部保存在你拥有的一个 git 仓库中；每个会话启动一台隔离的 Linux 机器，工作成果通过人工审查的变更请求落地。支持自托管或托管云，自带 Key 接入任意模型。 | [GitHub](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | 免费 |
-| OpenDots | 🌱 CopilotKit 开源的 AI 智能体工作空间模板（OpenAI Dots 的自托管替代）。可为每个 Dot 配置独立计算机、浏览器/文件/终端权限、MCP 工具与 Slack/通话集成；支持 Spaces 文档协作、后台任务、人工审批后保存。需自部署并接入 CopilotKit Intelligence 与 OpenAI 兼容模型。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1212) | [GitHub](https://github.com/CopilotKit/OpenDots) ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/OpenDots?style=social) | 免费 |
 
 ### Agent 开发框架与运行时
 
