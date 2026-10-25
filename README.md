@@ -454,7 +454,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 |light-ocr|Fast, offline OCR for Node.js and C++ with bundled PP-OCRv6 models and cross-platform runtimes.|[GitHub](https://github.com/arcships/light-ocr) ![GitHub Repo stars](https://img.shields.io/github/stars/arcships/light-ocr?style=social)|Free|
 |allenai/olmocr|A toolkit for training language models to work with PDF documents in the wild. Online demo: https://olmocr.allenai.org/|[GitHub](https://github.com/allenai/olmocr) ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)|Free|
 
-### AI Detection
+|Practical Web Tools|Free browser-based AI toolbox: document OCR (PDFs, images, Office files to markdown/JSON), plus AI chat, image generation and text-to-speech alongside 650+ everyday web tools. No account required.|[Web](https://practicalwebtools.com/ai-tools/document-ocr)|Free|\n### AI Detection
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | SynthID Detector | Google DeepMind's official portal for verifying AI-generated media — expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor coalition for content provenance. Upload images, audio, video or text to check for SynthID invisible watermarks; partial matches highlight the watermarked region. Watermarks are embedded in pixels/waveforms rather than metadata, surviving screenshots, compression and crops. Detects watermark-carrying content only — not a generic AI-content detector. Free, available globally in English. | [URL](https://synthid.com/) | Free |
