@@ -403,6 +403,7 @@
 ### LLM Prompts
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| Gemini Omni Guide | 非官方 Google Gemini Omni 指南（能力、免费额度与定价说明）及免费 Omni / Veo 提示词生成器。 | [URL](https://www.ai-geminiomni.com) | 免费 |
 |System Prompts and Models of AI Tools|目前最全面的主流 AI 工具（Cursor, Claude Code, Windsurf, Trae, v0 等）系统提示词、工具定义和模型配置集合。是研究提示词工程（Prompt Engineering）和 AI Agent 架构设计的终极参考。|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|免费|
 
 ### 大语言模型训练与评估平台
