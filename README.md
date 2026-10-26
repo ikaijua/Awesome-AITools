@@ -470,6 +470,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Stable Audio | AI music and sound-effect generation by Stability AI — full-length tracks and SFX from text prompts. Current generation **Stable Audio 3.0** (released May 20, 2026). | [URL](https://www.stableaudio.com/) | Free/Paid |
 | OptimizerAI | Sound effect generation. [Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243) | [URL](https://www.optimizerai.xyz/) | Free/Paid |
 | SFX Engine | AI Sound effect generation. | [URL](https://sfxengine.com/) | Free/Paid |
+| Soundza | Free library of sound effects, music loops and ambience (WAV/MP3), free for commercial use with no attribution needed, plus a free AI sound effect generator that makes new effects from a text prompt. A REST API and hosted MCP server let agents search, download or generate sounds. | [URL](https://soundza.com/) [Generator](https://soundza.com/tools/sound-effect-generator) [GitHub](https://github.com/soundza/soundza-mcp) | Free |
 
 ### Video Content Summary
 | Name | Description | Links | Fees |

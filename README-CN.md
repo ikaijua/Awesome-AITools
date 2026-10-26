@@ -507,6 +507,7 @@
 | Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用：从文本提示词生成完整曲目与音效。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
 | SFX Engine | AI 音效生成工具。 | [URL](https://sfxengine.com/) | 免费/付费 |
+| Soundza | 免费音效库，含音效、音乐 loop 和环境音（WAV/MP3），可免费商用、无需署名；附带免费 AI 音效生成器，输入文字提示即可生成新音效。提供 REST API 和托管 MCP 服务器，agent 可以直接搜索、下载或生成音效。 | [URL](https://soundza.com/) [生成器](https://soundza.com/tools/sound-effect-generator) [GitHub](https://github.com/soundza/soundza-mcp) | 免费 |
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 |
