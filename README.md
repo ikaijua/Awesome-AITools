@@ -386,6 +386,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 ### LLM Prompts
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| Gemini Omni Guide | Unofficial guide to Google Gemini Omni (capabilities, free access, pricing) plus a free Omni & Veo prompt generator. | [URL](https://www.ai-geminiomni.com) | Free |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
 
 ### LLM training platform
