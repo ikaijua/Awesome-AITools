@@ -3,6 +3,20 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Updated browser-use in AI Agent to cover Browser Use Cloud (hosted browsers over CDP, agent API, remote MCP server); fees now Free/Paid (both EN/CN)
+- Added DeepInfer (🌱) to LLM Inference & Deployment: DeepSeek's open-source production-grade inference framework behind DeepSeek-V4.1-Flash (both EN/CN)
+- Added HyperFrames to Video Creation: HeyGen's open-source HTML-to-MP4 video rendering framework, agent-native with 21 skills, a `/hyperframes` router, and a Claude Code plugin (both EN/CN)
+- Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed (both EN/CN)
+- Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
+- Removed unmaintained WhisperDesktop; retained and refreshed Buzz as an offline desktop transcription option (both EN/CN)
+- Replaced AI Detect Lab with Content Credentials Verify, clarifying credential-based provenance verification and its limits (both EN/CN)
+- Consolidated DeepSeek-V4, DeepSeek-R1, and DeepSeek-V3 into one open-weight model-family entry while preserving historical model links (both EN/CN)
+- Updated Gemini, Google AI Studio, and Antigravity for Gemini 4 Argon availability; distinguished general access from the controlled Fairwind program (both EN/CN)
+- Refreshed DeepSeek assistant and DeepSeek-V4 entries to V4.1-Flash-1017, emphasizing project development and task efficiency without unconditional ranking claims (both EN/CN)
+- Updated Meta Muse to distinguish the planned subscriber-first Wonder rollout from current Meta Model API and Muse Code access (both EN/CN)
+- Added Muse Spark Open to Open Source LLMs with local-deployment requirements and limited commercial-license terms (both EN/CN)
+- Added Grok Voice 3.0 to Speech Processing & Translation with the Voice Agent API and usage-based pricing (both EN/CN)
+- Added Jev Chat Assistant (jev-chat/jev-chat-jarvis) to General LLM Applications: open-source Android chat decision assistant that reads the current chat, judges intent and risk, and fills a drafted reply without sending (both EN/CN)
 - Added Anatomy (wheresryan22/anatomy) to AI Image Creation and UI Design: a Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by inventing interactive isometric SVG/WebGL/3D figures — token bucket as a pin-tumbler lock, GPU context sharing as a gantry plotter — with built-in geometry audit and verification (both EN/CN)
 - Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
 - Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing (both EN/CN)
@@ -24,6 +38,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added DwarfStar (ds4, antirez) to LLM Inference & Deployment: a from-scratch MIT-licensed native inference engine in C that runs near-frontier open models (DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3, Qwen3.8 Flash Next) on consumer hardware via 2-bit routed quantization, with OpenAI/Anthropic-compatible APIs for Claude Code, Codex and other agents (both EN/CN)
 - Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard (both EN/CN)
 - Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026) (both EN/CN)
+- Added LangGraph (langchain-ai/langgraph) to AI Agent: LangChain's low-level orchestration framework for building stateful, multi-agent LLM applications as graphs, with persistent state, checkpointing, and human-in-the-loop interrupt/resume; ships graph/state primitives, a Studio visual debugger, and LangGraph Platform for durable execution (both EN/CN)
 - Added whisper-ctranslate2, an OpenAI Whisper-compatible local transcription CLI with live microphone input and optional diarization, to Speech Recognition & Subtitles (both EN/CN)
 - Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage (both EN/CN)
 - Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com (both EN/CN)
@@ -36,6 +51,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
 
 ## September 2026
+- Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation (both EN/CN)
 - Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
 - Updated Gemini entry to mention Gemini Spark (persistent background personal agent across Google Workspace) in both EN/CN
 - Added Higgsfield (multi-model AI video studio aggregating Seedance/Kling/Veo/Sora with cinematic camera presets and Soul ID character consistency) to Video Creation section, with intros in Discussions #1057 (CN) / #1058 (EN) (both EN/CN)

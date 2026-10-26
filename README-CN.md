@@ -9,9 +9,7 @@
 
 [English](README.md) | 中文
 
-**这个仓库收集整理AI相关的实用工具，欢迎大家一起推荐更多实用的AI工具，[推荐参考模板](https://github.com/ikaijua/Awesome-AITools/issues/232)**
-
-[贡献指南](CONTRIBUTING-CN.md)
+这个仓库收集整理AI相关的实用工具，欢迎大家一起推荐更多实用的AI工具，[贡献指南](CONTRIBUTING-CN.md)
 
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
 - [赞助项目/赞赏支持](#赞助项目-赞赏支持)
@@ -43,9 +41,14 @@
 - [开源大语言模型](#开源大语言模型)
 - [大语言模型排行榜](#大语言模型排行榜)
 - [AI Agent](#ai-agent)
+- [编程 Agent](#编程-agent)
+- [代码审查与开发辅助](#代码审查与开发辅助)
+- [Agent 工作台与协作](#agent-工作台与协作)
+- [Agent 开发框架与运行时](#agent-开发框架与运行时)
+- [浏览器与计算机自动化](#浏览器与计算机自动化)
+- [Agent 记忆与上下文](#agent-记忆与上下文)
 - [Agent Skills](#agent-skills)
 - [AI 新闻与资讯](#ai-新闻与资讯)
-- [AI Coding](#ai-coding)
 - [AI 安全与逆向工程](#ai-安全与逆向工程)
 - [通用 LLM 应用](#通用-llm-应用)
 - [办公协作 CLI / MCP](#办公协作-cli--mcp)
@@ -79,15 +82,15 @@
 | ChatGPT | 🌟 OpenAI 的 AI 助手，当前最强模型：**GPT-6 Astra**；DevDay 发布的 **GPT-6.1 Sol** 与 **GPT-6 Luna** 将 API 价格下调约 50%（Sol $2/$10、Luna 输入 $0.10 起每百万 token），消费端额度内免费用。**核心差异：** 持久记忆和用户画像 —— 跨会话记住偏好、续聊最自然；通用能力最均衡，适合日常、编程和创意写作。<br>2026 年 10 月 7 日起，**GPT-6（Sol/Luna）与 Intelligent UI** 开始向全球所有 ChatGPT 用户推出：付费用户默认由 GPT-6 Sol 驱动，Free/Go 用户由 GPT-6 Luna 驱动，回复可自动渲染交互式图表、表单和可视化界面。<br>1.[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1079)<br>2.[开通ChatGPT订阅经验](https://github.com/ikaijua/Awesome-AITools/discussions/1025) | 1. [URL](https://chatgpt.com)<br>2. [API](https://platform.openai.com/) | 免费/付费 |
 | 豆包 | 🌟 字节跳动的 AI 助手，当前旗舰：**Doubao-Seed-2.1 Pro**（Pro 最新快照 260915）；滚动迭代的最强版本为 **Doubao-Seed-Evolving**（用户无感迁移）。**核心差异：** 字节生态入口 + 多模态交互 —— 集成搜索、语音、音乐等能力；<br>2026-08 推出办公 Agent「豆包工作」：虚拟桌面操作电脑、飞书上下文打通、200+ 技能与连接器、多 Agents 并行协作。**在桌面端下载并登录豆包工作，即可免费领取 30 天订阅权益。**[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/944) | 1. [URL](https://www.doubao.com/)<br>2. [API](https://www.volcengine.com/product/ark) | 免费 |
 | Claude | 🌟 Anthropic 研发的 AI 助手，当前最强模型：**Claude Fable 5.1**（公开版）/ **Mythos 5.1**（可信访问）；<br>9 月 22 日发布的 **Claude Opus 5.5**（5.5 家族首款）在大多数任务上媲美 Fable 5.1，成本低约 40%，**Sonnet 5.5** 于 9 月 28 日推出；10 月 7 日 **Haiku 5.5** 发布：输入 $0.10/百万 token、输出 $0.50/百万 token（≤100k prompt），价格约为 Haiku 4.5 的 1/10、Sonnet 5.5 的 1/20，同时 Sonnet 5.5 cache read 降价 50%，agentic 任务成本再降约 20%。**核心差异：** Cowork 模式把 AI 从“聊天机器人”变成可拉取数据、生成 Excel 预测模型并执行工作流的代理；在编程、长上下文、安全性和企业场景上最强。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1104) | 1. [URL](https://claude.ai/)<br>2. [API](https://console.anthropic.com/) | 免费/付费 |
-| Gemini | 🌟 Google 的 AI 助手，当前主力模型：**Gemini 3.8 Flash**（另有面向网络安全的 3.8 Flash Cyber 变体）；**Gemini 4 Argon**（100 万 token 输出上限）官方称在部分基准上超过 GPT-6 Astra 与 Claude Opus 5.5，目前仅通过 Fairwind 计划受控开放。<br>**核心差异：** 原生多模态 + Deep Research；与 Google Drive、Workspace 无缝集成。还包含 **Gemini Spark**——常驻后台的个人智能体，可跨 Gmail、Calendar、Tasks 协调工作（付费订阅可用）。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1108) | 1. [URL](https://gemini.google.com/)<br>2. [API](https://aistudio.google.com/) | 免费/付费 |
+| Gemini | 🌟 Google 的 AI 助手，结合原生多模态、Deep Research 和 Google Workspace 集成。**Gemini 4 Argon** 已通过 API、AI Studio 和 Gemini Enterprise 开放，Google AI Pro/Ultra 订阅用户可在 Gemini App 使用；**100 万 token 预算由输入和输出共享**。Gemini 3.8 Flash 仍适合追求速度的任务；Fairwind 另向受信任的网络防御方提供受控访问。Gemini Spark 可跨 Gmail、Calendar、Tasks 执行后台任务。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1108) | 1. [URL](https://gemini.google.com/)<br>2. [API](https://aistudio.google.com/) | 免费/付费 |
 | 通义千问 | 阿里云的 AI 助手，当前最强模型：**Qwen3.8-Max**（8 月 3 日 GA；Qwen3.8-27B 开源权重于 8 月 14 日发布）。**核心差异：** 开源权重 2.4T MoE + 长链路 Agent 推理 —— 支持 100 万超长上下文、原生多模态和深度研究。 | 1. [URL](https://chat.qwen.ai/)<br>2. [API](https://bailian.console.aliyun.com/) | 免费 |
 | 腾讯元宝 | 腾讯的 AI 助手，当前最强模型：**混元 Hy4 preview**（2026 年 8 月发布并开源，1M 上下文）。**核心差异：** 混元 + DeepSeek 双模型可切换；依托腾讯生态，适合中文搜索和内容创作。 | 1. [腾讯元宝智能助手](https://hunyuan.tencent.com/bot)<br>2. [混元 AI Studio](https://hunyuan.tencent.com/) | 免费 |
-| DeepSeek | DeepSeek 的 AI 助手，当前最强模型：**DeepSeek-V4.1-Flash**（2026 年 9 月 10 日发布；原生多模态——官方基准显示能力超越 V4-Pro 且价格更低）。**核心差异：** 推理性价比 —— 开源模型中最强的编码与智能体能力，API 价格极低。 | 1. [URL](https://chat.deepseek.com/)<br>2. [API](https://platform.deepseek.com/) | 免费/付费 |
-| 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3**。**核心差异：** 2.8T MoE + 100 万 token 超长上下文 —— 面向软件工程、知识工作和深度推理。 | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
+| DeepSeek | DeepSeek 的 AI 助手，网页端、App 和 API 已更新为 **DeepSeek-V4.1-Flash-1017**。主打低成本推理、编程与智能体任务，支持原生多模态理解，模型权重采用 MIT 许可。此次更新重点改善从零构建完整项目的能力，并缩短任务耗时和输出长度；模型价格与 `deepseek-flash` 调用名不变。评测提升来自官方披露，实际表现取决于任务及运行框架。 | 1. [URL](https://chat.deepseek.com/)<br>2. [API](https://platform.deepseek.com/) | 免费/付费 |
+| 月之暗面的 Kimi Chat | Moonshot AI 的 AI 助手，当前最强模型：**Kimi K3.1 Pro**（2026-10-24 发布，K3.1 系列首款）——3 万亿级参数、100 万 token 上下文，在编程智能体、3D 创作与金融工作流上大幅提升：Terminal-Bench 4.0 得分 65.7%（超 GPT-6 Astra）、BenchCAD 3D 基准 92.7%、OfficeQA Pro v2 金融基准 64.4 获当前 SoTA。同步推出 **K3.1 Pro Highspeed** 高速版（同等智能、输出速度约 2~3 倍），完整模型权重将于 11 月 4 日前发布。**核心差异：** 面向软件工程、知识工作和深度推理。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1413) | 1. [kimi](https://kimi.moonshot.cn/)<br>2. [Moonshot AI 开放平台](https://platform.moonshot.cn/) | 免费 |
 | 智谱AI | 智谱 AI 的 AI 助手，当前最强模型：**GLM-5.3**（2026 年 8 月发布）；同步提供 **GLM-5.3-Flash**（原生多模态，MIT 开源权重，100 万 token 上下文），编程与 Agent 能力接近 Claude Opus 4.8，价格大幅降低。**核心差异：** Agentic 编程、仓库级分析、网络安全与长上下文推理。 | 1. [URL](https://chat.z.ai/)<br>2. [API 开发者网站](https://open.bigmodel.cn/) | 免费/付费 |
 | Minimax | MiniMax 的 AI 助手，当前最强模型：**MiniMax-M3**。**核心差异：** 长文本 + 多模态 Agent —— 支持超长上下文和语音/文本混合交互，适合内容创作和复杂任务。 | 1. [URL](https://www.minimax.io/)<br>2. [API](https://platform.minimaxi.com/) | 免费/付费 |
 | Grok | SpaceXAI（原 xAI）的 AI 助手，当前最强模型：**Grok 4.7**（2026 年 9 月 21 日发布；主打编程与知识工作，500K 上下文，支持文本与图像输入）。**核心差异：** 实时 X 数据访问 —— 可直接调用 X 帖子作为信息源，实时新闻和事件跟踪能力强。 | 1. [URL](https://x.com/i/grok)<br>2. [API](https://console.x.ai/) | 免费/付费 |
-| Meta Muse | 🌱 Meta 的个人 AI 智能体：不聊天，直接替用户干活——订差旅、填表格、购物、管理邮件日历，隔离虚拟机运行 + Sentinel 审批敏感操作，底层为自研 **Muse Spark 1.3** 模型。<br>目前仅美加可用（18+），免费档约 1 亿 token/周，付费 $20/月起。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
+| Meta Muse | 🌱 Meta 的个人 AI 智能体，可代办差旅、购物、表单和邮件日历任务，在隔离虚拟机中执行，敏感操作需用户确认。**Muse Wonder** 计划优先向 Muse 订阅用户推出；开发者已可通过 Meta Model API、Muse Code 使用 Wonder，Wonder Full 则面向 Muse Code 订阅用户。服务按地区向成年人开放，提供免费和付费方案，具体可用范围以官网为准。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
 
 ### 决策模型
 | 名称 | 说明 | 链接 | 费用 |
@@ -102,15 +105,12 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Kimi K3 | 🌟 月之暗面旗舰开源权重模型，全球首个 3 万亿参数级开源模型，把接近前沿的能力完全开放。Modified MIT 许可；100 万 token 上下文、原生视觉理解，面向软件工程、知识工作与长文档推理。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1110) | [技术博客](https://www.kimi.com/blog/kimi-k3) [Hugging Face](https://huggingface.co/moonshotai/Kimi-K3) | 免费 |
-| DeepSeek-V4 | 🌟 DeepSeek 第四代旗舰模型，MIT 许可、Hugging Face 开源权重，可自由商用与自部署。**核心优势：推理性价比**——开源模型中最强的编码与智能体能力，API 价格远低于同级闭源模型；支持 100 万 token 超长上下文与原生多模态，**Pro-Max** 为 V4 代最强的编码/智能体模式。当前主力 **V4.1-Flash**（2026 年 9 月 10 日），另有 V4-Pro。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1107) | [Hugging Face](https://huggingface.co/collections/deepseek-ai/deepseek-v4) | 免费 |
-| DeepSeek-R1 | DeepSeek 第一代开源推理模型——R1 证明了仅通过大规模强化学习也能达到前沿级推理能力，掀起了 2025 年初的开源推理浪潮。新项目建议使用 DeepSeek-V4。 |[GitHub](https://github.com/deepseek-ai/DeepSeek-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social)|免费|
-| DeepSeek-V3 | DeepSeek 上一代旗舰 MoE 模型（671B 总参 / 37B 激活），曾以极低 API 价格提供顶级能力而闻名——新项目建议直接使用 DeepSeek-V4。 |[GitHub](https://github.com/deepseek-ai/DeepSeek-V3) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social)|免费|
+| DeepSeek 模型系列 | 🌟 DeepSeek 面向推理、编程和智能体任务的开放权重模型系列。当前 V4 系列采用 MIT 许可，支持商用与自部署；**V4.1-Flash-1017** 支持原生多模态理解、100 万 token 上下文，改善完整项目开发能力与任务执行效率，另有 V4-Pro。历史版本 **R1**（推理）和 **V3**（通用 MoE）保留供研究及既有部署使用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1107) | [V4 模型](https://huggingface.co/collections/deepseek-ai/deepseek-v4)<br>历史版本：[R1](https://github.com/deepseek-ai/DeepSeek-R1)、[V3](https://github.com/deepseek-ai/DeepSeek-V3) | 免费 |
 | GLM-5.3-Flash | 智谱开源（MIT）的原生多模态 MoE 模型，支持 100 万 token 上下文；综合智能指数与 Claude Opus 4.8 持平，API 价格约为其 1/40。 | [Hugging Face](https://huggingface.co/zai-org/GLM-5.3-Flash) | 免费 |
 | Gemma 4 | Google 基于 Gemini 架构的开源权重模型系列——把 Gemini 级能力做成 2B–31B 的可部署尺寸，覆盖端侧到服务器场景。原生视觉/音频、最高 256K 上下文，多语言支持好。 | [GitHub](https://github.com/google/gemma.cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/google/gemma.cpp?style=social) | 免费 |
 | Muse Glimmer | Meta 开源的 300 亿参数多模态本地智能体模型，Apache 2.0 许可。支持文本/图像输入、工具调用和 4-bit 量化，可在消费级显卡本地运行。由 Muse Spark 蒸馏而来。 | [Hugging Face](https://huggingface.co/meta-models/Muse-Glimmer-30B) | 免费 |
+| Muse Spark Open | Meta 的开放权重多模态模型，面向编程和长程智能体任务，支持 100 万 token 上下文。可通过多种推理引擎本地部署，官方展示两台各 512GB 统一内存的 M5 Ultra Mac Studio 配合 MLX 运行，硬件门槛仍较高。采用**有限商业条款的 Muse Model License**，并非 MIT 或 Apache-2.0；部分商业 API 转售需另行签约，也可通过合作平台调用托管 API。 | [Hugging Face](https://huggingface.co/collections/meta-models/muse-spark-open)<br>[官方介绍](https://research.meta.ai/blog/muse-spark-open) | 权重免费／API 付费，商业许可有限制 |
 | Llama 4 | Meta 开源多模态模型系列——生态与部署支持最成熟的选择。MoE 版本从 Scout（1000 万 token 上下文）到 Maverick（400B 总参 / 17B 激活）；支持文本与图像输入。 |[GitHub](https://github.com/meta-llama/llama-models) ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social)| 免费 |
-| Mixtral-8x7B | 法国 Mistral AI 开源的稀疏专家混合模型（SMoE），开放权重——推理快、同尺寸质量高，是其时代默认的开源选择（注意：官方推理库 mistral-inference 已于 2026 年上半年归档为只读，实际部署建议 vLLM / SGLang / llama.cpp）<br>论文地址：https://arxiv.org/pdf/2401.04088.pdf<br>论文主页：https://mistral.ai/news/mixtral-of-experts/ | [GitHub](https://github.com/mistralai/mistral-inference) ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social) | 免费 |
-| grok-1 | 马斯克 xAI 公司开源的大语言模型（Apache-2.0）——最早开放的前沿级开源权重之一。 | [GitHub](https://github.com/xai-org/grok-1) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-1?style=social) | 免费 |
 | Qwen3 / Qwen3.8 | 阿里云通义千问开源 LLM/VLM 系列——目前最完整的开源模型谱系，编码、多语言和智能体场景全面。Qwen3.8 新增稠密视觉语言模型（图像/视频输入）和低成本高吞吐的 **Qwen3.8-Flash-Next**。 | [GitHub](https://github.com/QwenLM/Qwen3) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social) [Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B) | 免费 |
 | ChatGLM2-6B | 中英双语对话模型 ChatGLM-6B 的第二代版本 | [GitHub](https://github.com/zai-org/ChatGLM2-6B) ![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/ChatGLM2-6B?style=social)| 免费|
 | Phi-4 | 微软开源的小型语言模型（SLM）系列——以小体积、高效部署见长，覆盖端侧与云端场景。包含通用、推理、多模态和视觉版本（如 Phi-4-mini、Phi-4、Phi-4-multimodal、Phi-4-reasoning-vision）。 | [GitHub](https://github.com/microsoft/PhiCookBook) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) | 免费 |
@@ -118,8 +118,8 @@
 ### 大语言模型排行榜
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-|LMArena (Chatbot Arena)|🌟 LMArena（原 LMSYS Chatbot Arena，2026 年更名 Arena）是一个用于大语言模型评估的众包开放平台，源自加州大学伯克利分校 SkyLab 的 LMSYS（与斯坦福、UCSD、CMU、MBZUAI 多校合作）。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>B站视频：[量子位/1v1单挑90万轮之后，最强大模型是……](https://www.bilibili.com/video/BV1Qs421w7df/)<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1156) |[URL](https://arena.ai/leaderboard) |免费|
-| Artificial Analysis | Artificial Analysis 是由 Micah Hill-Smith 与 George Cameron 创办的独立第三方平台，提供 AI 模型和服务商比较及基准测试，帮助用户在选择 AI 模型和服务提供商时做出明智决策。<br>平台提供多种流行 AI 模型的比较数据，包括 OpenAI 的 GPT-4、Meta 的 Llama 4 和 Anthropic 的 Claude 系列，涵盖了响应速度、延迟和成本等性能指标。 | [URL](https://artificialanalysis.ai/) | 免费 |
+|LMArena (Chatbot Arena)|🌟 LMArena（原 LMSYS Chatbot Arena，2026 年更名 Arena）是一个用于大语言模型评估的众包开放平台，源自加州大学伯克利分校 SkyLab 的 LMSYS（与斯坦福、UCSD、CMU、MBZUAI 多校合作）。收集了超过 1,000,000 次人类成对比较，用 Bradley-Terry 模型对 LLM 进行排名，并以 Elo 标度显示模型评级。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1156) |[URL](https://arena.ai/leaderboard) |免费|
+| Artificial Analysis | 🌟 AI 模型与 API 服务商选型参考平台，把能力、实际任务成本、输出速度和延迟放在一起比较，另有编程智能体、图像、视频与语音专项评测。可查看综合指数、单项成绩及能力—成本图，先筛出候选，再用自己的任务验证；公开方法说明，便于理解评分范围。公开榜单免费，提供免费数据 API，也有商业数据服务。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1433) | [官网](https://artificialanalysis.ai/) | 免费/付费 |
 |LiveCodeBench|LiveCodeBench 是一个全面且无污染的 LLM 代码评估基准，由 UC Berkeley、MIT、康奈尔联合推出，并持续收集新的问题。LiveCodeBench 尤其关注更广泛的代码相关功能，例如自我修复、代码执行和测试输出预测，而不仅仅是代码生成。 |[URL](https://livecodebench.github.io/leaderboard.html)|免费|
 |StructEval|StructEval 是由滑铁卢大学领衔的 TIGER-AI-Lab 发表于 TMLR 2025 的评测基准与公开排行榜，用于评估 LLM 的结构化输出生成和转换，包含 2,035 个样例和 18 种文本及可渲染格式，并采用格式专用的结构与视觉检查。|[排行榜](https://tiger-ai-lab.github.io/StructEval/) [论文](https://openreview.net/forum?id=buDwV7LUA7) [GitHub](https://github.com/TIGER-AI-Lab/StructEval)|免费|
 |LLM Stats|LLM Stats 是由 Jonathan Chavez 与 Sebastian Crossa 创办（Y Combinator 孵化）的独立综合性 LLM 排行榜，使用每日更新的开源社区数据，从能力、价格、速度和上下文长度等维度基准测试与对比 API 模型。|[URL](https://llm-stats.com/)|免费|
@@ -133,63 +133,131 @@
 ### AI Agent
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Claude Code | 🌟 Anthropic 推出的 AI 编程智能体。支持终端 CLI、VS Code/Cursor/JetBrains IDE 插件、桌面 App 和 Web，<br>基于 Claude 系列模型，具备长上下文代码理解、跨文件编辑、shell 命令执行、MCP 扩展、Skills/Hooks/子代理、CLAUDE.md 项目规则与自动记忆能力；支持 Remote Control，可从手机或浏览器继续本地会话。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1104) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [GitHub](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social) | 免费/付费 |
-| Codex | 🌟 OpenAI 推出的开源（Apache-2.0）终端编程智能体，使用 Rust 编写。支持终端 CLI、VS Code/Cursor/Windsurf 等 IDE 扩展、Codex App/桌面体验及 Codex Web 云端任务；<br>可直接理解并修改代码，内置内核级沙箱、MCP、Skills/Plugins/Hooks、子代理，通过 ChatGPT relay 在手机/桌面/Web 之间同步活跃会话，并支持 Remote SSH 连接远程环境。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1079) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social) | 免费/付费 |
+| Claude Code | 🌟 Anthropic 推出的 AI 智能体，可处理代码、文件与终端任务。支持终端 CLI、VS Code/Cursor/JetBrains IDE 插件、桌面 App 和 Web，<br>基于 Claude 系列模型，具备长上下文代码理解、跨文件编辑、shell 命令执行、MCP 扩展、Skills/Hooks/子代理、CLAUDE.md 项目规则与自动记忆能力；支持 Remote Control，可从手机或浏览器继续本地会话。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1104) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [GitHub](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social) | 免费/付费 |
+| Codex | 🌟 OpenAI 推出的开源（Apache-2.0）终端 AI 智能体，使用 Rust 编写。支持终端 CLI、VS Code/Cursor/Windsurf 等 IDE 扩展、Codex App/桌面体验及 Codex Web 云端任务；<br>可直接理解并修改代码，内置内核级沙箱、MCP、Skills/Plugins/Hooks、子代理，通过 ChatGPT relay 在手机/桌面/Web 之间同步活跃会话，并支持 Remote SSH 连接远程环境。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1079) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social) | 免费/付费 |
 | WorkBuddy | 🌟 腾讯推出的全场景 AI 智能体桌面工作台（“腾讯龙虾”）。支持自然语言派活，自主规划并操作本地文件、Office、文件夹完成复杂办公任务；可接入微信、企业微信、QQ、飞书、钉钉，数据支持本地运算。<br>免费版每月赠送 500 积分（新用户另有额外赠送额度），轻度使用完全够用。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1073) | [URL](https://www.codebuddy.cn/work/) | 免费/付费 |
-| Kimi Code | 🌟 月之暗面推出的 AI 编程智能体 CLI，在终端中运行。<br>可读取和编辑代码、执行 shell 命令、搜索文件、抓取网页，并根据反馈规划下一步。支持视频输入、AI 原生 MCP 配置、子代理、生命周期钩子以及 ACP 编辑器集成（Zed、JetBrains）。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/975) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/MoonshotAI/kimi-code) ![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=social) | 免费 |
+| Kimi Code | 🌟 月之暗面推出的 AI 智能体 CLI，在终端中运行。<br>可读取和编辑代码、执行 shell 命令、搜索文件、抓取网页，并根据反馈规划下一步。支持视频输入、AI 原生 MCP 配置、子代理、生命周期钩子以及 ACP 编辑器集成（Zed、JetBrains）。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/975) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/MoonshotAI/kimi-code) ![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=social) | 免费 |
+| OpenCode | 开源的终端原生 AI 智能体。不绑定特定厂商（支持 Anthropic、OpenAI、Google 及本地模型），采用 TUI 客户端/服务端架构，集成 LSP，支持自定义 agent 和 MCP 服务器。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1438) | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | 免费 |
+| oh-my-pi | @can1357 维护的 Pi fork。终端原生 AI 智能体，深度集成 IDE 能力：LSP、DAP 调试器、Python/Bun 代码执行、40+ 模型提供商和 32 个内置工具。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1442) | [GitHub](https://github.com/can1357/oh-my-pi) ![GitHub Repo stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=social) | 免费 |
+| mu | 基于 Pi 的开源（MIT）AI 智能体，提供命令行和桌面端（macOS、Windows、Linux；桌面端基于 AionUi，Apache-2.0）。特点是一个判定内核：30 多个决策点上的例行判断交给小而快的判定模型（默认 Jev，也可换成本地 322M 判定模型、分类模型或任意 LLM），比如长工具输出里哪些片段进上下文、被规则拦下的命令是不是用户要的、抓取的网页和 MCP 结果里有没有冲着模型的指令，让主模型专心干活；每次判断都记在本地。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1444) | [GitHub](https://github.com/qybaihe/mu) ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social) | 免费 |
 | Manus | 🌱 Manus 是一款行动引擎——不仅提供答案，还能执行任务、自动化工作流程。2026 年 9 月发布全架构重构的 Manus 2.0（Cascade 框架、常驻云电脑）及个人智能体应用 Cue。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1113) | [URL](https://manus.im/) | 免费试用/付费 |
 | DeepSeek Harness | 🌱 DeepSeek 开源（MIT）的 agent harness（智能体运行时）：提供 CLI 与本地 Web UI，基于 Cordis 的“一切皆插件”架构，内置 40+ 子包（LLM、MCP、沙箱、Skills、子代理、Web、Shell 等）。当前为开发者预览版，预计会有不兼容更新。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1112) | [GitHub](https://github.com/deepseek-ai/deepseek-harness) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=social) | 免费 |
-| Trae | 🌱 字节跳动推出的 AI 编程与工作智能体产品族。包含 Trae Code（终端 CLI Agent）、Trae IDE（含 IDE Mode 与 SOLO Mode）、Trae Work（Web/桌面/移动工作空间，支持 Code Mode 与 Work Mode 及云端任务）。<br>覆盖从终端到 IDE 再到云端工作区的完整链路，支持自定义 Agent、MCP、规则与多模型。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1115) | [URL](https://www.trae.ai/) [GitHub](https://github.com/bytedance/trae-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social) | 免费/付费 |
+| Pi | earendil-works 开源（MIT）的自扩展 AI 智能体。模块化 Monorepo：精致的交互式 CLI、统一多厂商 LLM 层与插件化架构；强调供应链安全加固与沙箱化执行（Gondolin、Docker、OpenShell）。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1440) | [GitHub](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | 免费 |
+| Devin | Cognition 的自治 AI 软件工程师——「派工单」模式的开创者：通过 Slack、Jira 或 Linear 把任务派给 Devin，它自主规划、在云端沙箱写代码、跑测试并异步提交 PR，可并行多个会话。免费档；Core $20/月起（按 ACU 计量）；Team $500/月。Windsurf 已并入为 Devin Desktop（2026 年 6 月）。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1464) | [URL](https://devin.ai/) | 免费/付费 |
+| Grok build | xAI 推出的基于终端的 AI 智能体，开源且使用 Rust 编写。以全屏、支持鼠标交互的 TUI 形式运行，能理解代码库、编辑文件、执行 shell 命令、搜索网络并管理长时间运行的任务。支持交互式、无头（脚本/CI）以及嵌入 ACP 编辑器等模式，内置 MCP 服务器、技能、插件、钩子和沙箱。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1446) | [GitHub](https://github.com/xai-org/grok-build) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-build?style=social) | 免费 |
+| OpenClaw | 开源的自托管 AI 智能体，在本地运行并自主执行任务：连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器、访问系统、持久记忆。现由独立的 OpenClaw Foundation 维护（OpenAI 继续支持）；是增长最快的开源项目之一。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/326) | [GitHub](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) | 免费 |
+|OpenWorker|吴恩达（Andrew Ng）开源的本地优先桌面 AI 同事。以交付完整工作成果（文档、Slack 回复、日程更新、报告）为目标，而非仅提供聊天回答。支持 25+ 应用连接器、MCP 协议，可接入自有 API Key 的多种模型（OpenAI、Anthropic、Gemini、DeepSeek、Kimi、Qwen、Ollama 等），数据和凭证本地存储。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1448) |[GitHub](https://github.com/andrewyng/openworker) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/openworker?style=social)|免费|
+| autoresearch | Karpathy 开源的自动化 AI 研究助手。它能够自主提出假设、修改训练代码并运行实验，通过不断迭代来寻找性能提升方案，是专为机器学习研究设计的自主 Agent。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1450) | [GitHub](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 免费 |
+| ml-intern | 由 Hugging Face 开发的开源自主 AI Agent，定位为专业机器学习工程师。它能够处理端到端的 ML 生命周期，包括研究论文、编写代码、运行实验以及将模型发布到 Hugging Face Hub。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1452) | [GitHub](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | 免费 |
+|msitarzewski/agency-agents|开源AI代理工具包，包含230+个细分领域的专业代理角色，覆盖工程、设计、营销、销售、金融、游戏开发、医疗等。提供开箱即用的代理人设、工作流模板、可交付成果，以及原生桌面应用，可一键浏览/安装代理到 Claude Code、Cursor、Codex、Gemini、Kimi Code、Aider 等AI开发工具。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1454) |[GitHub](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|免费|
+| Hermes Agent | NousResearch 开发的开源 AI Agent 框架，基于 Hermes 系列模型构建，在工具调用和推理能力上进行了精细微调，用于构建自主 AI 智能体。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1460) | [GitHub](https://github.com/NousResearch/hermes-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) | 免费 |
+| DeepTutor | 香港大学数据科学研究院（HKUDS）开源的 AI 原生学习/辅导工作区，整合 AI 辅导、解题、测验生成、研究、可视化和掌握式学习路径。支持多引擎 RAG、持久化记忆、Partner/智能体、以及 Claude Code/Codex 等编程 CLI 实时接入。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1456) | [GitHub](https://github.com/HKUDS/DeepTutor) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | 免费 |
+|potpie-ai/potpie|几分钟内为代码库构建开源 AI 智能体。内置 Q&A、测试、调试和系统设计等预构建智能体，也可创建自定义智能体。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1462) |[URL](https://potpie.ai) , [GitHub](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|免费试用|
+| MiniMax Agent|Minimax的 Agent 助手 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1474) |[URL](https://agent.minimaxi.com/)|免费/付费|
+|CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1458) |[GitHub](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
+
+### 编程 Agent
+
+以编程编辑器、IDE 和应用构建为主要入口，支持代码补全、智能体编程和项目开发。
+
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [价格对比](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
+| Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；<br>2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
+| Trae | 🌱 字节跳动推出的 AI 编程与工作智能体产品族。包含 Trae Code（终端 CLI Agent）、Trae IDE（含 IDE Mode 与 SOLO Mode）、Trae Work（Web/桌面/移动工作空间，支持 Code Mode 与 Work Mode 及云端任务）。<br>覆盖从终端到 IDE 再到云端工作区的完整链路，支持自定义 Agent、MCP、规则与多模型。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1115) | [URL](https://www.trae.ai/) [GitHub](https://github.com/bytedance/trae-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social) [国内站](http://trae.com.cn) | 免费/付费 |
+| GitHub Copilot | GitHub 推出的代码编写助手，现已支持 OpenAI、Anthropic、Gemini 等厂商模型逐任务切换 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1466) | [URL](https://github.com/features/copilot) | 免费/付费 |
+| Antigravity | Google 的智能体编程平台，提供桌面 App、IDE、终端 CLI（`agy`）和 SDK。支持 **Gemini 4 Argon**、Gemini 3.8 Flash，以及 Claude、GPT-OSS 等第三方模型，具体访问权限取决于订阅方案。Editor / Manager 双视图可协调多个自主智能体，内置浏览器、终端、可核验 Artifacts（计划、截图、录屏）、子代理、Hooks 和定时任务。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1468) | [URL](https://antigravity.google/) | 免费/付费 |
+| Qoder | 阿里云推出的 AI 智能编程助手与智能体产品族，主打“自主编程新范式”。通过多智能体协同、长时委派执行、记忆与知识引擎，与代码库和工具链深度连接，围绕真实任务持续完成理解、规划、执行、验证与迭代。<br>产品包括 Qoder Desktop（自主开发工作台）、QoderWork（本地 AI 工作搭子）、QoderWake（数字员工）、Qoder CLI（终端原生编程搭档/智能体引擎）以及面向企业的 Cloud Agents 云端托管平台。 [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1475) | [URL](https://qoder.com.cn/) | 免费/付费 |
+| Bolt.new | StackBlitz 推出的浏览器端 AI 全栈应用构建工具——用自然语言描述需求，AI 智能体直接在浏览器内脚手架、运行并部署完整应用。基于 WebContainers 在浏览器中运行真实 Node.js，无需本地环境或云虚拟机。免费档 / Pro $25 每月 / Teams $30 每人每月 / Enterprise 定制；开源姊妹版 bolt.diy 支持自带 API Key。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1470) | [URL](https://bolt.new/) | 免费/付费 |
+
+### 代码审查与开发辅助
+
+代码审查、调试优化、开发规范、配置管理与配套工具。
+
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| git-lrc | 免费、无限制的 AI 代码审查，每次提交自动运行。 | [GitHub](https://github.com/HexmosTech/git-lrc) ![GitHub Repo stars](https://img.shields.io/github/stars/HexmosTech/git-lrc?style=social) | 免费 |
+| alibaba/open-code-review | 阿里巴巴开源的 AI 代码评审 CLI/Agent。基于确定性流水线与 LLM Agent 审查 Git diff，支持行级评论、OpenAI/Anthropic 兼容模型端点、自定义规则、JSON CI 输出、WebUI 会话查看，以及 Claude Code/Codex 集成。 | [GitHub](https://github.com/alibaba/open-code-review) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=social) | 免费 |
+| Kodus | 开源代码审查智能体。 | [GitHub](https://github.com/kodustech/kodus-ai/) ![GitHub Repo stars](https://img.shields.io/github/stars/kodustech/kodus-ai?style=social) | 免费/付费 |
+| AI-Codereview-Gitlab | 基于大模型(DeepSeek, OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 | [GitHub](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | 免费 |
+| code-review-graph | 基于 Tree-sitter 构建代码结构图并增量追踪变更，通过 MCP 为 AI 编程助手提供精准的代码审查上下文，减少重复读取整个代码库。 | [GitHub](https://github.com/tirth8205/code-review-graph) ![GitHub Repo stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=social) | 免费 |
+| dbForge AI Assistant | AI 驱动的 SQL 代码生成、优化与排错工具——面向开发者、DBA 和分析师。 | [URL](https://www.devart.com/dbforge/ai-assistant/) | 付费/免费试用 |
+| scalene | 高性能、高精度的 Python CPU/GPU/内存分析器，附带 AI 驱动的优化建议。 | [GitHub](https://github.com/plasma-umass/scalene) ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social) | 免费 |
+| OpenChamber | OpenCode AI agent 的桌面/网页图形界面。在 OpenCode 之上提供会话管理、diff 查看和工作区控制。 | [URL](https://openchamber.dev) [GitHub](https://github.com/openchamber/openchamber) ![GitHub Repo stars](https://img.shields.io/github/stars/openchamber/openchamber?style=social) | 免费 |
+| Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
+| Termux | Android终端模拟器和Linux环境应用，可直接在移动设备上运行编码工具、AI模型和各类开发环境，内置SSH客户端支持登录远程主机。 | [GitHub](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | 免费 |
+| Cate | 开源桌面 IDE，基于无限缩放画布。可以把 Monaco 编辑器、xterm.js 终端、内嵌浏览器和 Claude Code 智能体面板自由排布在可缩放的空间里，代替传统的窗口和标签页。面板支持浮动、停靠或分离为独立窗口，布局按项目自动保存。基于 Electron 构建，支持 macOS、Windows 和 Linux。 | [URL](https://cate.cero-ai.com) [GitHub](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | 免费 |
+| CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [GitHub](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
+| Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [GitHub](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
+| Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [GitHub](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
+| ECC | 面向 AI 编程代理的开源增强框架。为 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等提供统一的 Agent/技能/规则/Hook/MCP 配置体系。内置 60 个子代理、232 个技能、记忆持久化、AgentShield 安全扫描，附带桌面仪表盘 GUI。 | [GitHub](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | 免费 |
+| CC Switch | 跨平台桌面应用，用于一站式管理 Claude Code, Codex, Gemini CLI, OpenCode 和 OpenClaw。提供可视化界面管理 API 供应商、MCP 服务器和技能，支持双向同步。 | [GitHub](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | 免费 |
+| codex-plugin-cc | Claude Code 插件，允许用户在 Claude Code 工作流中直接使用 OpenAI Codex 进行代码审查和任务委托。提供 /codex:review、/codex:adversarial-review 等命令 | [GitHub](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | 免费 |
+| AGENTS.md | 专门为 AI 编程智能体设计的代码库文档开放标准。通过提供结构化的上下文、指令和约束条件，帮助智能体更高效、更安全地工作。 | [GitHub](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | 免费 |
+| Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [GitHub](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
+| musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[GitHub](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
+| agy-powerline | 适用于 Google Antigravity CLI（`agy`）的状态栏：显示 Gemini 5 小时/7 天、Claude/GPT 与 Argon 配额及步调标记、上下文窗口、Git 状态，提供多套主题和交互式 TUI 配置器。 | [URL](https://agy-powerline.com) [GitHub](https://github.com/wassim-azi/agy-powerline) ![GitHub Repo stars](https://img.shields.io/github/stars/wassim-azi/agy-powerline?style=social) | 免费 |
+
+### Agent 工作台与协作
+
+管理与调度已有 Agent 的任务、会话、工作空间和团队协作。
+
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
 | OpenDots | 🌱 CopilotKit 开源的 AI 智能体工作空间模板（OpenAI Dots 的自托管替代）。可为每个 Dot 配置独立计算机、浏览器/文件/终端权限、MCP 工具与 Slack/通话集成；支持 Spaces 文档协作、后台任务、人工审批后保存。需自部署并接入 CopilotKit Intelligence 与 OpenAI 兼容模型。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1212) | [GitHub](https://github.com/CopilotKit/OpenDots) ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/OpenDots?style=social) | 免费 |
-| Pi | earendil-works 开源（MIT）的自扩展 AI 编程智能体。模块化 Monorepo：精致的交互式 CLI、统一多厂商 LLM 层与插件化架构；强调供应链安全加固与沙箱化执行（Gondolin、Docker、OpenShell）。 | [GitHub](https://github.com/earendil-works/pi) ![GitHub Repo stars](https://img.shields.io/github/stars/earendil-works/pi?style=social) | 免费 |
-| Qoder | 阿里云推出的 AI 智能编程助手与智能体产品族，主打“自主编程新范式”。通过多智能体协同、长时委派执行、记忆与知识引擎，与代码库和工具链深度连接，围绕真实任务持续完成理解、规划、执行、验证与迭代。<br>产品包括 Qoder Desktop（自主开发工作台）、QoderWork（本地 AI 工作搭子）、QoderWake（数字员工）、Qoder CLI（终端原生编程搭档/智能体引擎）以及面向企业的 Cloud Agents 云端托管平台。 [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [URL](https://qoder.com.cn/) | 免费/付费 |
-| Antigravity | Google 的以智能体为先的 AI 编程平台，提供桌面 App、IDE、终端 CLI（`agy`）和 SDK 四种形态，替代 Gemini CLI。围绕 Gemini 3.5–3.8 Flash 等模型，<br>可在 Editor / Manager 双视图中编排多个自主智能体，内置浏览器/终端、可核验 Artifacts（计划、截图、录屏）、子代理、Hooks 与定时任务；支持 Claude、GPT-OSS 等第三方模型。 | [URL](https://antigravity.google/) | 免费/付费 |
-| Devin | Cognition 的自治 AI 软件工程师——「派工单」模式的开创者：通过 Slack、Jira 或 Linear 把任务派给 Devin，它自主规划、在云端沙箱写代码、跑测试并异步提交 PR，可并行多个会话。免费档；Core $20/月起（按 ACU 计量）；Team $500/月。Windsurf 已并入为 Devin Desktop（2026 年 6 月）。 | [URL](https://devin.ai/) | 免费/付费 |
-| Grok build | xAI 推出的基于终端的 AI 编程智能体，开源且使用 Rust 编写。以全屏、支持鼠标交互的 TUI 形式运行，能理解代码库、编辑文件、执行 shell 命令、搜索网络并管理长时间运行的任务。支持交互式、无头（脚本/CI）以及嵌入 ACP 编辑器等模式，内置 MCP 服务器、技能、插件、钩子和沙箱。 | [GitHub](https://github.com/xai-org/grok-build) ![GitHub Repo stars](https://img.shields.io/github/stars/xai-org/grok-build?style=social) | 免费 |
-| browser-use | 开源 Python 库，使 AI 智能体能够控制网页浏览器。支持自然语言任务执行、DOM 提取、表单填写、多步导航，并通过简单 API 与任意大模型集成。适用于构建网页智能体、自动化测试和数据提取工作流。 | [GitHub](https://github.com/browser-use/browser-use) ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) | 免费 |
-| Obscura | 开源（Apache-2.0）的 Rust 无头浏览器引擎，面向 AI 智能体与网页抓取。通过 Chrome DevTools 协议直接替代 headless Chrome，兼容 Puppeteer/Playwright：内存占用约 30MB、启动瞬时，内置 stealth 反指纹与追踪拦截模式。 | [GitHub](https://github.com/h4ckf0r0day/obscura) ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social) | 免费 |
-| Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。 | [GitHub](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
-| AX | Google 开源的 agentic 编排运行时，定位"Agent 时代的 Kubernetes"。通过声明式 YAML 清单（Workspace、Task、Model）定义任务，沙箱隔离执行，支持 CPU/内存限制、`ax suspend/resume` 暂停恢复和 SSH 调试；单集群设计目标支撑十亿级自主 Agent 工作负载。尚处早期，正式发布前可能有破坏性变更。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1050) | [GitHub](https://github.com/google/ax) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ax?style=social) | 免费 |
-| ARTEMIS | Google 开源框架，将自然语言指令转换为可靠的 Android 端自动化：跨应用任务执行、多模态目标定位，Flash（快速反应）/ Pro（多智能体规划）双执行模式。提供 Web 控制台、MCP Server、Python SDK 和 CLI，可与 Claude Code、Codex 等智能体集成。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1052) | [GitHub](https://github.com/google/artemis) ![GitHub Repo stars](https://img.shields.io/github/stars/google/artemis?style=social) | 免费 |
-| OpenClaw | 开源的自托管 AI 智能体，在本地运行并自主执行任务：连接 WhatsApp、Telegram、Slack、Discord 等消息平台，控制浏览器、访问系统、持久记忆。现由独立的 OpenClaw Foundation 维护（OpenAI 继续支持）；是增长最快的开源项目之一。 | [GitHub](https://github.com/openclaw/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) | 免费 |
-|OpenWorker|吴恩达（Andrew Ng）开源的本地优先桌面 AI 同事。以交付完整工作成果（文档、Slack 回复、日程更新、报告）为目标，而非仅提供聊天回答。支持 25+ 应用连接器、MCP 协议，可接入自有 API Key 的多种模型（OpenAI、Anthropic、Gemini、DeepSeek、Kimi、Qwen、Ollama 等），数据和凭证本地存储。|[GitHub](https://github.com/andrewyng/openworker) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/openworker?style=social)|免费|
-| autoresearch | Karpathy 开源的自动化 AI 研究助手。它能够自主提出假设、修改训练代码并运行实验，通过不断迭代来寻找性能提升方案，是专为机器学习研究设计的自主 Agent。 | [GitHub](https://github.com/karpathy/autoresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social) | 免费 |
-| ml-intern | 由 Hugging Face 开发的开源自主 AI Agent，定位为专业机器学习工程师。它能够处理端到端的 ML 生命周期，包括研究论文、编写代码、运行实验以及将模型发布到 Hugging Face Hub。 | [GitHub](https://github.com/huggingface/ml-intern) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=social) | 免费 |
 | Multica | 开源托管代理平台，将 AI 编码代理（Claude Code, Codex, Cursor, Copilot, OpenCode, OpenClaw, Hermes, Gemini, Pi, Kimi, Kiro CLI 等）作为“一等公民”队友集成到开发团队中。支持任务分配、进度跟踪、技能复用，本地守护进程可自动检测已安装的 Agent CLI。 | [GitHub](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 免费/付费 |
 | Paperclip | 开源 AI 智能体编排平台，将 AI 运营建模为公司组织。可定义组织架构、汇报关系、预算和治理策略，让智能体在该结构内自主工作。支持 OpenClaw、Claude Code、Codex 等智能体后端。基于心跳机制执行，具备成本控制和审计追踪。 | [GitHub](https://github.com/paperclipai/paperclip) ![GitHub Repo stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social) | 免费 |
 | Symphony | OpenAI 开源的项目需求到交付的 harness。将项目需求转化为隔离、自主的实施运行；代理可监听 Linear 等看板，自动提交 PR、合并代码，并提供 CI 状态、审查反馈、演示视频等工作证明。目前处于工程预览阶段。 | [GitHub](https://github.com/openai/symphony) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/symphony?style=social) | 免费 |
 | QM | YC 开源的面向企业组织的 multi-agent harness，运行在 Slack 和 Web 上。以 scope（作用域）为每个员工、项目、频道隔离记忆、文件、凭据与权限；核心为 headless 架构，模型和 harness 可替换，支持 Docker/Fly/AWS 自托管。 | [GitHub](https://github.com/yc-software/qm) ![GitHub Repo stars](https://img.shields.io/github/stars/yc-software/qm?style=social) | 免费 |
 | Buzz | Block 开源的可自托管人机协作工作空间，人类与 AI 智能体共享同一个房间。智能体拥有独立密钥和审计轨迹，可打开仓库、提交补丁、审查代码、运行工作流、编辑画布、加入语音讨论等。基于 Nostr relay 构建，每条消息和操作都是签名事件。 | [GitHub](https://github.com/block/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/block/buzz?style=social) | 免费 |
-|deer-flow|字节跳动开源的长时程 SuperAgent harness，可编排子代理、记忆、沙箱、工具、技能和消息网关，完成研究、编程与内容创作等长时间任务。基于 LangGraph/LangChain 构建，提供 Web UI 并支持多种大语言模型。|[GitHub](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|免费|
 | Orkas | 开源、本地优先的多智能体 AI 桌面客户端。Commander 会拆解目标，并协调拥有独立技能和记忆的专职 Agent 并行或串行工作。支持自带模型服务和本地模型端点，也可调用 Claude Code、Codex、OpenClaw、OpenCode 和 Hermes。跨平台支持 macOS、Windows 和 Linux。 | [官网](https://orkas.ai?source=github_awesome_aitools) [GitHub](https://github.com/Orkas-AI/Orkas) ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social) | 免费 |
 | Orca | 跨平台 Agent Development Environment（ADE），用于编排并行的 AI 编程智能体舰队。可在独立 git worktree 中并排运行 Claude Code、Codex、OpenCode、Pi 及任何 CLI 智能体，对比输出并合并最优解。<br>支持 Mobile Companion、终端分屏、Design Mode（捕获 Chromium UI 元素）、GitHub/Linear 集成、SSH worktrees、AI diff 批注和 Computer Use。 | [官网](https://www.onorca.dev) [GitHub](https://github.com/stablyai/orca) ![GitHub Repo stars](https://img.shields.io/github/stars/stablyai/orca?style=social) | 免费 |
 | Paseo | 🌱 开源的 Agentic 开发环境，在一个界面中统一接入 Claude Code、Codex、Copilot、OpenCode、Pi、Antigravity、Muse Code 等编程智能体。支持多代理在独立 worktree 中并行运行，内置编排、编辑器、终端、diff、PR、浏览器与插件系统；可自托管、无遥测，覆盖桌面、移动、Web、CLI，并提供 TypeScript SDK。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1216) | [GitHub](https://github.com/getpaseo/paseo) | 免费 |
 | AgentsMesh | AI Agent 工作流平台。可自托管的远程 AI 工作站（AgentPods），提供 PTY 沙箱 + git worktree 隔离、基于频道和 pod 绑定的多智能体协作、内置看板（MR/PR 集成）、每 pod 独立 MCP 服务器。支持 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode。 | [GitHub](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | 免费（BSL-1.1） |
-|microsoft/autogen|AutoGen 是一个开源编程框架， 用于构建人工智能Agent，并促进多个Agent之间的合作，以解决任务。自 2025 年 10 月起进入社区维护模式（仅修 bug），微软官方继任框架为 Microsoft Agent Framework。|[GitHub](https://github.com/microsoft/autogen) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)|免费|
-|msitarzewski/agency-agents|开源AI代理工具包，包含230+个细分领域的专业代理角色，覆盖工程、设计、营销、销售、金融、游戏开发、医疗等。提供开箱即用的代理人设、工作流模板、可交付成果，以及原生桌面应用，可一键浏览/安装代理到 Claude Code、Cursor、Codex、Gemini、Kimi Code、Aider 等AI开发工具。|[GitHub](https://github.com/msitarzewski/agency-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)|免费|
-| ECC | 面向 AI 编程代理的开源增强框架。为 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等提供统一的 Agent/技能/规则/Hook/MCP 配置体系。内置 60 个子代理、232 个技能、记忆持久化、AgentShield 安全扫描，附带桌面仪表盘 GUI。 | [GitHub](https://github.com/affaan-m/ECC) ![GitHub Repo stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social) | 免费 |
-| CC Switch | 跨平台桌面应用，用于一站式管理 Claude Code, Codex, Gemini CLI, OpenCode 和 OpenClaw。提供可视化界面管理 API 供应商、MCP 服务器和技能，支持双向同步。 | [GitHub](https://github.com/farion1231/cc-switch) ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) | 免费 |
-| codex-plugin-cc | Claude Code 插件，允许用户在 Claude Code 工作流中直接使用 OpenAI Codex 进行代码审查和任务委托。提供 /codex:review、/codex:adversarial-review 等命令 | [GitHub](https://github.com/openai/codex-plugin-cc) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social) | 免费 |
-| codesight | CLI 令牌（token）优化器和 AI 上下文生成器，内置 MCP 服务器。扫描代码库以提取路由、架构、组件和依赖项，将 AI 上下文令牌减少 9 倍至 13 倍。支持 Claude Code、Cursor、Copilot、Codex 和 Windsurf。零运行时依赖。 | [GitHub](https://github.com/Houseofmvps/codesight) ![GitHub Repo stars](https://img.shields.io/github/stars/Houseofmvps/codesight?style=social) | 免费 |
-| AGENTS.md | 专门为 AI 编程智能体设计的代码库文档开放标准。通过提供结构化的上下文、指令和约束条件，帮助智能体更高效、更安全地工作。 | [GitHub](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | 免费 |
-| Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [GitHub](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
-| musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[GitHub](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
-|ultraworkers/claw-code|Claude Code 代理框架的 Rust 重新实现，已更名 **agent-code**（crates.io 上的 claw-code 为废弃存根，安装后只打印改名提示）。仓库由 Agent 自动维护、定位为展示性项目，生产使用官方建议改用 LazyCodex 或 Gajae-Code。专注于构建更好的 AI 代理工具框架，采用合法合规的方式重新实现 |[GitHub](https://github.com/ultraworkers/claw-code) ![GitHub Repo stars](https://img.shields.io/github/stars/ultraworkers/claw-code?style=social)|免费|
-|MemPalace|开源AI记忆系统，将完整对话和项目数据本地存储，无需依赖云端。采用"记忆宫殿"分层结构组织记忆，在 LongMemEval 基准测试中达到 96.6% 召回率（不调用任何 API 的纯本地模式下的最高已公布成绩），支持 MCP 集成，可以配合本地大语言模型离线使用。|[GitHub](https://github.com/MemPalace/mempalace) ![GitHub Repo stars](https://img.shields.io/github/stars/MemPalace/mempalace?style=social)|免费|
-| TencentDB Agent Memory | 腾讯云开源的面向智能体团队的记忆基础设施。提供 Memory Hub 实现跨会话/跨 Agent 记忆共享，Chat Memory 通过 L0–L3 四层蒸馏保留上下文，Skill library 沉淀可复用技能，Wiki/CodeGraph 构建文档与代码知识图谱。支持与 Claude Code、CodeBuddy 等 Agent 集成。 | [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=social) | 免费 |
-| Hermes Agent | NousResearch 开发的开源 AI Agent 框架，基于 Hermes 系列模型构建，在工具调用和推理能力上进行了精细微调，用于构建自主 AI 智能体。 | [GitHub](https://github.com/NousResearch/hermes-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) | 免费 |
-| Screenpipe | 可检索的屏幕文字与音频历史，通过 MCP 或本地 API 为回忆、会议笔记和工作总结提供上下文。原始历史默认保存在本地；启用云端 AI、转录、同步或外部集成时，相关上下文可能在设备外处理。<br>源码按 [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) 提供。支持 macOS、Windows 和 Linux。 | [GitHub](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | 免费版有限制；[付费订阅](https://screenpipe.com/pricing) |
+| Kortix | 开源 AI 管理系统——用智能体、技能、记忆和 3000+ 连接器以文件形式管理整个公司的智能体劳动力，全部保存在你拥有的一个 git 仓库中；每个会话启动一台隔离的 Linux 机器，工作成果通过人工审查的变更请求落地。支持自托管或托管云，自带 Key 接入任意模型。 | [GitHub](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | 免费 |
+
+### Agent 开发框架与运行时
+
+供开发者构建 Agent、定义执行流程或提供运行环境。
+
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| Microsoft Agent Framework | 微软开源（MIT）的 AI 智能体与多智能体工作流框架，也是已归档 AutoGen 的官方推荐后继项目。支持 Python、.NET 和多家模型服务，提供图式编排、检查点恢复、人工审批与 OpenTelemetry 可观测性，适合需要持久执行、可审查工作流的开发团队，可从本地开发扩展到云端部署。框架免费，模型和托管费用取决于所选服务。 | [GitHub](https://github.com/microsoft/agent-framework) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social) | 免费 |
+| LangGraph | LangChain 推出的底层编排框架，用「图」构建有状态、可持久化的多智能体 LLM 应用。将工作流建模为节点与边，提供持久化状态、检查点（checkpoint）、人工介入的打断/恢复（interrupt/resume），让长时间运行、可容错的智能体更易开发、调试与可观测。配套 LangGraph Studio 可视化调试器与 LangGraph Platform（大规模持久执行、状态存储与流式输出）；支持任意模型提供商，提供 Python 与 JS/TS 版本，与 LangChain 生态深度协同，也支持独立使用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1367) | [GitHub](https://github.com/langchain-ai/langgraph) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social) [官网](https://www.langchain.com/langgraph) | 免费 |
 | MastraAI | 开源的 TypeScript 框架，用于快速构建 AI 应用。提供构建 AI 应用所需的核心原语：工作流、智能体、RAG、集成与评测。 | [GitHub](https://github.com/mastra-ai/mastra) ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social) | 免费 |
+|agentscope|面向Agent的编程：构建大型语言模型应用程序。阿里开源|[GitHub](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|免费|
 | FlowGram.AI | 字节跳动开源的可扩展可视化 AI 工作流开发框架，内置画布、表单引擎、变量作用链和现成物料（LLM、Condition、代码编辑器等），帮助开发者更快构建 AI 工作流平台。 | [GitHub](https://github.com/bytedance/flowgram.ai) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/flowgram.ai?style=social) | 免费 |
 | Conductor | 源自 Netflix 的开源 durable workflow engine，现聚焦 AI Agent 编排。提供事件驱动执行、持久化状态、重试/超时、14+ LLM 提供商、MCP 工具调用、function calling、人工审批以及面向 RAG 的向量数据库集成。在 Netflix、Tesla、LinkedIn、J.P. Morgan 生产环境使用。 | [GitHub](https://github.com/conductor-oss/conductor) ![GitHub Repo stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social) | 免费 |
-| DeepTutor | 香港大学数据科学研究院（HKUDS）开源的 AI 原生学习/辅导工作区，整合 AI 辅导、解题、测验生成、研究、可视化和掌握式学习路径。支持多引擎 RAG、持久化记忆、Partner/智能体、以及 Claude Code/Codex 等编程 CLI 实时接入。 | [GitHub](https://github.com/HKUDS/DeepTutor) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=social) | 免费 |
-|potpie-ai/potpie|几分钟内为代码库构建开源 AI 智能体。内置 Q&A、测试、调试和系统设计等预构建智能体，也可创建自定义智能体。|[URL](https://potpie.ai) , [GitHub](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|免费试用|
-| MiniMax Agent|Minimax的 Agent 助手|[URL](https://agent.minimaxi.com/)|免费/付费|
-|agentscope|面向Agent的编程：构建大型语言模型应用程序。阿里开源|[GitHub](https://github.com/agentscope-ai/agentscope)![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)|免费|
-| Auto-GPT | 开源项目，使用 gpt 自主地实现你设定的任何目标。<br>现拆分为商业托管的 AutoGPT Platform（Polyform Shield 许可、付费）与 classic 目录（原 CLI / Forge / benchmark，MIT 许可，仅做安全维护、不再新增功能）。演示示例：[爆火的自主人工智能AutoGPT，程序员表示开始真正有点担忧会失业了！](https://www.bilibili.com/video/BV1Ph4y1W7Yj) | [GitHub](https://github.com/Significant-Gravitas/AutoGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social) | 免费（classic）/付费（Platform） |
-|CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。|[GitHub](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
+|deer-flow|字节跳动开源的长时程 SuperAgent harness，可编排子代理、记忆、沙箱、工具、技能和消息网关，完成研究、编程与内容创作等长时间任务。基于 LangGraph/LangChain 构建，提供 Web UI 并支持多种大语言模型。|[GitHub](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|免费|
+| AX | Google 开源的 agentic 编排运行时，定位"Agent 时代的 Kubernetes"。通过声明式 YAML 清单（Workspace、Task、Model）定义任务，沙箱隔离执行，支持 CPU/内存限制、`ax suspend/resume` 暂停恢复和 SSH 调试；单集群设计目标支撑十亿级自主 Agent 工作负载。尚处早期，正式发布前可能有破坏性变更。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1050) | [GitHub](https://github.com/google/ax) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ax?style=social) | 免费 |
+
+### 浏览器与计算机自动化
+
+提供网页、桌面、手机自动化能力，以及配套浏览器和沙箱。
+
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+| browser-use | 开源（MIT）Python 库，使 AI 智能体能够控制网页浏览器：支持自然语言任务执行、DOM 提取、表单填写、多步导航，可接入任意大模型。官方的 Browser Use Cloud 提供托管的反检测 Chromium 浏览器，可通过 CDP 连接（也支持 Playwright、Puppeteer），附带住宅代理、验证码处理、持久化登录配置、浏览器智能体 API 和远程 MCP 服务器，按浏览器小时计费、无需订阅。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1424) | [GitHub](https://github.com/browser-use/browser-use) ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) [官网](https://browser-use.com) | 免费/付费 |
+| Cua | 面向计算机使用代理 (Computer-Use Agents) 的开源基础设施。提供可在 macOS、Windows、Linux 和 Android 上运行的沙箱、驱动和 SDK，使 AI 能够像人类一样控制桌面并执行任务。 | [GitHub](https://github.com/trycua/cua) ![GitHub Repo stars](https://img.shields.io/github/stars/trycua/cua?style=social) | 免费 |
+| ARTEMIS | Google 开源框架，将自然语言指令转换为可靠的 Android 端自动化：跨应用任务执行、多模态目标定位，Flash（快速反应）/ Pro（多智能体规划）双执行模式。提供 Web 控制台、MCP Server、Python SDK 和 CLI，可与 Claude Code、Codex 等智能体集成。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1052) | [GitHub](https://github.com/google/artemis) ![GitHub Repo stars](https://img.shields.io/github/stars/google/artemis?style=social) | 免费 |
+| Obscura | 开源（Apache-2.0）的 Rust 无头浏览器引擎，面向 AI 智能体与网页抓取。通过 Chrome DevTools 协议直接替代 headless Chrome，兼容 Puppeteer/Playwright：内存占用约 30MB、启动瞬时，内置 stealth 反指纹与追踪拦截模式。 | [GitHub](https://github.com/h4ckf0r0day/obscura) ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social) | 免费 |
+| Steel Browser | 开源浏览器沙箱与自动化基础设施，面向 AI 智能体和应用：提供会话化工作流、截图、PDF、代理与反机器人工具。 | [GitHub](https://github.com/steel-dev/steel-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) | 免费 |
+| Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。 | [GitHub](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
+| bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
+| Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
+
+### Agent 记忆与上下文
+
+保存、检索历史记忆，构建代码与知识上下文。
+
+| 名称 | 说明 | 链接 | 费用 |
+| --- | --- | --- | --- |
+|MemPalace|开源AI记忆系统，将完整对话和项目数据本地存储，无需依赖云端。采用"记忆宫殿"分层结构组织记忆，在 LongMemEval 基准测试中达到 96.6% 召回率（不调用任何 API 的纯本地模式下的最高已公布成绩），支持 MCP 集成，可以配合本地大语言模型离线使用。|[GitHub](https://github.com/MemPalace/mempalace) ![GitHub Repo stars](https://img.shields.io/github/stars/MemPalace/mempalace?style=social)|免费|
+| TencentDB Agent Memory | 腾讯云开源的面向智能体团队的记忆基础设施。提供 Memory Hub 实现跨会话/跨 Agent 记忆共享，Chat Memory 通过 L0–L3 四层蒸馏保留上下文，Skill library 沉淀可复用技能，Wiki/CodeGraph 构建文档与代码知识图谱。支持与 Claude Code、CodeBuddy 等 Agent 集成。 | [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) ![GitHub Repo stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=social) | 免费 |
+| Screenpipe | 可检索的屏幕文字与音频历史，通过 MCP 或本地 API 为回忆、会议笔记和工作总结提供上下文。原始历史默认保存在本地；启用云端 AI、转录、同步或外部集成时，相关上下文可能在设备外处理。<br>源码按 [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) 提供。支持 macOS、Windows 和 Linux。 | [GitHub](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | 免费版有限制；[付费订阅](https://screenpipe.com/pricing) |
+| codesight | CLI 令牌（token）优化器和 AI 上下文生成器，内置 MCP 服务器。扫描代码库以提取路由、架构、组件和依赖项，将 AI 上下文令牌减少 9 倍至 13 倍。支持 Claude Code、Cursor、Copilot、Codex 和 Windsurf。零运行时依赖。 | [GitHub](https://github.com/Houseofmvps/codesight) ![GitHub Repo stars](https://img.shields.io/github/stars/Houseofmvps/codesight?style=social) | 免费 |
 | Understand Anything | 基于 AI 的代码库和知识库分析工具，构建交互式可视化知识图谱。支持多智能体分析、架构引导教程以及针对大型代码库的语义搜索。可作为 Claude Code、Cursor 等工具的插件使用。 | [GitHub](https://github.com/Egonex-AI/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social) | 免费 |
-| Kortix | 开源 AI 管理系统——用智能体、技能、记忆和 3000+ 连接器以文件形式管理整个公司的智能体劳动力，全部保存在你拥有的一个 git 仓库中；每个会话启动一台隔离的 Linux 机器，工作成果通过人工审查的变更请求落地。支持自托管或托管云，自带 Key 接入任意模型。 | [GitHub](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | 免费 |
+
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
@@ -217,34 +285,6 @@
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
 | ArtificialWatch | 新 AI 模型发布即时提醒，覆盖各大实验室。每 60 秒扫描厂商 API，只有新模型真正响应 API 请求才会提醒；公开记录每次发布的首次发现与确认时间。邮件和推送提醒免费，付费方案增加短信和电话提醒。 | [官网](https://artificialwatch.com) | 免费/付费 |
 
-### AI Coding
-| 名称 | 说明 | 链接 | 费用 |
-| --- | --- | --- | --- |
-| Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
-| Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；<br>2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
-| Trae | 字节跳动推出的 AI 编程 IDE（对标 Cursor），主打 Agent 化编程，支持 AI 问答、代码补全与多步自主编程。 | [URL](http://trae.com.cn) | 免费 |
-| GitHub Copilot | GitHub 推出的代码编写助手，现已支持 OpenAI、Anthropic、Gemini 等厂商模型逐任务切换 | [URL](https://github.com/features/copilot) | 免费/付费 |
-| Bolt.new | StackBlitz 推出的浏览器端 AI 全栈应用构建工具——用自然语言描述需求，AI 智能体直接在浏览器内脚手架、运行并部署完整应用。基于 WebContainers 在浏览器中运行真实 Node.js，无需本地环境或云虚拟机。免费档 / Pro $25 每月 / Teams $30 每人每月 / Enterprise 定制；开源姊妹版 bolt.diy 支持自带 API Key。 | [URL](https://bolt.new/) | 免费/付费 |
-| OpenCode | 开源的终端原生 AI 编码 agent。不绑定特定厂商（支持 Anthropic、OpenAI、Google 及本地模型），采用 TUI 客户端/服务端架构，集成 LSP，支持自定义 agent 和 MCP 服务器。 | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | 免费 |
-| OpenChamber | OpenCode AI agent 的桌面/网页图形界面。在 OpenCode 之上提供会话管理、diff 查看和工作区控制。 | [URL](https://openchamber.dev) [GitHub](https://github.com/openchamber/openchamber) ![GitHub Repo stars](https://img.shields.io/github/stars/openchamber/openchamber?style=social) | 免费 |
-| oh-my-pi | @can1357 维护的 Pi fork。终端原生 AI 编码 agent，深度集成 IDE 能力：LSP、DAP 调试器、Python/Bun 代码执行、40+ 模型提供商和 32 个内置工具。 | [GitHub](https://github.com/can1357/oh-my-pi) ![GitHub Repo stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=social) | 免费 |
-| dbForge AI Assistant | AI 驱动的 SQL 代码生成、优化与排错工具——面向开发者、DBA 和分析师。 | [URL](https://www.devart.com/dbforge/ai-assistant/) | 付费/免费试用 |
-| scalene | 高性能、高精度的 Python CPU/GPU/内存分析器，附带 AI 驱动的优化建议。 | [GitHub](https://github.com/plasma-umass/scalene) ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social) | 免费 |
-| git-lrc | 免费、无限制的 AI 代码审查，每次提交自动运行。 | [GitHub](https://github.com/HexmosTech/git-lrc) ![GitHub Repo stars](https://img.shields.io/github/stars/HexmosTech/git-lrc?style=social) | 免费 |
-| Kodus | 开源代码审查智能体。 | [GitHub](https://github.com/kodustech/kodus-ai/) ![GitHub Repo stars](https://img.shields.io/github/stars/kodustech/kodus-ai?style=social) | 免费/付费 |
-| Steel Browser | 开源浏览器沙箱与自动化基础设施，面向 AI 智能体和应用：提供会话化工作流、截图、PDF、代理与反机器人工具。 | [GitHub](https://github.com/steel-dev/steel-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) | 免费 |
-| mu | 基于 Pi 的开源（MIT）编程 agent，提供命令行和桌面端（macOS、Windows、Linux；桌面端基于 AionUi，Apache-2.0）。特点是一个判定内核：30 多个决策点上的例行判断交给小而快的判定模型（默认 Jev，也可换成本地 322M 判定模型、分类模型或任意 LLM），比如长工具输出里哪些片段进上下文、被规则拦下的命令是不是用户要的、抓取的网页和 MCP 结果里有没有冲着模型的指令，让主模型专心干活；每次判断都记在本地。 | [GitHub](https://github.com/qybaihe/mu) ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social) | 免费 |
-| Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
-| Termux | Android终端模拟器和Linux环境应用，可直接在移动设备上运行编码工具、AI模型和各类开发环境，内置SSH客户端支持登录远程主机。 | [GitHub](https://github.com/termux/termux-app) ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app?style=social) | 免费 |
-| AI-Codereview-Gitlab | 基于大模型(DeepSeek, OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 | [GitHub](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | 免费 |
-| alibaba/open-code-review | 阿里巴巴开源的 AI 代码评审 CLI/Agent。基于确定性流水线与 LLM Agent 审查 Git diff，支持行级评论、OpenAI/Anthropic 兼容模型端点、自定义规则、JSON CI 输出、WebUI 会话查看，以及 Claude Code/Codex 集成。 | [GitHub](https://github.com/alibaba/open-code-review) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=social) | 免费 |
-| code-review-graph | 基于 Tree-sitter 构建代码结构图并增量追踪变更，通过 MCP 为 AI 编程助手提供精准的代码审查上下文，减少重复读取整个代码库。 | [GitHub](https://github.com/tirth8205/code-review-graph) ![GitHub Repo stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=social) | 免费 |
-| Cate | 开源桌面 IDE，基于无限缩放画布。可以把 Monaco 编辑器、xterm.js 终端、内嵌浏览器和 Claude Code 智能体面板自由排布在可缩放的空间里，代替传统的窗口和标签页。面板支持浮动、停靠或分离为独立窗口，布局按项目自动保存。基于 Electron 构建，支持 macOS、Windows 和 Linux。 | [URL](https://cate.cero-ai.com) [GitHub](https://github.com/0-AI-UG/cate) ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social) | 免费 |
-| CLIProxyAPI | 代理服务器，将各类 AI CLI 工具和订阅（Claude Code、Codex、Gemini、Grok 等）通过 OpenAI/Gemini/Claude/Codex 兼容的 API 接口暴露出来。支持 OAuth 登录、流式/WebSocket 响应、函数调用、多模态输入，以及跨多账号的负载均衡。 | [GitHub](https://github.com/router-for-me/CLIProxyAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=social) | 免费 |
-| Markstream | 面向 AI 对话界面的开源流式 Markdown 渲染器家族，可处理未闭合 Markdown 并平滑展示 token 流。提供持续维护的 Vue 3/Nuxt、React/Next.js、Svelte、Angular、Vue 2 及框架无关的 parser/core 包，并支持 Mermaid、KaTeX、代码高亮、安全 HTML 与 SSR。 | [框架入口](https://markstream.simonhe.me/frameworks) [Vue 在线体验](https://markstream-vue.simonhe.me/) [GitHub](https://github.com/Simon-He95/markstream-vue) ![GitHub Repo stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) | 免费 |
-| Cortex | 开源命令行工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC 和 Markdown 生成交互式 API 文档、类型化 SDK 与 MCP 服务器。 | [GitHub](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=social) | 免费 |
-| agy-powerline | 适用于 Google Antigravity CLI（`agy`）的状态栏：显示 Gemini 5 小时/7 天、Claude/GPT 与 Argon 配额及步调标记、上下文窗口、Git 状态，提供多套主题和交互式 TUI 配置器。 | [URL](https://agy-powerline.com) [GitHub](https://github.com/wassim-azi/agy-powerline) ![GitHub Repo stars](https://img.shields.io/github/stars/wassim-azi/agy-powerline?style=social) | 免费 |
-
 ### AI 安全与逆向工程
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
@@ -255,7 +295,7 @@
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Google AI Studio | Google AI Studio 是一个基于 Web 的免费平台，允许开发者使用 Google 的大型语言模型（如 Gemini 3.8 Flash）进行原型设计和实验。它提供了一个易于使用的界面，你可以快速构建文本生成、代码生成、聊天机器人等应用。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions)<br>介绍：B站视频：[一枚卓子/Google AI Studio教程｜体验Gemini 3.7 Flash 模型，和它视频聊天，创造提示词机器人](https://www.bilibili.com/video/BV1ejkgYcEi5/) | [URL](https://aistudio.google.com/) | 免费 |
+| Google AI Studio | Google 的 Gemini 模型网页开发工作台，支持 **Gemini 4 Argon** 等模型，可调试提示词与多模态输入，并创建 API Key 接入应用。模型访问、额度与 API 计费取决于所选模型和账号，工作台可使用不代表所有模型调用免费。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) | [URL](https://aistudio.google.com/) | 免费/付费 |
 |Cherry Studio|Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等；集成了流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等；支持 Ollama、LM Studio 本地模型部署|[GitHub](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|免费|
 | Helicone AI | 开源的 LLM 可观测性平台，用于记录、监控和调试 AI 应用。 | [GitHub](https://github.com/Helicone/helicone) ![GitHub Repo stars](https://img.shields.io/github/stars/Helicone/helicone?style=social) | 免费 |
 | WFGY ProblemMap | 开源的 RAG 故障模式清单与诊断工具包，覆盖数据、嵌入、检索器、工具与评测各环节。MIT 许可，被多个实验室和基础设施项目用作实用 RAG 调试指南。 | [GitHub](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) ![GitHub Repo stars](https://img.shields.io/github/stars/onestardao/WFGY?style=social) | 免费 |
@@ -277,14 +317,12 @@
 | Future AGI | 开源平台，在一个反馈闭环中模拟、评估、追踪、护栏、路由并优化 LLM 与 AI 智能体应用——智能体不只是被监控，还能自我改进。可自托管，Apache-2.0。 | [GitHub](https://github.com/future-agi/future-agi) ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social) | 免费 |
 | OmniRoute | 可自托管的 AI 网关，跨 36+ 提供商实现 4 层自动回退路由。OpenAI 兼容 API，带配额跟踪和免费档零成本回退。 | [GitHub](https://github.com/diegosouzapw/OmniRoute) ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | 免费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
+| Jev 聊天助手 | 开源安卓聊天辅助决策工具。回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你。国内版支持 QQ、飞书、X、WhatsApp；同仓库另有英文海外版。与上述聊天 App 无官方关联。MIT。 | [GitHub](https://github.com/jev-chat/jev-chat-jarvis) ![GitHub Repo stars](https://img.shields.io/github/stars/jev-chat/jev-chat-jarvis?style=social) | 免费，需自备 API Key |
 
 ### 办公协作 CLI / MCP
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Parallel Search MCP | 面向 AI 智能体的托管网页搜索与内容提取服务，返回来源链接和适合模型读取的 Markdown 摘录，可用于查询最新信息、查阅文档和收集研究资料。匿名端点提供 Fast 模式搜索与网页抓取，无需注册账号、配置 API 密钥或在本地运行服务。将 `https://search.parallel.ai/mcp` 添加到支持 Streamable HTTP 的 MCP 客户端即可接入；Claude Code、Cursor、VS Code 等客户端均有配置指南，适合为已有的 AI 编程和研究工具补充联网检索能力。免费访问适用于探索和轻量使用，有速率限制；需要更高限额时可使用付费 API 密钥。 | [官网](https://parallel.ai/) [接入指南](https://docs.parallel.ai/integrations/mcp/search-mcp) | 免费（有速率限制）；更高限额需付费 |
-| Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
-| Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。 | [GitHub](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
-| bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Google Workspace CLI | 社区构建的 Google Workspace 非官方命令行工具，统一访问所有 Google Workspace API，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat 等。内置 40+ AI 代理技能，结构化 JSON 输出非常适合 AI 代理使用，支持多种认证方式。 | [GitHub](https://github.com/googleworkspace/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/googleworkspace/cli?style=social) | 免费 |
 | OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1500+ SaaS 服务的统一目录。 | [GitHub](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
 
@@ -309,7 +347,7 @@
 | 豆包 | 字节跳动旗下的AI图像创作助手，支持文生图、图生图等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | Flux | Black Forest Labs 的图像生成模型系列，主力 **FLUX.2**：写实质感与多图参考编辑突出，[klein] 4B 开源可端侧（Apache 2.0，8GB VRAM 亚秒级出图）；**FLUX 3** 为图/视频/音频多模态新方向。LMArena 文生图总榜 flux-2-max 1162±3。按兆像素计费，[pro] 约 $0.03/MP。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1166) | [URL](https://bfl.ai) <br> [GitHub](https://github.com/black-forest-labs/flux2) ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux2?style=social) | 免费/付费 |
 | Grok Imagine | xAI 的图像生成模型（原 Grok Image / Aurora；LMArena 排行榜上以 SpaceXAI 挂牌），集成在 Grok 和 X 中。**Grok Imagine Image 2.0** 新增精确局部编辑、多图参考融合与智能重构图。 | [URL](https://grok.com/imagine) | 免费/付费 |
-| Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。应用示例：<br> [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了。。。](https://www.bilibili.com/video/BV1XM411T7uP) | [URL](https://www.midjourney.com) | 付费 |
+| Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。 | [URL](https://www.midjourney.com) | 付费 |
 | 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
 | ideogram.ai | AI 文字生成图片的网站。当前版本 **Ideogram 4.5**（主打局部精确编辑、多轮编辑无伪影、原生 2K）；**Ideogram 4.0** 为其开放权重基础模型。由前谷歌 AI 绘画团队创立的公司推出。 | [URL](https://ideogram.ai/) | 免费 |
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[GitHub](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
@@ -320,7 +358,6 @@
 | Nero AI | AI图片放大、修复划痕、AI图片上色、AI图片去噪、AI一键抠图换背景、AI神奇擦除笔、AI写真；[介绍](https://github.com/ikaijua/Awesome-AITools/issues/100)。API文档：https://ai.nero.com/ai-api/docs/|[URL]( https://ai.nero.com/)|免费/付费|
 | remove.bg |一键删除图片背景|[URL](https://www.remove.bg/)|免费/付费|
 | clipdrop | clipdrop（2024 年 2 月起归 Jasper 所有，原 Stability AI 旗下）的图像处理网站，基于 Stability AI 的图像模型（官方未公开具体版本），包含文生图、AI 扩图、图生图、去除背景等功能。 | [URL](https://clipdrop.co/) | 免费/付费 |
-| PixelPanda | AI 驱动的专业产品图、营销图、UGC 风格视频和 AI 头像生成平台——无需相机或影棚。 | [URL](https://pixelpanda.ai) | 免费/付费 |
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 | Anatomy | Claude Code / Codex / OpenCode / Antigravity 的 Agent Skill，能把技术概念解释成可交互的等距 SVG 图解。它不画普通框图，而是先「发明」一个工作原理就是该概念的实物——比如把令牌桶限流器变成弹子锁、把 GPU 上下文共享变成龙门绘图仪——再用自研 kit 渲染为 SVG、SVG+WebGL 着色器或真 3D。输出可为独立 HTML、单张 SVG 或 React/Next.js 组件，并自带几何审计和无头 Chrome 校验。 | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | 免费 |
@@ -330,7 +367,7 @@
 | --- | --- | --- | --- |
 | Seedance | 🌟 字节跳动的视频生成模型系列。**Seedance 2.5** 驱动即梦 / 小云雀等产品：支持 30 秒单次生成，原生 480p/720p/1080p（默认 720p；4K 由 Seedance 2.0 提供），最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑。人物动作一致性与镜头语言表现突出，适合短视频与广告内容生产。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) · [Skills](https://github.com/ikaijua/Awesome-AITools/discussions/1111#discussioncomment-18726373) · [实测对比](https://github.com/ikaijua/Awesome-AITools/discussions/1124) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
 | MiniMax H3 | 🌱 MiniMax 开源的通用多模态生成系统，支持文生视频、图生视频、首尾帧生视频、文生音视频等，可通过 SGLang、vLLM、diffusers、ComfyUI 本地部署。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1114) | [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-H3?style=social), [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-H3) | 免费 |
-| 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [Seedance 2.5专题](https://github.com/ikaijua/Awesome-AITools/discussions/266) |[URL](https://xyq.jianying.com/) |免费/付费|
+| 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) |[URL](https://xyq.jianying.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
 | 剪映 |字幕生成语音、语音生成字幕、字幕翻译、一键图文成片，还有很便捷、强大的视频剪辑功能<br>识别字幕是vip功能|[URL](https://www.capcut.cn/)|免费/付费|
@@ -342,11 +379,13 @@
 | Runway | AI 视频生成与编辑平台——AI 电影制作的开创者。当前 Gen-4/Gen-4.5 模型支持文生视频、图生视频、视频生视频、运动笔刷及高级电影级镜头控制。 | [URL](https://runwayml.com/) | 免费试用/付费 |
 | krea.ai | 提供文生图/视频、图片放大、模型训练等功能，已自研并开源 **Krea 2** 图像基础模型（社区许可）；视频侧以聚合 Veo、Kling、Luma、Runway、Seedance 等第三方模型为主。 | [URL](https://www.krea.ai/) | 免费试用/付费 |
 | HeyGen | 根据文字生成数字人配音视频——领先的 AI 数字人视频平台，以逼真的虚拟主播和多语言口播著称。 | [URL](https://app.heygen.com/) | 免费试用/付费 |
+| HyperFrames | HeyGen 开源的**视频渲染框架**：把 HTML/CSS、媒体与可定位动画确定性地渲染成 MP4——本清单中首个「写 HTML 出视频」的代码级工具。Agent 原生：自带 21 个 skills、`/hyperframes` 路由与 Claude Code 插件；可作本地 CLI、智能体 skills，或托管创作流的渲染内核。Apache-2.0、67k★、活跃度极高。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1347) | [GitHub](https://github.com/heygen-com/hyperframes) ![GitHub Repo stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=social), [URL](https://hyperframes.dev) | 免费 |
 | Higgsfield | 多模型 AI 视频创作平台：一个订阅接入 15+ 第三方前沿模型（Seedance、Kling、Veo、Sora、Nano Banana 等），统一积分钱包。差异化在于 70+ 确定性电影运镜预设、Soul ID 跨镜头角色一致性（5 张以上参考照片训练）、自有 Soul 图像模型，面向营销和社媒内容团队。由前 Snap 生成式 AI 负责人 Alex Mashrabov 创立。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1057) | [URL](https://higgsfield.ai/) | 免费/付费 |
 | Palmier Pro | 面向 AI 构建的 macOS 视频编辑器（注意：v0.7.6 之后已转为闭源专有，仓库仅保留历史 GPLv3 源码）。结合专业时间线剪辑、AI 辅助工作流，以及 Seedance、Kling、Nano Banana 等生成式图像/视频能力；<br>支持 MCP，可让 Claude Code、Codex、Cursor 或内置 Agent 控制视频时间线。仅支持 Apple Silicon Mac。 | [GitHub](https://github.com/palmier-io/palmier-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/palmier-io/palmier-pro?style=social) | 免费/付费 |
 | Topaz Video AI | AI视频增强、放大、去隔行、稳定、补帧、运动去模糊等专业视频修复工具，本地桌面端运行 |[URL](https://www.topazlabs.com/topaz-video-ai)|付费/试用|
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
+| OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
@@ -375,6 +414,7 @@
 ### LLM 推理与部署
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| DeepInfer | 🌱 DeepSeek 开源的生产级推理框架，也是驱动 DeepSeek 线上大规模服务的底层引擎——支撑 DeepSeek-V4.1-Flash 高吞吐、低延迟推理。集成 FlashMLA / DeepGEMM / DeepEP / TileLang 等自研算子，具备 DSpark 推测解码、SWA 有界重放、异步调度、批次不变/确定性采样与结构化输出。支持 NVIDIA SM100（Blackwell）与华为昇腾 950。早期版本：当前仅离线推理，完整 KV cache 与 Prefill/Decode 分离尚未打包，且仅支持 DeepSeek-V4.1-Flash 一个模型。Apache-2.0，可免费自托管。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1374) | [GitHub](https://github.com/deepseek-ai/DeepInfer) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepInfer?style=social) | 免费 |
 | DwarfStar (ds4) | antirez（Redis 作者）从零用 C 编写的原生推理引擎（MIT）——目标是在消费级硬件上运行少量接近前沿的开源模型：DeepSeek V4/4.1 Flash、V4 Pro、GLM 5.2/5.3 与 Qwen3.8 Flash Next 可装进 96GB 内存的 Mac 或单张 96GB NVIDIA 显卡（激进 2-bit 路由量化）。提供 OpenAI 与 Anthropic 兼容 API，Claude Code、Codex、opencode、Zed 直接指向本地即可免 API 费用跑近前沿模型；内置编程智能体与磁盘 KV 缓存，支持跨机器分层拆分运行放不下的模型。非通用 GGUF 加载器，仅支持其适配的模型。 | [GitHub](https://github.com/antirez/ds4) ![GitHub Repo stars](https://img.shields.io/github/stars/antirez/ds4?style=social) | 免费 |
 | AirLLM | 通过逐层加载大幅降低大语言模型推理显存占用的 Python 库，可在 4GB 显存上运行 70B 模型、8GB 上运行 405B 模型、约 12GB 上运行 671B 的 DeepSeek-V3。支持 4 位/8 位量化，并通过统一的 AutoModel 接口支持众多开源模型。 | [GitHub](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | 免费 |
 
@@ -407,8 +447,7 @@
 | FunASR | 阿里通义实验室开源的工业级语音识别工具包，GPU上170倍实时（比Whisper快13倍），支持50+语言、说话人分离、情感检测。提供OpenAI兼容API：`funasr-server --device cuda` | [GitHub](https://github.com/modelscope/FunASR) ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) | 免费 |
 | whisper.cpp | OpenAI 的 Whisper 模型在 C/C++ 中的实现|[GitHub](https://github.com/ggml-org/whisper.cpp) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social)|免费|
 | VideoCaptioner | 基于 LLM 的智能字幕助手，无需 GPU 一键完成字幕生成、断句、优化、翻译全流程。[视频介绍](https://www.bilibili.com/video/BV1giBqYtEqG/)| [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) ![GitHub Repo stars](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=social)|免费|
-| buzz | 开源，基于OpenAI的Whisper识别语音并生成字幕的开源桌面软件，使用CPU进行处理 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social)| 免费 |
-| WhisperDesktop| 开源，基于OpenAI的Whisper，Windows系统的桌面应用，使用GPU进行处理，GPU性能好的话会比CPU上更快。使用介绍：https://www.appinn.com/const-me-whisper/|[GitHub](https://github.com/Const-me/Whisper) ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=social)|免费|
+| buzz | 开源的离线语音转写与翻译桌面应用，支持 Windows、macOS（Apple Silicon）和 Linux。可转写音视频文件、YouTube 链接与麦克风实时输入，支持多种 Whisper 后端的 GPU 加速、说话人识别，以及 TXT/SRT/VTT 导出；内置转写结果查看器和文件夹监控，适合本地字幕制作及录音整理。 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social) | 免费 |
 | whisperX | 开源模型，支持单词级时间戳对齐和发言人识别，生成结果含 srt/json。使用示例：[在 Google Colab 上生成 YouTube 字幕](https://github.com/JimLiu/whisper-subtitles/blob/main/whisperx_youtube_subtitle.ipynb)（免费 Colab GPU，2 小时 40 分钟视频约 6 分钟完成）| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |免费|
 | whisper-ctranslate2 | 免费开源的本地语音转录命令行工具，基于 faster-whisper/CTranslate2，兼容 OpenAI Whisper 的命令行工作流。支持批量推理、麦克风实时转录、字幕导出及可选的说话人分离；基础转录无需安装 PyTorch。 | [GitHub](https://github.com/Softcatala/whisper-ctranslate2) ![GitHub Repo stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=social) | 免费 |
 | 飞书妙记 | 上传视频或音频即可转录为文字（官方名「妙记」，非「秒记」），可一键导出到飞书文档。处理速度很快：近 2 小时的视频约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes) | 免费，有企业付费版 |
@@ -453,6 +492,7 @@
 |Voicebox| 开源、本地优先的 AI 语音工作室：集成声音克隆、语音生成、Whisper 听写转录和本地 LLM 润色，内置 MCP 服务器供 Claude Code、Cursor 调用，数据全部留在本地。|[GitHub](https://github.com/jamiepine/voicebox) ![GitHub Repo stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social)|免费|
 |VoiceStudio| 开源、本地优先的 AI 语音工作台：聚合 16 个 TTS / 11 个 ASR 引擎，支持零样本语音克隆、视频配音与有声书制作，兼容 OpenAI 音频 API 并内置 MCP 服务器。注意：AGPL-3.0 协议，默认权重为非商用许可，输出带 AudioSeal 水印，官方自述 beta 阶段。| [GitHub](https://github.com/debpalash/VoiceStudio) ![GitHub Repo stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=social) | 免费 |
 |speech-to-speech|Hugging Face 开源的低延迟、全模块化语音 Agent 流水线（VAD → STT → LLM → TTS）。对外提供 OpenAI Realtime 兼容的 WebSocket API；每个组件都可替换，支持完全本地部署或 API 后端。已作为 Reachy Mini 机器人的对话后端投入生产使用。|[GitHub](https://github.com/huggingface/speech-to-speech) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/speech-to-speech?style=social)|免费|
+| Grok Voice 3.0 | xAI 的实时语音到语音模型，面向语音智能体与客服通话。支持多语言对话、自然轮次切换、打断处理和工具驱动的任务流程，官方称首段音频延迟低于 1 秒。可通过 Voice Agent API 使用，`grok-voice-latest` 指向当前版本；按 **0.08 美元／分钟**计费，具体效果与单任务费用取决于工作负载。 | [官方介绍](https://x.ai/news/grok-voice-3)<br>[API 文档](https://docs.x.ai/developers/model-capabilities/audio/voice) | 付费 |
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|免费/付费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|免费/付费|
 
@@ -460,7 +500,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |海绵音乐|字节跳动推出的AI音乐创作网站，输入提示词和风格来创作音乐|[URL](https://www.haimian.com/)|免费|
-| suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[suno专题页面](https://github.com/ikaijua/Awesome-AITools/discussions/63)<br>应用示例：<br> 韩雪：[【AI音乐家】我在古镇用AI写歌！](https://www.bilibili.com/video/BV13a4y1m7A5/)<br> | [URL](https://www.suno.ai/) | 免费/付费 |
+| suno.ai | 使用 AI 通过文本来创作音乐。当前版本 **Suno v6**，首个基于 Warner、BMG、Believe 授权曲库训练并分成的模型家族。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/63) | [URL](https://www.suno.ai/) | 免费/付费 |
 | udio | AI 音乐平台：与 UMG、Warner、Merlin、Kobalt 和解后（Sony 诉讼仍在），从即时歌曲生成转型为授权音乐 remix 与创作者社区。注意：自 2025 年 10 月底起全平台（含付费档）关闭音频、视频与分轨下载。 | [URL](https://www.udio.com/) | 免费/付费 |
 | mureka.ai | 昆仑万维的 AI 生成音乐应用。当前旗舰 **Mureka V9.5**；更高阶的 O3 已预览但未上线。 | [URL](https://www.mureka.ai/) | 免费/付费 |
 |elevenlabs/sound-effects|elevenlabs 提供的通过文本生成音效的工具|[URL](https://elevenlabs.io/app/sound-effects)|免费|
@@ -494,12 +534,12 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | SynthID Detector | Google DeepMind 官方的 AI 媒体验证门户——2026 年 10 月与 OpenAI、NVIDIA、Kakao 组成跨厂商内容溯源联盟（Apple 即将加入）。上传图像、音频、视频或文本即可检测 SynthID 隐形水印，部分匹配时标出水印区域。水印直接嵌入像素/声波而非文件元数据，可经受截图、压缩与裁剪。仅检测带水印的内容，非通用 AI 检测器。免费，全球英文界面可用。 | [URL](https://synthid.com/) | 免费 |
-| AI Detect Lab | 针对 Midjourney 当前默认版本 V8.2 与最新一代 FLUX.2 系列图像模型优化的专业 AI 图像及 Deepfake 检测工具，提供高精度鉴别服务。 | [URL](https://www.aidetectlab.com/) | 免费 |
+| Content Credentials Verify | Content Authenticity Initiative 提供的免费 C2PA 内容溯源检查工具。可查看媒体文件附带的已签名内容凭证，包括可用的创作者、生成或编辑工具、编辑记录和 AI 生成声明，并检查凭证的验证情况。结果取决于文件是否包含相应凭证：没有凭证无法判断内容由人还是 AI 生成，凭证有效也不代表画面或叙述真实。 | [检查工具](https://verify.contentauthenticity.org/)<br>[原理说明](https://contentauthenticity.org/how-it-works) | 免费 |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-|Figure 03|Figure AI 的第三代人形机器人，搭载自研 Helix 视觉-语言-动作模型。公司 2025 年完成超 10 亿美元 C 轮融资，估值达 390 亿美元；F.03 已进入量产爬坡阶段并在宝马（BMW）工厂投入使用。|[URL](https://www.figure.ai/)|
+|Figure 03|Figure AI 的第三代人形机器人，搭载自研 Helix 视觉-语言-动作模型。公司 2025 年完成超 10 亿美元 C 轮融资，估值达 390 亿美元；F.03 已进入量产爬坡阶段并在宝马（BMW）工厂投入使用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/61)|[URL](https://www.figure.ai/)|
 |Atlas|波士顿动力新的电动人形机器人|[URL](https://bostondynamics.com/products/atlas/)|
 |Optimus Gen 2|特斯拉的人形机器人|[URL](https://www.youtube.com/watch?v=cpraXaw7dyc)|
 |Apollo|Apptronik 公司的人形机器人，已迭代至 Apollo 2，合作方包括 Google DeepMind、NVIDIA、奔驰（Mercedes-Benz）、GXO 等，聚焦物流与制造场景。|[URL](https://apptronik.com/apollo/apollo-2)|
