@@ -369,6 +369,9 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 | VideoLingo | All-in-one video translation and localization dubbing tool: one-click Netflix-grade subtitles plus high-quality cloned voice dubbing. | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | Free |
 | OpenShorts | Open-source app that turns long videos into vertical short clips: faster-whisper transcription, LLM-based clip selection, face-tracking 9:16 reframing, animated captions, and split-screen layouts. Self-hosted with Docker (supports local LLMs via an OpenAI-compatible endpoint such as Ollama) or used as a hosted service. Also provides a REST API, MCP server, and CLI. | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | Free/Paid |
+| KDA Firestarter AI Dance | Independent unofficial photo→13s 21:9 solo AI dance (Paid from $7.99). Not affiliated with Riot Games or K/DA. | [URL](https://kdafirestarterai.dev) | Paid |
+| A2O LITE NEON AI Dance | Two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99). | [URL](https://a2oliteai.org) | Paid |
+| dime dime baby ai | Photo → ~5s 9:16 AI dance Quince Classic/Party Groove (Paid from $7.99). | [URL](https://dimedimebabyai.dev) | Paid |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
