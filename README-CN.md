@@ -203,6 +203,7 @@
 
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| Secondee | B2B AI，在现有工具里承接约定的例行工作。 | 1. [URL](https://secondee.ai) | 付费 |
 | OpenDots | 🌱 CopilotKit 开源的 AI 智能体工作空间模板（OpenAI Dots 的自托管替代）。可为每个 Dot 配置独立计算机、浏览器/文件/终端权限、MCP 工具与 Slack/通话集成；支持 Spaces 文档协作、后台任务、人工审批后保存。需自部署并接入 CopilotKit Intelligence 与 OpenAI 兼容模型。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1212) | [GitHub](https://github.com/CopilotKit/OpenDots) ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/OpenDots?style=social) | 免费 |
 | Multica | 开源托管代理平台，将 AI 编码代理（Claude Code, Codex, Cursor, Copilot, OpenCode, OpenClaw, Hermes, Gemini, Pi, Kimi, Kiro CLI 等）作为“一等公民”队友集成到开发团队中。支持任务分配、进度跟踪、技能复用，本地守护进程可自动检测已安装的 Agent CLI。 | [GitHub](https://github.com/multica-ai/multica) ![GitHub Repo stars](https://img.shields.io/github/stars/multica-ai/multica?style=social) | 免费/付费 |
 | Paperclip | 开源 AI 智能体编排平台，将 AI 运营建模为公司组织。可定义组织架构、汇报关系、预算和治理策略，让智能体在该结构内自主工作。支持 OpenClaw、Claude Code、Codex 等智能体后端。基于心跳机制执行，具备成本控制和审计追踪。 | [GitHub](https://github.com/paperclipai/paperclip) ![GitHub Repo stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social) | 免费 |
