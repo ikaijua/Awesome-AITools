@@ -372,6 +372,9 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | KDA Firestarter AI Dance | Independent unofficial photo→13s 21:9 solo AI dance (Paid from $7.99). Not affiliated with Riot Games or K/DA. | [URL](https://kdafirestarterai.dev) | Paid |
 | A2O LITE NEON AI Dance | Two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99). | [URL](https://a2oliteai.org) | Paid |
 | dime dime baby ai | Photo → ~5s 9:16 AI dance Quince Classic/Party Groove (Paid from $7.99). | [URL](https://dimedimebabyai.dev) | Paid |
+| [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
+| [TeslaWraps](https://teslawraps.design) | Freemium | Browser Tesla wrap designer; core editing free. | No account needed for core edit |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
