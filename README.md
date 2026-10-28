@@ -375,6 +375,9 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
 | [TeslaWraps](https://teslawraps.design) | Freemium | Browser Tesla wrap designer; core editing free. | No account needed for core edit |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
+| Alors On Danse Video Maker | Photo → ~5s 9:16 AI dance Quince Classic/Party Groove (Paid from $7.99). | [URL](https://alorsondansevideo.com) | Paid |
+| Bad Times AI | Photo → ~5s 9:16 AI dance Quince Classic/Party Groove (Paid from $7.99). | [URL](https://badtimesai.dev) | Paid |
+| I Found You in the Crowd AI | Photo → ~5s 9:16 AI dance Quince Classic/Party Groove (Paid from $7.99). | [URL](https://ifoundyouinthecrowdai.com) | Paid |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
