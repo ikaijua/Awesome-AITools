@@ -496,6 +496,7 @@
 | Grok Voice 3.0 | xAI 的实时语音到语音模型，面向语音智能体与客服通话。支持多语言对话、自然轮次切换、打断处理和工具驱动的任务流程，官方称首段音频延迟低于 1 秒。可通过 Voice Agent API 使用，`grok-voice-latest` 指向当前版本；按 **0.08 美元／分钟**计费，具体效果与单任务费用取决于工作负载。 | [官方介绍](https://x.ai/news/grok-voice-3)<br>[API 文档](https://docs.x.ai/developers/model-capabilities/audio/voice) | 付费 |
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|免费/付费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|免费/付费|
+| AITrans.Video | 面向创作者的 AI 视频翻译配音工作台：转录、翻译、配音改写、合成与对齐全流程，支持逐句审校，Pro 套餐支持最长 180 分钟单视频。 | [官网](https://aitrans.video/) | Free/Paid |
 
 ### AI 生成音乐与音效
 | 名称 | 说明 | 链接 | 费用 |
