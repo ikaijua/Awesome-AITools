@@ -196,6 +196,7 @@
 | AGENTS.md | 专门为 AI 编程智能体设计的代码库文档开放标准。通过提供结构化的上下文、指令和约束条件，帮助智能体更高效、更安全地工作。 | [GitHub](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | 免费 |
 | Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [GitHub](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
 | musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[GitHub](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
+| agy-powerline | 适用于 Google Antigravity CLI（`agy`）的状态栏：显示 Gemini 5 小时/7 天、Claude/GPT 与 Argon 配额及步调标记、上下文窗口、Git 状态，提供多套主题和交互式 TUI 配置器。 | [URL](https://agy-powerline.com) [GitHub](https://github.com/wassim-azi/agy-powerline) ![GitHub Repo stars](https://img.shields.io/github/stars/wassim-azi/agy-powerline?style=social) | 免费 |
 
 ### Agent 工作台与协作
 
