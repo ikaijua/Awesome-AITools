@@ -516,6 +516,7 @@
 | Lean 4 | 交互式定理证明器 and 函数式编程语言，是 AI 形式化数学研究和自动定理证明的核心基础设施（如 DeepMind 的 AlphaProof 和 DeepSeek-Prover 均基于此）。 | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | 免费 |
 | AMiner | AI赋能科技情报挖掘，提供学术搜索、论文检索、专利、文献追踪、学者画像等功能 |[URL](https://www.aminer.cn/)|免费|
 |alphaxiv|一个基于arXiv平台的开放学术讨论社区，允许用户通过替换论文链接域名（arxiv.org替换为alphaxiv.org）直接在论文页面上进行逐行评论、提问和实时互动。并提供了 Ask AI 和 AI 生成文章博客等 AI 功能|[URL](https://www.alphaxiv.org/)|免费|
+| Onhand | 开源（Apache 2.0）的 Chrome 阅读扩展，面向学生和研究人员的论文与网页阅读，支持在线和本地电脑中的 PDF，无需上传文件。针对当前打开的 PDF 或网页提问，Onhand 会直接在页面上高亮作答所依据的段落，并在页边附上批注，方便逐条对照原文核实答案，而不必只信任聊天回复。它还能打开文中引用（如 [14]）指向的论文并据此作答，对比多个相关标签页中的内容，并在学习模式下用引导式提问和小测验帮助理解。可在 Chrome 网上应用店免费安装：免费额度每日有限、无需注册；也可登录 ChatGPT 账户，或使用自己的 OpenAI、Anthropic、Gemini、OpenRouter API Key。 | [URL](https://useonhand.com/) [GitHub](https://github.com/Phineas1500/Onhand) ![GitHub Repo stars](https://img.shields.io/github/stars/Phineas1500/Onhand?style=social) | 免费 |
 
 ### OCR 图像识别
 | 名称 | 说明 | 链接 | 费用 |
