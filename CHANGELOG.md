@@ -50,6 +50,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Corrected both DeepSeek entries: the planned Sep 14 retirement of V4-Pro was reversed and it is still served at the original price (both EN/CN)
 - Noted Nano Banana 2 as the current Gemini app default, and marked Palmier Pro as closed-source since v0.7.6 (both EN/CN)
 - Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
+- Added NeoLabs to AI News & Information: curated opinionated ranking of 100+ AI research labs by valuation, with a "neolab" definition and a per-lab verdict on fit (both EN/CN)
 
 ## September 2026
 - Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation (both EN/CN)
