@@ -274,6 +274,7 @@
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
+| cloudish | 把应用部署到 Cloudish 的 Agent Skill：Agent 将 Dockerfile、源码文件夹或现有镜像部署为长期运行的容器并返回上线网址，镜像在服务端构建，无需本地 Docker。与多数托管平台不同，Agent 一次调用即可免注册自行创建 API 密钥，花费不会超过该密钥的预付额度，之后可由人认领密钥。支持持久化存储卷、加密密钥、自定义域名和 OIDC 登录。适用于 Claude Code、Codex、Cursor 等支持 Agent Skills 的工具。 | [GitHub](https://github.com/cloudishai/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/cloudishai/skills?style=social) [URL](https://cloudish.ai/) | 免费/付费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
