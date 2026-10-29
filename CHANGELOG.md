@@ -4,6 +4,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 
 ## November 2026
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
+- Added Aixle Flow (🌱) to Agent Workspaces & Collaboration: open-source, self-hosted Kanban board that runs CLI coding agents in their own containers through durable Temporal workflows, with approval gates and per-session cost tracking (both EN/CN)
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
 
 ## October 2026
