@@ -333,6 +333,9 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | VideoLingo | All-in-one video translation and localization dubbing tool: one-click Netflix-grade subtitles plus high-quality cloned voice dubbing. | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | Free |
 
 | GrokVideo Studio | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://grokvideogenerator.dev) | Free Trial |
+| Alors On Danse Video Maker | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://alorsondansevideo.com) | Paid |
+| Bad Times AI | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://badtimesai.dev) | Paid |
+| I Found You in the Crowd AI | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://ifoundyouinthecrowdai.com) | Paid |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
