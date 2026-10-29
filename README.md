@@ -336,6 +336,9 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Alors On Danse Video Maker | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://alorsondansevideo.com) | Paid |
 | Bad Times AI | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://badtimesai.dev) | Paid |
 | I Found You in the Crowd AI | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://ifoundyouinthecrowdai.com) | Paid |
+| KDA Firestarter AI Dance AI Dance Dance | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://kdafirestarterai.dev) | Paid |
+| A2O LITE NEON AI Dance AI Dance | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://a2oliteai.org) | Paid |
+| dime dime baby ai | Independent AI text-to-video generator with a free trial (not affiliated with xAI or X). | [URL](https://dimedimebabyai.dev) | Paid |
 
 ### AI Infrastructure Platform
 | Name | Description | Links | Fees |
