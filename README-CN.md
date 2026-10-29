@@ -219,6 +219,8 @@
 ### AI Coding
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| PaceBowl Studio | 纯前端、零遥测的开发者与 AI 创作者轻量工具集（包含 Cursor Rules 规则生成器、ComfyUI 空潜分辨率计算器、DeepSeek R1 提示词排版器，无排队免登录）。 | [URL](https://pacebowl.com/) | 免费 |
+| Cursor Rules Generator | 免费多文件 .cursorrules 与 .mdc 生产级规则生成器，针对 Next.js 15、FastAPI、React 19、Tailwind v4 等主流技术栈，一键复制开箱即用，消灭上下文膨胀。 | [URL](https://cursor.pacebowl.com/) | 免费 |
 | Coding Plan 价格对比 | 全球主流 Coding Plan 价格与用量对比（含国内厂商套餐表格，持续更新） | [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/981) | 免费 |
 | Cursor | 🌟 主流的 AI 编程智能体编辑器：支持 OpenAI、Anthropic、Gemini、Grok 及自研 Composer 等多模型切换，可在桌面端、CLI、Slack、GitHub 中并行运行多个 Agent；<br>2026 年 8 月起成为 SpaceX（SpaceXAI）全资子公司。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1106) | [URL](https://cursor.com) | 付费/免费试用 |
 | Trae | 字节跳动推出的 AI 编程 IDE（对标 Cursor），主打 Agent 化编程，支持 AI 问答、代码补全与多步自主编程。 | [URL](http://trae.com.cn) | 免费 |
