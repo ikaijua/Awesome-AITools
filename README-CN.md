@@ -214,6 +214,7 @@
 | Paseo | 🌱 开源的 Agentic 开发环境，在一个界面中统一接入 Claude Code、Codex、Copilot、OpenCode、Pi、Antigravity、Muse Code 等编程智能体。支持多代理在独立 worktree 中并行运行，内置编排、编辑器、终端、diff、PR、浏览器与插件系统；可自托管、无遥测，覆盖桌面、移动、Web、CLI，并提供 TypeScript SDK。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1216) | [GitHub](https://github.com/getpaseo/paseo) | 免费 |
 | AgentsMesh | AI Agent 工作流平台。可自托管的远程 AI 工作站（AgentPods），提供 PTY 沙箱 + git worktree 隔离、基于频道和 pod 绑定的多智能体协作、内置看板（MR/PR 集成）、每 pod 独立 MCP 服务器。支持 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode。 | [GitHub](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | 免费（BSL-1.1） |
 | Kortix | 开源 AI 管理系统——用智能体、技能、记忆和 3000+ 连接器以文件形式管理整个公司的智能体劳动力，全部保存在你拥有的一个 git 仓库中；每个会话启动一台隔离的 Linux 机器，工作成果通过人工审查的变更请求落地。支持自托管或托管云，自带 Key 接入任意模型。 | [GitHub](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | 免费 |
+| Aixle Flow | 🌱 开源（Apache-2.0）、可自托管的团队级编程 Agent 看板。看板列与工作流绑定：卡片移入某列（或定时任务、Slack/Teams 消息、Webhook、Jira/Linear/GitHub 工单事件）即启动基于 Temporal 的持久化工作流，每个步骤在独立容器中运行 Claude Code、Codex、Gemini CLI、Cursor CLI、Grok CLI、Kiro CLI 或 Antigravity CLI，支持人工审批与 CI 关卡，并按会话记录 token 用量与成本。 | [URL](https://aixle.com/labs/flow) [GitHub](https://github.com/AixleHQ/flow) ![GitHub Repo stars](https://img.shields.io/github/stars/AixleHQ/flow?style=social) | 免费 |
 
 ### Agent 开发框架与运行时
 
