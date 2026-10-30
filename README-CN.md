@@ -274,6 +274,7 @@
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
+| frugal | 一个 Agent Skill（附带轻量本地 Hook），让编程代理在购买、订阅、升级或预订任何东西之前，先找出最便宜且正当的方案：免费额度、合适的套餐与计费周期、创业/学生/开源/非营利优惠计划（均对照官方页面核实）、经过验证的优惠码（绝不编造）以及更便宜的替代品。查找力度随金额调整，且从不自行付款。支持 Claude Code、Codex、Cursor、Gemini CLI、Copilot 和 OpenCode。 | [GitHub](https://github.com/fainir/frugal) ![GitHub Repo stars](https://img.shields.io/github/stars/fainir/frugal?style=social) | 免费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
