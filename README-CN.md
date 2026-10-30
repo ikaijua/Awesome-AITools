@@ -362,6 +362,7 @@
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 | Anatomy | Claude Code / Codex / OpenCode / Antigravity 的 Agent Skill，能把技术概念解释成可交互的等距 SVG 图解。它不画普通框图，而是先「发明」一个工作原理就是该概念的实物——比如把令牌桶限流器变成弹子锁、把 GPU 上下文共享变成龙门绘图仪——再用自研 kit 渲染为 SVG、SVG+WebGL 着色器或真 3D。输出可为独立 HTML、单张 SVG 或 React/Next.js 组件，并自带几何审计和无头 Chrome 校验。 | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | 免费 |
+| ClearPix | 免费浏览器端 AI 图像/视频工具：一键去水印（MI-GAN 修复模型，大面积或平铺水印可选 LaMa HQ 引擎）、擦除烧录字幕、基于 Real-ESRGAN 的 2×–4× 图像与短视频超分。全部处理在本地设备完成（ONNX Runtime Web，WebGPU/WASM）：文件不上传、无需注册、无额度限制、首次加载后可离线使用，导出无水印。 | [URL](https://clearpix.org/) | 免费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |

@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Added ClearPix to AI Image Creation and UI Design: a free in-browser watermark remover, burned-in subtitle eraser, and 2×–4× image/video upscaler running MI-GAN, LaMa, and Real-ESRGAN locally via ONNX Runtime Web (WebGPU/WASM) — files never uploaded, no sign-up, offline-capable, no export watermark (both EN/CN)
 - Added Security Audit Skill to AI Security & Reverse Engineering: Cloudflare's open-source coding-agent skill for six-phase security audits with adversarially verified, machine-readable findings (both EN/CN)
 - Updated browser-use in AI Agent to cover Browser Use Cloud (hosted browsers over CDP, agent API, remote MCP server); fees now Free/Paid (both EN/CN)
 - Added DeepInfer (🌱) to LLM Inference & Deployment: DeepSeek's open-source production-grade inference framework behind DeepSeek-V4.1-Flash (both EN/CN)
