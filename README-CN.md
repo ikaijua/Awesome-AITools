@@ -376,6 +376,7 @@
 | 海螺AI | MiniMax 的 AI 视频生成平台，当前基于 **MiniMax H3 / Hailuo 3**，以接近真人自然的动态质感著称。 | [URL](https://hailuoai.com/video) | 免费/付费 |
 | 快手可灵 | 快手 AI 视频创作平台——国产视频模型中的画质标杆。**Kling 4.0**（2026 年 9 月开启内测）：单次原生生成最长 30 秒、4K/1080p 10-bit HDR、最多 15 项多模态参考与 10 张关键帧；上一代 **Kling 3.0** 仍可用。支持文生视频、图生视频、首尾帧、动作控制。 | [URL](https://kling.kuaishou.com/) | 免费/付费 |
 | PixVerse | 利用文本和照片创建令人惊叹的人工智能视频 |[URL](https://app.pixverse.ai/)|付费/试用|
+| Cyanvid | 🌱 AI 视频生成 SaaS：支持文生视频与图生视频；生成前可对比模型规格并查看精确积分报价。面向创作者与营销人员。 | [URL](https://cyanvid.com/?utm_source=github-ikaijua-awesome-aitools&utm_medium=directory&utm_campaign=backlinks) | 免费/付费 |
 | Dream Machine | Luma AI 的视频生成工具（Dream Machine 品牌已停用，旧链接跳转至 lumalabs.ai/app）。能根据文本和图像快速制作高质量、逼真的视频，底层采用 **Luma Ray 3.2**。<br>定价页已无公开免费档，最低付费档 Plus 为 $30/月（年付约合 $25/月）。[官方介绍视频](https://www.youtube.com/watch?v=Zb3tffmBPRE) | [URL](https://lumalabs.ai/) | 付费 |
 | Runway | AI 视频生成与编辑平台——AI 电影制作的开创者。当前 Gen-4/Gen-4.5 模型支持文生视频、图生视频、视频生视频、运动笔刷及高级电影级镜头控制。 | [URL](https://runwayml.com/) | 免费试用/付费 |
 | krea.ai | 提供文生图/视频、图片放大、模型训练等功能，已自研并开源 **Krea 2** 图像基础模型（社区许可）；视频侧以聚合 Veo、Kling、Luma、Runway、Seedance 等第三方模型为主。 | [URL](https://www.krea.ai/) | 免费试用/付费 |
