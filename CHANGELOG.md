@@ -3,120 +3,123 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
-- Added Security Audit Skill to AI Security & Reverse Engineering: Cloudflare's open-source coding-agent skill for six-phase security audits with adversarially verified, machine-readable findings (both EN/CN)
-- Updated browser-use in AI Agent to cover Browser Use Cloud (hosted browsers over CDP, agent API, remote MCP server); fees now Free/Paid (both EN/CN)
-- Added DeepInfer (🌱) to LLM Inference & Deployment: DeepSeek's open-source production-grade inference framework behind DeepSeek-V4.1-Flash (both EN/CN)
-- Added HyperFrames to Video Creation: HeyGen's open-source HTML-to-MP4 video rendering framework, agent-native with 21 skills, a `/hyperframes` router, and a Claude Code plugin (both EN/CN)
-- Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed (both EN/CN)
-- Replaced archived AutoGen with Microsoft Agent Framework in AI Agent (both EN/CN)
-- Removed unmaintained WhisperDesktop; retained and refreshed Buzz as an offline desktop transcription option (both EN/CN)
-- Replaced AI Detect Lab with Content Credentials Verify, clarifying credential-based provenance verification and its limits (both EN/CN)
-- Consolidated DeepSeek-V4, DeepSeek-R1, and DeepSeek-V3 into one open-weight model-family entry while preserving historical model links (both EN/CN)
-- Updated Gemini, Google AI Studio, and Antigravity for Gemini 4 Argon availability; distinguished general access from the controlled Fairwind program (both EN/CN)
-- Refreshed DeepSeek assistant and DeepSeek-V4 entries to V4.1-Flash-1017, emphasizing project development and task efficiency without unconditional ranking claims (both EN/CN)
-- Updated Meta Muse to distinguish the planned subscriber-first Wonder rollout from current Meta Model API and Muse Code access (both EN/CN)
-- Added Muse Spark Open to Open Source LLMs with local-deployment requirements and limited commercial-license terms (both EN/CN)
-- Added Grok Voice 3.0 to Speech Processing & Translation with the Voice Agent API and usage-based pricing (both EN/CN)
-- Added Jev Chat Assistant (jev-chat/jev-chat-jarvis) to General LLM Applications: open-source Android chat decision assistant that reads the current chat, judges intent and risk, and fills a drafted reply without sending (both EN/CN)
-- Added Anatomy (wheresryan22/anatomy) to AI Image Creation and UI Design: a Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by inventing interactive isometric SVG/WebGL/3D figures — token bucket as a pin-tumbler lock, GPU context sharing as a gantry plotter — with built-in geometry audit and verification (both EN/CN)
-- Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage (both EN/CN)
-- Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing (both EN/CN)
-- Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools (both EN/CN)
-- Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier (both EN/CN)
-- Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures (both EN/CN)
-- Added **Decision Models** section, moved Jev (from AI Assistants & Proprietary Models) and SemIf (formerly OpenJev, from Open Source LLMs) into it, and added OpenAI Decisions API, Microsoft-Decision-1, and Cloudflare Clef; also added Jev Decision Index to LLM Leaderboard (both EN/CN)
-- Added The Aggregate, a free LLM leaderboard that combines public benchmark leaderboards into one daily Elo-scale ranking with standard errors and source-linked scores, to LLM Leaderboard (both EN/CN)
-- Added Perplexity (citation-first AI answer engine with its own Sonar 2 model, multi-lab model switching, and the Comet browser) to General LLM Applications (both EN/CN)
-- Added Paseo (getpaseo/paseo) to AI Agent: an open-source agentic development environment that unifies Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code with parallel worktrees, built-in orchestration, editor/terminal/browser, plugins, and cross-platform desktop/mobile/web/CLI support (both EN/CN)
-- Updated ChatGPT entry to reflect the global rollout of GPT-6 (Sol/Luna) with Intelligent UI to all ChatGPT users, including Free/Go tiers (both EN/CN)
-- Updated Claude entry to note the Oct 7 launch of Claude Haiku 5.5 at ~1/10 the price of Haiku 4.5 and ~1/20 of Sonnet 5.5, plus the Sonnet 5.5 cache-read price cut (both EN/CN)
-- Added OpenDots (CopilotKit/OpenDots) to AI Agent: an open-source self-hosted agent workspace template — open alternative to OpenAI Dots — where each Dot gets its own computer, Spaces documents, MCP tools, Slack/calls, background tasks, and human-in-the-loop approval (both EN/CN)
-- Added SynthID Detector (Google DeepMind) to AI Detection: the official portal for verifying AI-generated media, expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor SynthID-watermark detection coalition covering images, audio, video and text (both EN/CN)
-- Refreshed Nano Banana to the new flagship Nano Banana 2.1 (Oct 6, 2026): better visual design, mask-based editing and cross-turn subject consistency at ~half the output price of Nano Banana 2, which is retired on Oct 29, 2026 (both EN/CN)
-- Added Google Colab and Kaggle to AI Infrastructure Platform: the de facto free GPU environments for ML/AI work (Colab notebooks with free GPU/TPU; Kaggle notebooks with ~30h/week free GPU plus datasets and competitions) (both EN/CN)
-- Added mu, an open-source coding agent built on Pi (CLI and desktop app) in which a small judge model makes the routine calls at more than 30 decision points, to AI Coding (both EN/CN)
-- Removed Lark CLI, DingTalk CLI and WeWork CLI from Office Collaboration CLI / MCP: they are app-development CLIs with little AI relevance, and agents now cover these platforms via official connectors and native plugins (both EN/CN)
-- Added DwarfStar (ds4, antirez) to LLM Inference & Deployment: a from-scratch MIT-licensed native inference engine in C that runs near-frontier open models (DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3, Qwen3.8 Flash Next) on consumer hardware via 2-bit routed quantization, with OpenAI/Anthropic-compatible APIs for Claude Code, Codex and other agents (both EN/CN)
-- Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard (both EN/CN)
-- Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026) (both EN/CN)
-- Added LangGraph (langchain-ai/langgraph) to AI Agent: LangChain's low-level orchestration framework for building stateful, multi-agent LLM applications as graphs, with persistent state, checkpointing, and human-in-the-loop interrupt/resume; ships graph/state primitives, a Studio visual debugger, and LangGraph Platform for durable execution (both EN/CN)
-- Added whisper-ctranslate2, an OpenAI Whisper-compatible local transcription CLI with live microphone input and optional diarization, to Speech Recognition & Subtitles (both EN/CN)
-- Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage (both EN/CN)
-- Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com (both EN/CN)
-- Renamed the Genesis entry to Genesis World (v1.0, May 2026, maintained by Genesis AI; Nyx renderer, Quadrants compiler) (both EN/CN)
-- Renamed claw-code to agent-code, the Rust reimplementation of the Claude Code harness (the claw-code crate on crates.io is now a deprecated stub) (both EN/CN)
-- Refreshed flagship versions: Ideogram 4.5, Kling 4.0 (in preview), Suno v6, Mureka V9.5, and Krea's own open-weight Krea 2 image model (both EN/CN)
-- Noted that Gemini 4 Argon (Sep 30, 2026) is only available through the controlled Fairwind program, so Gemini 3.8 Flash remains the widely available flagship (both EN/CN)
-- Corrected both DeepSeek entries: the planned Sep 14 retirement of V4-Pro was reversed and it is still served at the original price (both EN/CN)
-- Noted Nano Banana 2 as the current Gemini app default, and marked Palmier Pro as closed-source since v0.7.6 (both EN/CN)
-- Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section (both EN/CN)
-- Added NeoLabs to AI News & Information: curated opinionated ranking of 100+ AI research labs by valuation, with a "neolab" definition and a per-lab verdict on fit (both EN/CN)
+- Updated Gemini entry to add Gemini 4 Carbon (Oct 28, 2026) — Google's strongest model, focused on cybersecurity and long-horizon agentic work, #1 on the Artificial Analysis Intelligence Index v5.0; gated rollout via Fairwind to cyber defenders first, with Argon remaining the broadly available flagship
+- Updated Kimi Chat to K3.1 Pro (Oct 24, 2026); renamed the K3 open-weight entry to **Kimi K3.1** in Open Source LLMs, reflecting the 3T-class open-weight K3.1 Pro (full weights by Nov 4, 2026)
+- Added Claude Duet (proactive agent on Opus 5.5, research preview Oct 21, 2026) to the Claude entry, and tightened the Claude description to within the 600/450-character limits
+- Added Security Audit Skill to AI Security & Reverse Engineering: Cloudflare's open-source coding-agent skill for six-phase security audits with adversarially verified, machine-readable findings
+- Updated browser-use in AI Agent to cover Browser Use Cloud (hosted browsers over CDP, agent API, remote MCP server); fees now Free/Paid
+- Added DeepInfer (🌱) to LLM Inference & Deployment: DeepSeek's open-source production-grade inference framework behind DeepSeek-V4.1-Flash
+- Added HyperFrames to Video Creation: HeyGen's open-source HTML-to-MP4 video rendering framework, agent-native with 21 skills, a `/hyperframes` router, and a Claude Code plugin
+- Removed PixelPanda from AI Image Creation and UI Design: an e-commerce product/marketing image and UGC-video generator with no distinct edge over the general-purpose image tools already listed
+- Replaced archived AutoGen with Microsoft Agent Framework in AI Agent
+- Removed unmaintained WhisperDesktop; retained and refreshed Buzz as an offline desktop transcription option
+- Replaced AI Detect Lab with Content Credentials Verify, clarifying credential-based provenance verification and its limits
+- Consolidated DeepSeek-V4, DeepSeek-R1, and DeepSeek-V3 into one open-weight model-family entry while preserving historical model links
+- Updated Gemini, Google AI Studio, and Antigravity for Gemini 4 Argon availability; distinguished general access from the controlled Fairwind program
+- Refreshed DeepSeek assistant and DeepSeek-V4 entries to V4.1-Flash-1017, emphasizing project development and task efficiency without unconditional ranking claims
+- Updated Meta Muse to distinguish the planned subscriber-first Wonder rollout from current Meta Model API and Muse Code access
+- Added Muse Spark Open to Open Source LLMs with local-deployment requirements and limited commercial-license terms
+- Added Grok Voice 3.0 to Speech Processing & Translation with the Voice Agent API and usage-based pricing
+- Added Jev Chat Assistant (jev-chat/jev-chat-jarvis) to General LLM Applications: open-source Android chat decision assistant that reads the current chat, judges intent and risk, and fills a drafted reply without sending
+- Added Anatomy (wheresryan22/anatomy) to AI Image Creation and UI Design: a Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by inventing interactive isometric SVG/WebGL/3D figures — token bucket as a pin-tumbler lock, GPU context sharing as a gantry plotter — with built-in geometry audit and verification
+- Marked REA (morluto/rea) with 🌱 in AI Security & Reverse Engineering, indicating high short-term buzz but still early-stage
+- Added **AI Security & Reverse Engineering** section with REA and Codex Security (both moved from AI Coding) plus the new PentAGI entry: reverse engineering, code vulnerability scanning/fixing, and autonomous penetration testing
+- Removed Photoshop AI from AI Image Creation and UI Design: heavy subscription-based software whose generative features are less competitive versus lightweight, AI-native image tools
+- Added Parallel Search MCP to Office Collaboration CLI / MCP: hosted, keyless web search and page fetching with a rate-limited free tier
+- Added REA (morluto/rea) to AI Coding: an open-source MCP toolkit that turns AI coding agents into reverse-engineering assistants for native binaries, JavaScript/Electron, .NET assemblies, websites, Android APKs, firmware, and network captures
+- Added **Decision Models** section, moved Jev (from AI Assistants & Proprietary Models) and SemIf (formerly OpenJev, from Open Source LLMs) into it, and added OpenAI Decisions API, Microsoft-Decision-1, and Cloudflare Clef; also added Jev Decision Index to LLM Leaderboard
+- Added The Aggregate, a free LLM leaderboard that combines public benchmark leaderboards into one daily Elo-scale ranking with standard errors and source-linked scores, to LLM Leaderboard
+- Added Perplexity (citation-first AI answer engine with its own Sonar 2 model, multi-lab model switching, and the Comet browser) to General LLM Applications
+- Added Paseo (getpaseo/paseo) to AI Agent: an open-source agentic development environment that unifies Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code with parallel worktrees, built-in orchestration, editor/terminal/browser, plugins, and cross-platform desktop/mobile/web/CLI support
+- Updated ChatGPT entry to reflect the global rollout of GPT-6 (Sol/Luna) with Intelligent UI to all ChatGPT users, including Free/Go tiers
+- Updated Claude entry to note the Oct 7 launch of Claude Haiku 5.5 at ~1/10 the price of Haiku 4.5 and ~1/20 of Sonnet 5.5, plus the Sonnet 5.5 cache-read price cut
+- Added OpenDots (CopilotKit/OpenDots) to AI Agent: an open-source self-hosted agent workspace template — open alternative to OpenAI Dots — where each Dot gets its own computer, Spaces documents, MCP tools, Slack/calls, background tasks, and human-in-the-loop approval
+- Added SynthID Detector (Google DeepMind) to AI Detection: the official portal for verifying AI-generated media, expanded in October 2026 with OpenAI, NVIDIA and Kakao (Apple joining soon) into a cross-vendor SynthID-watermark detection coalition covering images, audio, video and text
+- Refreshed Nano Banana to the new flagship Nano Banana 2.1 (Oct 6, 2026): better visual design, mask-based editing and cross-turn subject consistency at ~half the output price of Nano Banana 2, which is retired on Oct 29, 2026
+- Added Google Colab and Kaggle to AI Infrastructure Platform: the de facto free GPU environments for ML/AI work (Colab notebooks with free GPU/TPU; Kaggle notebooks with ~30h/week free GPU plus datasets and competitions)
+- Added mu, an open-source coding agent built on Pi (CLI and desktop app) in which a small judge model makes the routine calls at more than 30 decision points, to AI Coding
+- Removed Lark CLI, DingTalk CLI and WeWork CLI from Office Collaboration CLI / MCP: they are app-development CLIs with little AI relevance, and agents now cover these platforms via official connectors and native plugins
+- Added DwarfStar (ds4, antirez) to LLM Inference & Deployment: a from-scratch MIT-licensed native inference engine in C that runs near-frontier open models (DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3, Qwen3.8 Flash Next) on consumer hardware via 2-bit routed quantization, with OpenAI/Anthropic-compatible APIs for Claude Code, Codex and other agents
+- Added llmrun, a free site showing which open LLMs fit a given GPU/Mac (VRAM per quantization, estimated speed) with a composite benchmark score, to LLM Leaderboard
+- Added Devin (Cognition) to AI Agent: the pioneer of the autonomous assign-a-ticket model — tasks come in via Slack/Jira/Linear, Devin plans, codes in its own cloud sandbox, runs tests, and opens PRs asynchronously in parallel sessions; Windsurf merged into Devin as Devin Desktop (June 2026)
+- Added LangGraph (langchain-ai/langgraph) to AI Agent: LangChain's low-level orchestration framework for building stateful, multi-agent LLM applications as graphs, with persistent state, checkpointing, and human-in-the-loop interrupt/resume; ships graph/state primitives, a Studio visual debugger, and LangGraph Platform for durable execution
+- Added whisper-ctranslate2, an OpenAI Whisper-compatible local transcription CLI with live microphone input and optional diarization, to Speech Recognition & Subtitles
+- Removed Pika from Video Creation: after the Sep 17, 2026 relaunch it routes jobs to third-party models (Seedance 2.5, Wan 3.0, MiniMax H3, Veo 3.1) instead of its own, leaving no distinct advantage
+- Updated Cursor: Anysphere was acquired by SpaceX (closed Aug 14, 2026) and Cursor is now a SpaceX (SpaceXAI) subsidiary positioned as a coding agent with multi-model support; link moved from cursor.so to cursor.com
+- Renamed the Genesis entry to Genesis World (v1.0, May 2026, maintained by Genesis AI; Nyx renderer, Quadrants compiler)
+- Renamed claw-code to agent-code, the Rust reimplementation of the Claude Code harness (the claw-code crate on crates.io is now a deprecated stub)
+- Refreshed flagship versions: Ideogram 4.5, Kling 4.0 (in preview), Suno v6, Mureka V9.5, and Krea's own open-weight Krea 2 image model
+- Noted that Gemini 4 Argon (Sep 30, 2026) is only available through the controlled Fairwind program, so Gemini 3.8 Flash remains the widely available flagship
+- Corrected both DeepSeek entries: the planned Sep 14 retirement of V4-Pro was reversed and it is still served at the original price
+- Noted Nano Banana 2 as the current Gemini app default, and marked Palmier Pro as closed-source since v0.7.6
+- Added VoiceStudio (debpalash/VoiceStudio), a local-first open-source AI voice workbench aggregating 16 TTS and 11 ASR engines across 646 languages, to the Voice Processing section
+- Added NeoLabs to AI News & Information: curated opinionated ranking of 100+ AI research labs by valuation, with a "neolab" definition and a per-lab verdict on fit
 
 ## September 2026
-- Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation (both EN/CN)
-- Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN) (both EN/CN)
+- Added OpenShorts (open-source long-video-to-shorts clipper with faster-whisper captions and 9:16 face-tracking reframing) to Video Creation
+- Added Google AX (open-source agentic orchestration runtime) and ARTEMIS (natural-language Android automation framework) to AI Agent section, and Gemini 3.8 TTS (native multimodal TTS with Live Avatar) to Text To Speech section, with intros in Discussions #1050/#1051 (AX CN/EN) and #1052/#1053 (ARTEMIS CN/EN)
 - Updated Gemini entry to mention Gemini Spark (persistent background personal agent across Google Workspace) in both EN/CN
-- Added Higgsfield (multi-model AI video studio aggregating Seedance/Kling/Veo/Sora with cinematic camera presets and Soul ID character consistency) to Video Creation section, with intros in Discussions #1057 (CN) / #1058 (EN) (both EN/CN)
-- Removed ChatGPT for YouTube (browser-extension wrapper), ControlNet (unmaintained since Feb 2024, absorbed into diffusers/ComfyUI), and f/awesome-chatgpt-prompts (prompt-template collection) (both EN/CN)
-- Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding (both EN/CN)
-- Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section (both EN/CN)
-- Noted Claude Opus 5.5 (Claude 5.5 family; matches Fable 5.1 at ~40% lower cost) in the Claude entry, and GPT-6 Sol/Luna (~50% API price cut) in the ChatGPT entry (both EN/CN)
-- Added Bolt.new (browser-based AI full-stack app builder by StackBlitz) to AI Coding section (both EN/CN)
-- Updated Grok flagship from 4.6 to **Grok 4.7** in AI Assistants & Proprietary Models and `docs/grok/` (both EN/CN)
-- Renamed the chatbot section to AI Assistants & Proprietary Models / AI 助手与专有模型 (both EN/CN)
-- Added Meta Muse (Meta's personal AI agent) to AI Assistants & Proprietary Models, with intros in Discussions #1010 (CN) / #1011 (EN) (both EN/CN)
-- Added Jev (TypeSafe AI's "System One" decision model, 🌱) to AI Assistants & Proprietary Models, with deep dives in Discussions #996 (CN) / #1012 (EN) (both EN/CN)
+- Added Higgsfield (multi-model AI video studio aggregating Seedance/Kling/Veo/Sora with cinematic camera presets and Soul ID character consistency) to Video Creation section, with intros in Discussions #1057 (CN) / #1058 (EN)
+- Removed ChatGPT for YouTube (browser-extension wrapper), ControlNet (unmaintained since Feb 2024, absorbed into diffusers/ComfyUI), and f/awesome-chatgpt-prompts (prompt-template collection)
+- Added Cortex, an open-source API documentation, SDK, and MCP server generator, to AI Coding
+- Added ArtificialWatch (new AI model release alerts with a public first-seen/confirmed track record) to AI News & Information section
+- Noted Claude Opus 5.5 (Claude 5.5 family; matches Fable 5.1 at ~40% lower cost) in the Claude entry, and GPT-6 Sol/Luna (~50% API price cut) in the ChatGPT entry
+- Added Bolt.new (browser-based AI full-stack app builder by StackBlitz) to AI Coding section
+- Updated Grok flagship from 4.6 to **Grok 4.7** in AI Assistants & Proprietary Models and `docs/grok/`
+- Renamed the chatbot section to AI Assistants & Proprietary Models / AI 助手与专有模型
+- Added Meta Muse (Meta's personal AI agent) to AI Assistants & Proprietary Models, with intros in Discussions #1010 (CN) / #1011 (EN)
+- Added Jev (TypeSafe AI's "System One" decision model, 🌱) to AI Assistants & Proprietary Models, with deep dives in Discussions #996 (CN) / #1012 (EN)
 - Corrected Screenpipe licensing, free-plan limits, and local/cloud processing boundaries in both EN/CN entries.
-- Updated DeepSeek flagship from V4-Pro to V4.1-Flash (new Causal-Encoder-Decoder architecture, 552B MoE with asymmetric activation, native multimodality, MIT open weights; V4-Pro retiring Sept 14 with requests migrated to Flash) in AI Chatbot and Open Source LLMs entries (both EN/CN)
-- Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models) (both EN/CN)
-- Added Obscura (h4ckf0r0day/obscura) to AI Agent section: an open-source Rust headless browser engine for AI agents and web scraping, CDP-compatible drop-in replacement for headless Chrome (both EN/CN)
-- Updated ChatGPT flagship from GPT-5.6 Sol to GPT-6 Astra (both EN/CN)
-- Updated Gemini flagship from Gemini 3.7 Flash to Gemini 3.8 Flash (incl. 3.8 Flash Cyber) across AI Chatbot, Google AI Studio, and Antigravity entries (both EN/CN)
-- Updated Claude flagship from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section (both EN/CN), and updated `docs/claude/` flagship mention (both EN/CN)
+- Updated DeepSeek flagship from V4-Pro to V4.1-Flash (new Causal-Encoder-Decoder architecture, 552B MoE with asymmetric activation, native multimodality, MIT open weights; V4-Pro retiring Sept 14 with requests migrated to Flash) in AI Chatbot and Open Source LLMs entries
+- Updated the AI Image Creation entry from ChatGPT Images 2.0 / GPT Image 2.0 to 2.5 (~50% faster, Sketch feature, new GPT-Image-2.5 Flare/Sunburst API models)
+- Added Obscura (h4ckf0r0day/obscura) to AI Agent section: an open-source Rust headless browser engine for AI agents and web scraping, CDP-compatible drop-in replacement for headless Chrome
+- Updated ChatGPT flagship from GPT-5.6 Sol to GPT-6 Astra
+- Updated Gemini flagship from Gemini 3.7 Flash to Gemini 3.8 Flash (incl. 3.8 Flash Cyber) across AI Chatbot, Google AI Studio, and Antigravity entries
+- Updated Claude flagship from **Claude Opus 5** to **Claude Fable 5.1** / **Claude Mythos 5.1** in AI Chatbots section, and updated `docs/claude/` flagship mention
 - Updated 腾讯元宝 flagship from 混元 Hy3 to 混元 Hy4 preview, and IMA supported models to include 混元 Hy4 preview (CN)
-- Added GLM-5.3-Flash (zai-org/GLM-5.3-Flash) to Open Source LLMs section (both EN/CN)
-- Updated Qwen3 / Qwen3.8 entry to include Qwen3.8-Flash-Next (125B-A6B, Qwen4 architecture preview) (both EN/CN)
-- Noted Muse Spark 1.3 as the latest Muse Spark version in the Muse Glimmer entry (both EN/CN)
-- Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/` (both EN/CN)
-- Removed AnyGen (https://www.anygen.io) from AI Agent section: overlaps with existing general work-assistant entries, opaque pricing with no documented free quota (both EN/CN)
+- Added GLM-5.3-Flash (zai-org/GLM-5.3-Flash) to Open Source LLMs section
+- Updated Qwen3 / Qwen3.8 entry to include Qwen3.8-Flash-Next (125B-A6B, Qwen4 architecture preview)
+- Noted Muse Spark 1.3 as the latest Muse Spark version in the Muse Glimmer entry
+- Added Orca (stablyai/orca) to AI Agent section with documentation in `docs/orca/`
+- Removed AnyGen (https://www.anygen.io) from AI Agent section: overlaps with existing general work-assistant entries, opaque pricing with no documented free quota
 
 ## August 2026
-- Refreshed model/generation versions across AI Chatbot, Open Source LLMs, Video Creation, AI Image Creation, Text-to-Speech, Voice Processing, and AI-generated Music sections: DeepSeek-V4-Pro 0813 GA + V4-Flash-Vision-Exp, Qwen3.8-Max GA + Qwen3.8-27B open-weight release, GLM-5.3 release date, Gemma 4 size variants, Muse Glimmer release date, Phi-4-multimodal, Kling 3.0, MiniMax H3 / Hailuo 3, Luma Ray 3.2, Pika 2.2, Midjourney V8.2, Nano Banana Pro / Nano Banana 2, Grok Imagine Image 2.0, Stable Diffusion 3.5 / Stable Image Ultra, Ideogram 3.0, Eleven v3, Suno v5.5, Stable Audio 3.0, Mureka V9 (both EN/CN)
-- Removed low-influence tools from Video Creation section: Fliki, d-id (EN only); vivago.ai/video (both EN/CN); kept Palmier Pro and OpenMontage as representative open-source video tools
-- Added Hugging Face to AI Infrastructure Platform section (formerly AI Cloud Platform), marked with 🌟, and added documentation in `docs/huggingface/` (both EN/CN)
-- Renamed section from AI Cloud Platform to AI Infrastructure Platform (both EN/CN)
-- Updated Qwen3 Open Source LLMs entry to Qwen3 / Qwen3.8, adding Qwen3.8-27B dense vision-language model details (both EN/CN)
-- Updated IndexTTS entry to IndexTTS-2.5 with 5-language support, emotion/speed/pronunciation control, and vLLM deployment notes (both EN/CN)
-- Updated Gemini flagship from Gemini 3.6 Flash to Gemini 3.7 Flash across AI Chatbot, Google AI Studio, and Antigravity entries/docs (both EN/CN)
+- Refreshed model/generation versions across AI Chatbot, Open Source LLMs, Video Creation, AI Image Creation, Text-to-Speech, Voice Processing, and AI-generated Music sections: DeepSeek-V4-Pro 0813 GA + V4-Flash-Vision-Exp, Qwen3.8-Max GA + Qwen3.8-27B open-weight release, GLM-5.3 release date, Gemma 4 size variants, Muse Glimmer release date, Phi-4-multimodal, Kling 3.0, MiniMax H3 / Hailuo 3, Luma Ray 3.2, Pika 2.2, Midjourney V8.2, Nano Banana Pro / Nano Banana 2, Grok Imagine Image 2.0, Stable Diffusion 3.5 / Stable Image Ultra, Ideogram 3.0, Eleven v3, Suno v5.5, Stable Audio 3.0, Mureka V9
+- Removed low-influence tools from Video Creation section: Fliki, d-id (EN only); vivago.ai/video; kept Palmier Pro and OpenMontage as representative open-source video tools
+- Added Hugging Face to AI Infrastructure Platform section (formerly AI Cloud Platform), marked with 🌟, and added documentation in `docs/huggingface/`
+- Renamed section from AI Cloud Platform to AI Infrastructure Platform
+- Updated Qwen3 Open Source LLMs entry to Qwen3 / Qwen3.8, adding Qwen3.8-27B dense vision-language model details
+- Updated IndexTTS entry to IndexTTS-2.5 with 5-language support, emotion/speed/pronunciation control, and vLLM deployment notes
+- Updated Gemini flagship from Gemini 3.6 Flash to Gemini 3.7 Flash across AI Chatbot, Google AI Studio, and Antigravity entries/docs
 - Updated GLM flagship from GLM-5.2 to GLM-5.3 across AI Chatbot and IMA entries, and added GLM-5.3-Flash details (both EN/CN where applicable)
 - Removed 腾讯混元AI视频 from Video Creation section (CN only)
 - Removed MOKI (https://www.moki.cn) from Video Creation section (CN only)
-- Removed NoteGPT from General LLM Applications section (both EN/CN)
+- Removed NoteGPT from General LLM Applications section
 - Removed gpt_academic from Academic research section (CN only)
-- Updated Llama 3 to Llama 4, Phi-3 to Phi-4, Runway description to Gen-4/Gen-4.5, and Llama 3 reference in Artificial Analysis entry; preserved DeepSeek-V3 entry and its reference in AirLLM (both EN/CN)
-- Updated Wan entry from Wan2.6 to Wan 3.0 in Video Creation section, reflecting all-in-one reference video generation, up to 30-second output, and multimodal document/web inputs (both EN/CN)
-- Added MiniMax H3 to Video Creation section with documentation in `docs/minimax-h3/` (both EN/CN)
-- Added browser-use (browser-use/browser-use) to AI Agent section with documentation in `docs/browser-use/` (both EN/CN)
-- Updated Grok Image URL to https://grok.com/imagine (both EN/CN)
-- Added Pi (earendil-works/pi) to AI Agent section with documentation in `docs/pi/` (both EN/CN)
-- Updated DeepSeek V4 Open Source LLM entry to mention MIT license, Hybrid Attention (CSA+HCA), mHC, Muon optimizer, three reasoning effort modes (Non-think / Think High / Think Max), and that Pro-Max is the current top open-source model on coding/agentic benchmarks (both EN/CN)
-- Updated DeepSeek chatbot row to mention V4-Pro-Max reasoning mode (both EN/CN)
-- Updated Grok flagship model from Grok 4.5 to Grok 4.6 (both EN/CN)
-- Added Grok documentation in `docs/grok/` and linked from AI Chatbot entry (both EN/CN)
-- Added DeepSeek Harness (deepseek-ai/deepseek-harness) to AI Agent section, marked with 🌱 "freshly released" indicator (both EN/CN)
-- Reordered AI Agent section by practical value: Coding Agents first, then Autonomous Agents, Agent Workspaces, Enhancements, and Infrastructure (both EN/CN)
-- Added Muse Glimmer (meta-models/Muse-Glimmer-30B) to Open Source LLMs section with documentation in `docs/muse-glimmer/` (both EN/CN)
-- Added VibeVoice documentation in `docs/vibevoice/` (both EN/CN)
-- Added Paperclip (paperclipai/paperclip) to AI Agent section with documentation in `docs/paperclip/` (both EN/CN)
-- Updated Multica description to mention support for 21 coding agents and local daemon auto-detection (both EN/CN)
-- Added TencentDB Agent Memory to AI Agent section with documentation in `docs/tencentdb-agent-memory/` (both EN/CN)
-- Added Grok Image to AI Image Creation section (both EN/CN)
-- Updated Seedance from 2.0 to 2.5 in READMEs and docs (both EN/CN)
-- Updated 豆包 / Dola flagship model from Doubao-1.5-pro to Doubao-Seed-2.1 Pro (both EN/CN)
+- Updated Llama 3 to Llama 4, Phi-3 to Phi-4, Runway description to Gen-4/Gen-4.5, and Llama 3 reference in Artificial Analysis entry; preserved DeepSeek-V3 entry and its reference in AirLLM
+- Updated Wan entry from Wan2.6 to Wan 3.0 in Video Creation section, reflecting all-in-one reference video generation, up to 30-second output, and multimodal document/web inputs
+- Added MiniMax H3 to Video Creation section with documentation in `docs/minimax-h3/`
+- Added browser-use (browser-use/browser-use) to AI Agent section with documentation in `docs/browser-use/`
+- Updated Grok Image URL to https://grok.com/imagine
+- Added Pi (earendil-works/pi) to AI Agent section with documentation in `docs/pi/`
+- Updated DeepSeek V4 Open Source LLM entry to mention MIT license, Hybrid Attention (CSA+HCA), mHC, Muon optimizer, three reasoning effort modes (Non-think / Think High / Think Max), and that Pro-Max is the current top open-source model on coding/agentic benchmarks
+- Updated DeepSeek chatbot row to mention V4-Pro-Max reasoning mode
+- Updated Grok flagship model from Grok 4.5 to Grok 4.6
+- Added Grok documentation in `docs/grok/` and linked from AI Chatbot entry
+- Added DeepSeek Harness (deepseek-ai/deepseek-harness) to AI Agent section, marked with 🌱 "freshly released" indicator
+- Reordered AI Agent section by practical value: Coding Agents first, then Autonomous Agents, Agent Workspaces, Enhancements, and Infrastructure
+- Added Muse Glimmer (meta-models/Muse-Glimmer-30B) to Open Source LLMs section with documentation in `docs/muse-glimmer/`
+- Added VibeVoice documentation in `docs/vibevoice/`
+- Added Paperclip (paperclipai/paperclip) to AI Agent section with documentation in `docs/paperclip/`
+- Updated Multica description to mention support for 21 coding agents and local daemon auto-detection
+- Added TencentDB Agent Memory to AI Agent section with documentation in `docs/tencentdb-agent-memory/`
+- Added Grok Image to AI Image Creation section
+- Updated Seedance from 2.0 to 2.5 in READMEs and docs
+- Updated 豆包 / Dola flagship model from Doubao-1.5-pro to Doubao-Seed-2.1 Pro
 - Updated MiniMax flagship model from MiniMax-M2.5 to MiniMax-M3 (CN)
 - Added unified Trae entry (Trae Code / Trae IDE / Trae Work) to AI Agent section (CN)
 - Added Trae documentation in `docs/trae/` (CN)
-- Removed weixin-agent-sdk from AI Agent section (both EN/CN)
+- Removed weixin-agent-sdk from AI Agent section
 - Removed Qoder from AI Coding section (now only listed in AI Agent section) (CN)
 - Added Qoder to AI Agent section (CN)
 - Added Qoder documentation in `docs/qoder/` (CN)
@@ -124,29 +127,29 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added WorkBuddy to AI Agent section (CN)
 - Updated IMA description to mention supported models: DeepSeek-V4-Flash, GLM-5.2, and 混元 Hy3 (CN)
 - Updated 腾讯元宝 flagship model from 混元 T1 to 混元 Hy3 (CN)
-- Renamed NotebookLM to Gemini Notebook and updated URL (both EN/CN)
+- Renamed NotebookLM to Gemini Notebook and updated URL
 - Removed CodeGeeX, Amazon CodeWhisperer, and 腾讯云AI代码助手 from AI Coding section
 - Renamed 通义灵码 to Qoder in AI Coding section and updated URL (CN)
-- Added current flagship model info to each AI Chatbot entry (both EN/CN)
+- Added current flagship model info to each AI Chatbot entry
 - Removed Chatbox, NextChat, MindMac, ChatGPT Sidebar, ChatGPT-Shortcut, chathub, openai-python, go-openai, and gemini-fullstack-langgraph-quickstart from GPT LLMs Applications section
-- Removed monica and AIPRM for ChatGPT from GPT LLMs Applications section (both EN/CN)
-- Rewrote AI Chatbot section descriptions to highlight each product's differentiation (both EN/CN)
+- Removed monica and AIPRM for ChatGPT from GPT LLMs Applications section
+- Rewrote AI Chatbot section descriptions to highlight each product's differentiation
 - Removed 大饼 AI 变声 from Voice Changing Software section (CN only)
-- Removed Grammarly from Writing section (both EN/CN)
-- Added speech-to-speech (huggingface/speech-to-speech) to Voice Processing section (both EN/CN)
-- Added Conductor (conductor-oss/conductor) to AI Agent section with documentation (both EN/CN)
-- Added Buzz (block/buzz) to AI Agent section with documentation (both EN/CN)
-- Updated Qwen Chat entry to Qwen3.8-Max in AI Chatbots section (both EN/CN)
-- Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section (both EN/CN)
-- Added AirLLM (lyogavin/airllm) to new LLM Inference & Deployment section (both EN/CN)
-- Added Fincept Terminal to AI Finance & Quant Investment section (both EN/CN)
-- Added Symphony (openai/symphony) and QM (yc-software/qm) to AI Agent section with documentation (both EN/CN)
-- Added Stitch to AI Image Creation section with documentation (both EN/CN)
+- Removed Grammarly from Writing section
+- Added speech-to-speech (huggingface/speech-to-speech) to Voice Processing section
+- Added Conductor (conductor-oss/conductor) to AI Agent section with documentation
+- Added Buzz (block/buzz) to AI Agent section with documentation
+- Updated Qwen Chat entry to Qwen3.8-Max in AI Chatbots section
+- Added OpenConnector (oomol-lab/open-connector) to Office Collaboration CLI/MCP section
+- Added AirLLM (lyogavin/airllm) to new LLM Inference & Deployment section
+- Added Fincept Terminal to AI Finance & Quant Investment section
+- Added Symphony (openai/symphony) and QM (yc-software/qm) to AI Agent section with documentation
+- Added Stitch to AI Image Creation section with documentation
 
 ## July 2026
-- Added Markstream to AI Coding section (both EN/CN)
-- Added Orkas to the AI Agent section (both EN/CN)
-- Added Codex Security (openai/codex-security) to AI Coding section with documentation (both EN/CN)
+- Added Markstream to AI Coding section
+- Added Orkas to the AI Agent section
+- Added Codex Security (openai/codex-security) to AI Coding section with documentation
 - Updated black-forest-labs/flux to black-forest-labs/flux2 in AI Image Creation section (CN)
 - Removed easyvideotrans from Video Translation section (archived)
 - Added Prismix and AI Weekly to AI News & Information section in Chinese README
@@ -154,33 +157,33 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Removed Kagan from AI Coding section (archived)
 - Removed MindSearch from GPT-LLMs应用 section (unmaintained)
 - Removed gpt-crawler from GPT-LLMs应用 section (unmaintained)
-- Renamed ChatGPT-Next-Web to NextChat and updated description/links in GPT-LLMs应用 section (both EN/CN)
+- Renamed ChatGPT-Next-Web to NextChat and updated description/links in GPT-LLMs应用 section
 - Removed bot.360 from GPT-LLMs应用 section (site no longer functional)
-- Added light-ocr to the OCR section (both EN/CN)
-- Added StructEval to LLM Leaderboard section (both EN/CN)
-- Added last30days-skill (mvanhorn/last30days-skill) to Agent Skills section (both EN/CN)
-- Added DeepTutor (HKUDS/DeepTutor) to AI Agent section with documentation (both EN/CN)
-- Added FlowGram.AI (bytedance/flowgram.ai) to AI Agent section (both EN/CN)
-- Renamed the News Information section to "AI News & Information" (both EN/CN)
-- Added SemiAnalysis to the top of the News Information section with its X link (both EN/CN)
-- Moved Kimi Code and Grok Build after Codex in AI Agent section (both EN/CN)
-- Added Grok Build (xai-org/grok-build) to AI Agent section and related documentation (both EN/CN)
-- Added Kimi K3 to Open Source LLMs section (both EN/CN)
-- Updated Kimi Chat entry to feature Kimi K3 as the latest model and moved it before GLM in AI Chatbots section (both EN/CN)
-- Moved Open Source LLMs section before AI Agent section in both READMEs (both EN/CN)
-- Added code-review-graph to AI Coding section (both EN/CN)
+- Added light-ocr to the OCR section
+- Added StructEval to LLM Leaderboard section
+- Added last30days-skill (mvanhorn/last30days-skill) to Agent Skills section
+- Added DeepTutor (HKUDS/DeepTutor) to AI Agent section with documentation
+- Added FlowGram.AI (bytedance/flowgram.ai) to AI Agent section
+- Renamed the News Information section to "AI News & Information"
+- Added SemiAnalysis to the top of the News Information section with its X link
+- Moved Kimi Code and Grok Build after Codex in AI Agent section
+- Added Grok Build (xai-org/grok-build) to AI Agent section and related documentation
+- Added Kimi K3 to Open Source LLMs section
+- Updated Kimi Chat entry to feature Kimi K3 as the latest model and moved it before GLM in AI Chatbots section
+- Moved Open Source LLMs section before AI Agent section in both READMEs
+- Added code-review-graph to AI Coding section
 - Removed coqui-ai/tts and netease-youdao/EmotiVoice from Text To Speech section (unmaintained; active alternatives available)
 - Removed so-vits-svc from Voice Processing section (unmaintained; superseded by RVC)
 - Removed AnimateDiff from Video Creation section (unmaintained; superseded by newer video models)
 - Removed suno-ai/bark from AI generated music or sound effects section (unmaintained)
 - Added Humanoid Robots section to English README to match Chinese (10 companies: Figure 03, Atlas, Optimus Gen 2, Apollo, GR-1, Digit, NEO, H1, Phoenix, MenteeBot)
-- Added OpenWorker (andrewyng/openworker) to AI Agent section with documentation (both EN/CN)
+- Added OpenWorker (andrewyng/openworker) to AI Agent section with documentation
 
 ## June 2026
-- Added Topaz Photo AI to AI Image Creation section and Topaz Video AI to Video Creation section (both EN/CN)
-- Added ElevenLabs and RVC to Voice Processing section (both EN/CN)
+- Added Topaz Photo AI to AI Image Creation section and Topaz Video AI to Video Creation section
+- Added ElevenLabs and RVC to Voice Processing section
 - Removed Fitten Code from AI Coding section in Chinese README
-- Added yfinance and OpenBB to AI Finance & Quant Investment section (both EN/CN)
+- Added yfinance and OpenBB to AI Finance & Quant Investment section
 - Added AkShare to AI Finance section in Chinese README only (China market focused)
 - Added alibaba/open-code-review to AI Coding section
 - Added Seedance to Video Creation section
