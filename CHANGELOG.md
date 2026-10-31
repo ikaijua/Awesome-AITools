@@ -15,6 +15,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Replaced AI Detect Lab with Content Credentials Verify, clarifying credential-based provenance verification and its limits (both EN/CN)
 - Consolidated DeepSeek-V4, DeepSeek-R1, and DeepSeek-V3 into one open-weight model-family entry while preserving historical model links (both EN/CN)
 - Updated Gemini, Google AI Studio, and Antigravity for Gemini 4 Argon availability; distinguished general access from the controlled Fairwind program (both EN/CN)
+- Updated Gemini entry to add Gemini 4 Carbon (Oct 28, 2026) — Google's strongest model, focused on cybersecurity and long-horizon agentic work, #1 on the Artificial Analysis Intelligence Index v5.0; gated rollout via Fairwind to cyber defenders first, with Argon remaining the broadly available flagship (both EN/CN)
 - Refreshed DeepSeek assistant and DeepSeek-V4 entries to V4.1-Flash-1017, emphasizing project development and task efficiency without unconditional ranking claims (both EN/CN)
 - Updated Meta Muse to distinguish the planned subscriber-first Wonder rollout from current Meta Model API and Muse Code access (both EN/CN)
 - Added Muse Spark Open to Open Source LLMs with local-deployment requirements and limited commercial-license terms (both EN/CN)
