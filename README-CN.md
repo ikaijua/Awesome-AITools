@@ -165,6 +165,7 @@
 | Antigravity | Google 的智能体编程平台，提供桌面 App、IDE、终端 CLI（`agy`）和 SDK。支持 **Gemini 4 Argon**、Gemini 3.8 Flash，以及 Claude、GPT-OSS 等第三方模型，具体访问权限取决于订阅方案。Editor / Manager 双视图可协调多个自主智能体，内置浏览器、终端、可核验 Artifacts（计划、截图、录屏）、子代理、Hooks 和定时任务。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1468) | [URL](https://antigravity.google/) | 免费/付费 |
 | Qoder | 阿里云推出的 AI 智能编程助手与智能体产品族，主打“自主编程新范式”。通过多智能体协同、长时委派执行、记忆与知识引擎，与代码库和工具链深度连接，围绕真实任务持续完成理解、规划、执行、验证与迭代。<br>产品包括 Qoder Desktop（自主开发工作台）、QoderWork（本地 AI 工作搭子）、QoderWake（数字员工）、Qoder CLI（终端原生编程搭档/智能体引擎）以及面向企业的 Cloud Agents 云端托管平台。 [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1475) | [URL](https://qoder.com.cn/) | 免费/付费 |
 | Bolt.new | StackBlitz 推出的浏览器端 AI 全栈应用构建工具——用自然语言描述需求，AI 智能体直接在浏览器内脚手架、运行并部署完整应用。基于 WebContainers 在浏览器中运行真实 Node.js，无需本地环境或云虚拟机。免费档 / Pro $25 每月 / Teams $30 每人每月 / Enterprise 定制；开源姊妹版 bolt.diy 支持自带 API Key。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1470) | [URL](https://bolt.new/) | 免费/付费 |
+| StackShip | 为 AI 编程智能体、应用构建工具和后端服务提供注明日期与来源的价格及最佳推荐，另附技术栈成本计算器。 | [URL](https://stackship.app) | 免费 |
 
 ### 代码审查与开发辅助
 
