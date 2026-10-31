@@ -3,6 +3,8 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## October 2026
+- Updated Kimi Chat to K3.1 Pro (Oct 24, 2026); renamed the K3 open-weight entry to **Kimi K3.1** in Open Source LLMs, reflecting the 3T-class open-weight K3.1 Pro (full weights by Nov 4, 2026) (both EN/CN)
+- Added Claude Duet (proactive agent on Opus 5.5, research preview Oct 21, 2026) to the Claude entry, and tightened the Claude description to within the 600/450-character limits (both EN/CN)
 - Added Security Audit Skill to AI Security & Reverse Engineering: Cloudflare's open-source coding-agent skill for six-phase security audits with adversarially verified, machine-readable findings (both EN/CN)
 - Updated browser-use in AI Agent to cover Browser Use Cloud (hosted browsers over CDP, agent API, remote MCP server); fees now Free/Paid (both EN/CN)
 - Added DeepInfer (🌱) to LLM Inference & Deployment: DeepSeek's open-source production-grade inference framework behind DeepSeek-V4.1-Flash (both EN/CN)
