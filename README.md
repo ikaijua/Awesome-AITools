@@ -472,6 +472,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Stable Audio | AI music and sound-effect generation by Stability AI — full-length tracks and SFX from text prompts. Current generation **Stable Audio 3.0** (released May 20, 2026). | [URL](https://www.stableaudio.com/) | Free/Paid |
 | OptimizerAI | Sound effect generation. [Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243) | [URL](https://www.optimizerai.xyz/) | Free/Paid |
 | SFX Engine | AI Sound effect generation. | [URL](https://sfxengine.com/) | Free/Paid |
+| SFXMint | Free CC0 library of 9,300+ sound effects for games and apps, searchable by game or app event (jump, coin, button click), with a keyless JSON API and a remote MCP server so coding agents can download sounds straight into a project. An AI studio generates missing effects from text. Library sounds are AI-generated or procedurally synthesized; commercial use of new generations needs credits or a plan. | 1. [URL](https://sfxmint.com/)<br>2. [MCP](https://github.com/sfxmint/sfxmint-mcp) | Free/Paid |
 
 ### Video Content Summary
 | Name | Description | Links | Fees |
