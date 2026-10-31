@@ -509,6 +509,7 @@
 | Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用：从文本提示词生成完整曲目与音效。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
 | SFX Engine | AI 音效生成工具。 | [URL](https://sfxengine.com/) | 免费/付费 |
+| SFXMint | 面向游戏和应用的免费 CC0 音效库（9,300+ 条），可按游戏或界面事件（跳跃、金币、按钮点击）查找；提供免密钥 JSON API 和远程 MCP 服务器，编程助手可直接把音效下载进项目。库里没有的音效可在 AI Studio 用文字生成。库内音效为 AI 生成或程序合成；新生成音效商用需购买点数或套餐。 | 1. [URL](https://sfxmint.com/)<br>2. [MCP](https://github.com/sfxmint/sfxmint-mcp) | 免费/付费 |
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 |
