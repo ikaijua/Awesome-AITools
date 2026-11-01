@@ -450,6 +450,7 @@
 | 飞书妙记 | 上传视频或音频即可转录为文字（官方名「妙记」，非「秒记」），可一键导出到飞书文档。处理速度很快：近 2 小时的视频约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes) | 免费，有企业付费版 |
 | 通义听悟 | 阿里旗下的语音转录应用 | [URL](https://tingwu.aliyun.com/) | 免费/付费 |
 |阿里云智能语音交互-语音识别API|试用版3个月免费试用期，录音文件识别免费额度:2小时/日|[URL](https://ai.aliyun.com/nls)|免费/付费|
+| Transcribe Video: To The Text | 🌱 iOS 应用：将视频、音频、YouTube 链接与实时语音转成文字，支持说话人识别、AI 摘要以及 TXT/DOCX 导出。专注转录本身，而非臃肿的全能套件。 | [URL](https://video2text.ttt.so) [App Store](https://apps.apple.com/us/app/transcribe-video-to-the-text/id6757491608) | 免费/付费 |
 
 ### 语音合成（TTS）
 
