@@ -192,6 +192,7 @@
 | AGENTS.md | 专门为 AI 编程智能体设计的代码库文档开放标准。通过提供结构化的上下文、指令和约束条件，帮助智能体更高效、更安全地工作。 | [GitHub](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | 免费 |
 | Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [GitHub](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
 | musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[GitHub](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
+| landmine | 为编码代理提供“当前锁定版本的已知 Bug”。读取 lockfile，查找针对这些 npm / PyPI 精确版本提交且仍未关闭的 GitHub Issue，核对每条确实提到该版本，再把问题和讨论串里的绕过方法交给代理：写入 AGENTS.md/CLAUDE.md、为 20 种代理提供编辑前 Hook，或通过 MCP 服务器（也可直接用托管地址 landmine.tech/mcp）。 | [GitHub](https://github.com/devanshranjan10/landmines) ![GitHub Repo stars](https://img.shields.io/github/stars/devanshranjan10/landmines?style=social) | 免费 |
 
 ### Agent 工作台与协作
 
