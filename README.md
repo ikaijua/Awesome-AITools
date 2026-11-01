@@ -123,6 +123,8 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Jev Decision Index | A Hugging Face Space tracking open-source reproductions and alternatives to TypeSafe's Jev (System One / RLCD). Combines a Decision Index leaderboard scoring models on structured-decision benchmarks with a News tab cataloging decoding tricks, diffusion-based approaches, and trained decision heads. | [Hugging Face](https://huggingface.co/spaces/multimodalart/jev-decision-index) | Free |
 
 ### AI Agent
+
+- [MemTether](https://github.com/MemTether/MemTether) - Governed cross-client memory hub for AI agents. Audit hash-chain, bi-temporal supersession, source attribution, conflict gate. `pip install memtether`
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Claude Code | 🌟 Anthropic's AI agent for code, file, and terminal tasks. Available in the terminal CLI, VS Code/Cursor/JetBrains IDE plugins, desktop app, and web.<br>Built on the Claude model family, it offers long-context codebase understanding, multi-file editing, shell command execution, MCP extensions, skills/hooks/subagents, CLAUDE.md project rules, and automatic memory. Supports Remote Control to continue local sessions from your phone or browser. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1093) [Comparison](https://github.com/ikaijua/Awesome-AITools/discussions/1116) | [GitHub](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social) | Free/Paid |
