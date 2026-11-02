@@ -473,6 +473,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Claude Video | Open-source tool that lets AI agents watch and summarize videos. Extracts frames, transcripts/captions from YouTube, TikTok, or local files and answers questions grounded in both visual and audio content. Works with Claude Code and 50+ agent hosts. | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
+| DescribePicture – AI Video Describer | Browser tool for non-developers: upload a video and get a written summary, highlights, a speech transcript or scene notes from preset prompts, and translate the output. Nothing to install; uploads are limited to 10 MB. | [URL](https://describepicture.org/describe-video/) | Free trial/Paid |
 
 ### Academic research
 | Name | Description | Links | Fees |
