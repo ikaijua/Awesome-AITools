@@ -448,6 +448,7 @@
 | buzz | 开源的离线语音转写与翻译桌面应用，支持 Windows、macOS（Apple Silicon）和 Linux。可转写音视频文件、YouTube 链接与麦克风实时输入，支持多种 Whisper 后端的 GPU 加速、说话人识别，以及 TXT/SRT/VTT 导出；内置转写结果查看器和文件夹监控，适合本地字幕制作及录音整理。 | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social) | 免费 |
 | whisperX | 开源模型，支持单词级时间戳对齐和发言人识别，生成结果含 srt/json。使用示例：[在 Google Colab 上生成 YouTube 字幕](https://github.com/JimLiu/whisper-subtitles/blob/main/whisperx_youtube_subtitle.ipynb)（免费 Colab GPU，2 小时 40 分钟视频约 6 分钟完成）| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |免费|
 | whisper-ctranslate2 | 免费开源的本地语音转录命令行工具，基于 faster-whisper/CTranslate2，兼容 OpenAI Whisper 的命令行工作流。支持批量推理、麦克风实时转录、字幕导出及可选的说话人分离；基础转录无需安装 PyTorch。 | [GitHub](https://github.com/Softcatala/whisper-ctranslate2) ![GitHub Repo stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=social) | 免费 |
+| Burncaps | 免安装的浏览器工具：为口播视频生成字幕，可校对任意词语，再将逐词动画字幕烧录进视频，或导出 SRT、VTT、ASS 字幕文件。视频不会上传；声音可能发送至其语音识别服务（手机默认使用，电脑需自行选择）。 | [官网](https://burncaps.app/) | 免费/付费 |
 | 飞书妙记 | 上传视频或音频即可转录为文字（官方名「妙记」，非「秒记」），可一键导出到飞书文档。处理速度很快：近 2 小时的视频约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes) | 免费，有企业付费版 |
 | 通义听悟 | 阿里旗下的语音转录应用 | [URL](https://tingwu.aliyun.com/) | 免费/付费 |
 |阿里云智能语音交互-语音识别API|试用版3个月免费试用期，录音文件识别免费额度:2小时/日|[URL](https://ai.aliyun.com/nls)|免费/付费|
