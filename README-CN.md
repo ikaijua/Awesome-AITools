@@ -193,6 +193,7 @@
 | AGENTS.md | 专门为 AI 编程智能体设计的代码库文档开放标准。通过提供结构化的上下文、指令和约束条件，帮助智能体更高效、更安全地工作。 | [GitHub](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | 免费 |
 | Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [GitHub](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
 | musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[GitHub](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
+| TestMu AI Test Manager | TestMu AI（原 LambdaTest）推出的 AI 原生测试用例管理工具：可根据文本、Jira 工单、PDF、图片、音频或视频生成结构化测试用例（含步骤、预期结果和优先级）；可将测试与 Jira、Azure DevOps、GitHub、GitLab 中的缺陷、需求和功能关联；支持从 TestRail、Zephyr、Xray 迁移。 | [URL](https://www.testmuai.com/test-manager/) | 免费/付费 |
 
 ### Agent 工作台与协作
 
