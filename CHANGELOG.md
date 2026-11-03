@@ -5,6 +5,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 ## November 2026
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
+- Added TestMu AI Test Manager to Code Review & Development Utilities: AI test case generation from text, Jira tickets, PDFs, images, audio or video (both EN/CN)
 
 ## October 2026
 - Updated Gemini entry to add Gemini 4 Carbon (Oct 28, 2026) — Google's strongest model, focused on cybersecurity and long-horizon agentic work, #1 on the Artificial Analysis Intelligence Index v5.0; gated rollout via Fairwind to cyber defenders first, with Argon remaining the broadly available flagship
