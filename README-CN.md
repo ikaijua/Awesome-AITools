@@ -253,6 +253,7 @@
 | Screenpipe | 可检索的屏幕文字与音频历史，通过 MCP 或本地 API 为回忆、会议笔记和工作总结提供上下文。原始历史默认保存在本地；启用云端 AI、转录、同步或外部集成时，相关上下文可能在设备外处理。<br>源码按 [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) 提供。支持 macOS、Windows 和 Linux。 | [GitHub](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) | 免费版有限制；[付费订阅](https://screenpipe.com/pricing) |
 | codesight | CLI 令牌（token）优化器和 AI 上下文生成器，内置 MCP 服务器。扫描代码库以提取路由、架构、组件和依赖项，将 AI 上下文令牌减少 9 倍至 13 倍。支持 Claude Code、Cursor、Copilot、Codex 和 Windsurf。零运行时依赖。 | [GitHub](https://github.com/Houseofmvps/codesight) ![GitHub Repo stars](https://img.shields.io/github/stars/Houseofmvps/codesight?style=social) | 免费 |
 | Understand Anything | 基于 AI 的代码库和知识库分析工具，构建交互式可视化知识图谱。支持多智能体分析、架构引导教程以及针对大型代码库的语义搜索。可作为 Claude Code、Cursor 等工具的插件使用。 | [GitHub](https://github.com/Egonex-AI/Understand-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social) | 免费 |
+| deja-vu | 本地零云端跨 Agent 记忆引擎、全文搜索与 MCP 服务器，支持在 43 款 AI 编程助手（Claude Code、Codex、Cursor、Gemini CLI、OpenCode、Aider、Windsurf、Copilot、Qwen Code 等）之间统一索引与召回历史会话、决策与排错记录。 | [GitHub](https://github.com/vshulcz/deja-vu) ![GitHub Repo stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=social) | 免费 |
 
 ### Agent Skills
 | 名称 | 说明 | 链接 | 费用 |
