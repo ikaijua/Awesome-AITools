@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added VideoUpscaler to Video Creation (both EN/CN): open-source cloud AI video upscaling and restoration up to 4K 60fps with REST API, remote MCP server, CLI, and SDKs
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
 
