@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added career-ops to General LLM Applications: open-source AI job search agent that runs in AI coding CLIs, scores jobs against your CV and tailors resumes, with the user submitting every application (both EN/CN)
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
 
