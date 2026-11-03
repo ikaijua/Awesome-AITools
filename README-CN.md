@@ -426,6 +426,7 @@
 | --- | --- | --- | --- |
 | Notion AI | AI辅助笔记软件，支持AI写作、总结、头脑风暴等功能 | [URL](https://www.notion.so)| 提供一定的免费AI试用额度，AI功能每月$10 |
 | Obsidian | 强大的本地优先 markdown 笔记工具，拥有丰富的 AI 插件生态 - 通过社区插件支持 AI 总结、RAG、智能笔记处理等功能 | [URL](https://obsidian.md/) | 免费/付费|
+| SystemSculpt | 开源（MIT）的 Obsidian AI 插件。桌面端可调用你已安装并登录的 Claude Code 或 Codex 与笔记库对话，无需 SystemSculpt 账号；也可在桌面和移动端使用托管的 SystemSculpt AI。对话和结果以 Markdown 笔记保存在库中。语义搜索、音频转写、文档处理等托管功能消耗点数。 | [URL](https://systemsculpt.com/?utm_source=awesome-aitools&utm_medium=directory&utm_campaign=listing_nov2026) [GitHub](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/SystemSculpt/obsidian-systemsculpt-ai?style=social) | 免费/付费 |
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) | 免費版本使用有文字字数限制/有付费升级版 |
 
 ### 翻译工具
