@@ -241,6 +241,7 @@
 | Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。 | [GitHub](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
 | bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
+| GoodExts | 免费的 X（Twitter）Chrome 扩展合集：视频下载、文章转 PDF、屏蔽、图片放大（XZoom，开源），以及本地 AI 桥接工具 AgentRelay——在你自己的 Windows 电脑上运行，把浏览器扩展和网页工作流接入已在使用的 AI 客户端（Codex、Grok Bot、Antigravity），复用现有会话，无需在每个工具里配置 API Key。无需注册账号。 | [官网](https://goodexts.com/zh) [AgentRelay](https://goodexts.com/agentrelay) | 免费 |
 
 ### Agent 记忆与上下文
 
