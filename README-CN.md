@@ -293,6 +293,7 @@
 ### 通用 LLM 应用
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| DocAsker | AI 驱动的客户文件收集与入职验证门户。通过免密码魔法链接收集文件，使用 AI Gatekeeper 在 3 秒内自动验证上传的 PDF、身份证件和税务/法律表格（自动拒绝模糊、过期或未签名的文件），并支持 WhatsApp/短信/邮件自动跟进。 | [URL](https://docasker.com) | 免费试用/付费 |
 | Google AI Studio | Google 的 Gemini 模型网页开发工作台，支持 **Gemini 4 Argon** 等模型，可调试提示词与多模态输入，并创建 API Key 接入应用。模型访问、额度与 API 计费取决于所选模型和账号，工作台可使用不代表所有模型调用免费。[可用的国家和地区](https://ai.google.dev/gemini-api/docs/available-regions#available_regions) | [URL](https://aistudio.google.com/) | 免费/付费 |
 |Cherry Studio|Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等；集成了流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等；支持 Ollama、LM Studio 本地模型部署|[GitHub](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social)|免费|
 | Helicone AI | 开源的 LLM 可观测性平台，用于记录、监控和调试 AI 应用。 | [GitHub](https://github.com/Helicone/helicone) ![GitHub Repo stars](https://img.shields.io/github/stars/Helicone/helicone?style=social) | 免费 |
