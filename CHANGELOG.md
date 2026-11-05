@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added OpenMontage Drama Studio (🌱) to Video Creation: self-hosted web studio for vertical AI short dramas with versioned character/scene/prop reference assets (both EN/CN)
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
 
