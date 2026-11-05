@@ -528,6 +528,7 @@
 | --- | --- | --- | --- |
 | BibiGPT | 音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等。注意：产品主体已转为商业 SaaS（bibigpt.co，订阅制），开源仓库仅保留 v1 历史代码| [GitHub](https://github.com/JimmyLv/BibiGPT-v1) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=social)|免费试用/付费|
 | Claude Video | 开源工具，让 AI 智能体能够"观看"并总结视频：从 YouTube、TikTok 或本地文件中提取关键帧、字幕/转录文本，并基于画面和音频内容回答问题。支持 Claude Code 及 50+ 智能体宿主。 | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
+| DescribePicture – AI 视频描述 | 面向非开发者的网页工具：上传视频，用预设指令生成文字摘要、精彩片段、语音转写或场景说明，并可翻译输出；无需安装，单个视频上限 10 MB。 | [URL](https://describepicture.org/describe-video/) | 免费试用/付费 |
 
 ### AI 检测器
 | 名称 | 说明 | 链接 | 费用 |
