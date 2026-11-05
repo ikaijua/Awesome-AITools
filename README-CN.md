@@ -384,6 +384,7 @@
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 | OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
+| OpenMontage Drama Studio | 🌱 自部署的 AI 竖屏短剧工作台。剧本、角色、场景、道具、分镜/镜头、配音、剪辑 7 个可编辑阶段；角色/场景/道具做成带版本的参考图资产，每个镜头引用资产，出视频前按台词检查镜头提示词。视频/图像走 Seedance/Seedream（付费 API）或自己的 ComfyUI，文本模型接任意 OpenAI 兼容接口，Docker Compose 部署。 | [GitHub](https://github.com/charliewwdev/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/charliewwdev/OpenMontage?style=social), [演示](https://openmontage.dtok.io) | 开源（AGPL-3.0），模型 API 付费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
