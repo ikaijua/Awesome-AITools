@@ -528,6 +528,7 @@
 | --- | --- | --- | --- |
 | BibiGPT | 音视频内容 AI 一键总结：哔哩哔哩、YouTube、网页、播客、会议、本地文件等。注意：产品主体已转为商业 SaaS（bibigpt.co，订阅制），开源仓库仅保留 v1 历史代码| [GitHub](https://github.com/JimmyLv/BibiGPT-v1) ![GitHub Repo stars](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=social)|免费试用/付费|
 | Claude Video | 开源工具，让 AI 智能体能够"观看"并总结视频：从 YouTube、TikTok 或本地文件中提取关键帧、字幕/转录文本，并基于画面和音频内容回答问题。支持 Claude Code 及 50+ 智能体宿主。 | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | 免费 |
+| Scribiz | 双层视频信息提取工具：同时提取语音转录文本（带时间戳与说话人区分）和经场景去重的画面 OCR 文字（幻灯片、代码块、终端命令），并生成摘要与章节。支持 YouTube、TikTok、Instagram 链接及本地音视频文件导出为 SRT/VTT/Markdown/JSON。提供免注册网页端（可免费处理 1 个 2 小时内视频）、CLI（`npx scribiz`）、REST API 以及供 Claude、Cursor 和 Codex 直接连接的远程 MCP 服务器（`https://scribiz.com/mcp`）。 | [URL](https://scribiz.com) <br> [GitHub](https://github.com/Illyism/scribiz-mcp) | 免费/付费 |
 
 ### AI 检测器
 | 名称 | 说明 | 链接 | 费用 |

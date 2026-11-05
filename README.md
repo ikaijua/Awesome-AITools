@@ -474,6 +474,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Claude Video | Open-source tool that lets AI agents watch and summarize videos. Extracts frames, transcripts/captions from YouTube, TikTok, or local files and answers questions grounded in both visual and audio content. Works with Claude Code and 50+ agent hosts. | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
+| Scribiz | Two-layer video extraction that captures both spoken audio transcripts (with timestamps and speaker labels) and scene-deduped on-screen OCR text (slides, code blocks, terminal commands) from YouTube, TikTok, Instagram, or uploaded video/audio files, plus summaries and chapters. Available as a web tool (1 free video up to 2 hours without sign-up), CLI (`npx scribiz`), REST API, and hosted Streamable HTTP MCP server (`https://scribiz.com/mcp`) for Claude, Cursor, and Codex. | [URL](https://scribiz.com) <br> [GitHub](https://github.com/Illyism/scribiz-mcp) | Free/Paid |
 
 ### Academic research
 | Name | Description | Links | Fees |
