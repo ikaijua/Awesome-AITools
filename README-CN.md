@@ -348,6 +348,7 @@
 | Midjourney | 以顶尖美学质量和风格一致性著称的消费级 AI 图像工具。输入文字或图片进行图片创作，当前默认模型 **Midjourney V8.2**（2026 年 7 月 24 日发布）。 | [URL](https://www.midjourney.com) | 付费 |
 | 通义万相 | 阿里旗下的文生图和AI图片创作应用| [URL](https://wanxiang.aliyun.com/) | 免费 |
 | ideogram.ai | AI 文字生成图片的网站。当前版本 **Ideogram 4.5**（主打局部精确编辑、多轮编辑无伪影、原生 2K）；**Ideogram 4.0** 为其开放权重基础模型。由前谷歌 AI 绘画团队创立的公司推出。 | [URL](https://ideogram.ai/) | 免费 |
+| FontVibe | 以文字和字效为核心的 AI 设计工具：输入文字，选一款 AI 字体（涂鸦、泡泡、3D、霓虹、金属等，共数百款）或一种视觉风格，直接生成 Logo、缩略图、海报、贺卡等成品图。输出 PNG/JPG（支持透明 PNG），不生成可安装的字体文件。另提供可接入 Claude、ChatGPT、Cursor 的 MCP Server，以及免费的 Unicode 花样字工具。 | [URL](https://fontvibe.ai/zh) | 免费/付费 |
 |Z-Image|Z-Image是阿里巴巴通义实验室（Tongyi Lab）于近期开源的一款高性能图像生成模型。它主打“极速”与“高质量”的平衡，非常适合需要快速出图的场景。Z-Image-Turbo在线demo: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo|[GitHub](https://github.com/Tongyi-MAI/Z-Image) ![GitHub Repo stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social)|免费|
 | Stable diffusion webui | 开源项目，输入文字或图片进行图片创作，Stable Diffusion WebUI 是 Stable Diffusion 的 GUI，支持 SD1.x/2.x、SDXL 与 SD3.x，不支持 Flux；<br>项目自 2024 年 v1.10.1 后基本停更，新用户建议改用 Forge（Neo）或 ComfyUI。[新手入门教程](https://www.bilibili.com/video/BV1Qo4y167AK/) | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social) | 免费 |
 | civitai | Civitai(C站)是一个用于分享AI图像创作模型资源的网站平台，拥有大量模型，已成为SD开源社区主要的模型交流场所 |[URL](https://civitai.com/)|免费|
