@@ -344,6 +344,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
 | Stitch | Google Labs' AI-powered UI design tool for "vibe design." Generate high-fidelity multi-screen prototypes, design systems, and frontend code from text prompts, sketches, or voice; export to Figma or Google AI Studio, with MCP server and SDK for coding agents. | [URL](https://stitch.withgoogle.com/) | Free |
 | Anatomy | A Claude Code / Codex / OpenCode / Antigravity skill that explains technical ideas by building them as interactive isometric figures. Instead of boxes and arrows, it invents a physical object whose working *is* the concept—token bucket rate limiter becomes a pin-tumbler lock, GPU context sharing becomes a gantry plotter—and renders it via a custom kit as SVG, SVG+WebGL shader, or true 3D. Outputs standalone HTML, a lone SVG, or React/Next.js components, with built-in geometry audit and headless-Chrome verification. | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | Free |
+| Photta | AI product photography studio and embedded e-commerce virtual try-on widget that turns single garment, jewelry, or eyewear photos into on-model lookbooks, 3D ghost mannequins, and live customer try-on experiences. | 1. [URL](https://www.photta.app)<br>2. [B2B Widget](https://www.photta.app/business) | Free/Paid |
 
 ### Video Creation
 
