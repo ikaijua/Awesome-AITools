@@ -364,6 +364,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Seedance | 🌟 字节跳动的视频生成模型系列。**Seedance 2.5** 驱动即梦 / 小云雀等产品：支持 30 秒单次生成，原生 480p/720p/1080p（默认 720p；4K 由 Seedance 2.0 提供），最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑。人物动作一致性与镜头语言表现突出，适合短视频与广告内容生产。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) · [Skills](https://github.com/ikaijua/Awesome-AITools/discussions/1111#discussioncomment-18726373) · [实测对比](https://github.com/ikaijua/Awesome-AITools/discussions/1124) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
+| Gemini Omni | Google DeepMind 的视频生成模型系列，主打对话式多镜头创作：可从文本、图片或单张风格图出片，再用多轮对话持续精修同一片段，具备电影级运镜控制与较强的参考素材忠实度，360p/720p 草稿可放大到 1080p/4K。覆盖 Gemini API、Google AI Studio、Google Cloud，并进入 Google Flow、Vids、Ads 等产品。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1591) | [URL](https://deepmind.google/models/gemini-omni/) | 免费/付费 |
 | MiniMax H3 | 🌱 MiniMax 开源的通用多模态生成系统，支持文生视频、图生视频、首尾帧生视频、文生音视频等，可通过 SGLang、vLLM、diffusers、ComfyUI 本地部署。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1114) | [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-H3?style=social), [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-H3) | 免费 |
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) |[URL](https://xyq.jianying.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
