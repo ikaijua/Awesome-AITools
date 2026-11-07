@@ -406,6 +406,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
+| UnimeType | Cross-platform multilingual input method and online converter that turns mixed-script Latin drafts (Pinyin, Romaji, Hinglish, Arabizi, Translit + English) into native script across whole sentences while preserving English words and code intact, with in-place Polish/Explain and open-weight Apache-2.0 local models (`0.8B`/`4B`). | [URL](https://unimetype.com)<br>[Hugging Face](https://huggingface.co/UnimeType) | Free web converters, free local offline mode & 1,000 starter credits; Cloud Unlimited $4.99/month |
 
 
 ### Translation

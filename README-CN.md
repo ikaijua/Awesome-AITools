@@ -428,6 +428,7 @@
 | Notion AI | AI辅助笔记软件，支持AI写作、总结、头脑风暴等功能 | [URL](https://www.notion.so)| 提供一定的免费AI试用额度，AI功能每月$10 |
 | Obsidian | 强大的本地优先 markdown 笔记工具，拥有丰富的 AI 插件生态 - 通过社区插件支持 AI 总结、RAG、智能笔记处理等功能 | [URL](https://obsidian.md/) | 免费/付费|
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) | 免費版本使用有文字字数限制/有付费升级版 |
+| UnimeType | 跨平台免切换多语言混输输入法与在线转换工具，支持在一个英文键盘上连续输入拼音、罗马音、Hinglish、Arabizi、俄语拉丁转写与英文混排句子并按需整句转换（自动保留英文单词与代码标识符），内置原位润色（Polish）、上下文解释（Explain）及 Apache-2.0 开源本地模型（`0.8B`/`4B`）。 | [URL](https://unimetype.com)<br>[Hugging Face](https://huggingface.co/UnimeType) | 网页转换工具与本地离线模式免费，注册赠 1,000 积分；云端无限版 $4.99/月 |
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 |
