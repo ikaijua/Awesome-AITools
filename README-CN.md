@@ -339,6 +339,7 @@
 ### AI 图像创作与 UI 设计
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| PicYep | 用一句话或一张参考图生成真人写真、证件照、自拍和宠物写真的 AI 照片工具；最多 4 人同框（每人一张参考图）；生成前显示积分消耗，失败自动退还；可免费试用，付费套餐从 $12/月起。 | [URL](https://picyep.com/) | 免费/付费 |
 | GPT Image |🌟 OpenAI 最新的图像生成模型 GPT Image 2.5（2026 年 9 月）。速度提升约 50%，画面更逼真，支持精准局部编辑，新增 Sketch 草图功能；API 提供 GPT-Image-2.5 Flare 与 Sunburst 两个模型。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/959)|[URL](https://chatgpt.com/images)|免费/付费|
 | Nano Banana | 🌟 谷歌的图像生成与编辑模型系列，LMArena 文生图与图像编辑榜前列。当前主力 **Nano Banana 2.1**（2026 年 10 月 6 日）：蒙版局部编辑与跨轮次主体一致性业界领先，多图叙事角色不掉——出图价格还约为上代一半；旧版 Nano Banana 2 将于 10 月 29 日停用。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1160) | [URL](https://aistudio.google.com/) | 免费/付费 |
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|
