@@ -5,6 +5,8 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/stargazers"><img src="https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=social" alt="Stars"></a>
     <a href="https://github.com/ikaijua/Awesome-AITools/network/members"><img src="https://img.shields.io/github/forks/ikaijua/Awesome-AITools?style=social" alt="Forks"></a>
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
+    <br>
+    <sub>Weekly new entries: click <b>Watch → Custom → Releases</b>, or <a href="https://github.com/ikaijua/Awesome-AITools/releases.atom">subscribe via RSS</a></sub>
 </div>
 
 English | [中文](README-CN.md)
