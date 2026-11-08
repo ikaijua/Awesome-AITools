@@ -1,0 +1,60 @@
+name: Traffic Snapshot
+
+# GitHub keeps traffic data for 14 days only. This archives the rolling window
+# daily onto the traffic-data branch so channel attribution survives.
+on:
+  schedule:
+    - cron: "17 1 * * *" # 09:17 Beijing, every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: traffic-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    if: github.repository == 'ikaijua/Awesome-AITools'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@v4
+
+      - name: Unit tests
+        run: python3 -m unittest discover -s scripts -p 'test_traffic_snapshot.py'
+
+      - name: Snapshot and archive to traffic-data
+        env:
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+        run: |
+          set -euo pipefail
+          cp scripts/traffic_snapshot.py /tmp/traffic_snapshot.py
+          if [ -z "${TRAFFIC_TOKEN:-}" ]; then
+            echo "::notice title=Traffic token missing::Create a fine-grained PAT scoped to this repo with Administration: read and save it as the repository secret TRAFFIC_TOKEN. Until then, open /graphs/traffic in a logged-in browser."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "+refs/heads/traffic-data:refs/remotes/origin/traffic-data" || true
+          if git rev-parse --verify origin/traffic-data >/dev/null 2>&1; then
+            git checkout -B traffic-data origin/traffic-data
+          else
+            git checkout --orphan traffic-data
+            git rm -rf --quiet . || true
+            printf '%s\n' '# Traffic archive' '' \
+              'Daily GitHub Traffic API snapshots for ikaijua/Awesome-AITools.' \
+              'The API only keeps 14 days; these CSVs are the permanent record.' \
+              'Written by .github/workflows/traffic.yml — do not edit by hand.' > README.md
+          fi
+          mkdir -p data/traffic
+          python3 /tmp/traffic_snapshot.py --outdir data/traffic > /tmp/traffic-summary.md
+          cat /tmp/traffic-summary.md
+          git add -f data/traffic README.md
+          if git diff --cached --quiet; then
+            echo "Traffic data unchanged since the last snapshot."
+            exit 0
+          fi
+          git commit -q -m "chore: archive traffic snapshot $(date -u +%F) [skip ci]"
+          git push origin HEAD:refs/heads/traffic-data
