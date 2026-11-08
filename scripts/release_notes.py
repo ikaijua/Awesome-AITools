@@ -95,7 +95,7 @@ def main():
 
     added = [k for k in new if k not in old]
     removed = [k for k in old if k not in new]
-    if len(added) < args.min and not removed:
+    if len(added) < args.min:
         print(f"新增 {len(added)} 条，低于阈值 {args.min}，跳过发布。", file=sys.stderr)
         return 3
 
@@ -106,7 +106,9 @@ def main():
 
     lines = []
     if added:
-        lines.append(f"本期收录 **{len(added)}** 个新工具，分布在 **{len(by_cat)}** 个分类。")
+        lines.append(
+            f"This week: **{len(added)}** new tools across **{len(by_cat)}** categories."
+        )
         lines.append("")
         for cat, items in by_cat.items():
             lines.append(f"### {cat}")
@@ -116,24 +118,24 @@ def main():
                 lines.append(f"- {t} — {short(desc)}")
             lines.append("")
     if removed:
-        lines.append(f"### 改名或移出（{len(removed)} 条，改名可忽略）")
+        lines.append(f"### Renamed or removed ({len(removed)}; renames can be ignored)")
         lines.append("")
         for name in removed[:8]:
-            lines.append(f"- {name}（{old[name][0]}）")
+            lines.append(f"- {name} (was under {old[name][0]})")
         if len(removed) > 8:
-            lines.append(f"- …另有 {len(removed) - 8} 条，见 CHANGELOG")
+            lines.append(f"- …plus {len(removed) - 8} more, see CHANGELOG")
         lines.append("")
     lines.append("---")
     lines.append("")
     lines.append(
-        f"完整列表：[README](https://github.com/{args.repo}#readme) · "
+        f"Full list: [README](https://github.com/{args.repo}#readme) · "
         f"[中文版](https://github.com/{args.repo}/blob/main/README-CN.md) · "
-        f"[历史更新](https://github.com/{args.repo}/blob/main/CHANGELOG.md)"
+        f"[Changelog](https://github.com/{args.repo}/blob/main/CHANGELOG.md)"
     )
     lines.append("")
     lines.append(
-        "> 想持续收到更新：本页右上角 **Watch → Custom → Releases**；"
-        f"也可订阅 [Releases RSS](https://github.com/{args.repo}/releases.atom)。"
+        "> Get future updates: **Watch → Custom → Releases** on this repo, "
+        f"or subscribe via [Releases RSS](https://github.com/{args.repo}/releases.atom)."
     )
     print("\n".join(lines))
     print(f"added={len(added)} removed={len(removed)}", file=sys.stderr)
