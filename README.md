@@ -124,7 +124,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 
 ### AI Agent
 
-- [MemTether](https://github.com/MemTether/MemTether) - Governed cross-client memory hub for AI agents. Audit hash-chain, bi-temporal supersession, source attribution, conflict gate. `pip install memtether`
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub for AI agents. Local-first, SQLite-backed, MCP server included. Apache-2.0.
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Claude Code | 🌟 Anthropic's AI agent for code, file, and terminal tasks. Available in the terminal CLI, VS Code/Cursor/JetBrains IDE plugins, desktop app, and web.<br>Built on the Claude model family, it offers long-context codebase understanding, multi-file editing, shell command execution, MCP extensions, skills/hooks/subagents, CLAUDE.md project rules, and automatic memory. Supports Remote Control to continue local sessions from your phone or browser. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1093) [Comparison](https://github.com/ikaijua/Awesome-AITools/discussions/1116) | [GitHub](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social) | Free/Paid |
