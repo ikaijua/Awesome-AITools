@@ -284,6 +284,7 @@
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
 | ArtificialWatch | 新 AI 模型发布即时提醒，覆盖各大实验室。每 60 秒扫描厂商 API，只有新模型真正响应 API 请求才会提醒；公开记录每次发布的首次发现与确认时间。邮件和推送提醒免费，付费方案增加短信和电话提醒。 | [官网](https://artificialwatch.com) | 免费/付费 |
 | NeoLabs | 按估值对 100+ 家 AI 研究实验室做的主观排名，给出清晰的「neolab」定义（顶尖研究员、重算力、无显著营收、$2.5 亿+ 融资），并对每家是否契合逐一判定。快速看清谁在造前沿模型、实验室格局如何演化。 | [官网](https://debarghyadas.com/neolabs/) | 免费 |
+| StarHOT | 跟踪 130 个 AI 来源，把同一事件的多方报道合成一篇，附来源链接、短简报和看点。另有日报、周报、月报和新兴术语雷达。英文在根路径，中文在 /zh。上游为开源项目 AIHOT。 | [官网](https://www.starhot.space/)、[中文](https://www.starhot.space/zh)、[RSS](https://www.starhot.space/feed.xml) | 免费 |
 
 ### AI 安全与逆向工程
 | 名称 | 说明 | 链接 | 费用 |
