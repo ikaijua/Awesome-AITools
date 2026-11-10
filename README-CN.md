@@ -407,6 +407,7 @@
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|目前最全面的主流 AI 工具（Cursor, Claude Code, Windsurf, Trae, v0 等）系统提示词、工具定义和模型配置集合。是研究提示词工程（Prompt Engineering）和 AI Agent 架构设计的终极参考。|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|免费|
+|Prompt Generator|按你所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、DeepSeek、Grok 等对话模型，Midjourney、Nano Banana、GPT Image、FLUX、Seedream、Stable Diffusion 等图像模型，以及 Veo、Sora、Kling、Seedance、Runway 等视频模型，可设置语气、长度、风格、画幅和镜头。支持上传图片反推提示词（Image to Prompt）。免费使用，无需注册，每天 10 次。|[URL](https://trypromptgenerator.com)|免费/付费|
 
 ### 大语言模型训练与评估平台
 | 名称 | 说明 | 链接 | 费用 |

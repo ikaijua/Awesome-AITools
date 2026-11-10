@@ -390,6 +390,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 |System Prompts and Models of AI Tools|The most comprehensive collection of system prompts, tool definitions, and model configurations for mainstream AI tools (Cursor, Claude Code, Windsurf, Trae, v0, etc.). Essential for studying Prompt Engineering and AI Agent architectures.|[GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social)|Free|
+|Prompt Generator|Writes prompts in the syntax of the AI tool you pick: chat assistants (ChatGPT, Claude, Gemini, DeepSeek, Grok), image models (Midjourney, Nano Banana, GPT Image, FLUX, Seedream, Stable Diffusion) and video models (Veo, Sora, Kling, Seedance, Runway), with options for tone, length, style, aspect ratio and camera. Image to prompt writes the prompt that recreates an uploaded picture for a chosen image model. Free daily allowance without an account.|[URL](https://trypromptgenerator.com)|Free/Paid|
 
 ### LLM training platform
 | Name | Description | Links | Fees |
