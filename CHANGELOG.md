@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added PolyDraft to Coding Agents: AI website builder that researches, writes and builds a complete site, then publishes to infrastructure you own
 - Added Gemini Omni to Video Creation, plus EN/CN deep-dive discussions
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
