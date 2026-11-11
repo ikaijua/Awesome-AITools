@@ -19,6 +19,10 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 - [AI News](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22ai%E2%80%91news%E2%80%91en%22)
 - [Become Sponsors](#become-sponsors)
 
+## 💎 Sponsor
+
+A huge thank you to our sponsors! Want to appear here? [Contact us](#become-sponsors).
+
 ## **Website & Autofill Extension**
 
 [![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua)
@@ -44,10 +48,6 @@ Experience an advanced career journey with us! 🚀
 </a> </p>
 
 <p align="right"><sub>Sponsored by Zapply</sub></p>
-
-## 💎 Sponsor
-
-A huge thank you to our sponsors! Want to appear here? [Contact us](#become-sponsors).
 
 <details open>
 <summary>Click to collapse</summary>
