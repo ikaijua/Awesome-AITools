@@ -26,8 +26,6 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 <details open>
 <summary>Click to collapse</summary>
 
-## **Website & Autofill Extension**
-
 [![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua)
 
 Explore Zapply's website and check out:
