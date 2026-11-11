@@ -23,6 +23,9 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 A huge thank you to our sponsors! Want to appear here? [Contact us](#become-sponsors).
 
+<details open>
+<summary>Click to collapse</summary>
+
 ## **Website & Autofill Extension**
 
 [![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua)
@@ -49,8 +52,6 @@ Experience an advanced career journey with us! 🚀
 
 <p align="right"><sub>Sponsored by Zapply</sub></p>
 
-<details open>
-<summary>Click to collapse</summary>
 <br>
 <table>
   <tr>
