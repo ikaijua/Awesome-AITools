@@ -442,6 +442,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 
 ### Voice Cloning & Conversion
 
+- [Kolivri](https://kolivri.com) - AI Voice Call Center & CRM with sub-second phone agents in 8 languages, persistent cross-call memory, and [MCP server](https://github.com/kolivritech/kolivri-voice-mcp).
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | ElevenLabs | Industry-leading AI voice synthesis and voice conversion tool. Current flagship **Eleven v3** is generally available; offers highly realistic text-to-speech, voice cloning (with just a few minutes of audio), and voice changing capabilities. Supports multiple languages and emotional speech. | [URL](https://elevenlabs.io/) | Free/Paid |
