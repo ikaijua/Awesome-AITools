@@ -1,0 +1,75 @@
+name: Weekly Release
+
+on:
+  schedule:
+    - cron: "0 11 * * 6" # 每周六 19:00（北京时间）= 周六 11:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-release
+  cancel-in-progress: false
+
+env:
+  # 新增条数低于该值就不发，防止 Release 噪音（首次运行可手动传 1）
+  MIN_COUNT: "2"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 计算基线
+        id: base
+        run: |
+          prev=$(git tag -l 'weekly-*' --sort=-v:refname | head -1)
+          if [ -z "$prev" ]; then
+            prev=$(git log -1 --before="7 days ago" --format=%H)
+            echo "没有历史 tag，用 7 天前的 commit 作基线"
+          fi
+          if [ -z "$prev" ]; then
+            prev=$(git rev-list --max-parents=0 HEAD | head -1)
+            echo "仓库年轻，用首个 commit 作基线"
+          fi
+          echo "ref=$prev" >> "$GITHUB_OUTPUT"
+          echo "baseline: $prev"
+
+      - name: 生成 Release 说明
+        id: notes
+        run: |
+          set +e
+          python3 scripts/release_notes.py --from-ref "${{ steps.base.outputs.ref }}" --min "$MIN_COUNT" \
+            > /tmp/notes.md 2> /tmp/notes.err
+          code=$?
+          cat /tmp/notes.err
+          if [ "$code" -eq 3 ]; then
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+            exit 0
+          elif [ "$code" -ne 0 ]; then
+            echo "生成失败，退出码 $code"
+            exit 1
+          fi
+          added=$(sed -n 's/.*added=\([0-9]*\).*/\1/p' /tmp/notes.err | head -1)
+          echo "added=${added:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: 发布
+        if: steps.notes.outputs.skip != '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ADDED: ${{ steps.notes.outputs.added }}
+        run: |
+          tag="weekly-$(date -u +%G-W%V)"
+          title="W$(date -u +%V) · 本周新增 ${ADDED} 个工具"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo "$tag 已存在，跳过"
+            exit 0
+          fi
+          gh release create "$tag" \
+            --title "$title" \
+            --notes-file /tmp/notes.md \
+            --target main

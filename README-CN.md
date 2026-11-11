@@ -5,6 +5,8 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/stargazers"><img src="https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=social" alt="Stars"></a>
     <a href="https://github.com/ikaijua/Awesome-AITools/network/members"><img src="https://img.shields.io/github/forks/ikaijua/Awesome-AITools?style=social" alt="Forks"></a>
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
+    <br>
+    <sub>每周新增收录：点右上角 <b>Watch → Custom → Releases</b>，或 <a href="https://github.com/ikaijua/Awesome-AITools/releases.atom">订阅 RSS</a></sub>
 </div>
 
 [English](README.md) | 中文
@@ -131,7 +133,7 @@
 | --- | --- | --- | --- |
 | Claude Code | 🌟 Anthropic 推出的 AI 智能体，可处理代码、文件与终端任务。支持终端 CLI、VS Code/Cursor/JetBrains IDE 插件、桌面 App 和 Web，<br>基于 Claude 系列模型，具备长上下文代码理解、跨文件编辑、shell 命令执行、MCP 扩展、Skills/Hooks/子代理、CLAUDE.md 项目规则与自动记忆能力；支持 Remote Control，可从手机或浏览器继续本地会话。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1104) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [URL](https://docs.anthropic.com/en/docs/claude-code/quickstart) [GitHub](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social) | 免费/付费 |
 | Codex | 🌟 OpenAI 推出的开源（Apache-2.0）终端 AI 智能体，使用 Rust 编写。支持终端 CLI、VS Code/Cursor/Windsurf 等 IDE 扩展、Codex App/桌面体验及 Codex Web 云端任务；<br>可直接理解并修改代码，内置内核级沙箱、MCP、Skills/Plugins/Hooks、子代理，通过 ChatGPT relay 在手机/桌面/Web 之间同步活跃会话，并支持 Remote SSH 连接远程环境。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1079) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social) | 免费/付费 |
-| WorkBuddy | 🌟 腾讯推出的全场景 AI 智能体桌面工作台（“腾讯龙虾”）。支持自然语言派活，自主规划并操作本地文件、Office、文件夹完成复杂办公任务；可接入微信、企业微信、QQ、飞书、钉钉，数据支持本地运算。<br>免费版每月赠送 500 积分（新用户另有额外赠送额度），轻度使用完全够用。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1073) | [URL](https://www.codebuddy.cn/work/) | 免费/付费 |
+| WorkBuddy | 🌟 腾讯推出的全场景 AI 智能体桌面工作台（“腾讯龙虾”）。支持自然语言派活，自主规划并操作本地文件、Office、文件夹完成复杂办公任务；可接入微信、企业微信、QQ、飞书、钉钉，数据支持本地运算。<br>免费版每月赠送 500 积分（新用户另有额外赠送额度），轻度使用完全够用。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1073) | [URL](https://www.workbuddy.cn/events/invite?inviteCode=1fd88lsfd5oq5i) | 免费/付费 |
 | Kimi Code | 🌟 月之暗面推出的 AI 智能体 CLI，在终端中运行。<br>可读取和编辑代码、执行 shell 命令、搜索文件、抓取网页，并根据反馈规划下一步。支持视频输入、AI 原生 MCP 配置、子代理、生命周期钩子以及 ACP 编辑器集成（Zed、JetBrains）。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/975) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/MoonshotAI/kimi-code) ![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=social) | 免费 |
 | OpenCode | 开源的终端原生 AI 智能体。不绑定特定厂商（支持 Anthropic、OpenAI、Google 及本地模型），采用 TUI 客户端/服务端架构，集成 LSP，支持自定义 agent 和 MCP 服务器。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1438) | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | 免费 |
 | oh-my-pi | @can1357 维护的 Pi fork。终端原生 AI 智能体，深度集成 IDE 能力：LSP、DAP 调试器、Python/Bun 代码执行、40+ 模型提供商和 32 个内置工具。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1442) | [GitHub](https://github.com/can1357/oh-my-pi) ![GitHub Repo stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=social) | 免费 |
@@ -242,6 +244,7 @@
 | Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。 | [GitHub](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
 | bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
+| Firecrawl | 面向 AI 智能体的开源上下文 API（AGPL-3.0，核心可自托管）：搜索网页（可按需返回完整页面内容），把任意 URL 抓取为干净的 Markdown 或结构化 JSON，解析 PDF 等文档，爬取整站，获取站点全部 URL，在真实浏览器中与页面交互（点击、填写表单、处理动态页面），运行智能体任务做多来源调研，并监控页面变化。可通过托管 API、Python / Node SDK、CLI 使用，也可通过 [MCP 服务器](https://github.com/firecrawl/firecrawl-mcp-server) 接入 Claude Code、Cursor 等 MCP 客户端，或为编程智能体安装 [Firecrawl Skills](https://github.com/firecrawl/skills)。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1619) | [URL](https://www.firecrawl.dev/?utm_source=awesome-aitools&utm_medium=integration) [GitHub](https://github.com/firecrawl/firecrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social) | 免费/付费 |
 
 ### Agent 记忆与上下文
 
@@ -366,6 +369,7 @@
 | --- | --- | --- | --- |
 | Seedance | 🌟 字节跳动的视频生成模型系列。**Seedance 2.5** 驱动即梦 / 小云雀等产品：支持 30 秒单次生成，原生 480p/720p/1080p（默认 720p；4K 由 Seedance 2.0 提供），最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑。人物动作一致性与镜头语言表现突出，适合短视频与广告内容生产。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) · [Skills](https://github.com/ikaijua/Awesome-AITools/discussions/1111#discussioncomment-18726373) · [实测对比](https://github.com/ikaijua/Awesome-AITools/discussions/1124) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
 | MiniMax H3 | 🌱 MiniMax 开源的通用多模态生成系统，支持文生视频、图生视频、首尾帧生视频、文生音视频等，可通过 SGLang、vLLM、diffusers、ComfyUI 本地部署。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1114) | [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-H3?style=social), [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-H3) | 免费 |
+| Gemini Omni | Google DeepMind 的视频生成模型系列，主打对话式多镜头创作：可从文本、图片或单张风格图出片，再用多轮对话持续精修同一片段，具备电影级运镜控制与较强的参考素材忠实度，360p/720p 草稿可放大到 1080p/4K。覆盖 Gemini API、Google AI Studio、Google Cloud，并进入 Google Flow、Vids、Ads 等产品。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1591) | [URL](https://deepmind.google/models/gemini-omni/) | 免费/付费 |
 | 小云雀 |小云雀app是由字节跳动旗下剪映推出的AI视频和图片创作助手,支持AI智能成片、数字人视频、AI设计、AI换背景等多种功能，可以免费试用 Seedance 2.5, [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) |[URL](https://xyq.jianying.com/) |免费/付费|
 | 豆包 | 字节跳动旗下的AI视频创作助手，支持文生视频、图生视频、数字人视频等多种功能 |[URL](https://www.doubao.com/) |免费/付费|
 | 即梦AI|字节跳动旗下的文生图、AI视频生成和AI图片编辑应用|[URL](https://jimeng.jianying.com/ai-tool/home)|免费/付费|

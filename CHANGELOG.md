@@ -3,8 +3,10 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added Gemini Omni to Video Creation, plus EN/CN deep-dive discussions
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
+- Added Firecrawl (open-source context API for AI agents) to Browser & Computer Automation
 - Added TestMu AI Test Manager to Code Review & Development Utilities: AI test case generation from text, Jira tickets, PDFs, images, audio or video (both EN/CN)
 
 ## October 2026
