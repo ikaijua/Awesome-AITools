@@ -538,3 +538,4 @@ Interested in sponsoring this project? Feel free to reach out!
 ---
 
 This list is licensed under [CC BY 4.0](LICENSE) — free to share, translate, and reuse it with attribution.
+| GiftPilot | Free AI gift finder that turns a plain-language description of a person into real gift ideas from partner shops, with prices and reasons. No signup. | [URL](https://thegiftpilot.ai/) | Free |
