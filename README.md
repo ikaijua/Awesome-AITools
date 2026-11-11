@@ -275,6 +275,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | AI Weekly | Independent AI news newsletter, 3x/week since 2015, read by 44,000+ professionals. The few AI stories that matter, solo-edited. Proprietary AI Weekly Index, quarterly State-of-AI recap, Who's-Who-of-AI graph (2,335 figures), and an 11-year archive. | [Official Site](https://aiweekly.co) | Free |
 | ArtificialWatch | Alerts the minute a new AI model is released, across labs. Sweeps provider APIs every 60 seconds and fires only when a model answers a real API request; a public track record logs first-seen and confirmed times. Free email + push; paid SMS and phone call. | [Official Site](https://artificialwatch.com) | Free/Paid |
 | NeoLabs | Curated, opinionated ranking of 100+ AI research labs by valuation, with a sharp "neolab" definition (elite researchers, heavy compute, no revenue traction, $250M+ raise) and a per-lab verdict on fit. A fast read on who is building frontier models and how the lab landscape is shifting. | [Official Site](https://debarghyadas.com/neolabs/) | Free |
+| AGIPicks | Task-first AI tool finder: describe a job (e.g. "transcribe interviews", "AI receptionist") and get matching tools with steps to start. 1,000+ tools whose pricing, free plans and trials are checked against official sites, with alternatives and pricing pages per tool; listings cannot pay for ranking. Uses affiliate links on some tools. | [Official Site](https://agipicks.com) | Free |
 
 ### AI Security & Reverse Engineering
 | Name | Description | Links | Fees |
