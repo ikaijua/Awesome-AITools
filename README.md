@@ -26,6 +26,10 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 <details open>
 <summary>Click to collapse</summary>
 
+<br>
+
+Zapply is a job-application platform with an autofill Chrome extension, a dedicated job board, multiple resume profiles, and application tracking.
+
 [![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua)
 
 Explore Zapply's website and check out:
