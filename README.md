@@ -87,6 +87,7 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 | Dola | ByteDance's AI assistant. Current flagship: **Doubao-Seed-2.1 Pro**. **Differentiation:** clean, intuitive UI with strong general capabilities — straightforward chat experience for everyday tasks. | 1. [URL](https://www.dola.com/)<br>2. [API](https://www.volcengine.com/product/ark) | Free |
 | Meta Muse | 🌱 Meta's personal AI agent for booking travel, shopping, forms, and email/calendar work. It runs tasks in an isolated VM and requests approval for sensitive actions. **Muse Wonder** is planned for subscriber-first rollout in Muse; Wonder is already available through the Meta Model API and Muse Code, while Wonder Full is offered to Muse Code subscribers. Regional rollout for adults, with free and paid plans; check the official site for current access.<br>[More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1011) | [URL](https://muse.ai/) | Free/Paid |
 
+[Export Gemini Chats to PDF](https://chromewebstore.google.com/detail/mmgbhlbbnlpcndmhgnghhembmincbibd) - Export Gemini chat history to PDF & Markdown. Easily backup AI conversations with full cloud storage sync.
 ### Decision Models
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
