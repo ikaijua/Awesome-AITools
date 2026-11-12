@@ -462,6 +462,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Grok Voice 3.0 | xAI's real-time speech-to-speech model for conversational agents and customer-support calls. Supports natural turn-taking, interruptions, multilingual conversation, and tool-driven workflows, with company-reported first-audio latency below one second. Available through the Voice Agent API; `grok-voice-latest` points to the current version. Billed at **$0.08/minute**; model quality and task costs depend on the workload. | [Official overview](https://x.ai/news/grok-voice-3)<br>[API documentation](https://docs.x.ai/developers/model-capabilities/audio/voice) | Paid |
 |vocalremover| Extract vocal and music|[URL](https://vocalremover.org/)|Free|
 |lala.ai|Extract vocal, accompaniment and various instruments from any audio and video|[URL](https://www.lalal.ai/)|Free/Paid|
+| Audo | File-based speech cleanup with separate noise reduction and voice restoration tools, plus transcription and editing. The same processing is available through a browser, REST API, and hosted MCP server for assistant workflows. | [Website](https://audo.ai) · [MCP docs](https://audo.ai/docs/mcp) | Free/Paid |
 
 ### AI Music & Sound Effects
 | Name | Description | Links | Fees |
