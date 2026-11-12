@@ -499,6 +499,7 @@
 | Grok Voice 3.0 | xAI 的实时语音到语音模型，面向语音智能体与客服通话。支持多语言对话、自然轮次切换、打断处理和工具驱动的任务流程，官方称首段音频延迟低于 1 秒。可通过 Voice Agent API 使用，`grok-voice-latest` 指向当前版本；按 **0.08 美元／分钟**计费，具体效果与单任务费用取决于工作负载。 | [官方介绍](https://x.ai/news/grok-voice-3)<br>[API 文档](https://docs.x.ai/developers/model-capabilities/audio/voice) | 付费 |
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|免费/付费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|免费/付费|
+| Audo | 面向用户和 AI 智能体的音视频创作与编辑工具集：支持语音生成、声音克隆与变声、录音降噪、转录和字幕制作。可通过浏览器工具、REST API 或托管 MCP 服务器使用。 | [官网](https://audo.ai) · [MCP 文档](https://audo.ai/docs/mcp) | 免费/付费 |
 
 ### AI 生成音乐与音效
 | 名称 | 说明 | 链接 | 费用 |
