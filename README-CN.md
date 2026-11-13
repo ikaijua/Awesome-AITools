@@ -214,6 +214,7 @@
 | AgentsMesh | AI Agent 工作流平台。可自托管的远程 AI 工作站（AgentPods），提供 PTY 沙箱 + git worktree 隔离、基于频道和 pod 绑定的多智能体协作、内置看板（MR/PR 集成）、每 pod 独立 MCP 服务器。支持 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode。 | [GitHub](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | 免费（BSL-1.1） |
 | Kortix | 开源 AI 管理系统——用智能体、技能、记忆和 3000+ 连接器以文件形式管理整个公司的智能体劳动力，全部保存在你拥有的一个 git 仓库中；每个会话启动一台隔离的 Linux 机器，工作成果通过人工审查的变更请求落地。支持自托管或托管云，自带 Key 接入任意模型。 | [GitHub](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | 免费 |
 | Orchestrator | 开源（Apache-2.0）桌面应用，用于并行运行多个编程智能体。由编排智能体拆分任务并分派给多个 worker，每个 worker 在独立的 git worktree 中运行 38 种受支持的智能体之一（Claude Code、Codex、Cursor、Gemini CLI、Aider 等）。看板跟踪每个 PR 的 CI 与评审状态，失败的检查和评审意见会自动回传给负责该分支的智能体。<br>支持 macOS、Windows、Linux，并提供 iOS 与 Android 应用用于远程会话。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1635) | [Website](https://orchestrator.inc) [GitHub](https://github.com/OrchestratorInc/agent-orchestrator) ![GitHub Repo stars](https://img.shields.io/github/stars/OrchestratorInc/agent-orchestrator?style=social) | 免费 |
+| Out Plane | 面向编程智能体（Claude Code、Codex、Cursor、OpenCode 等）的云端机器（Hangar）：智能体在其中克隆仓库、运行代码，并在会话之间保留工作成果。智能体构建的应用可在同一平台通过 Git push 或 Docker 镜像部署，并提供托管 PostgreSQL 和 S3 兼容存储桶。 | [官网](https://outplane.com) [GitHub](https://github.com/outplane/cli) | 免费/付费 |
 
 ### Agent 开发框架与运行时
 
