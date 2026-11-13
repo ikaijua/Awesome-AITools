@@ -440,6 +440,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Hailuo AI Text to Speech | Offer over 300 voices in 17 languages and multiple accents, covering a wide range of styles and age groups to provide the voice effects you need.|[URL](https://www.hailuo.ai/audio)|Limited-time Free|
 | elevenlabs | Intelligent AI Text to Speech. Current flagship **Eleven v3** (generally available). | [URL](https://elevenlabs.io/) | Free/Paid |
 | ChatTTS |ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant. It supports both English and Chinese languages. Our model is trained with 100,000+ hours composed of chinese and english. Website：https://chattts.com/|[GitHub](https://github.com/2noise/ChatTTS)![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social)|Free|
+| GetMeAudio | AI voiceover studio with multi-speaker dialogue timelines, natural breath pause control, and automatic background music ducking. | [URL](https://getmeaudio.com/) | Free/Paid |
 
 ### Voice Cloning & Conversion
 
