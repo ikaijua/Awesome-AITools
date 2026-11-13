@@ -5,6 +5,8 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/stargazers"><img src="https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=social" alt="Stars"></a>
     <a href="https://github.com/ikaijua/Awesome-AITools/network/members"><img src="https://img.shields.io/github/forks/ikaijua/Awesome-AITools?style=social" alt="Forks"></a>
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
+    <br>
+    <sub>每周新增收录：点右上角 <b>Watch → Custom → Releases</b>，或 <a href="https://github.com/ikaijua/Awesome-AITools/releases.atom">订阅 RSS</a></sub>
 </div>
 
 [English](README.md) | 中文
@@ -211,6 +213,7 @@
 | Paseo | 🌱 开源的 Agentic 开发环境，在一个界面中统一接入 Claude Code、Codex、Copilot、OpenCode、Pi、Antigravity、Muse Code 等编程智能体。支持多代理在独立 worktree 中并行运行，内置编排、编辑器、终端、diff、PR、浏览器与插件系统；可自托管、无遥测，覆盖桌面、移动、Web、CLI，并提供 TypeScript SDK。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1216) | [GitHub](https://github.com/getpaseo/paseo) | 免费 |
 | AgentsMesh | AI Agent 工作流平台。可自托管的远程 AI 工作站（AgentPods），提供 PTY 沙箱 + git worktree 隔离、基于频道和 pod 绑定的多智能体协作、内置看板（MR/PR 集成）、每 pod 独立 MCP 服务器。支持 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode。 | [GitHub](https://github.com/AgentsMesh/AgentsMesh) ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) | 免费（BSL-1.1） |
 | Kortix | 开源 AI 管理系统——用智能体、技能、记忆和 3000+ 连接器以文件形式管理整个公司的智能体劳动力，全部保存在你拥有的一个 git 仓库中；每个会话启动一台隔离的 Linux 机器，工作成果通过人工审查的变更请求落地。支持自托管或托管云，自带 Key 接入任意模型。 | [GitHub](https://github.com/kortix-ai/suna) ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social) | 免费 |
+| Orchestrator | 开源（Apache-2.0）桌面应用，用于并行运行多个编程智能体。由编排智能体拆分任务并分派给多个 worker，每个 worker 在独立的 git worktree 中运行 38 种受支持的智能体之一（Claude Code、Codex、Cursor、Gemini CLI、Aider 等）。看板跟踪每个 PR 的 CI 与评审状态，失败的检查和评审意见会自动回传给负责该分支的智能体。<br>支持 macOS、Windows、Linux，并提供 iOS 与 Android 应用用于远程会话。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1635) | [Website](https://orchestrator.inc) [GitHub](https://github.com/OrchestratorInc/agent-orchestrator) ![GitHub Repo stars](https://img.shields.io/github/stars/OrchestratorInc/agent-orchestrator?style=social) | 免费 |
 
 ### Agent 开发框架与运行时
 
@@ -241,6 +244,7 @@
 | Lightpanda | 用 Zig 编写的高性能、轻量级无头浏览器，专为 AI 智能体设计。速度比 Chrome 快约 9 倍，内存占用极低。原生支持 MCP 协议，并能直接输出适合 LLM 的 Markdown 格式。 | [GitHub](https://github.com/lightpanda-io/browser) ![GitHub Repo stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=social) | 免费 |
 | bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
+| Firecrawl | 面向 AI 智能体的开源上下文 API（AGPL-3.0，核心可自托管）：搜索网页（可按需返回完整页面内容），把任意 URL 抓取为干净的 Markdown 或结构化 JSON，解析 PDF 等文档，爬取整站，获取站点全部 URL，在真实浏览器中与页面交互（点击、填写表单、处理动态页面），运行智能体任务做多来源调研，并监控页面变化。可通过托管 API、Python / Node SDK、CLI 使用，也可通过 [MCP 服务器](https://github.com/firecrawl/firecrawl-mcp-server) 接入 Claude Code、Cursor 等 MCP 客户端，或为编程智能体安装 [Firecrawl Skills](https://github.com/firecrawl/skills)。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1619) | [URL](https://www.firecrawl.dev/?utm_source=awesome-aitools&utm_medium=integration) [GitHub](https://github.com/firecrawl/firecrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social) | 免费/付费 |
 
 ### Agent 记忆与上下文
 

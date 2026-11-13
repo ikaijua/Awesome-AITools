@@ -1,8 +1,8 @@
-## 提交前必填（决定能否收录）/ Required before submitting
+## Required before submitting
 
-- [ ] **披露关联 / Affiliation** —— 我是否与该工具有关联？（作者 / 团队成员 / 投资人 / 推广方）如实勾选。有关联也欢迎推荐，但必须透明。
-- [ ] **独特性 / Uniqueness** —— 我在描述或评论里写清了它为什么值得收录、与同类工具的核心差异（不要只贴功能列表），并提供：
-  - [ ] 第三方评测或正面对比
-  - [ ] 优秀用户案例（具名客户或落地项目）
-- [ ] **热门程度依据 / Popularity & traction** —— 提供：
-  - [ ] 月活或用户量
+- [ ] **Affiliation** - Are you affiliated with this tool (author / team member / investor / promoter)? Check honestly. Affiliated submissions are welcome, but disclosure is required.
+- [ ] **Uniqueness** - I explained in the description or a comment why this tool deserves a spot and how it differs from comparable tools (not just a feature list), with:
+  - [ ] Third-party reviews or head-to-head comparisons
+  - [ ] Standout user cases (named customers or shipped production projects)
+- [ ] **Popularity & traction** - Provide:
+  - [ ] Monthly active users / total user count / download numbers
