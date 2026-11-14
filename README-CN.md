@@ -496,6 +496,7 @@
 |VoiceStudio| 开源、本地优先的 AI 语音工作台：聚合 16 个 TTS / 11 个 ASR 引擎，支持零样本语音克隆、视频配音与有声书制作，兼容 OpenAI 音频 API 并内置 MCP 服务器。注意：AGPL-3.0 协议，默认权重为非商用许可，输出带 AudioSeal 水印，官方自述 beta 阶段。| [GitHub](https://github.com/debpalash/VoiceStudio) ![GitHub Repo stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=social) | 免费 |
 |speech-to-speech|Hugging Face 开源的低延迟、全模块化语音 Agent 流水线（VAD → STT → LLM → TTS）。对外提供 OpenAI Realtime 兼容的 WebSocket API；每个组件都可替换，支持完全本地部署或 API 后端。已作为 Reachy Mini 机器人的对话后端投入生产使用。|[GitHub](https://github.com/huggingface/speech-to-speech) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/speech-to-speech?style=social)|免费|
 | Grok Voice 3.0 | xAI 的实时语音到语音模型，面向语音智能体与客服通话。支持多语言对话、自然轮次切换、打断处理和工具驱动的任务流程，官方称首段音频延迟低于 1 秒。可通过 Voice Agent API 使用，`grok-voice-latest` 指向当前版本；按 **0.08 美元／分钟**计费，具体效果与单任务费用取决于工作负载。 | [官方介绍](https://x.ai/news/grok-voice-3)<br>[API 文档](https://docs.x.ai/developers/model-capabilities/audio/voice) | 付费 |
+| Kolivri | 面向实时电话客服与外呼场景的 AI 语音呼叫中心与原生 CRM：支持 8 种语言低延迟对话、跨通话长期记忆、30 秒运营商呼叫转移接入，并提供开源 MCP 服务器（带 KYC 主叫号码校验与限流保护），方便智能体直接拨打电话并读取通话转写与摘要。 | [URL](https://kolivri.com)<br>[MCP Server](https://github.com/kolivritech/kolivri-voice-mcp) | 免费/付费 |
 |vocalremover|分离人声和伴奏|[URL](https://vocalremover.org/)|免费/付费|
 |lala.ai|从任何音频和视频中提取人声、伴奏和各种乐器|[URL](https://www.lalal.ai/)|免费/付费|
 
