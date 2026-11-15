@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added SparkPix to AI Image Creation and UI Design: a prompt-based photo editor for making AI-generated photos look more real (both EN/CN)
 - Added AIHOT to AI News & Information (CN only)
 - Added Orchestrator to Agent Workspaces & Collaboration
 - Added Gemini Omni to Video Creation, plus EN/CN deep-dive discussions
