@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added OnlyChili & AI Chili to Video Creation (both EN/CN)
 - Updated Claude to the Fable 5.2 / Mythos 5.2 flagship (Nov 9, 2026)
 - Updated Gemini for Gemini 4 Carbon's general availability and #2 Artificial Analysis ranking (Nov 11, 2026)
 - Added AIHOT to AI News & Information (CN only)
