@@ -28,6 +28,10 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 <br>
 <table>
   <tr>
+    <td width="180" align="center"><a href="https://x6.ai/" target="_blank"><img src="assets/sponsors/x6ai-logo.jpg" alt="x6.ai" width="100"><br><b>x6.ai</b></a></td>
+    <td><a href="https://x6.ai/" target="_blank"><b>x6.ai</b></a> — one key for Claude, GPT, Gemini, DeepSeek, Grok and every other major model, fully OpenAI-compatible. Claude from 19% of the official price, and the $5 subscription plan gives roughly the usage of Claude's official $20 Pro plan. It also comes with a custom Harness client that works out of the box with zero setup, so beginners can get started easily. <a href="https://console.x6pro.io/register?code=AQa4Fdc3" target="_blank">Sign up here to get a 20%-off coupon</a>.</td>
+  </tr>
+  <tr>
     <td width="180" align="center"><a href="https://www.xuanshuapi.com/" target="_blank"><img src="assets/sponsors/xuanshuapi-logo.svg" alt="Xuanshu API" width="100"><br><b>Xuanshu API</b></a></td>
     <td><a href="https://www.xuanshuapi.com/" target="_blank"><b>Xuanshu API</b></a> — a next-generation AI model routing gateway for enterprises, technical teams, and individual developers, providing one-stop API access to world-class top models (Claude, GPT, Grok, etc.) with enterprise-grade stability. Recharge and enjoy 20% off, models starting from 20% of the original price, $5 free upon registration, invoice support for enterprises. Click <a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">this link</a> to register and get an extra $5 credit.</td>
   </tr>
