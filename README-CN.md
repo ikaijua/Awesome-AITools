@@ -27,6 +27,10 @@
 <br>
 <table>
   <tr>
+    <td width="180" align="center"><a href="https://x6.ai/" target="_blank"><img src="assets/sponsors/x6ai-logo.jpg" alt="x6.ai" width="100"><br><b>x6.ai</b></a></td>
+    <td><a href="https://x6.ai/" target="_blank"><b>x6.ai</b></a> — 一个 Key 畅用 Claude、GPT、Gemini、DeepSeek、Grok 等主流模型，完全兼容 OpenAI 接口。Claude 低至官价 1.9 折；5 美元订阅套餐，用量约等于 Claude 官方 20 美元 Pro 套餐。自带定制 Harness 客户端，免配置、开箱即用，新手也能轻松上手。<a href="https://console.x6pro.io/register?code=AQa4Fdc3" target="_blank">点此注册领 8 折优惠券</a>。</td>
+  </tr>
+  <tr>
     <td width="180" align="center"><a href="https://www.xuanshuapi.com/" target="_blank"><img src="assets/sponsors/xuanshuapi-logo.svg" alt="玄枢API" width="100"><br><b>玄枢API</b></a></td>
     <td><a href="https://www.xuanshuapi.com/" target="_blank"><b>玄枢API</b></a> — 面向企业、技术团队和个人开发者的新一代 AI 模型路由网关，提供企业级稳定性的全球顶级模型（Claude、GPT、Grok 等）一站式 API 接入。充值享八折，模型 2 折起，注册送 5 美金，企业支持开票；点<a href="https://www.xuanshuapi.com/register?aff=AWESOME-AI-TOOLS&promo=AWESOME-AI-TOOLS" target="_blank">此链接</a>注册额外获赠 5 美金额度。</td>
   </tr>
