@@ -8,6 +8,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Updated Claude to the Fable 5.2 / Mythos 5.2 flagship (Nov 9, 2026)
 - Updated Gemini for Gemini 4 Carbon's general availability and #2 Artificial Analysis ranking (Nov 11, 2026)
 - Added AIHOT to AI News & Information (CN only)
+- Added deja-vu to Agent Memory & Context: local, zero-cloud cross-agent memory, full-text search, and MCP server across 47 AI coding agents
 - Added Orchestrator to Agent Workspaces & Collaboration
 - Added Gemini Omni to Video Creation, plus EN/CN deep-dive discussions
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
