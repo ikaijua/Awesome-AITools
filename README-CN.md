@@ -101,7 +101,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Jev | TypeSafe AI 的决策模型，不生成文本，返回类型化答案与校准概率，适用于路由、分类和 Agent 检查。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) | [官网](https://typesafe.ai/) [价格说明](https://help.typesafe.ai/articles/5187202169-how-much-does-jev-cost) | 付费：$0.042 |
-| SemIf（原名 OpenJev） | MIT 许可的独立开源项目，与 Jev / TypeSafe 无关联。直接读取冻结开放模型的选项概率，无需生成文本或微调；支持 GPU、Apple Silicon、CPU 本地推理，也提供浏览器 WebGPU Demo。 | [GitHub](https://github.com/TheoLeeCJ/SemIf-OpenJev) ![GitHub Repo stars](https://img.shields.io/github/stars/TheoLeeCJ/SemIf-OpenJev?style=social) [官网/Demo](https://openjev.com/) | 代码免费，算力自备 |
+| SemIf（原名 OpenJev） | MIT 许可的独立开源项目，与 Jev / TypeSafe 无关联。直接读取冻结开放模型的选项概率，无需生成文本或微调；支持 GPU、Apple Silicon、CPU 本地推理，也提供浏览器 WebGPU Demo。 | [GitHub](https://github.com/TheoLeeCJ/SemIf-OpenJev)<br>![GitHub Repo stars](https://img.shields.io/github/stars/TheoLeeCJ/SemIf-OpenJev?style=social)<br>[官网/Demo](https://openjev.com/) | 代码免费，算力自备 |
 | OpenAI Decisions API | 专用决策端点，返回是非条件概率、多选结果和标准评分，适用于路由、筛选及工作流检查，无需生成开放式文本。 | [API 文档及定价](https://developers.openai.com/api/docs/guides/decisions#pricing-and-availability) | 付费：$0.10（未缓存） |
 | Gemini Decisions API | Google 的多模态决策 API，返回是非、多选、标准评分及概率、置信度。可对同一份文本、图像、音频、视频或 PDF 同时评估多个问题，适用于 Agent 路由、规则检查及内容评分。 | [官方介绍及定价](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) [API 文档](https://ai.google.dev/gemini-api/docs/decisions) | $0.10；有免费额度 |
 | Microsoft-Decision-1 | 微软的决策打分模型，不生成文本，直接返回固定选项的校准概率。通过 Microsoft Foundry 与 OpenRouter 提供分类、路由、优先级排序及验证能力。 | [Foundry](https://azure.microsoft.com/en-us/products/ai-foundry) [OpenRouter 及定价](https://openrouter.ai/microsoft/microsoft-decision-1) | OpenRouter：$0.042 |
