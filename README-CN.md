@@ -95,13 +95,17 @@
 | Meta Muse | 🌱 Meta 的个人 AI 智能体，可代办差旅、购物、表单和邮件日历任务，在隔离虚拟机中执行，敏感操作需用户确认。**Muse Wonder** 计划优先向 Muse 订阅用户推出；开发者已可通过 Meta Model API、Muse Code 使用 Wonder，Wonder Full 则面向 Muse Code 订阅用户。服务按地区向成年人开放，提供免费和付费方案，具体可用范围以官网为准。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1010) | [URL](https://muse.ai/) | 免费/付费 |
 
 ### 决策模型
+
+API 价格单位：美元/百万输入 token，输出免费。核对日期：2026-11-15；详细规则见定价链接。
+
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
-| Jev | 🌱 TypeSafe AI 推出的"System One"决策模型（当前为 early access）——不生成任何文本，只通过三类原语（Choice/Score/Noul）返回带校准概率的类型化答案，底层采用 RLCD 训练使置信度与实际正确率对齐。官方称结构化任务上比前沿大模型快 20-200 倍、成本低至 1/40；<br>输入 $0.042/百万 token，输出免费，延迟 70-500ms。注意：性能数字为官方口径，尚无第三方验证。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) | [URL](https://typesafe.ai/) | 免费/付费 |
-| SemIf（原名 OpenJev） | 🌱 MIT 许可的**独立开源项目**（官方声明与 Jev / TypeSafe 无关联），把「运行时语义决策」做成一次前向即可读出的概率接口：**不训练、不微调**，用冻结的 Qwen3.5-4B **直接读取各选项概率**，不生成任何文本、无需 JSON 解析——面向 agent 的小决策（路由、重试、证据是否成立）。21 个是非判断：直接读概率中位 **1.02s**，逐字生成 JSON 需 **5.33s**（约 5.2 倍）；与 TypeSafe 公开的 102 条子集一致率 **84.5%**（闭源 Jev 公布 88.3%）。可跑在单卡 3090、Apple Silicon（MLX/MPS）、纯 CPU（llama.cpp），也有免 waitlist 的纯浏览器 WebGPU demo。 | [GitHub](https://github.com/TheoLeeCJ/SemIf-OpenJev) ![GitHub Repo stars](https://img.shields.io/github/stars/TheoLeeCJ/SemIf-OpenJev?style=social) [官网/Demo](https://openjev.com/) | 免费 |
-| OpenAI Decisions API | OpenAI 专用决策端点 `POST /v1/decisions`（公开测试版），基于 `gpt-6-luna` 返回类型化答案：predicate（0–1 概率）、choice（选中值 + 各选项概率）、score（有序等级的概率加权均值）。输入 $0.10/百万 token，缓存读写与输出均免费；官方称比 Responses API 同调用快约 10 倍。 | [API 文档](https://platform.openai.com/docs/guides/decisions) | 免费/付费 |
-| Microsoft-Decision-1 | 微软基于 Qwen3.5-9B 后训练的快速决策打分模型，不生成文本，直接返回固定选项的校准概率。支持是非、多选、评分等场景，32K 上下文；通过 Microsoft Foundry 与 OpenRouter 调用，输入 $0.042/百万 token，输出免费。 | [Foundry](https://azure.microsoft.com/en-us/products/ai-foundry) [OpenRouter](https://openrouter.ai/microsoft/decision-1) | 免费/付费 |
-| Cloudflare Clef | Cloudflare Workers AI 上的决策模型族。**clef-omni**（30B MoE / 3B 激活）支持文本、图像、音频、视频多模态输入；**clef-flash** 针对低延迟打分优化，输入 $0.038/百万 token。上下文窗口 64K（flash 为 24K）。 | [Workers AI](https://developers.cloudflare.com/workers-ai/models/clef/) [Hugging Face](https://huggingface.co/Cloudflare/clef-omni) | 免费/付费 |
+| Jev | TypeSafe AI 的决策模型，不生成文本，返回类型化答案与校准概率，适用于路由、分类和 Agent 检查。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/996) | [官网](https://typesafe.ai/) [价格说明](https://help.typesafe.ai/articles/5187202169-how-much-does-jev-cost) | 付费：$0.042 |
+| SemIf（原名 OpenJev） | MIT 许可的独立开源项目，与 Jev / TypeSafe 无关联。直接读取冻结开放模型的选项概率，无需生成文本或微调；支持 GPU、Apple Silicon、CPU 本地推理，也提供浏览器 WebGPU Demo。 | [GitHub](https://github.com/TheoLeeCJ/SemIf-OpenJev)<br>![GitHub Repo stars](https://img.shields.io/github/stars/TheoLeeCJ/SemIf-OpenJev?style=social)<br>[官网/Demo](https://openjev.com/) | 代码免费，算力自备 |
+| OpenAI Decisions API | 专用决策端点，返回是非条件概率、多选结果和标准评分，适用于路由、筛选及工作流检查，无需生成开放式文本。 | [API 文档及定价](https://developers.openai.com/api/docs/guides/decisions#pricing-and-availability) | 付费：$0.10（未缓存） |
+| Gemini Decisions API | Google 的多模态决策 API，返回是非、多选、标准评分及概率、置信度。可对同一份文本、图像、音频、视频或 PDF 同时评估多个问题，适用于 Agent 路由、规则检查及内容评分。 | [官方介绍及定价](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) [API 文档](https://ai.google.dev/gemini-api/docs/decisions) | $0.10；有免费额度 |
+| Microsoft-Decision-1 | 微软的决策打分模型，不生成文本，直接返回固定选项的校准概率。通过 Microsoft Foundry 与 OpenRouter 提供分类、路由、优先级排序及验证能力。 | [Foundry](https://azure.microsoft.com/en-us/products/ai-foundry) [OpenRouter 及定价](https://openrouter.ai/microsoft/microsoft-decision-1) | OpenRouter：$0.042 |
+| Cloudflare Clef | Workers AI 上的决策模型族，返回类型化判断与选项概率。提供多模态评估及低延迟 Flash 版本，适合与 Cloudflare 托管工作流集成。 | [Workers AI](https://developers.cloudflare.com/workers-ai/models/clef/) [定价](https://developers.cloudflare.com/workers-ai/platform/pricing/) | $0.038–0.24（按型号）；有免费额度 |
 
 ### 开源大语言模型
 | 名称 | 说明 | 链接 | 费用 |
