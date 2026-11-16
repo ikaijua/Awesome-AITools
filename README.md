@@ -428,6 +428,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/nextai-translator/nextai-translator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
+| HumanPen | AI document translation (12 target languages; PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT preserving layout), document-level Humanize (DOCX/PPTX/TXT), Condense (DOCX), and Citation Format Correction (DOCX) | [URL](https://humanpen.net/) | Free/Paid (100 signup credits) |
 
 ### Speech Recognition & Subtitles
 
