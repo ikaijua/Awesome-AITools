@@ -524,6 +524,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | SFX Engine | AI 音效生成工具。 | [URL](https://sfxengine.com/) | 免费/付费 |
 
 ### 学术科研
+- [HumanPen](https://humanpen.net/) — 文档级学术写作与科研辅助套件：支持润色降AI（DOCX/PPTX/TXT）、多格式翻译（12种目标语言，支持 PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、精简（DOCX）、引文格式校正（12种格式）及科研项目协作。注册赠 100 积分，按积分计费。
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Lean 4 | 交互式定理证明器 and 函数式编程语言，是 AI 形式化数学研究和自动定理证明的核心基础设施（如 DeepMind 的 AlphaProof 和 DeepSeek-Prover 均基于此）。 | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | 免费 |
