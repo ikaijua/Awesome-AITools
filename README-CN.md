@@ -450,6 +450,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
 | openai-translator | 开源项目。基于 ChatGPT API 的划词翻译浏览器插件与跨平台桌面应用 | [GitHub](https://github.com/nextai-translator/nextai-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social) | 免费，需要 OpenAI API Key |
 |RTranslator | RTranslator 是一款开源、免费的安卓离线**实时**翻译应用程序。|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
+| HumanPen | AI 文档翻译（支持 12 种目标语言，PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 保留排版）、文档级润色 Humanize（DOCX/PPTX/TXT）、精简 Condense（DOCX）与引用格式校正（DOCX） | [URL](https://humanpen.net/) | 免费额度/付费（注册赠 100 积分） |
 
 ### 语音识别与字幕
 
