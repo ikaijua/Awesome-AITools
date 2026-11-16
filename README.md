@@ -490,6 +490,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Claude Video | Open-source tool that lets AI agents watch and summarize videos. Extracts frames, transcripts/captions from YouTube, TikTok, or local files and answers questions grounded in both visual and audio content. Works with Claude Code and 50+ agent hosts. | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
 
 ### Academic research
+- [HumanPen](https://humanpen.net/) ? Document-level academic & research writing suite: Humanize (DOCX/PPTX/TXT), Translate (12 languages across PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles), and scoped Research Projects. 100 signup credits; credit-based pricing.
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Lean 4 | An interactive theorem prover and functional programming language, serving as the core infrastructure for formal AI research and automated theorem proving (e.g., AlphaProof, DeepSeek-Prover). | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | Free |
