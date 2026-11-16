@@ -494,6 +494,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Lean 4 | An interactive theorem prover and functional programming language, serving as the core infrastructure for formal AI research and automated theorem proving (e.g., AlphaProof, DeepSeek-Prover). | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | Free |
 | AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
+| HumanPen | Research project workspace for scoping, credit-quoted planning, data analysis/literature organization, review, and file/code/chart delivery, with optional budget-capped autonomy and A2A 1.0 & REST APIs. Prohibits ghostwriting coursework/theses/papers for submission. | [URL](https://humanpen.net) | Free (100 signup credits) / Paid |
 
 
 ### OCR
