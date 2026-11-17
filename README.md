@@ -418,7 +418,6 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
-| HumanPen | Document-level AI humanize (DOCX/PPTX/TXT), translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects. | [URL](https://humanpen.net/) | 100 signup credits; commercial credit-based pricing |
 
 
 ### Translation
@@ -429,7 +428,6 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/nextai-translator/nextai-translator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
-| HumanPen | AI document translation (12 target languages; PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT preserving layout), document-level Humanize (DOCX/PPTX/TXT), Condense (DOCX), and Citation Format Correction (DOCX) | [URL](https://humanpen.net/) | Free/Paid (100 signup credits) |
 
 ### Speech Recognition & Subtitles
 
@@ -491,13 +489,12 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Claude Video | Open-source tool that lets AI agents watch and summarize videos. Extracts frames, transcripts/captions from YouTube, TikTok, or local files and answers questions grounded in both visual and audio content. Works with Claude Code and 50+ agent hosts. | [GitHub](https://github.com/bradautomates/claude-video) ![GitHub Repo stars](https://img.shields.io/github/stars/bradautomates/claude-video?style=social) | Free |
 
 ### Academic research
-- [HumanPen](https://humanpen.net/) ? Document-level academic & research writing suite: Humanize (DOCX/PPTX/TXT), Translate (12 languages across PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles), and scoped Research Projects. 100 signup credits; credit-based pricing.
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
 | Lean 4 | An interactive theorem prover and functional programming language, serving as the core infrastructure for formal AI research and automated theorem proving (e.g., AlphaProof, DeepSeek-Prover). | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | Free |
 | AMiner | AI-powered academic research and tech intelligence platform providing paper search, patent search, literature tracking, and scholar profiling | [URL](https://www.aminer.cn/)| Free |
 | alphaxiv | An open academic discussion community based on the arXiv platform that allows users to comment line-by-line, ask questions, and interact in real-time by replacing the paper's linking domain (arxiv.org for alphaxiv.org) directly on the paper's page. And provides AI features such as Ask AI and AI-generated article blogs | [URL](https://www.alphaxiv.org/)| Free |
-| HumanPen | Research project workspace for scoping, credit-quoted planning, data analysis/literature organization, review, and file/code/chart delivery, with optional budget-capped autonomy and A2A 1.0 & REST APIs. Prohibits ghostwriting coursework/theses/papers for submission. | [URL](https://humanpen.net) | Free (100 signup credits) / Paid |
+| HumanPen | Research project workspace for planning, literature organization, data analysis, review, and file delivery with optional budget-capped automation | [URL](https://humanpen.net) | 100 signup credits; credit-based pricing |
 
 
 ### OCR
