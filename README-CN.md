@@ -528,6 +528,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Lean 4 | 交互式定理证明器 and 函数式编程语言，是 AI 形式化数学研究和自动定理证明的核心基础设施（如 DeepMind 的 AlphaProof 和 DeepSeek-Prover 均基于此）。 | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | 免费 |
 | AMiner | AI赋能科技情报挖掘，提供学术搜索、论文检索、专利、文献追踪、学者画像等功能 |[URL](https://www.aminer.cn/)|免费|
 |alphaxiv|一个基于arXiv平台的开放学术讨论社区，允许用户通过替换论文链接域名（arxiv.org替换为alphaxiv.org）直接在论文页面上进行逐行评论、提问和实时互动。并提供了 Ask AI 和 AI 生成文章博客等 AI 功能|[URL](https://www.alphaxiv.org/)|免费|
+| HumanPen | 科研项目支持需求梳理、计划拟定、资料整理、数据分析和成果交付，可设置预算上限 | [URL](https://humanpen.net) | 注册赠送 100 积分，之后按积分计费 |
 
 ### OCR 图像识别
 | 名称 | 说明 | 链接 | 费用 |
