@@ -450,7 +450,6 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
 | openai-translator | 开源项目。基于 ChatGPT API 的划词翻译浏览器插件与跨平台桌面应用 | [GitHub](https://github.com/nextai-translator/nextai-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social) | 免费，需要 OpenAI API Key |
 |RTranslator | RTranslator 是一款开源、免费的安卓离线**实时**翻译应用程序。|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
-| HumanPen | AI 文档翻译（支持 12 种目标语言，PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 保留排版）、文档级润色 Humanize（DOCX/PPTX/TXT）、精简 Condense（DOCX）与引用格式校正（DOCX） | [URL](https://humanpen.net/) | 免费额度/付费（注册赠 100 积分） |
 
 ### 语音识别与字幕
 
@@ -524,13 +523,12 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | SFX Engine | AI 音效生成工具。 | [URL](https://sfxengine.com/) | 免费/付费 |
 
 ### 学术科研
-- [HumanPen](https://humanpen.net/) — 文档级学术写作与科研辅助套件：支持润色降AI（DOCX/PPTX/TXT）、多格式翻译（12种目标语言，支持 PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、精简（DOCX）、引文格式校正（12种格式）及科研项目协作。注册赠 100 积分，按积分计费。
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
 | Lean 4 | 交互式定理证明器 and 函数式编程语言，是 AI 形式化数学研究和自动定理证明的核心基础设施（如 DeepMind 的 AlphaProof 和 DeepSeek-Prover 均基于此）。 | [GitHub](https://github.com/leanprover/lean4) ![GitHub Repo stars](https://img.shields.io/github/stars/leanprover/lean4?style=social) | 免费 |
 | AMiner | AI赋能科技情报挖掘，提供学术搜索、论文检索、专利、文献追踪、学者画像等功能 |[URL](https://www.aminer.cn/)|免费|
 |alphaxiv|一个基于arXiv平台的开放学术讨论社区，允许用户通过替换论文链接域名（arxiv.org替换为alphaxiv.org）直接在论文页面上进行逐行评论、提问和实时互动。并提供了 Ask AI 和 AI 生成文章博客等 AI 功能|[URL](https://www.alphaxiv.org/)|免费|
-| HumanPen | ????????????????????????????????????????/??/??????????????????? A2A 1.0 / REST API????????????????????????? | [URL](https://humanpen.net) | ?????? 100 ???/ ?? |
+| HumanPen | 科研项目支持需求梳理、积分报价、资料整理、数据分析和成果交付，可设置预算上限 | [URL](https://humanpen.net) | 注册赠送 100 积分，之后按积分计费 |
 
 ### OCR 图像识别
 | 名称 | 说明 | 链接 | 费用 |
