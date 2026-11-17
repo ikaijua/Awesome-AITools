@@ -9,6 +9,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Updated Gemini for Gemini 4 Carbon's general availability and #2 Artificial Analysis ranking (Nov 11, 2026)
 - Added AIHOT to AI News & Information (CN only)
 - Added Orchestrator to Agent Workspaces & Collaboration
+- Added Scientific Figure to Academic research: AI tool that draws scientific illustrations, graphical abstracts, plots, and posters from text, sketch, or PDF (both EN/CN)
 - Added Gemini Omni to Video Creation, plus EN/CN deep-dive discussions
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
