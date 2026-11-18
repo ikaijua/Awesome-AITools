@@ -7,6 +7,7 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Updated Qwen to distinguish Qwen4-Max preview access from the open-weight model family
 - Updated Claude to the Fable 5.2 / Mythos 5.2 flagship (Nov 9, 2026)
 - Updated Gemini for Gemini 4 Carbon's general availability and #2 Artificial Analysis ranking (Nov 11, 2026)
+- Added HiAPI to General LLM Applications
 - Added AIHOT to AI News & Information (CN only)
 - Added Orchestrator to Agent Workspaces & Collaboration
 - Added Gemini Omni to Video Creation, plus EN/CN deep-dive discussions
