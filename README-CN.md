@@ -376,6 +376,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| 无限舟 AIOYH | 面向 AI 影视与短剧创作的多模态专业工作台。提供可视化的故事画布与智能分镜，原生聚合 Seedance 2.5 官转满血通道、阿里 Wan 3.0 等模型，支持多参考素材输入与一键成片。 | [URL](https://aioyh.com/) | 免费/付费 |
 | Seedance | 🌟 字节跳动的视频生成模型系列。**Seedance 2.5** 驱动即梦 / 小云雀等产品：支持 30 秒单次生成，原生 480p/720p/1080p（默认 720p；4K 由 Seedance 2.0 提供），最多 50 个多模态参考输入、文生视频、图生视频、首尾帧条件控制与局部编辑。人物动作一致性与镜头语言表现突出，适合短视频与广告内容生产。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1111) · [Skills](https://github.com/ikaijua/Awesome-AITools/discussions/1111#discussioncomment-18726373) · [实测对比](https://github.com/ikaijua/Awesome-AITools/discussions/1124) | [URL](https://dreamina.capcut.com/) | 免费/付费 |
 | MiniMax H3 | 🌱 MiniMax 开源的通用多模态生成系统，支持文生视频、图生视频、首尾帧生视频、文生音视频等，可通过 SGLang、vLLM、diffusers、ComfyUI 本地部署。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1114) | [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-H3?style=social), [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-H3) | 免费 |
 | Gemini Omni | Google DeepMind 的视频生成模型系列，主打对话式多镜头创作：可从文本、图片或单张风格图出片，再用多轮对话持续精修同一片段，具备电影级运镜控制与较强的参考素材忠实度，360p/720p 草稿可放大到 1080p/4K。覆盖 Gemini API、Google AI Studio、Google Cloud，并进入 Google Flow、Vids、Ads 等产品。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1591) | [URL](https://deepmind.google/models/gemini-omni/) | 免费/付费 |
