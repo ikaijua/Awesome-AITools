@@ -418,6 +418,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Notion AI | AI-assisted note-taking software | [URL](https://www.notion.so)| with certain free AI trials, AI features $10/month |
 | Obsidian | Powerful local-first markdown note-taking tool with extensive AI plugin ecosystem - supports AI summarization, RAG, and intelligent note processing via community plugins | [URL](https://obsidian.md/) | Free/Paid|
 | Deep L Write | English and German writing tools to fix writing errors and rewrite sentences promptly. | [URL](https://www.deepl.com/write) | Free version to use with text word limit / paid upgrade available |
+| SupWriter | Rewrites AI-assisted drafts in the writer's own voice with tone and purpose controls, paraphrases in 5 modes, fixes grammar and gives a per-sentence AI score, in 50+ languages. Web, iOS, Chrome extension, REST API and remote MCP server. Its detector is a single-model pre-check and is weak on some languages (e.g. Malay), which it documents publicly. | [URL](https://supwriter.com) | Free 300 credits / paid from $9.99 per month |
 
 
 ### Translation
