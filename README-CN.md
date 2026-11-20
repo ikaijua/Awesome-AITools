@@ -442,6 +442,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Notion AI | AI辅助笔记软件，支持AI写作、总结、头脑风暴等功能 | [URL](https://www.notion.so)| 提供一定的免费AI试用额度，AI功能每月$10 |
 | Obsidian | 强大的本地优先 markdown 笔记工具，拥有丰富的 AI 插件生态 - 通过社区插件支持 AI 总结、RAG、智能笔记处理等功能 | [URL](https://obsidian.md/) | 免费/付费|
 | Deep L Write | 英文、德文写作工具，可以及時修正写作錯誤、改写句子。 | [URL](https://www.deepl.com/write) | 免費版本使用有文字字数限制/有付费升级版 |
+| SupWriter | 将 AI 辅助写成的草稿改写成自然、符合本人语气的文字（可设定语气与用途），支持 5 种改写模式、语法检查和逐句 AI 概率评分，覆盖 50 多种语言。提供网页版、iOS、Chrome 插件、REST API 和远程 MCP 服务器。其检测器为单一模型的预检工具，对部分语言（如马来语）不可靠，官方已公开说明。 | [URL](https://supwriter.com) | 免费 300 积分 / 付费每月 $9.99 起 |
 
 ### 翻译工具
 | 名称 | 说明 | 链接 | 费用 |
