@@ -407,6 +407,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Google Colab | Google 的托管 Jupyter 笔记本环境——AI/ML 领域事实标准的免费 GPU 运行时：免费档即可使用 GPU（T4 级）与 TPU，零配置、Google Drive/GitHub 集成、Notebook 可直接分享。免费档限制：每周约 15–30 GPU 小时动态额度（不保证可用）、单次会话最长约 12 小时、闲置 90 分钟断开；付费 Pro/Pro+ 解锁更强 GPU 与更长会话。没有本地硬件时运行、微调和演示模型的首选。 | [URL](https://colab.research.google.com/) | 免费/付费 |
 | Kaggle | Google 旗下的机器学习竞赛与数据平台：Notebooks 每周约 30 小时免费 GPU 配额，20 万+公开数据集，以及孕育了众多经典基准的竞赛社区。学习应用机器学习、用真实基线检验模型的标准场所。 | [URL](https://www.kaggle.com/) | 免费/付费 |
 | Together AI | 专为生成式 AI 设计的云平台，聚焦开源生成式模型的推理、微调与 GPU 集群部署，比传统云更灵活、可定制；支持 LLaMA、Falcon、FLUX1 等开源模型，可直接调用或上传数据微调。 文章介绍:<br> [Together AI是一个生成式AI服务平台](https://mp.weixin.qq.com/s/qyFPqlotBayTDHaZSmSogw) | [URL](https://www.together.ai/) | 免费/付费 |
+| Off Grid AI Boost | 🌱 面向开源权重模型的私有 API，来自 Off Grid AI 应用团队（下载量 25 万+，GitHub 3,500+ star）。Qwen 3.8、DeepSeek V4.1 Flash 等模型运行在 Off Grid AI 自有 GPU 上，一个 OpenAI 兼容的 Key 即可调用，任何 OpenAI SDK 只需修改一个 URL。提示词从不存储，也不用于训练。每个月度套餐都包含等同于原价的用量，可随时充值。 | [URL](https://getoffgridai.co/boost/) | 付费 |
 
 ### GPU 编程
 | 名称 | 说明 | 链接 | 费用 |
