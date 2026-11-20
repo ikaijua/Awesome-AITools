@@ -373,6 +373,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Skybox AI | 输入文字生成360度全景图片 | [URL](https://www.blockadelabs.com/)| 免费/ 付费|
 | Stitch | Google Labs 推出的 AI 驱动 UI 设计工具，主打“氛围设计（vibe design）”。支持通过文字提示、草图或语音生成高保真多屏原型、设计系统和前端代码，可导出到 Figma 或 Google AI Studio，并提供 MCP Server 与 SDK 供编码代理调用。 | [官网](https://stitch.withgoogle.com/) | 免费 |
 | Anatomy | Claude Code / Codex / OpenCode / Antigravity 的 Agent Skill，能把技术概念解释成可交互的等距 SVG 图解。它不画普通框图，而是先「发明」一个工作原理就是该概念的实物——比如把令牌桶限流器变成弹子锁、把 GPU 上下文共享变成龙门绘图仪——再用自研 kit 渲染为 SVG、SVG+WebGL 着色器或真 3D。输出可为独立 HTML、单张 SVG 或 React/Next.js 组件，并自带几何审计和无头 Chrome 校验。 | [GitHub](https://github.com/wheresryan22/anatomy) ![GitHub Repo stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social) | 免费 |
+| My Face Analyzer | 用一张自拍做脸部分析：脸型、眼型、下颌线、左右对称、黄金比例和眼角倾斜，测量线直接画在照片上。478 个 MediaPipe 面部关键点在浏览器本地计算，测量时照片不上传，无需注册。AI 评分同样免费，需要同意后才上传照片；付费报告（$7.99 起）另含改善建议、AI 发型试戴图和 PDF。支持中英日文 | [URL](https://myfaceanalyzer.com/zh-cn) | 免费/付费 |
 
 ### AI 视频创作
 | 名称 | 说明 | 链接 | 费用 |
