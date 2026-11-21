@@ -163,6 +163,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 |potpie-ai/potpie|几分钟内为代码库构建开源 AI 智能体。内置 Q&A、测试、调试和系统设计等预构建智能体，也可创建自定义智能体。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1462) |[URL](https://potpie.ai) , [GitHub](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|免费试用|
 | MiniMax Agent|Minimax的 Agent 助手 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1474) |[URL](https://agent.minimaxi.com/)|免费/付费|
 |CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1458) |[GitHub](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
+| Sherlocks AI | 面向生产环境告警的 AI SRE 智能体。以只读权限接入 AWS、GCP、Azure、Kubernetes 以及 Datadog、New Relic、Prometheus/Grafana、CloudWatch 等可观测性工具，接到告警后基于实时指标、日志和近期变更逐一验证假设，最终在 Slack 中给出附带证据的根因报告。托管服务，提供免费套餐。 | [URL](https://www.sherlocks.ai/) | 免费/付费 |
 
 ### 编程 Agent
 
