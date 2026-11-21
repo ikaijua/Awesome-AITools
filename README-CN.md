@@ -133,6 +133,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | ModelCap | ModelCap 是独立平台，发布实时 AI 模型排名（ModelCap Index），仅聚合具名公开来源——SWE-bench、ARC-AGI、BFCL 等基准榜、Arena 评分与供应商价格——<br>每个模型附证据等级与分数区间，并提供分基准排行榜、模型头对头对比、供应商定价页与 CC BY 4.0 JSON/CSV 数据集。 | [URL](https://modelcap.ai/) | 免费 |
 |Price Per Token|由 Alex Ellman 开发的 LLM API 定价对比工具，覆盖 OpenAI、Anthropic、Google 等 200+ 模型，内置 token 计数、成本计算器与基准对比。|[URL](https://pricepertoken.com/)|免费|
 |BenchGecko|独立第三方 AI 模型基准测试排行榜，跨供应商定价对比，AI经济仪表盘。追踪数千个AI模型、128个评估基准、数百个供应商。提供免费API和开放数据集。|[URL](https://benchgecko.ai/zh/)|免费|
+|3AM Marketer LLM API Pricing Timeline|免费的主流 LLM API 价格时间线：每天从各厂商官方定价页读取输入、输出与缓存输入的每百万 token 价格，每次调价都按日期保留，便于查看模型何时降价或涨价。|[URL](https://3ammarketer.com/data/model-pricing)|免费|
 |llmrun|llmrun 是一个免费网站，可查看你的显卡、Mac 或迷你主机能跑哪些开源大模型：各量化所需显存与预估速度（tok/s），并提供基于公开基准（Epoch AI、LiveBench、SWE-bench、MMLU-Pro）、用 2PL IRT 拟合的综合评分，方法论公开。|[URL](https://llmrun.dev/)|免费|
 |The Aggregate|独立、免费的大模型排行榜：把公开基准测试排行榜整合为每日更新的统一排名，用稳健的 IRT 模型将所有模型放在同一 Elo 刻度上并给出标准误；每个分数都链接到原始榜单，可对任意两个模型做头对头对比，并提供无需密钥的免费 MCP 服务器。|[URL](https://theaggregate.ai/)|免费|
 | Jev Decision Index | Hugging Face Space，跟踪 TypeSafe Jev（System One / RLCD）的开源复现与替代方案。包含 Decision Index 排行榜（按结构化决策基准给模型打分）和 News 面板（汇总解码技巧、扩散式方法和训练决策头等实现）。 | [Hugging Face](https://huggingface.co/spaces/multimodalart/jev-decision-index) | 免费 |
