@@ -337,6 +337,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Parallel Search MCP | 面向 AI 智能体的托管网页搜索与内容提取服务，返回来源链接和适合模型读取的 Markdown 摘录，可用于查询最新信息、查阅文档和收集研究资料。匿名端点提供 Fast 模式搜索与网页抓取，无需注册账号、配置 API 密钥或在本地运行服务。将 `https://search.parallel.ai/mcp` 添加到支持 Streamable HTTP 的 MCP 客户端即可接入；Claude Code、Cursor、VS Code 等客户端均有配置指南，适合为已有的 AI 编程和研究工具补充联网检索能力。免费访问适用于探索和轻量使用，有速率限制；需要更高限额时可使用付费 API 密钥。 | [官网](https://parallel.ai/) [接入指南](https://docs.parallel.ai/integrations/mcp/search-mcp) | 免费（有速率限制）；更高限额需付费 |
 | Google Workspace CLI | 社区构建的 Google Workspace 非官方命令行工具，统一访问所有 Google Workspace API，包括 Drive、Gmail、Calendar、Sheets、Docs、Chat 等。内置 40+ AI 代理技能，结构化 JSON 输出非常适合 AI 代理使用，支持多种认证方式。 | [GitHub](https://github.com/googleworkspace/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/googleworkspace/cli?style=social) | 免费 |
 | OpenConnector | 面向 AI 智能体的开源连接网关。用户一次性授权应用账号后，即可通过 SDK、CLI、MCP、HTTP 和 OpenAPI 向智能体提供 1500+ SaaS 服务的统一目录。 | [GitHub](https://github.com/oomol-lab/open-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social) | 免费 |
+| JustFill MCP | 托管与本地双模式 PDF 表单填写 MCP 服务器，可直接识别并填写现有 AcroForm、扁平或扫描件 PDF 表单而无需重排原版式。利用视觉 AI 检测文本框、复选框与分格框，支持导出前可视化预览检测结果与填入值，并可将复核后的版式保存为确定性可复用模板。支持 Streamable HTTP + OAuth 2.1 托管端点（`https://justfill.app/api/mcp`）或开源 MIT 本地 stdio 客户端（`uvx justfill-mcp`）。 | [官网](https://justfill.app/mcp) [GitHub](https://github.com/mrmaciej1/justfill-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/mrmaciej1/justfill-mcp?style=social) | 免费体验；付费 $7 通行证 / $24/月起 |
 
 ### AI 金融与量化投资
 | 名称 | 说明 | 链接 | 费用 |
