@@ -238,6 +238,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Conductor | 源自 Netflix 的开源 durable workflow engine，现聚焦 AI Agent 编排。提供事件驱动执行、持久化状态、重试/超时、14+ LLM 提供商、MCP 工具调用、function calling、人工审批以及面向 RAG 的向量数据库集成。在 Netflix、Tesla、LinkedIn、J.P. Morgan 生产环境使用。 | [GitHub](https://github.com/conductor-oss/conductor) ![GitHub Repo stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social) | 免费 |
 |deer-flow|字节跳动开源的长时程 SuperAgent harness，可编排子代理、记忆、沙箱、工具、技能和消息网关，完成研究、编程与内容创作等长时间任务。基于 LangGraph/LangChain 构建，提供 Web UI 并支持多种大语言模型。|[GitHub](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)|免费|
 | AX | Google 开源的 agentic 编排运行时，定位"Agent 时代的 Kubernetes"。通过声明式 YAML 清单（Workspace、Task、Model）定义任务，沙箱隔离执行，支持 CPU/内存限制、`ax suspend/resume` 暂停恢复和 SSH 调试；单集群设计目标支撑十亿级自主 Agent 工作负载。尚处早期，正式发布前可能有破坏性变更。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1050) | [GitHub](https://github.com/google/ax) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ax?style=social) | 免费 |
+| Open Agent API | Apache-2.0 开源自托管网关，让现有应用沿用 OpenAI SDK 调用已配置的编程助手。启动任务与批准操作可以分别授权，离线示例无需模型账号。 | [GitHub](https://github.com/jiangxingfan1-coder/Open-Agent-API) [官网](https://openagentapi.pages.dev/) | 免费（接入服务可能另行收费） |
 
 ### 浏览器与计算机自动化
 
