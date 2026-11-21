@@ -493,6 +493,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | ElevenLabs | 业界领先的 AI 语音合成和变声工具。当前旗舰 **Eleven v3** 已全面可用；提供高度逼真的文本转语音、语音克隆（只需几分钟音频）和变声功能，支持多种语言和情感语音。 | [URL](https://elevenlabs.io/) | 免费/付费 |
 | Gemini 3.8 TTS | Google DeepMind 的原生多模态语音合成模型（Gemini 3.8 TTS）：支持多说话人、情感和语气控制、低延迟，可通过 Gemini API 调用；官方 playground 可免费调试音色、语速和情感。<br>同期推出 Live Avatar 实时互动数字人。[Live Avatar 介绍](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/) | [官网](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/) | 免费/付费 |
 |RVC (Retrieval-Based Voice Conversion)|开源语音转换模型，可以高质量地将任何声音转换为另一种声音。常用于唱歌声音转换和语音克隆。|[GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ![GitHub Repo stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social)|免费|
+| Voqia | 来自法国的网页版声音克隆与文本转语音工具：录制约 30 秒即可用自己的声音朗读任意文本，支持包括法语和阿拉伯语在内的 9 种语言；同时提供实时转写（含实时翻译）和音频文件转写。免费版无需信用卡（1 个克隆声音、10 分钟）；一次性购买套餐，无订阅。不提供 API，也不提供实时变声。 | [URL](https://voqia.fr/en) | 免费/付费 |
 | 剪映 |目前只有APP端有声音克隆的功能，朗读一小段文字就能完成音色的克隆，音色效果很牛。当你添加文本时，在“文本朗读”那个功能中，点击“我的”tab，就能看到这个功能了|[URL](https://www.capcut.cn/)|免费/付费|
 | 豆包 |字节跳动的AI聊天应用，豆包app中声音设置可以选择“创建我的声音”，回答问题的时候就可以用克隆的声音来回答了|[URL](https://www.doubao.com/)|免费|
 
