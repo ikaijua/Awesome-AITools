@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added i2v.ai to Video Creation: a unified image and video generation API with a pre-submission USD quote, a per-task spending cap and an MCP server (both EN/CN)
 - Added Gemini Decisions API and clarified decision-model pricing, free allowances, and local compute costs
 - Updated Qwen to distinguish Qwen4-Max preview access from the open-weight model family
 - Updated Claude to the Fable 5.2 / Mythos 5.2 flagship (Nov 9, 2026)
