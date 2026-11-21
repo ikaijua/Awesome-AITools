@@ -291,6 +291,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | SemiAnalysis | 🌟 独立半导体与 AI 算力行业研究机构（Dylan Patel 2020 年创办）。自建数据模型：加速器/HBM、数据中心模型、ClusterMAX GPU 云评级、开源推理基准 InferenceX（黄仁勋在 GTC 2026 点名展示）；发布长篇行业研报（部分免费，大部分需订阅）。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1173) | [X](https://x.com/SemiAnalysis_)、[官网](https://semianalysis.com) | 免费/付费 |
 | World Monitor | AI驱动的实时全球情报面板，聚合435+个精选信源，提供地缘政治监控、基础设施追踪、AI摘要、21种语言支持，可本地运行AI模型，支持全平台桌面端应用 | [GitHub](https://github.com/koala73/worldmonitor) ![GitHub Repo stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)、[官网](https://worldmonitor.app) | 免费 |
 | Prismix | AI 服务实时状态监控中心，聚合 75+ AI 服务（OpenAI、Anthropic、Grok、Cursor 等）的实时运行状态，提供来自 55+ 来源的精选 AI 新闻并支持个性化信息流，还包含 500+ MCP 服务器目录及告警功能。 | [官网](https://prismix.dev) | 免费/付费 |
+| Earlyfollow | 追踪 X 上 500 多位风投、天使和运营者的关注动态，每天列出他们刚开始关注的新 AI 创业公司，并标明是谁关注、哪一天发现。免费榜只收早期 AI 创业公司（大公司、媒体、研究机构按规则过滤）；Pro 提供无 14 天延迟的实时信号、完整关注者名单，以及 CSV/MCP/HTTP API 接入。 | [官网](https://earlyfollow.com) | 免费/付费 |
 | AI Weekly | 独立的 AI 新闻通讯，自 2015 年起每周 3 期，读者超过 44,000 名专业人士。聚焦真正重要的 AI 报道，由编辑单人策划。 | [官网](https://aiweekly.co) | 免费 |
 | ArtificialWatch | 新 AI 模型发布即时提醒，覆盖各大实验室。每 60 秒扫描厂商 API，只有新模型真正响应 API 请求才会提醒；公开记录每次发布的首次发现与确认时间。邮件和推送提醒免费，付费方案增加短信和电话提醒。 | [官网](https://artificialwatch.com) | 免费/付费 |
 | NeoLabs | 按估值对 100+ 家 AI 研究实验室做的主观排名，给出清晰的「neolab」定义（顶尖研究员、重算力、无显著营收、$2.5 亿+ 融资），并对每家是否契合逐一判定。快速看清谁在造前沿模型、实验室格局如何演化。 | [官网](https://debarghyadas.com/neolabs/) | 免费 |
