@@ -204,6 +204,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | AGENTS.md | 专门为 AI 编程智能体设计的代码库文档开放标准。通过提供结构化的上下文、指令和约束条件，帮助智能体更高效、更安全地工作。 | [GitHub](https://github.com/agentsmd/agents.md) ![GitHub Repo stars](https://img.shields.io/github/stars/agentsmd/agents.md?style=social) | 免费 |
 | Spec Kit | GitHub 开源的规格驱动开发（Spec-Driven Development）工具包。提供 `specify` CLI 以及 /speckit.specify、/speckit.plan、/speckit.implement 等斜杠命令，与 30+ AI 编程智能体集成，将产品需求规格转化为可执行的实现计划。 | [GitHub](https://github.com/github/spec-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) | 免费 |
 | musistudio/claude-code-router | 一个强大的路由工具，可将Claude Code请求路由到不同模型并自定义任何请求。支持多提供商路由、请求/响应转换、动态模型切换、CLI模型管理和GitHub Actions integration。 |[GitHub](https://github.com/musistudio/claude-code-router) ![GitHub Repo stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=social)|免费|
+| rgx | 兼容 ripgrep 的搜索命令行工具，它读取文件内部而不是跳过它 —— PDF、Office 文档、压缩包、3D 模型、LLM checkpoint、GGUF 模型文件、数据库、邮件、媒体元数据。命令行参数、`path:line:text` 输出与退出码（0/1/2）均与 `rg` 一致，可直接替换现有流水线里的 `rg`。ripgrep-all (rga) 为每个文件派生辅助进程，而 rgx 的所有适配器都在进程内运行：字节进、可搜索文本出，没有子进程也没有 IPC。Rust 编写，Apache-2.0 许可。 | [GitHub](https://github.com/danalec/rgx) ![GitHub Repo stars](https://img.shields.io/github/stars/danalec/rgx?style=social) [crates.io](https://crates.io/crates/rgx-search) | 免费 |
 
 ### Agent 工作台与协作
 
