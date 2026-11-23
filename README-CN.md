@@ -330,6 +330,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | OmniRoute | 可自托管的 AI 网关，跨 36+ 提供商实现 4 层自动回退路由。OpenAI 兼容 API，带配额跟踪和免费档零成本回退。 | [GitHub](https://github.com/diegosouzapw/OmniRoute) ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social) | 免费 |
 | IMA |腾讯推出的 AI 智能工作台，集成搜索、阅读、写作、知识库管理等功能。搜索覆盖微信公众号文章，支持上传本地文件、公众号文章或网页链接构建个人知识库。内置模型支持 DeepSeek-V4-Flash、GLM-5.3 和混元 Hy4 preview。|[URL](https://ima.qq.com/) |免费|
 | Jev 聊天助手 | 开源安卓聊天辅助决策工具。回复前先读当前聊天、判断对方意图和风险，起草候选回复并一键填进输入框，发不发由你。国内版支持 QQ、飞书、X、WhatsApp；同仓库另有英文海外版。与上述聊天 App 无官方关联。MIT。 | [GitHub](https://github.com/jev-chat/jev-chat-jarvis) ![GitHub Repo stars](https://img.shields.io/github/stars/jev-chat/jev-chat-jarvis?style=social) | 免费，需自备 API Key |
+| Off Grid AI | 私密的本地桌面 AI 应用，支持 macOS（Apple Silicon）、Windows 和 Linux。文字与视觉对话、图片生成、语音输入与朗读全部在本机运行（内置 llama.cpp、stable-diffusion.cpp、whisper.cpp 和 Kokoro）。项目可基于你的文档回答，支持 MCP 工具，并提供无需密钥的本地 OpenAI 兼容 API。无需账号，不上云。AGPL-3.0 开源，Pro 为可选付费。 | [URL](https://getoffgridai.co) [GitHub](https://github.com/off-grid-ai/OGAD) ![GitHub Repo stars](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=social) | 免费/付费 |
 
 ### 办公协作 CLI / MCP
 | 名称 | 说明 | 链接 | 费用 |
