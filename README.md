@@ -429,6 +429,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | immersive-translate | Open source project. Immersive bilingual web translation extension | [GitHub](https://github.com/immersive-translate/immersive-translate/) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social)| Free |
 | openai-translator | Open source project. Crossword translation browser plugin and cross-platform desktop application based on ChatGPT API | [GitHub](https://github.com/nextai-translator/nextai-translator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social)| Free, requires OpenAI API key |
 |RTranslator |RTranslator is an open-source, free, and offline real-time translation app for Android.|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|Free|
+| WinkLingo | Cross-lingual spoken video search engine across 200M+ movie and YouTube lines. Query in any language (EN, JA, ZH, ES) to jump to frame-accurate clips with bilingual subtitles, Oxford sense breakdowns, and zero browser extensions. | [URL](https://winklingo.com/en) | Free/Paid |
 
 ### Speech Recognition & Subtitles
 
