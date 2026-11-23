@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added ContentRoof to Video Creation (both EN/CN): one sentence to a complete narrated short video with captions and animated pictures, in 13 languages
 - Added Gemini Decisions API and clarified decision-model pricing, free allowances, and local compute costs
 - Updated Qwen to distinguish Qwen4-Max preview access from the open-weight model family
 - Updated Claude to the Fable 5.2 / Mythos 5.2 flagship (Nov 9, 2026)
