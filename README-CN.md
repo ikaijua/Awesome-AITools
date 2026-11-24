@@ -184,6 +184,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 |potpie-ai/potpie|几分钟内为代码库构建开源 AI 智能体。内置 Q&A、测试、调试和系统设计等预构建智能体，也可创建自定义智能体。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1462) |[URL](https://potpie.ai) , [GitHub](https://github.com/potpie-ai/potpie) ![GitHub Repo stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=social)|免费试用|
 | MiniMax Agent|Minimax的 Agent 助手 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1474) |[URL](https://agent.minimaxi.com/)|免费/付费|
 |CLI-Anything|香港大学开发的开源框架，让所有软件都能原生支持 AI 代理 —— 通过 7 阶段流水线为任意应用自动生成生产级 CLI，使 AI 代理能够控制任何桌面软件。支持 Claude Code、OpenClaw、Codex 等 16+ AI 代理平台，并包含 CLI-Hub 用于社区 CLI 发现和安装。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1458) |[GitHub](https://github.com/HKUDS/CLI-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/CLI-Anything?style=social)|免费|
+| Davro | 多模型 AI 智能体套件，结合 Windows 10/11 本地桌面客户端（Excel/PDF/PPT/代码自动化、AI 漫画与短剧工作流、授权安全测试模式）与 Davro Cloud（网页/Android 后台长任务、AI 数字员工、Vault 凭据隔离、桌面桥接）。一个免月费、不过期的按量计费余额（1 元 = 1,000 积分）畅用 80+ Claude、GPT、Gemini、DeepSeek、Qwen 及图片/视频/语音模型，并提供 OpenAI 兼容万钥 API。 | [官网](https://davro.app/agent) , [云端](https://cloud.star1age.cn/zh-CN) , [API](https://api.star1age.cn/zh-CN) | 付费（按量计费） |
 
 ### 编程 Agent
 
