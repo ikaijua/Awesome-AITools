@@ -275,6 +275,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | bb-browser | 使 AI 智能体能够控制您的真实 Chrome 浏览器会话，利用现有的登录状态访问网站，无需 API。 | [GitHub](https://github.com/epiral/bb-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/epiral/bb-browser?style=social) | 免费 |
 | Chrome DevTools MCP | Chrome DevTools 官方提供的 Model Context Protocol 服务器，让 AI 编程智能体（如 Claude Code、Gemini CLI）能够控制和检查正在运行的 Chrome 浏览器，支持性能追踪分析、网络请求调试、截图捕获和控制台日志查看，帮助 AI 更好地运行、测试和调试代码。 | [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) | 免费 |
 | Firecrawl | 面向 AI 智能体的开源上下文 API（AGPL-3.0，核心可自托管）：搜索网页（可按需返回完整页面内容），把任意 URL 抓取为干净的 Markdown 或结构化 JSON，解析 PDF 等文档，爬取整站，获取站点全部 URL，在真实浏览器中与页面交互（点击、填写表单、处理动态页面），运行智能体任务做多来源调研，并监控页面变化。可通过托管 API、Python / Node SDK、CLI 使用，也可通过 [MCP 服务器](https://github.com/firecrawl/firecrawl-mcp-server) 接入 Claude Code、Cursor 等 MCP 客户端，或为编程智能体安装 [Firecrawl Skills](https://github.com/firecrawl/skills)。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1619) | [URL](https://www.firecrawl.dev/?utm_source=awesome-aitools&utm_medium=integration) [GitHub](https://github.com/firecrawl/firecrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social) | 免费/付费 |
+| Cloudbrowser | 面向 AI 智能体的持久化云端 Chrome。可通过 CDP 连接，暂停后保留 Chrome 配置，恢复继续使用，也可从已暂停的浏览器派生独立副本用于并行任务。Live View 支持按权限查看或操作同一个浏览器。 | [官网](https://cloudbrowser.tv/) [文档](https://cloudbrowser.tv/docs/connections) | 免费/付费 |
 
 ### Agent 记忆与上下文
 
