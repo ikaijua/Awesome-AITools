@@ -543,6 +543,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Stable Audio | Stability AI 旗下的 AI 音乐、音效生成应用：从文本提示词生成完整曲目与音效。当前版本 **Stable Audio 3.0**（2026 年 5 月 20 日发布）。 | [URL](https://www.stableaudio.com/) | 免费/付费 |
 |OptimizerAI|音效生成|[URL](https://www.optimizerai.xyz/) [官方推文介绍](https://twitter.com/OptimizerAI/status/1779881263358419243)|免费/付费|
 | SFX Engine | AI 音效生成工具。 | [URL](https://sfxengine.com/) | 免费/付费 |
+| GrooveSheet | AI 扒谱：把现成的歌曲（音频文件或 YouTube、Spotify、抖音国际版链接）转成鼓、钢琴、吉他（含六线谱）和贝斯的乐谱，以及和弦谱、分轨和 MIDI，可导出 PDF、MusicXML、Guitar Pro。任意歌曲可免费试听前 30 秒的转谱；人声、弦乐、管乐只出音频分轨，不出谱。 | [URL](https://www.groovesheet.net/) | 免费/付费 |
 
 ### 学术科研
 | 名称 | 说明 | 链接 | 费用 |
