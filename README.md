@@ -512,6 +512,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | Stable Audio | AI music and sound-effect generation by Stability AI — full-length tracks and SFX from text prompts. Current generation **Stable Audio 3.0** (released May 20, 2026). | [URL](https://www.stableaudio.com/) | Free/Paid |
 | OptimizerAI | Sound effect generation. [Official Introduction](https://twitter.com/OptimizerAI/status/1779881263358419243) | [URL](https://www.optimizerai.xyz/) | Free/Paid |
 | SFX Engine | AI Sound effect generation. | [URL](https://sfxengine.com/) | Free/Paid |
+| GrooveSheet | Transcribes existing songs (audio file or YouTube/Spotify/TikTok link) into sheet music for drums, piano, guitar (with tab) and bass, a chord chart, isolated stems and MIDI; exports PDF, MusicXML and Guitar Pro. Free 30-second preview of any song; does not notate vocals, strings or horns. | [URL](https://www.groovesheet.net/) | Free/Paid |
 
 ### Video Content Summary
 | Name | Description | Links | Fees |
