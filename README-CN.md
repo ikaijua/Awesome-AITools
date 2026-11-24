@@ -487,6 +487,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | 飞书妙记 | 上传视频或音频即可转录为文字（官方名「妙记」，非「秒记」），可一键导出到飞书文档。处理速度很快：近 2 小时的视频约 6 分钟完成。 | [URL](https://www.feishu.cn/product/minutes) | 免费，有企业付费版 |
 | 通义听悟 | 阿里旗下的语音转录应用 | [URL](https://tingwu.aliyun.com/) | 免费/付费 |
 |阿里云智能语音交互-语音识别API|试用版3个月免费试用期，录音文件识别免费额度:2小时/日|[URL](https://ai.aliyun.com/nls)|免费/付费|
+| VoxtMini | Mac 语音输入，默认用本地模型：在任何 App 里说话，文字出现在光标处，选中的文字还能用语音翻译和改写。Qwen3-ASR（边说边出字）和语言模型默认在 Apple 芯片本机运行，选了云服务才会联网。免费开源（Apache-2.0）。 | [URL](https://actnow.dev/zh/voxtmini) <br> [GitHub](https://github.com/hehehai/VoxtMini) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/hehehai/VoxtMini?style=social) | 免费 |
 
 ### 语音合成（TTS）
 
@@ -506,6 +507,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 |QwenAudio/CosyVoice|阿里开源的TTS模型|[GitHub](https://github.com/QwenAudio/CosyVoice) ![GitHub Repo stars](https://img.shields.io/github/stars/QwenAudio/CosyVoice?style=social)|免费|
 | fish-speech | 输入 10 到 30 秒声音样本即可生成高质量 TTS 输出。已归入 Fish Audio 品牌线：开源主线 Fish Audio S2 / S2-Pro，云端 API 旗舰 S2.1 Pro（83 语种）；旧 Fish Speech 1.5 已停止演进。 | [GitHub](https://github.com/fishaudio/fish-speech) ![GitHub Repo stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) | 免费 |
 | open-mmlab/Amphion | 开源音频、音乐和语音生成工具包， 在线使用：https://huggingface.co/amphion<br> 文章介绍：机器之心：[霉霉演唱《稻香》，国内团队的Amphion音频生成火了](https://mp.weixin.qq.com/s/2oR7tu-ltnXnZqNCi-unlA) | [GitHub](https://github.com/open-mmlab/Amphion) ![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social) | 免费 |
+| AudioSmith | Mac 本机语音工作室：朗读、克隆和设计音色、多角色故事、有声书、视频配音，模型都在本机（Apple 芯片，MLX）运行；附带本地 OpenAI 兼容语音接口和 MCP 服务，脚本和 Agent 可以直接调用。免费开源（AGPL-3.0）。 | [URL](https://actnow.dev/zh/audiosmith) <br> [GitHub](https://github.com/hehehai/AudioSmith) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/hehehai/AudioSmith?style=social) | 免费 |
 
 ### 声音克隆与变声
 
