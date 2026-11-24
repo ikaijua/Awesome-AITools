@@ -25,6 +25,27 @@
 
 <details open>
 <summary>点击折叠</summary>
+
+<br>
+
+Zapply 是一个求职申请平台，提供自动填写申请的 Chrome 扩展、职位信息、多份简历档案和申请进度跟踪。
+
+[![使用 Zapply 快速申请职位](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua)
+
+Zapply 提供：
+
+- Chrome 扩展，帮助快速自动填写职位申请。
+- 专属职位页面，展示不同岗位的最新招聘信息。
+- 多份个人档案，适用于不同简历和求职岗位。
+- 求职申请跟踪，以及连续申请记录和坚持奖励。
+
+<p align="center">
+<a href="https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua">
+<img src="get-started-button.png" alt="访问 Zapply" width="700">
+</a> </p>
+
+<p align="right"><sub>由 Zapply 赞助</sub></p>
+
 <br>
 <table>
   <tr>
