@@ -211,6 +211,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | AI-Codereview-Gitlab | 基于大模型(DeepSeek, OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 | [GitHub](https://github.com/sunmh207/AI-Codereview-Gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=social) | 免费 |
 | code-review-graph | 基于 Tree-sitter 构建代码结构图并增量追踪变更，通过 MCP 为 AI 编程助手提供精准的代码审查上下文，减少重复读取整个代码库。 | [GitHub](https://github.com/tirth8205/code-review-graph) ![GitHub Repo stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=social) | 免费 |
 | dbForge AI Assistant | AI 驱动的 SQL 代码生成、优化与排错工具——面向开发者、DBA 和分析师。 | [URL](https://www.devart.com/dbforge/ai-assistant/) | 付费/免费试用 |
+| DBConvert Studio | 商业数据库迁移与同步工具，AI 助手可协助配置连接、解释任务和错误并生成 SQL；支持本地模型。 | [URL](https://dbconvert.com/assistant/) | 付费/免费试用 |
 | scalene | 高性能、高精度的 Python CPU/GPU/内存分析器，附带 AI 驱动的优化建议。 | [GitHub](https://github.com/plasma-umass/scalene) ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social) | 免费 |
 | OpenChamber | OpenCode AI agent 的桌面/网页图形界面。在 OpenCode 之上提供会话管理、diff 查看和工作区控制。 | [URL](https://openchamber.dev) [GitHub](https://github.com/openchamber/openchamber) ![GitHub Repo stars](https://img.shields.io/github/stars/openchamber/openchamber?style=social) | 免费 |
 | Happy Coder | Codex和Claude Code的移动端和Web客户端，支持实时语音、加密和全功能 | [URL](https://happy.engineering) [GitHub](https://github.com/slopus/happy) ![GitHub Repo stars](https://img.shields.io/github/stars/slopus/happy?style=social) | 免费 |
