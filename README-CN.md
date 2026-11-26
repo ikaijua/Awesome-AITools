@@ -472,6 +472,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | immersive-translate | 开源的，沉浸式双语网页翻译扩展 | [GitHub](https://github.com/immersive-translate/immersive-translate/) ![GitHub Repo stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=social) | 免费 |
 | openai-translator | 开源项目。基于 ChatGPT API 的划词翻译浏览器插件与跨平台桌面应用 | [GitHub](https://github.com/nextai-translator/nextai-translator) ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=social) | 免费，需要 OpenAI API Key |
 |RTranslator | RTranslator 是一款开源、免费的安卓离线**实时**翻译应用程序。|[GitHub](https://github.com/niedev/RTranslator) <br> ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator?style=social)|免费|
+| WinkLingo | 跨语种影视与 YouTube 原声语料搜索引擎（覆盖 2 亿+ 真实台词与 2,588+ YouTube 短语专题页）。支持用中/日/英/西等任意语言语义检索并直达带双语字幕的原声片段与多义项解析，无需浏览器插件。 | [URL](https://winklingo.com/zh) | 免费/付费 |
 
 ### 语音识别与字幕
 
