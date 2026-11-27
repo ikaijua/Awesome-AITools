@@ -382,6 +382,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | firefly | Adobe's AI image processing web site |[URL](https://firefly.adobe.com/)|Free/Paid|
 | Topaz Photo AI | AI-powered image enhancement suite for photographers. Includes upscaling, noise reduction, sharpening, and face recovery in a single local desktop workflow. | [URL](https://www.topazlabs.com/topaz-photo-ai) | Paid/Trial |
 | Nero AI | AI picture upscale, AI repair scratches, AI picture coloring, AI picture noise removal, AI one-click to change the background, AI magical erasing pen, AI portrait. API doc：https://ai.nero.com/ai-api/docs/|[URL](https://ai.nero.com/)|Free/Paid|
+| EnhancePhoto | Browser-based AI photo restoration, B&W photo colorization, and 2K/4K image upscaling, with an open-source local MCP server for EXIF/DPI inspection and integer pixel-art scaling. | [URL](https://enhancephoto.org/) <br> [GitHub](https://github.com/yangjwlove-dev/enhancephoto-mcp) | Free/Paid |
 | remove.bg |Remove Image Background|[URL](https://www.remove.bg/)|Free/Paid|
 | clipdrop | clipdrop (owned by Jasper since Feb 2024, previously Stability AI). Has many AI image processing tools, now powered by Stability AI image models (the exact version is not published), including uncrop, reimage, and stable doodle. | [URL](https://clipdrop.co/) | Free/Paid |
 | Skybox AI | Generate 360-degree panoramic images using text prompts | [URL](https://www.blockadelabs.com/)| Free/Paid|
