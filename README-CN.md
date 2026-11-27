@@ -574,6 +574,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | --- | --- | --- | --- |
 | SynthID Detector | Google DeepMind 官方的 AI 媒体验证门户——2026 年 10 月与 OpenAI、NVIDIA、Kakao 组成跨厂商内容溯源联盟（Apple 即将加入）。上传图像、音频、视频或文本即可检测 SynthID 隐形水印，部分匹配时标出水印区域。水印直接嵌入像素/声波而非文件元数据，可经受截图、压缩与裁剪。仅检测带水印的内容，非通用 AI 检测器。免费，全球英文界面可用。 | [URL](https://synthid.com/) | 免费 |
 | Content Credentials Verify | Content Authenticity Initiative 提供的免费 C2PA 内容溯源检查工具。可查看媒体文件附带的已签名内容凭证，包括可用的创作者、生成或编辑工具、编辑记录和 AI 生成声明，并检查凭证的验证情况。结果取决于文件是否包含相应凭证：没有凭证无法判断内容由人还是 AI 生成，凭证有效也不代表画面或叙述真实。 | [检查工具](https://verify.contentauthenticity.org/)<br>[原理说明](https://contentauthenticity.org/how-it-works) | 免费 |
+| SlopTotal | 开源 AI 文本检测器，可用 Docker 自托管。同时运行 23 个开源检测引擎（神经分类器、Binoculars 与 Fast-DetectGPT 等零样本方法、统计检验），在一个校准后的总分旁列出每个引擎的判断，结论可以逐项核对。支持文本、网址、PDF 与 Word 文件；CPU 即可运行，内容不离开本机。准确率与误报率在公开基准上发布，失效场景也一并列出。 | [GitHub](https://github.com/pablocaeg/sloptotal)<br>![GitHub Repo stars](https://img.shields.io/github/stars/pablocaeg/sloptotal?style=social)<br>[官网/Demo](https://sloptotal.com) | 免费（MIT） |
 
 ### 人形机器人
 | 名称 | 说明 | 链接 | 费用 |
