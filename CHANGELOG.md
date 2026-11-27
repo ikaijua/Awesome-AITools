@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added SaaSCity Directory Submission Skill (MIT cross-agent launch audit & directory submission skill + keyless MCP) to Agent Skills
 - Added vLLM to LLM Inference & Deployment, plus EN/CN deep-dive discussions
 - Added SGLang to LLM Inference & Deployment, plus EN/CN deep-dive discussions
 - Added AlphaSift to AI Finance & Quant Investment

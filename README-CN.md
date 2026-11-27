@@ -305,6 +305,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
+| SaaSCity Directory Submission Skill | 开源（MIT）跨智能体 `SKILL.md` 工具包与免密钥远程 Streamable HTTP MCP 服务器，面向独立开发者和 SaaS/AI 产品发布场景：支持 16 项静态 HTML 上线前检查、按 Ahrefs DR/外链类型/价格筛选 1,600+ 导航站与发布平台，以及上线后实时外链核验。支持 Claude Code、Cursor、Codex、Windsurf 和 Gemini CLI。 | [GitHub](https://github.com/best-directories/directory-submission-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/best-directories/directory-submission-skill?style=social), [官网](https://saascity.io/agent-directory-submission-skill), [MCP 文档](https://saascity.io/mcp) | 免费/付费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
