@@ -6,3 +6,5 @@
   - [ ] Standout user cases (named customers or shipped production projects)
 - [ ] **Popularity & traction** - Provide:
   - [ ] Monthly active users / total user count / download numbers
+- [ ] **Target users** - Who is this tool for? Name the main user groups and typical use cases.
+- [ ] **Pricing** - State the current pricing and free-plan limits, with a link to the official pricing page.

@@ -16,6 +16,7 @@ This repo collects awesome AI tools. Welcome everyone to recommend more awesome 
 
 <a href="https://www.buymeacoffee.com/ikaijuaawesomeaitools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+- [Free AI Allowances (Deals & Free Tiers)](https://github.com/ikaijua/Awesome-AITools/discussions/1617)
 - [AI News](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22ai%E2%80%91news%E2%80%91en%22)
 - [Become Sponsors](#become-sponsors)
 
@@ -25,6 +26,35 @@ A huge thank you to our sponsors! Want to appear here? [Contact us](#become-spon
 
 <details open>
 <summary>Click to collapse</summary>
+
+<br>
+
+Zapply is a job-application platform with an autofill Chrome extension, a dedicated job board, multiple resume profiles, and application tracking.
+
+[![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua)
+
+Explore Zapply's website and check out:
+
+- Our Chrome extension, which autofills job applications in seconds.
+
+- A dedicated job board featuring the latest openings across various roles.
+
+- User accounts with multiple profiles for different resume types and roles.
+
+- Job application tracking with streaks and commitment awards.
+
+Experience an advanced career journey with us! 🚀
+
+<p align="center">
+
+<a href="https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua">
+
+<img src="get-started-button.png" alt="Visit Zapply" width="700">
+
+</a> </p>
+
+<p align="right"><sub>Sponsored by Zapply</sub></p>
+
 <br>
 <table>
   <tr>
@@ -138,7 +168,7 @@ API prices in USD per million input tokens; output free. Checked 2026-11-15; see
 | Claude Code | 🌟 Anthropic's AI agent for code, file, and terminal tasks. Available in the terminal CLI, VS Code/Cursor/JetBrains IDE plugins, desktop app, and web.<br>Built on the Claude model family, it offers long-context codebase understanding, multi-file editing, shell command execution, MCP extensions, skills/hooks/subagents, CLAUDE.md project rules, and automatic memory. Supports Remote Control to continue local sessions from your phone or browser. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1093) [Comparison](https://github.com/ikaijua/Awesome-AITools/discussions/1116) | [GitHub](https://github.com/anthropics/claude-code)<br> ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social) | Free/Paid |
 | Codex | 🌟 OpenAI's open-source (Apache-2.0) AI agent with a terminal interface, written in Rust. Supports the terminal CLI, VS Code/Cursor/Windsurf IDE extensions, Codex App/desktop app, and Codex Web cloud tasks.<br>It can understand and modify code directly, with kernel-level sandboxing, MCP, skills/plugins/hooks, subagents, and Remote SSH. Active sessions sync across phone/desktop/web via the ChatGPT relay. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1080) [Comparison](https://github.com/ikaijua/Awesome-AITools/discussions/1116) | [GitHub](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social) | Free/Paid |
 | Kimi Code | 🌟 Moonshot AI's AI agent CLI that runs in your terminal — stands out with native video input and first-class Chinese-language support.<br>Reads and edits code, runs shell commands, searches files, fetches web pages, and plans next steps based on feedback. Supports AI-native MCP configuration, subagents, lifecycle hooks, and ACP editor integration (Zed, JetBrains). [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/976) [Comparison](https://github.com/ikaijua/Awesome-AITools/discussions/1116) | [GitHub](https://github.com/MoonshotAI/kimi-code) ![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=social) | Free |
-| OpenCode | Open-source terminal-native AI agent. Provider-agnostic (Anthropic, OpenAI, Google, local models), with a TUI client/server architecture, LSP integration, and support for custom agents and MCP servers. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1439) | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | Free |
+| OpenCode | Open-source AI coding agent with desktop, terminal, mobile and SDK clients. Provider-agnostic — 200+ model providers via Models.dev, including local models; brings free models with no account, parallel sessions, custom agents, skills, plugins and MCP servers. Also offers **OpenCode Go**, a low-cost curated-model subscription usable from other coding agents via API. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1439) | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | Free/Paid |
 | oh-my-pi | Fork of Pi by @can1357. A terminal-native AI agent with the IDE wired in: LSP, DAP debugging, Python/Bun code execution, 40+ providers, and 32 built-in tools. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1443) | [GitHub](https://github.com/can1357/oh-my-pi) ![GitHub Repo stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=social) | Free |
 | mu | Open-source (MIT) AI agent built on Pi, with a CLI and a desktop app for macOS, Windows and Linux (the app is based on AionUi, Apache-2.0). It adds a judgment kernel: at more than 30 decision points a small, fast judge model (Jev by default; a local 322M judge, a classifier or any LLM can take a point instead) makes the routine calls, such as which chunks of a long tool output enter the context, whether a rule-flagged command was asked for, and whether a fetched page or MCP result carries instructions aimed at the model, so the main model keeps its attention for the work. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1445) | [GitHub](https://github.com/qybaihe/mu) ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social) | Free |
 | Manus | 🌱 An action engine that goes beyond answering questions to executing tasks and automating workflows.<br>Rebuilt Manus 2.0 (Cascade framework, always-on cloud computer) plus the Cue personal agent shipped Sep 28, 2026. [More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1102) | [URL](https://manus.im/) | Free Trial/Paid |
@@ -335,6 +365,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | yfinance | Open-source Python library for accessing Yahoo Finance data. Provides stock, ETF, and crypto historical prices without API key. Essential data source for AI-powered quantitative trading and financial analysis. | [GitHub](https://github.com/ranaroussi/yfinance) ![GitHub Repo stars](https://img.shields.io/github/stars/ranaroussi/yfinance?style=social) | Free |
 | OpenBB | Open-source investment research platform that integrates multiple financial data sources (Yahoo Finance, Alpha Vantage, etc.) with unified API. Features built-in MCP server for AI agent integration, enabling Claude and other LLMs to query financial data directly. | [GitHub](https://github.com/openbq-org/OpenBB) ![GitHub Repo stars](https://img.shields.io/github/stars/openbq-org/OpenBB?style=social) | Free |
 | Fincept Terminal | Native C++20 financial terminal (Qt6 + embedded Python), AGPL-3.0 and free for personal/study/academic use, with the commercial Enterprise edition at $15/$30/$45 per user per month with 100+ data connectors, 37 AI agents for trading/investing/economic/geopolitics analysis, multi-asset analytics, real-time trading across 16 brokers, and MCP workflow integration.<br>Note: public version moved to monthly updates in June 2026 as team focuses on private edition. | [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) ![GitHub Repo stars](https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=social) | Free/Paid |
+| AlphaSift | Open-source cross-market stock screening CLI, STDIO MCP server, and verifiable T+N paper track-record engine covering CN, US, HK, JP, KR, TW, and IN equities. Combines deterministic YAML factor filters and industry caps with optional LLM re-ranking (hard-capped <=35 on unresolved red flags) and zero-snooping H1->H2 Walk-Forward chart-pattern audits. Research & screening benchmark only — no live broker execution, and unfiltered classic patterns remain in observation until statistically validated. | [GitHub](https://github.com/ZhuLinsen/alphasift) ![GitHub Repo stars](https://img.shields.io/github/stars/ZhuLinsen/alphasift?style=social) <br> [Live Dashboard](https://alphasift.zhulinsen.tech/) | Free |
 
 ### AI Image Creation and UI Design
 | Name | Description | Links | Fees |
@@ -380,6 +411,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | OpenMontage | Open-source agentic video production system. Turns AI coding assistants into a full video studio with 12 pipelines (explainer, animation, documentary montage, etc.), 100+ tools, provider scoring, budget governance, and quality gates. Works with Claude Code, Cursor, Codex, Windsurf, and Copilot. | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | Free/Paid |
 | VideoLingo | All-in-one video translation and localization dubbing tool: one-click Netflix-grade subtitles plus high-quality cloned voice dubbing. | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | Free |
 | OpenShorts | Open-source app that turns long videos into vertical short clips: faster-whisper transcription, LLM-based clip selection, face-tracking 9:16 reframing, animated captions, and split-screen layouts. Self-hosted with Docker (supports local LLMs via an OpenAI-compatible endpoint such as Ollama) or used as a hosted service. Also provides a REST API, MCP server, and CLI. | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | Free/Paid |
+| explainroo | Open-source (MIT) video tool for coding agents. You ask Claude Code or Codex for an explainer or a product demo. The agent writes the script and draws the scenes, and explainroo renders a narrated MP4 on your own computer with a local voice (Kokoro) and word timing (Whisper). It needs no account or API key, narrates in several languages including Mandarin, and can record your real app for demos. | [GitHub](https://github.com/vincentsch/explainroo) ![GitHub Repo stars](https://img.shields.io/github/stars/vincentsch/explainroo?style=social), [URL](https://www.explainroo.com/) | Free |
 | Mago Studio | Open-source, local-first AI video editor. **Mago Director** takes you from script to a whole series: cast characters, locations and props once, then build a shot list and storyboards. Every shot across every episode keeps the same look. **Mago Transform** restyles existing footage frame-accurately, with masks, relighting and character replacement. Renders free on your own GPU through ComfyUI, with optional paid Mago Cloud models. | [GitHub](https://github.com/MagoStudio/MagoStudio) ![GitHub Repo stars](https://img.shields.io/github/stars/MagoStudio/MagoStudio?style=social), [URL](https://mago.studio) | Free/Paid |
 
 ### AI Infrastructure Platform
@@ -409,6 +441,8 @@ Store and retrieve historical memory, and build context from codebases and knowl
 ### LLM Inference & Deployment
 | Name | Description | Links | Fees |
 | --- | --- | --- | --- |
+| 🌟 vLLM | High-throughput, memory-efficient open-source LLM inference and serving engine originally developed at UC Berkeley's Sky Computing Lab and now community-maintained by 2000+ contributors. PagedAttention KV-cache management, continuous batching, chunked prefill and prefix caching; OpenAI-compatible API (plus Anthropic Messages API and gRPC), structured output, tool calling, tensor/pipeline/expert parallelism, speculative decoding and wide quantization support. Serves 200+ Hugging Face model architectures (LLMs, MoE, multimodal, embedding, reward) on NVIDIA/AMD GPUs and accelerator plugins including TPU, Intel Gaudi, Huawei Ascend and Apple Silicon. Apache-2.0, free to self-host.<br>[More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1770) | [GitHub](https://github.com/vllm-project/vllm) ![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social) | Free |
+| SGLang | Open-source, high-performance serving framework for large language and multimodal models, hosted by the non-profit LMSYS. Built for production inference from a single GPU to large clusters — RadixAttention prefix caching, zero-overhead scheduler, structured output, speculative decoding and Prefill/Decode disaggregation; OpenAI-compatible API so existing clients work unchanged. Broad hardware support (NVIDIA, AMD, TPU, Apple Silicon, Ascend, Moore Threads); SGLang Diffusion adds image/video/audio generation in the same package. Apache-2.0, free to self-host.<br>[More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1767) | [GitHub](https://github.com/sgl-project/sglang) ![GitHub Repo stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social) | Free |
 | DeepInfer | 🌱 DeepSeek's open-source, production-grade inference framework that powers DeepSeek-V4.1-Flash at scale — high throughput and low latency, integrating DeepSeek's optimized kernels (FlashMLA, DeepGEMM, DeepEP, TileLang) with DSpark speculative decoding, SWA bounded replay, async scheduling, batch-invariant/deterministic sampling, and structured outputs. Runs on NVIDIA SM100 (Blackwell) and Huawei Ascend 950. Early release: offline inference only — a full KV cache and Prefill/Decode disaggregation are not yet packaged, and only DeepSeek-V4.1-Flash is supported. Apache-2.0, free to self-host.<br>[More Info](https://github.com/ikaijua/Awesome-AITools/discussions/1375) | [GitHub](https://github.com/deepseek-ai/DeepInfer) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepInfer?style=social) | Free |
 | DwarfStar (ds4) | antirez's (creator of Redis) from-scratch native inference engine in C (MIT) — built to run a few near-frontier open models on consumer hardware: DeepSeek V4/4.1 Flash, V4 Pro, GLM 5.2/5.3 and Qwen3.8 Flash Next fit on a 96GB Mac or one 96GB NVIDIA GPU via aggressive 2-bit routed quantization. Serves OpenAI- and Anthropic-compatible APIs, so Claude Code, Codex, opencode and Zed can point at localhost; includes a built-in coding agent, on-disk KV cache, and layer-splitting across machines for models too big for one box. Not a general GGUF loader — only its supported models. | [GitHub](https://github.com/antirez/ds4) ![GitHub Repo stars](https://img.shields.io/github/stars/antirez/ds4?style=social) | Free |
 | AirLLM | A Python library that reduces LLM inference memory usage by loading one layer at a time, enabling 70B models on 4GB GPUs, 405B on 8GB, and 671B DeepSeek-V3 on ~12GB. Supports 4-bit/8-bit quantization and a wide range of open models via a single AutoModel interface. | [GitHub](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | Free |

@@ -13,6 +13,7 @@
 
 这个仓库收集整理AI相关的实用工具，欢迎大家一起推荐更多实用的AI工具，[贡献指南](CONTRIBUTING-CN.md)
 
+- [薅羊毛指南（免费额度/优惠）](https://github.com/ikaijua/Awesome-AITools/discussions/1616)
 - [AI新闻动态](https://github.com/ikaijua/Awesome-AITools/discussions?discussions_q=is%3Aopen+label%3A%22AI+news%22)
 - [赞助项目/赞赏支持](#赞助项目-赞赏支持)
 
@@ -24,6 +25,27 @@
 
 <details open>
 <summary>点击折叠</summary>
+
+<br>
+
+Zapply 是一个求职申请平台，提供自动填写申请的 Chrome 扩展、职位信息、多份简历档案和申请进度跟踪。
+
+[![使用 Zapply 快速申请职位](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua)
+
+Zapply 提供：
+
+- Chrome 扩展，帮助快速自动填写职位申请。
+- 专属职位页面，展示不同岗位的最新招聘信息。
+- 多份个人档案，适用于不同简历和求职岗位。
+- 求职申请跟踪，以及连续申请记录和坚持奖励。
+
+<p align="center">
+<a href="https://app.zapply.jobs/onboarding/?ref=github-cta-ikaijua">
+<img src="get-started-button.png" alt="访问 Zapply" width="700">
+</a> </p>
+
+<p align="right"><sub>由 Zapply 赞助</sub></p>
+
 <br>
 <table>
   <tr>
@@ -143,7 +165,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Codex | 🌟 OpenAI 推出的开源（Apache-2.0）终端 AI 智能体，使用 Rust 编写。支持终端 CLI、VS Code/Cursor/Windsurf 等 IDE 扩展、Codex App/桌面体验及 Codex Web 云端任务；<br>可直接理解并修改代码，内置内核级沙箱、MCP、Skills/Plugins/Hooks、子代理，通过 ChatGPT relay 在手机/桌面/Web 之间同步活跃会话，并支持 Remote SSH 连接远程环境。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1079) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/openai/codex) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex?style=social) | 免费/付费 |
 | WorkBuddy | 🌟 腾讯推出的全场景 AI 智能体桌面工作台（“腾讯龙虾”）。支持自然语言派活，自主规划并操作本地文件、Office、文件夹完成复杂办公任务；可接入微信、企业微信、QQ、飞书、钉钉，数据支持本地运算。<br>免费版每月赠送 500 积分（新用户另有额外赠送额度），轻度使用完全够用。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1073) | [URL](https://www.workbuddy.cn/events/invite?inviteCode=1fd88lsfd5oq5i) | 免费/付费 |
 | Kimi Code | 🌟 月之暗面推出的 AI 智能体 CLI，在终端中运行。<br>可读取和编辑代码、执行 shell 命令、搜索文件、抓取网页，并根据反馈规划下一步。支持视频输入、AI 原生 MCP 配置、子代理、生命周期钩子以及 ACP 编辑器集成（Zed、JetBrains）。[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/975) [对比](https://github.com/ikaijua/Awesome-AITools/discussions/1117) | [GitHub](https://github.com/MoonshotAI/kimi-code) ![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=social) | 免费 |
-| OpenCode | 开源的终端原生 AI 智能体。不绑定特定厂商（支持 Anthropic、OpenAI、Google 及本地模型），采用 TUI 客户端/服务端架构，集成 LSP，支持自定义 agent 和 MCP 服务器。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1438) | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | 免费 |
+| OpenCode | 开源 AI 编程智能体，提供桌面、终端、手机与 SDK 四种客户端。不绑定厂商——通过 Models.dev 接入 200+ 模型供应商及本地模型，自带免账户可用的免费模型，支持并行会话、自定义 agent、技能、插件与 MCP 服务器。另提供低价精选模型订阅 **OpenCode Go**，可通过 API 供其它编程智能体调用。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1438) | [URL](https://opencode.ai) [GitHub](https://github.com/anomalyco/opencode) ![GitHub Repo stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social) | 免费/付费 |
 | oh-my-pi | @can1357 维护的 Pi fork。终端原生 AI 智能体，深度集成 IDE 能力：LSP、DAP 调试器、Python/Bun 代码执行、40+ 模型提供商和 32 个内置工具。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1442) | [GitHub](https://github.com/can1357/oh-my-pi) ![GitHub Repo stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=social) | 免费 |
 | mu | 基于 Pi 的开源（MIT）AI 智能体，提供命令行和桌面端（macOS、Windows、Linux；桌面端基于 AionUi，Apache-2.0）。特点是一个判定内核：30 多个决策点上的例行判断交给小而快的判定模型（默认 Jev，也可换成本地 322M 判定模型、分类模型或任意 LLM），比如长工具输出里哪些片段进上下文、被规则拦下的命令是不是用户要的、抓取的网页和 MCP 结果里有没有冲着模型的指令，让主模型专心干活；每次判断都记在本地。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1444) | [GitHub](https://github.com/qybaihe/mu) ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social) | 免费 |
 | Manus | 🌱 Manus 是一款行动引擎——不仅提供答案，还能执行任务、自动化工作流程。2026 年 9 月发布全架构重构的 Manus 2.0（Cascade 框架、常驻云电脑）及个人智能体应用 Cue。 [更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1113) | [URL](https://manus.im/) | 免费试用/付费 |
@@ -348,6 +370,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | OpenBB | 开源投资研究平台，整合多个金融数据源（Yahoo Finance、Alpha Vantage 等）提供统一 API。内置 MCP 服务器支持 AI 智能体集成，让 Claude 等大语言模型可直接查询金融数据。 | [GitHub](https://github.com/openbq-org/OpenBB) ![GitHub Repo stars](https://img.shields.io/github/stars/openbq-org/OpenBB?style=social) | 免费 |
 | AkShare | 开源的 Python 金融数据库，提供股票、期货、期权等金融数据接口。主要覆盖中国市场，是 AI 量化交易和金融分析的重要数据源。 | [GitHub](https://github.com/akfamily/akshare) ![GitHub Repo stars](https://img.shields.io/github/stars/akfamily/akshare?style=social) | 免费 |
 | Fincept Terminal | 基于 C++20 + Qt6 的原生金融终端（内嵌 Python）：AGPL-3.0 开源、个人与学术免费，商业版 $15–$45/人/月；集成 100+ 数据源、37 个交易/投资/经济/地缘 AI Agent、多资产量化分析与 MCP 工作流。注意：公开版自 2026 年 6 月起改为每月更新。 | [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) ![GitHub Repo stars](https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=social) | 免费/付费 |
+| AlphaSift | 开源跨市场股票筛选 CLI、零依赖 STDIO MCP 服务与公开 T+N 纸面战绩验证引擎，覆盖 A 股、美、港、日、韩、台、印 7 大市场。将确定性 YAML 因子过滤与行业上限、可选 AI 复核（未消除重大利空在代码层强行封顶 ≤35 分）及零前视 H1→H2 Walk-Forward K 线形态样本外实证相结合。定位为开源投研与量化基准工具，不接实盘下单，未过统计门槛的经典形态保持观察期披露。 | [GitHub](https://github.com/ZhuLinsen/alphasift) ![GitHub Repo stars](https://img.shields.io/github/stars/ZhuLinsen/alphasift?style=social) <br> [公开看板](https://alphasift.zhulinsen.tech/?lang=zh) | 免费 |
 
 ### AI 图像创作与 UI 设计
 | 名称 | 说明 | 链接 | 费用 |
@@ -398,6 +421,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | OpenMontage | 开源的 Agentic 视频制作系统。将 AI 编程助手变成完整的视频工作室，提供 12 种制作流程（讲解视频、动画、纪录片蒙太奇等）、100+ 工具、提供商评分、预算治理和质量关卡。支持 Claude Code、Cursor、Codex、Windsurf 和 Copilot。 | [GitHub](https://github.com/calesthio/OpenMontage) ![GitHub Repo stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=social) | 免费/付费 |
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 | OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
+| explainroo | 开源（MIT）的视频工具，专为编程智能体设计。让 Claude Code 或 Codex 制作讲解视频或产品演示：智能体编写脚本、绘制画面，explainroo 在你自己的电脑上用本地语音（Kokoro）和逐词时间轴（Whisper）渲染出带旁白的 MP4。无需账号或 API Key，支持中文旁白，还能录制真实应用用于产品演示。 | [GitHub](https://github.com/vincentsch/explainroo) ![GitHub Repo stars](https://img.shields.io/github/stars/vincentsch/explainroo?style=social), [URL](https://www.explainroo.com/) | 免费 |
 | Mago Studio | 开源、本地优先的 AI 视频编辑器。**Mago Director** 从剧本到整部剧集：角色、场景和道具只需设定一次，再生成镜头列表和分镜，所有剧集的每个镜头都保持同样的风格。**Mago Transform** 对视频素材重新风格化，帧级精准，支持蒙版局部编辑、重新打光和替换角色。通过 ComfyUI 在你自己的 GPU 上免费渲染，也可使用付费的 Mago Cloud 云端模型。 | [GitHub](https://github.com/MagoStudio/MagoStudio) ![GitHub Repo stars](https://img.shields.io/github/stars/MagoStudio/MagoStudio?style=social), [URL](https://mago.studio) | 免费/付费 |
 
 ### AI基础设施平台
@@ -427,6 +451,8 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 ### LLM 推理与部署
 | 名称 | 说明 | 链接 | 费用 |
 | --- | --- | --- | --- |
+| 🌟 vLLM | 开源高吞吐、显存高效的大模型推理与服务引擎，最初由加州大学伯克利分校 Sky Computing Lab 开发，现由 2000+ 贡献者的社区共同维护。核心技术 PagedAttention 高效管理 KV 缓存，配合连续批处理、分块预填充与前缀缓存；提供 OpenAI 兼容 API（另支持 Anthropic Messages API 与 gRPC）、结构化输出、工具调用、张量/流水线/专家并行、投机解码及广泛量化支持。支持 Hugging Face 上 200+ 种模型架构（LLM、MoE、多模态、嵌入、奖励模型），硬件覆盖 NVIDIA/AMD GPU，并可通过插件支持 TPU、Intel Gaudi、华为昇腾与 Apple Silicon。Apache-2.0，免费自托管。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1771) | [GitHub](https://github.com/vllm-project/vllm) ![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social) | 免费 |
+| SGLang | LMSYS（非营利开源组织，Chatbot Arena 团队）主导的开源高性能推理与服务框架，面向生产级部署，从单卡到大规模集群皆可。核心能力包括 RadixAttention 前缀缓存、零开销调度器、结构化输出、投机解码与 Prefill/Decode 分离；提供 OpenAI 兼容 API，现有客户端改地址即可接入。硬件覆盖 NVIDIA、AMD、TPU、Apple Silicon、昇腾、摩尔线程；SGLang Diffusion 在同一包内支持图像/视频/音频生成。Apache-2.0，免费自托管。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1768) | [GitHub](https://github.com/sgl-project/sglang) ![GitHub Repo stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social) | 免费 |
 | DeepInfer | 🌱 DeepSeek 开源的生产级推理框架，也是驱动 DeepSeek 线上大规模服务的底层引擎——支撑 DeepSeek-V4.1-Flash 高吞吐、低延迟推理。集成 FlashMLA / DeepGEMM / DeepEP / TileLang 等自研算子，具备 DSpark 推测解码、SWA 有界重放、异步调度、批次不变/确定性采样与结构化输出。支持 NVIDIA SM100（Blackwell）与华为昇腾 950。早期版本：当前仅离线推理，完整 KV cache 与 Prefill/Decode 分离尚未打包，且仅支持 DeepSeek-V4.1-Flash 一个模型。Apache-2.0，可免费自托管。<br>[更多介绍](https://github.com/ikaijua/Awesome-AITools/discussions/1374) | [GitHub](https://github.com/deepseek-ai/DeepInfer) ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepInfer?style=social) | 免费 |
 | DwarfStar (ds4) | antirez（Redis 作者）从零用 C 编写的原生推理引擎（MIT）——目标是在消费级硬件上运行少量接近前沿的开源模型：DeepSeek V4/4.1 Flash、V4 Pro、GLM 5.2/5.3 与 Qwen3.8 Flash Next 可装进 96GB 内存的 Mac 或单张 96GB NVIDIA 显卡（激进 2-bit 路由量化）。提供 OpenAI 与 Anthropic 兼容 API，Claude Code、Codex、opencode、Zed 直接指向本地即可免 API 费用跑近前沿模型；内置编程智能体与磁盘 KV 缓存，支持跨机器分层拆分运行放不下的模型。非通用 GGUF 加载器，仅支持其适配的模型。 | [GitHub](https://github.com/antirez/ds4) ![GitHub Repo stars](https://img.shields.io/github/stars/antirez/ds4?style=social) | 免费 |
 | AirLLM | 通过逐层加载大幅降低大语言模型推理显存占用的 Python 库，可在 4GB 显存上运行 70B 模型、8GB 上运行 405B 模型、约 12GB 上运行 671B 的 DeepSeek-V3。支持 4 位/8 位量化，并通过统一的 AutoModel 接口支持众多开源模型。 | [GitHub](https://github.com/lyogavin/airllm) ![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social) | 免费 |

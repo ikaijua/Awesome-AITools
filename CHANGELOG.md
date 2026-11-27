@@ -3,7 +3,9 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
-- Added Mago Studio to Video Creation
+- Added vLLM to LLM Inference & Deployment, plus EN/CN deep-dive discussions
+- Added SGLang to LLM Inference & Deployment, plus EN/CN deep-dive discussions
+- Added AlphaSift to AI Finance & Quant Investment
 - Added Gemini Decisions API and clarified decision-model pricing, free allowances, and local compute costs
 - Updated Qwen to distinguish Qwen4-Max preview access from the open-weight model family
 - Updated Claude to the Fable 5.2 / Mythos 5.2 flagship (Nov 9, 2026)
@@ -14,6 +16,8 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
 - Added Firecrawl (open-source context API for AI agents) to Browser & Computer Automation
+- Added explainroo (open-source video tool for coding agents) to Video Creation
+- Added Mago Studio to Video Creation
 
 ## October 2026
 - Updated Gemini entry to add Gemini 4 Carbon (Oct 28, 2026) — Google's strongest model, focused on cybersecurity and long-horizon agentic work, #1 on the Artificial Analysis Intelligence Index v5.0; gated rollout via Fairwind to cyber defenders first, with Argon remaining the broadly available flagship
