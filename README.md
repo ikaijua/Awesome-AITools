@@ -471,6 +471,7 @@ Store and retrieve historical memory, and build context from codebases and knowl
 | buzz | Open-source offline transcription and translation app for Windows, macOS (Apple Silicon), and Linux. Transcribes audio/video files, YouTube links, and live microphone input; supports GPU acceleration through multiple Whisper backends, speaker identification, and TXT/SRT/VTT export. Includes a transcript viewer and watch-folder automation. | [GitHub](https://github.com/chidiwilliams/buzz) ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social) | Free |
 | whisperX | WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)| [whisperX](https://github.com/m-bain/whisperX) ![GitHub Repo stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social) |Free|
 | whisper-ctranslate2 | Free, open-source local transcription CLI powered by faster-whisper/CTranslate2. Compatible with OpenAI Whisper CLI workflows; adds batched inference, live microphone transcription, subtitle export, and optional speaker diarization. Basic transcription does not require PyTorch. | [GitHub](https://github.com/Softcatala/whisper-ctranslate2) ![GitHub Repo stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=social) | Free |
+| AIAC MP3 to Text | Free browser-local speech-to-text and audio transcription powered by Whisper on WebGPU/WebAssembly with zero file uploads, supporting SRT/VTT/TXT export directly in the browser tab. | [URL](https://aiac.app/mp3-to-text/) | Free |
 
 ### Text to Speech (TTS)
 
