@@ -370,6 +370,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | OpenBB | 开源投资研究平台，整合多个金融数据源（Yahoo Finance、Alpha Vantage 等）提供统一 API。内置 MCP 服务器支持 AI 智能体集成，让 Claude 等大语言模型可直接查询金融数据。 | [GitHub](https://github.com/openbq-org/OpenBB) ![GitHub Repo stars](https://img.shields.io/github/stars/openbq-org/OpenBB?style=social) | 免费 |
 | AkShare | 开源的 Python 金融数据库，提供股票、期货、期权等金融数据接口。主要覆盖中国市场，是 AI 量化交易和金融分析的重要数据源。 | [GitHub](https://github.com/akfamily/akshare) ![GitHub Repo stars](https://img.shields.io/github/stars/akfamily/akshare?style=social) | 免费 |
 | Fincept Terminal | 基于 C++20 + Qt6 的原生金融终端（内嵌 Python）：AGPL-3.0 开源、个人与学术免费，商业版 $15–$45/人/月；集成 100+ 数据源、37 个交易/投资/经济/地缘 AI Agent、多资产量化分析与 MCP 工作流。注意：公开版自 2026 年 6 月起改为每月更新。 | [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) ![GitHub Repo stars](https://img.shields.io/github/stars/Fincept-Corporation/FinceptTerminal?style=social) | 免费/付费 |
+| AlphaSift | 开源跨市场股票筛选 CLI、零依赖 STDIO MCP 服务与公开 T+N 纸面战绩验证引擎，覆盖 A 股、美、港、日、韩、台、印 7 大市场。将确定性 YAML 因子过滤与行业上限、可选 AI 复核（未消除重大利空在代码层强行封顶 ≤35 分）及零前视 H1→H2 Walk-Forward K 线形态样本外实证相结合。定位为开源投研与量化基准工具，不接实盘下单，未过统计门槛的经典形态保持观察期披露。 | [GitHub](https://github.com/ZhuLinsen/alphasift) ![GitHub Repo stars](https://img.shields.io/github/stars/ZhuLinsen/alphasift?style=social) <br> [公开看板](https://alphasift.zhulinsen.tech/?lang=zh) | 免费 |
 
 ### AI 图像创作与 UI 设计
 | 名称 | 说明 | 链接 | 费用 |
