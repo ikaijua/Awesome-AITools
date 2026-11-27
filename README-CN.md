@@ -422,6 +422,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 | OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
 | explainroo | 开源（MIT）的视频工具，专为编程智能体设计。让 Claude Code 或 Codex 制作讲解视频或产品演示：智能体编写脚本、绘制画面，explainroo 在你自己的电脑上用本地语音（Kokoro）和逐词时间轴（Whisper）渲染出带旁白的 MP4。无需账号或 API Key，支持中文旁白，还能录制真实应用用于产品演示。 | [GitHub](https://github.com/vincentsch/explainroo) ![GitHub Repo stars](https://img.shields.io/github/stars/vincentsch/explainroo?style=social), [URL](https://www.explainroo.com/) | 免费 |
+| Mago Studio | 开源、本地优先的 AI 视频编辑器。**Mago Director** 从剧本到整部剧集：角色、场景和道具只需设定一次，再生成镜头列表和分镜，所有剧集的每个镜头都保持同样的风格。**Mago Transform** 对视频素材重新风格化，帧级精准，支持蒙版局部编辑、重新打光和替换角色。通过 ComfyUI 在你自己的 GPU 上免费渲染，也可使用付费的 Mago Cloud 云端模型。 | [GitHub](https://github.com/MagoStudio/MagoStudio) ![GitHub Repo stars](https://img.shields.io/github/stars/MagoStudio/MagoStudio?style=social), [URL](https://mago.studio) | 免费/付费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
