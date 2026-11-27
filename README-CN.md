@@ -304,6 +304,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | Superpowers | 面向编码代理的完整软件开发方法论，基于可组合技能构建。支持跨 Claude Code、Codex、Cursor、Kimi Code、OpenCode、Antigravity、GitHub Copilot CLI 和 Pi 强制执行规格驱动设计、TDD、系统调试、代码审查和子代理驱动开发。 | [GitHub](https://github.com/obra/superpowers) ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) | 免费 |
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
+| Nexscope | 面向电商调研的开源 Agent Skills，并提供托管 MCP/API，覆盖亚马逊及其他公开市场的商品、关键词、评论与销量估算研究。供 AI 智能体使用；不连接卖家自己的店铺账号，也不代下广告或订单。兼容 Claude Code、Cursor 及其他 MCP/技能宿主。 | [网站](https://www.nexscope.ai/?co-from=awesome-aitools) [GitHub](https://github.com/nexscope-ai/eCommerce-Skills) ![GitHub Repo stars](https://img.shields.io/github/stars/nexscope-ai/eCommerce-Skills?style=social) | 免费/付费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
 
 ### AI 新闻与资讯
