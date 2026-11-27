@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added SGLang to LLM Inference & Deployment, plus EN/CN deep-dive discussions
 - Added AlphaSift to AI Finance & Quant Investment
 - Added Gemini Decisions API and clarified decision-model pricing, free allowances, and local compute costs
 - Updated Qwen to distinguish Qwen4-Max preview access from the open-weight model family
