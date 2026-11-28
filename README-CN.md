@@ -422,6 +422,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | VideoLingo | 一站式视频翻译本地化配音工具，一键生成 Netflix 级别的高质量字幕，支持高质量克隆配音。 | [GitHub](https://github.com/Huanshere/VideoLingo) ![GitHub Repo stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social) | 免费 |
 | OpenShorts | 开源应用，将长视频自动剪辑为竖屏短视频：faster-whisper 转录、LLM 挑选片段、人脸追踪 9:16 重构图、动态字幕和分屏布局。可通过 Docker 自托管（支持 Ollama 等 OpenAI 兼容的本地 LLM），也可使用托管服务。同时提供 REST API、MCP 服务器和 CLI。 | [Github](https://github.com/mutonby/openshorts) ![GitHub Repo stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social), [URL](https://www.openshorts.app/) | 免费/付费 |
 | explainroo | 开源（MIT）的视频工具，专为编程智能体设计。让 Claude Code 或 Codex 制作讲解视频或产品演示：智能体编写脚本、绘制画面，explainroo 在你自己的电脑上用本地语音（Kokoro）和逐词时间轴（Whisper）渲染出带旁白的 MP4。无需账号或 API Key，支持中文旁白，还能录制真实应用用于产品演示。 | [GitHub](https://github.com/vincentsch/explainroo) ![GitHub Repo stars](https://img.shields.io/github/stars/vincentsch/explainroo?style=social), [URL](https://www.explainroo.com/) | 免费 |
+| SeedVR2 | 基于浏览器运行的扩散模型视频与图像超分修复工具（支持 2K/4K 视频与 2K/4K/8K 图像），面向无本地 24GB+ 显存显卡的创作者与团队。渲染前透明展示每秒积分成本，支持免水印商用、一次性不过期积分包与失败任务自动退分，并提供免登录纯浏览器清晰度检测与云端/RTX 4090 成本计算器。 | [URL](https://seedvr2.net/) | 免费工具/付费 |
 
 ### AI基础设施平台
 | 名称 | 说明 | 链接 | 费用 |
