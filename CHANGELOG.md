@@ -3,6 +3,7 @@
 All notable changes to the Awesome AI Tools list will be documented in this file.
 
 ## November 2026
+- Added Exam Cram Coach (open-source exam-prep tutoring skill) to Agent Skills (both EN/CN)
 - Added vLLM to LLM Inference & Deployment, plus EN/CN deep-dive discussions
 - Added SGLang to LLM Inference & Deployment, plus EN/CN deep-dive discussions
 - Added AlphaSift to AI Finance & Quant Investment
