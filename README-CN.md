@@ -305,6 +305,7 @@ API 价格单位：美元/百万输入 token，输出免费。核对日期：202
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
+| 期末极速备考教练 Exam Cram Coach | 开源的期末复习技能：用学生自己的课件、作业、往年卷和公式表，按考试的给分方式一道一道讲题。每道解答从标出处的初始公式写起，讲完出一道只改一个条件的变形题，再逐行对照得分步骤检查学生的答案；句句标页码，离线运行、不需要 API 密钥，小模型也能用。支持 Claude Code、Codex、Cursor、Gemini CLI 等。 | [GitHub](https://github.com/ZeKaiNie/universal-examprep-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/ZeKaiNie/universal-examprep-skill?style=social) | 免费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
